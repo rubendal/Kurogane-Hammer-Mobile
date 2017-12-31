@@ -1,0 +1,1120 @@
+﻿[
+  {
+    "InstanceId": "598e710f4696590bf023e17a",
+    "Name": "Jab (Hits 1-2)",
+    "OwnerId": 57,
+    "Owner": "Zelda",
+    "HitboxActive": "11, 13",
+    "FirstActionableFrame": "24",
+    "BaseDamage": "3",
+    "Angle": "361/140/140",
+    "BaseKnockBackSetKnockback": "W: 40/40/30",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e710f4696590bf023e17a"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Zelda"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e710f4696590bf023e17b",
+    "Name": "Jab (Hit 3)",
+    "OwnerId": 57,
+    "Owner": "Zelda",
+    "HitboxActive": "15",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "5",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "40",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "95",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e710f4696590bf023e17b"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Zelda"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e710f4696590bf023e17c",
+    "Name": "Dash Attack",
+    "OwnerId": 57,
+    "Owner": "Zelda",
+    "HitboxActive": "6-7",
+    "FirstActionableFrame": "40",
+    "BaseDamage": "12/9",
+    "Angle": "50",
+    "BaseKnockBackSetKnockback": "85/80",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "70/50",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e710f4696590bf023e17c"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Zelda"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e710f4696590bf023e17d",
+    "Name": "Dash Attack (Late)",
+    "OwnerId": 57,
+    "Owner": "Zelda",
+    "HitboxActive": "8-10",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "6",
+    "Angle": "50",
+    "BaseKnockBackSetKnockback": "80",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "50",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e710f4696590bf023e17d"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Zelda"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e710f4696590bf023e17e",
+    "Name": "Ftilt (All Angles)",
+    "OwnerId": 57,
+    "Owner": "Zelda",
+    "HitboxActive": "10",
+    "FirstActionableFrame": "38",
+    "BaseDamage": "12/10/10",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "50",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "88",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e710f4696590bf023e17e"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Zelda"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e710f4696590bf023e17f",
+    "Name": "Utilt",
+    "OwnerId": 57,
+    "Owner": "Zelda",
+    "HitboxActive": "7-18",
+    "FirstActionableFrame": "30",
+    "BaseDamage": "7.2",
+    "Angle": "100",
+    "BaseKnockBackSetKnockback": "45",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "110",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e710f4696590bf023e17f"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Zelda"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e710f4696590bf023e180",
+    "Name": "Dtilt",
+    "OwnerId": 57,
+    "Owner": "Zelda",
+    "HitboxActive": "5-11",
+    "FirstActionableFrame": "25",
+    "BaseDamage": "5.5",
+    "Angle": "80",
+    "BaseKnockBackSetKnockback": "20",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "120",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e710f4696590bf023e180"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Zelda"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e710f4696590bf023e181",
+    "Name": "Fsmash (Hits 1-4)",
+    "OwnerId": 57,
+    "Owner": "Zelda",
+    "HitboxActive": "16, 18, 20, 22",
+    "FirstActionableFrame": "50",
+    "BaseDamage": "1",
+    "Angle": "25/165",
+    "BaseKnockBackSetKnockback": "W: 40/50",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e710f4696590bf023e181"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Zelda"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e710f4696590bf023e182",
+    "Name": "Fsmash (Hit 5)",
+    "OwnerId": 57,
+    "Owner": "Zelda",
+    "HitboxActive": "24",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "13",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "37",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "110",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e710f4696590bf023e182"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Zelda"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e710f4696590bf023e183",
+    "Name": "Usmash (Hits 1-4)",
+    "OwnerId": 57,
+    "Owner": "Zelda",
+    "HitboxActive": "9, 12, 15, 18",
+    "FirstActionableFrame": "64",
+    "BaseDamage": "2",
+    "Angle": "90/366/200/200",
+    "BaseKnockBackSetKnockback": "W: 40",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "105",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e710f4696590bf023e183"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Zelda"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e710f4696590bf023e184",
+    "Name": "Usmash (Hits 5-7)",
+    "OwnerId": 57,
+    "Owner": "Zelda",
+    "HitboxActive": "25, 28, 31",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "0.8",
+    "Angle": "90/366/200/200",
+    "BaseKnockBackSetKnockback": "W: 40",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e710f4696590bf023e184"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Zelda"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e710f4696590bf023e185",
+    "Name": "Usmash (Hit 8)",
+    "OwnerId": 57,
+    "Owner": "Zelda",
+    "HitboxActive": "34",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "5",
+    "Angle": "88",
+    "BaseKnockBackSetKnockback": "24",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "214",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e710f4696590bf023e185"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Zelda"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e710f4696590bf023e186",
+    "Name": "Dsmash (Hit 1)",
+    "OwnerId": 57,
+    "Owner": "Zelda",
+    "HitboxActive": "5-6",
+    "FirstActionableFrame": "38",
+    "BaseDamage": "12",
+    "Angle": "20/361",
+    "BaseKnockBackSetKnockback": "20",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "86",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e710f4696590bf023e186"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Zelda"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e710f4696590bf023e187",
+    "Name": "Dsmash (Hit 2)",
+    "OwnerId": 57,
+    "Owner": "Zelda",
+    "HitboxActive": "13-14",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "10",
+    "Angle": "20/361",
+    "BaseKnockBackSetKnockback": "20",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "96",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e710f4696590bf023e187"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Zelda"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e710f4696590bf023e188",
+    "Name": "Standing Grab",
+    "OwnerId": 57,
+    "Owner": "Zelda",
+    "HitboxActive": "10-11",
+    "FirstActionableFrame": "38",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e710f4696590bf023e188"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Zelda"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e710f4696590bf023e189",
+    "Name": "Dash Grab",
+    "OwnerId": 57,
+    "Owner": "Zelda",
+    "HitboxActive": "11-12",
+    "FirstActionableFrame": "47",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e710f4696590bf023e189"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Zelda"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e710f4696590bf023e18a",
+    "Name": "Pivot Grab",
+    "OwnerId": 57,
+    "Owner": "Zelda",
+    "HitboxActive": "11-12",
+    "FirstActionableFrame": "45",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e710f4696590bf023e18a"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Zelda"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e710f4696590bf023e18b",
+    "Name": "Spotdodge",
+    "OwnerId": 57,
+    "Owner": "Zelda",
+    "HitboxActive": "3-18",
+    "FirstActionableFrame": "28",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e710f4696590bf023e18b"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Zelda"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e710f4696590bf023e18c",
+    "Name": "Forward Roll",
+    "OwnerId": 57,
+    "Owner": "Zelda",
+    "HitboxActive": "4-17",
+    "FirstActionableFrame": "31",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e710f4696590bf023e18c"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Zelda"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e710f4696590bf023e18d",
+    "Name": "Back Roll",
+    "OwnerId": 57,
+    "Owner": "Zelda",
+    "HitboxActive": "4-17",
+    "FirstActionableFrame": "31",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e710f4696590bf023e18d"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Zelda"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e710f4696590bf023e18e",
+    "Name": "Airdodge",
+    "OwnerId": 57,
+    "Owner": "Zelda",
+    "HitboxActive": "3-28",
+    "FirstActionableFrame": "34",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e710f4696590bf023e18e"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Zelda"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e710f4696590bf023e18f",
+    "Name": "Nair (Hits 1-4)",
+    "OwnerId": 57,
+    "Owner": "Zelda",
+    "HitboxActive": "6-7, 10-11, 14-15, 18-19",
+    "FirstActionableFrame": "51",
+    "BaseDamage": "2.5/1.5",
+    "Angle": "366",
+    "BaseKnockBackSetKnockback": "W: 75",
+    "LandingLag": "19",
+    "AutoCancel": "1-3, 38&gt;",
+    "KnockbackGrowth": "100",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e710f4696590bf023e18f"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Zelda"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e710f4696590bf023e190",
+    "Name": "Nair (Hit 5)",
+    "OwnerId": 57,
+    "Owner": "Zelda",
+    "HitboxActive": "22-23",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "5",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "40",
+    "LandingLag": "-",
+    "AutoCancel": "-",
+    "KnockbackGrowth": "130/130/110/110",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e710f4696590bf023e190"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Zelda"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e710f4696590bf023e191",
+    "Name": "Fair",
+    "OwnerId": 57,
+    "Owner": "Zelda",
+    "HitboxActive": "9",
+    "FirstActionableFrame": "53",
+    "BaseDamage": "20/4/4/4",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "24/5/5/5",
+    "LandingLag": "23",
+    "AutoCancel": "1-3, 50&gt;",
+    "KnockbackGrowth": "95/80/80/96",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e710f4696590bf023e191"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Zelda"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e710f4696590bf023e192",
+    "Name": "Fair (Late)",
+    "OwnerId": 57,
+    "Owner": "Zelda",
+    "HitboxActive": "10-13",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "4",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "5",
+    "LandingLag": "-",
+    "AutoCancel": "-",
+    "KnockbackGrowth": "80/80/96",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e710f4696590bf023e192"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Zelda"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e710f4696590bf023e193",
+    "Name": "Bair",
+    "OwnerId": 57,
+    "Owner": "Zelda",
+    "HitboxActive": "6",
+    "FirstActionableFrame": "53",
+    "BaseDamage": "20/4/4/4",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "28/5/5/5",
+    "LandingLag": "25",
+    "AutoCancel": "1-2, 52&gt;",
+    "KnockbackGrowth": "96/80/80/96",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e710f4696590bf023e193"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Zelda"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e710f4696590bf023e194",
+    "Name": "Bair (Late)",
+    "OwnerId": 57,
+    "Owner": "Zelda",
+    "HitboxActive": "7-9",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "4",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "5",
+    "LandingLag": "-",
+    "AutoCancel": "-",
+    "KnockbackGrowth": "80/80/96",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e710f4696590bf023e194"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Zelda"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e710f4696590bf023e195",
+    "Name": "Uair",
+    "OwnerId": 57,
+    "Owner": "Zelda",
+    "HitboxActive": "14-16",
+    "FirstActionableFrame": "55",
+    "BaseDamage": "17",
+    "Angle": "90",
+    "BaseKnockBackSetKnockback": "30",
+    "LandingLag": "19",
+    "AutoCancel": "1-4",
+    "KnockbackGrowth": "84",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e710f4696590bf023e195"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Zelda"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e710f4696590bf023e196",
+    "Name": "Dair",
+    "OwnerId": 57,
+    "Owner": "Zelda",
+    "HitboxActive": "14",
+    "FirstActionableFrame": "45",
+    "BaseDamage": "16",
+    "Angle": "270",
+    "BaseKnockBackSetKnockback": "30",
+    "LandingLag": "18",
+    "AutoCancel": "1-3, 40&gt;",
+    "KnockbackGrowth": "65",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e710f4696590bf023e196"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Zelda"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e710f4696590bf023e197",
+    "Name": "Dair (Late)",
+    "OwnerId": 57,
+    "Owner": "Zelda",
+    "HitboxActive": "15-24",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "5/4",
+    "Angle": "275",
+    "BaseKnockBackSetKnockback": "5/0",
+    "LandingLag": "-",
+    "AutoCancel": "-",
+    "KnockbackGrowth": "90/70",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e710f4696590bf023e197"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Zelda"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e710f4696590bf023e198",
+    "Name": "Nayru's Love",
+    "OwnerId": 57,
+    "Owner": "Zelda",
+    "HitboxActive": "13-24 (Rehit rate: 4, Intangible: 5-15, Reflects: 5-43)",
+    "FirstActionableFrame": "60",
+    "BaseDamage": "2/1",
+    "Angle": "160",
+    "BaseKnockBackSetKnockback": "12",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "40",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e710f4696590bf023e198"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Zelda"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e710f4696590bf023e199",
+    "Name": "Nayru's Love (Final Hit)",
+    "OwnerId": 57,
+    "Owner": "Zelda",
+    "HitboxActive": "28",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "5/4",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "50/40",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e710f4696590bf023e199"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Zelda"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e710f4696590bf023e19a",
+    "Name": "Din's Fire",
+    "OwnerId": 57,
+    "Owner": "Zelda",
+    "HitboxActive": "?",
+    "FirstActionableFrame": "?",
+    "BaseDamage": "7-14",
+    "Angle": "52",
+    "BaseKnockBackSetKnockback": "50",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "97",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e710f4696590bf023e19a"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Zelda"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e710f4696590bf023e19b",
+    "Name": "Din's Fire (Sourspot)",
+    "OwnerId": 57,
+    "Owner": "Zelda",
+    "HitboxActive": "?",
+    "FirstActionableFrame": "?",
+    "BaseDamage": "3-7",
+    "Angle": "65",
+    "BaseKnockBackSetKnockback": "55",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "40",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e710f4696590bf023e19b"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Zelda"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e710f4696590bf023e19c",
+    "Name": "Farore's Wind (Hit 1)",
+    "OwnerId": 57,
+    "Owner": "Zelda",
+    "HitboxActive": "8 (Intangible: 21-39)",
+    "FirstActionableFrame": "81",
+    "BaseDamage": "6",
+    "Angle": "91",
+    "BaseKnockBackSetKnockback": "118",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "30",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e710f4696590bf023e19c"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Zelda"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e710f4696590bf023e19d",
+    "Name": "Farore's Wind (Hit 2)",
+    "OwnerId": 57,
+    "Owner": "Zelda",
+    "HitboxActive": "41-42",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "10/7",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "90/70",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "90",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e710f4696590bf023e19d"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Zelda"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e710f4696590bf023e19e",
+    "Name": "Farore's Wind (Hit 1, Aerial)",
+    "OwnerId": 57,
+    "Owner": "Zelda",
+    "HitboxActive": "8",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "6",
+    "Angle": "80",
+    "BaseKnockBackSetKnockback": "60",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e710f4696590bf023e19e"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Zelda"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e710f4696590bf023e19f",
+    "Name": "Farore's Wind (Hit 2, Aerial)",
+    "OwnerId": 57,
+    "Owner": "Zelda",
+    "HitboxActive": "41-42",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "12/8",
+    "Angle": "55",
+    "BaseKnockBackSetKnockback": "90/70",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "90",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e710f4696590bf023e19f"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Zelda"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e710f4696590bf023e1a0",
+    "Name": "Shovel Knight Deconfirmed",
+    "OwnerId": 57,
+    "Owner": "Zelda",
+    "HitboxActive": "",
+    "FirstActionableFrame": "",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e710f4696590bf023e1a0"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Zelda"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e710f4696590bf023e1a1",
+    "Name": "Fthrow",
+    "OwnerId": 57,
+    "Owner": "Zelda",
+    "HitboxActive": null,
+    "FirstActionableFrame": null,
+    "BaseDamage": "12",
+    "Angle": "45",
+    "BaseKnockBackSetKnockback": "70",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "50",
+    "MoveType": "throw",
+    "IsWeightDependent": true,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e710f4696590bf023e1a1"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Zelda"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e710f4696590bf023e1a2",
+    "Name": "Bthrow",
+    "OwnerId": 57,
+    "Owner": "Zelda",
+    "HitboxActive": null,
+    "FirstActionableFrame": null,
+    "BaseDamage": "11",
+    "Angle": "45",
+    "BaseKnockBackSetKnockback": "80",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "60",
+    "MoveType": "throw",
+    "IsWeightDependent": true,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e710f4696590bf023e1a2"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Zelda"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e710f4696590bf023e1a3",
+    "Name": "Uthrow",
+    "OwnerId": 57,
+    "Owner": "Zelda",
+    "HitboxActive": null,
+    "FirstActionableFrame": null,
+    "BaseDamage": "11",
+    "Angle": "88",
+    "BaseKnockBackSetKnockback": "50",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "60",
+    "MoveType": "throw",
+    "IsWeightDependent": true,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e710f4696590bf023e1a3"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Zelda"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e710f4696590bf023e1a4",
+    "Name": "Dthrow",
+    "OwnerId": 57,
+    "Owner": "Zelda",
+    "HitboxActive": null,
+    "FirstActionableFrame": null,
+    "BaseDamage": "1&#37;&#215;4, 2",
+    "Angle": "100",
+    "BaseKnockBackSetKnockback": "85",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "55",
+    "MoveType": "throw",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e710f4696590bf023e1a4"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Zelda"
+      }
+    ]
+  }
+]

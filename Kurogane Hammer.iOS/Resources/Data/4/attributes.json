@@ -1,0 +1,476 @@
+﻿[
+  {
+    "InstanceId": "598e70814696590bf023cee5",
+    "Name": "AerialJump",
+    "OwnerId": 4,
+    "Owner": "CaptainFalcon",
+    "Values": [
+      {
+        "Value": "37.306652",
+        "Owner": "CaptainFalcon",
+        "OwnerId": 4,
+        "Name": "HEIGHT"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70814696590bf023cee5"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/CaptainFalcon"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70814696590bf023cee6",
+    "Name": "AirAcceleration",
+    "OwnerId": 4,
+    "Owner": "CaptainFalcon",
+    "Values": [
+      {
+        "Value": "0.65",
+        "Owner": "CaptainFalcon",
+        "OwnerId": 4,
+        "Name": "MAX ADDITIONAL"
+      },
+      {
+        "Value": "0.01",
+        "Owner": "CaptainFalcon",
+        "OwnerId": 4,
+        "Name": "BASE VALUE"
+      },
+      {
+        "Value": "0.075",
+        "Owner": "CaptainFalcon",
+        "OwnerId": 4,
+        "Name": "TOTAL"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70814696590bf023cee6"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/CaptainFalcon"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70814696590bf023cee7",
+    "Name": "AirFriction",
+    "OwnerId": 4,
+    "Owner": "CaptainFalcon",
+    "Values": [
+      {
+        "Value": "0.0075",
+        "Owner": "CaptainFalcon",
+        "OwnerId": 4,
+        "Name": "VALUE"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70814696590bf023cee7"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/CaptainFalcon"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70814696590bf023cee8",
+    "Name": "DashLength",
+    "OwnerId": 4,
+    "Owner": "CaptainFalcon",
+    "Values": [
+      {
+        "Value": "16",
+        "Owner": "CaptainFalcon",
+        "OwnerId": 4,
+        "Name": "LENGTH IN FRAMES"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70814696590bf023cee8"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/CaptainFalcon"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70814696590bf023cee9",
+    "Name": "FallSpeed",
+    "OwnerId": 4,
+    "Owner": "CaptainFalcon",
+    "Values": [
+      {
+        "Value": "1.837",
+        "Owner": "CaptainFalcon",
+        "OwnerId": 4,
+        "Name": "MAX FALL SPEED"
+      },
+      {
+        "Value": "2.9392",
+        "Owner": "CaptainFalcon",
+        "OwnerId": 4,
+        "Name": "FAST FALL SPEED"
+      },
+      {
+        "Value": "60%",
+        "Owner": "CaptainFalcon",
+        "OwnerId": 4,
+        "Name": "SPEED INCREASE"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70814696590bf023cee9"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/CaptainFalcon"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70814696590bf023ceea",
+    "Name": "FullHop",
+    "OwnerId": 4,
+    "Owner": "CaptainFalcon",
+    "Values": [
+      {
+        "Value": "37.306652",
+        "Owner": "CaptainFalcon",
+        "OwnerId": 4,
+        "Name": "HEIGHT"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70814696590bf023ceea"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/CaptainFalcon"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70814696590bf023ceeb",
+    "Name": "Gravity",
+    "OwnerId": 4,
+    "Owner": "CaptainFalcon",
+    "Values": [
+      {
+        "Value": "0.12",
+        "Owner": "CaptainFalcon",
+        "OwnerId": 4,
+        "Name": "VALUE"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70814696590bf023ceeb"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/CaptainFalcon"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70814696590bf023ceec",
+    "Name": "JumpSquat",
+    "OwnerId": 4,
+    "Owner": "CaptainFalcon",
+    "Values": [
+      {
+        "Value": "5",
+        "Owner": "CaptainFalcon",
+        "OwnerId": 4,
+        "Name": "VALUE"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70814696590bf023ceec"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/CaptainFalcon"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70814696590bf023ceed",
+    "Name": "LedgeHop",
+    "OwnerId": 4,
+    "Owner": "CaptainFalcon",
+    "Values": [
+      {
+        "Value": "38.653324",
+        "Owner": "CaptainFalcon",
+        "OwnerId": 4,
+        "Name": "HEIGHT"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70814696590bf023ceed"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/CaptainFalcon"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70814696590bf023ceee",
+    "Name": "ShortHop",
+    "OwnerId": 4,
+    "Owner": "CaptainFalcon",
+    "Values": [
+      {
+        "Value": "17.980684",
+        "Owner": "CaptainFalcon",
+        "OwnerId": 4,
+        "Name": "HEIGHT"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70814696590bf023ceee"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/CaptainFalcon"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70814696590bf023ceef",
+    "Name": "Spotdodge",
+    "OwnerId": 4,
+    "Owner": "CaptainFalcon",
+    "Values": [
+      {
+        "Value": "3-18",
+        "Owner": "CaptainFalcon",
+        "OwnerId": 4,
+        "Name": "INTANGIBLE"
+      },
+      {
+        "Value": "28",
+        "Owner": "CaptainFalcon",
+        "OwnerId": 4,
+        "Name": "FAF"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70814696590bf023ceef"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/CaptainFalcon"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70814696590bf023cef0",
+    "Name": "Traction",
+    "OwnerId": 4,
+    "Owner": "CaptainFalcon",
+    "Values": [
+      {
+        "Value": "0.05",
+        "Owner": "CaptainFalcon",
+        "OwnerId": 4,
+        "Name": "VALUE"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70814696590bf023cef0"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/CaptainFalcon"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70814696590bf023cef1",
+    "Name": "WalkSpeed",
+    "OwnerId": 4,
+    "Owner": "CaptainFalcon",
+    "Values": [
+      {
+        "Value": "0.94",
+        "Owner": "CaptainFalcon",
+        "OwnerId": 4,
+        "Name": "MAX WALK SPEED VALUE"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70814696590bf023cef1"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/CaptainFalcon"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70814696590bf023cef2",
+    "Name": "AirSpeed",
+    "OwnerId": 4,
+    "Owner": "CaptainFalcon",
+    "Values": [
+      {
+        "Value": "1.1",
+        "Owner": "CaptainFalcon",
+        "OwnerId": 4,
+        "Name": "MAX AIR SPEED VALUE"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70814696590bf023cef2"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/CaptainFalcon"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70814696590bf023cef3",
+    "Name": "AirDodge",
+    "OwnerId": 4,
+    "Owner": "CaptainFalcon",
+    "Values": [
+      {
+        "Value": "3-28",
+        "Owner": "CaptainFalcon",
+        "OwnerId": 4,
+        "Name": "INTANGIBLE"
+      },
+      {
+        "Value": "34",
+        "Owner": "CaptainFalcon",
+        "OwnerId": 4,
+        "Name": "FAF"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70814696590bf023cef3"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/CaptainFalcon"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70814696590bf023cef4",
+    "Name": "Rolls",
+    "OwnerId": 4,
+    "Owner": "CaptainFalcon",
+    "Values": [
+      {
+        "Value": "4-15",
+        "Owner": "CaptainFalcon",
+        "OwnerId": 4,
+        "Name": "INTANGIBLE"
+      },
+      {
+        "Value": "28",
+        "Owner": "CaptainFalcon",
+        "OwnerId": 4,
+        "Name": "FAF"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70814696590bf023cef4"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/CaptainFalcon"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70814696590bf023cef5",
+    "Name": "RunSpeed",
+    "OwnerId": 4,
+    "Owner": "CaptainFalcon",
+    "Values": [
+      {
+        "Value": "2.32",
+        "Owner": "CaptainFalcon",
+        "OwnerId": 4,
+        "Name": "MAX RUN SPEED VALUE"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70814696590bf023cef5"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/CaptainFalcon"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70814696590bf023cef6",
+    "Name": "ShieldSize",
+    "OwnerId": 4,
+    "Owner": "CaptainFalcon",
+    "Values": [
+      {
+        "Value": "10.5",
+        "Owner": "CaptainFalcon",
+        "OwnerId": 4,
+        "Name": "SIZE"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70814696590bf023cef6"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/CaptainFalcon"
+      }
+    ]
+  }
+]

@@ -1,0 +1,1120 @@
+﻿[
+  {
+    "InstanceId": "598e70e94696590bf023dc79",
+    "Name": "Jab 1",
+    "OwnerId": 43,
+    "Owner": "Rob",
+    "HitboxActive": "3-4",
+    "FirstActionableFrame": "21",
+    "BaseDamage": "3",
+    "Angle": "100",
+    "BaseKnockBackSetKnockback": "4",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "70",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70e94696590bf023dc79"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Rob"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70e94696590bf023dc7a",
+    "Name": "Jab 2",
+    "OwnerId": 43,
+    "Owner": "Rob",
+    "HitboxActive": "3-4",
+    "FirstActionableFrame": "21",
+    "BaseDamage": "3",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "40",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "120",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70e94696590bf023dc7a"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Rob"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70e94696590bf023dc7b",
+    "Name": "Dash Attack",
+    "OwnerId": 43,
+    "Owner": "Rob",
+    "HitboxActive": "7-8",
+    "FirstActionableFrame": "36",
+    "BaseDamage": "7",
+    "Angle": "60",
+    "BaseKnockBackSetKnockback": "70/65",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "70",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70e94696590bf023dc7b"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Rob"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70e94696590bf023dc7c",
+    "Name": "Ftilt (All Angles)",
+    "OwnerId": 43,
+    "Owner": "Rob",
+    "HitboxActive": "7-9",
+    "FirstActionableFrame": "34",
+    "BaseDamage": "6/6/5/8",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "30",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70e94696590bf023dc7c"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Rob"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70e94696590bf023dc7d",
+    "Name": "Utilt",
+    "OwnerId": 43,
+    "Owner": "Rob",
+    "HitboxActive": "4-5",
+    "FirstActionableFrame": "27",
+    "BaseDamage": "3",
+    "Angle": "90/105/105",
+    "BaseKnockBackSetKnockback": "W: 60/50/50",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70e94696590bf023dc7d"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Rob"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70e94696590bf023dc7e",
+    "Name": "Utilt (Late)",
+    "OwnerId": 43,
+    "Owner": "Rob",
+    "HitboxActive": "6-7",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "5/6/6",
+    "Angle": "90",
+    "BaseKnockBackSetKnockback": "55",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "80",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70e94696590bf023dc7e"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Rob"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70e94696590bf023dc7f",
+    "Name": "Dtilt",
+    "OwnerId": 43,
+    "Owner": "Rob",
+    "HitboxActive": "3",
+    "FirstActionableFrame": "15",
+    "BaseDamage": "5",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "2",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70e94696590bf023dc7f"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Rob"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70e94696590bf023dc80",
+    "Name": "Fsmash (All angles)",
+    "OwnerId": 43,
+    "Owner": "Rob",
+    "HitboxActive": "16-17",
+    "FirstActionableFrame": "55",
+    "BaseDamage": "15/11.5/6",
+    "Angle": "41",
+    "BaseKnockBackSetKnockback": "32",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70e94696590bf023dc80"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Rob"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70e94696590bf023dc81",
+    "Name": "Usmash (Launcher)",
+    "OwnerId": 43,
+    "Owner": "Rob",
+    "HitboxActive": "10-11 (Ground Only)",
+    "FirstActionableFrame": "49",
+    "BaseDamage": "3",
+    "Angle": "111",
+    "BaseKnockBackSetKnockback": "W: 135",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70e94696590bf023dc81"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Rob"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70e94696590bf023dc82",
+    "Name": "Usmash (Late)",
+    "OwnerId": 43,
+    "Owner": "Rob",
+    "HitboxActive": "14-18",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "14/13",
+    "Angle": "80/85",
+    "BaseKnockBackSetKnockback": "40",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "98",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70e94696590bf023dc82"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Rob"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70e94696590bf023dc83",
+    "Name": "Dsmash",
+    "OwnerId": 43,
+    "Owner": "Rob",
+    "HitboxActive": "7-14 (Rehit Rate: 2)",
+    "FirstActionableFrame": "46",
+    "BaseDamage": "2/1.5",
+    "Angle": "170",
+    "BaseKnockBackSetKnockback": "40",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "30",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70e94696590bf023dc83"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Rob"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70e94696590bf023dc84",
+    "Name": "Dsmash (Final Hit)",
+    "OwnerId": 43,
+    "Owner": "Rob",
+    "HitboxActive": "16",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "5",
+    "Angle": "33",
+    "BaseKnockBackSetKnockback": "37",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "160",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70e94696590bf023dc84"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Rob"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70e94696590bf023dc85",
+    "Name": "Standing Grab",
+    "OwnerId": 43,
+    "Owner": "Rob",
+    "HitboxActive": "7-8",
+    "FirstActionableFrame": "31",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70e94696590bf023dc85"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Rob"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70e94696590bf023dc86",
+    "Name": "Dash Grab",
+    "OwnerId": 43,
+    "Owner": "Rob",
+    "HitboxActive": "9-10",
+    "FirstActionableFrame": "38",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70e94696590bf023dc86"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Rob"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70e94696590bf023dc87",
+    "Name": "Pivot Grab",
+    "OwnerId": 43,
+    "Owner": "Rob",
+    "HitboxActive": "11-12",
+    "FirstActionableFrame": "37",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70e94696590bf023dc87"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Rob"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70e94696590bf023dc88",
+    "Name": "Spotdodge",
+    "OwnerId": 43,
+    "Owner": "Rob",
+    "HitboxActive": "3-17",
+    "FirstActionableFrame": "27",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70e94696590bf023dc88"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Rob"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70e94696590bf023dc89",
+    "Name": "Forward Roll",
+    "OwnerId": 43,
+    "Owner": "Rob",
+    "HitboxActive": "4-16",
+    "FirstActionableFrame": "30",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70e94696590bf023dc89"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Rob"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70e94696590bf023dc8a",
+    "Name": "Back Roll",
+    "OwnerId": 43,
+    "Owner": "Rob",
+    "HitboxActive": "4-16",
+    "FirstActionableFrame": "30",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70e94696590bf023dc8a"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Rob"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70e94696590bf023dc8b",
+    "Name": "Airdodge",
+    "OwnerId": 43,
+    "Owner": "Rob",
+    "HitboxActive": "3-27",
+    "FirstActionableFrame": "33",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70e94696590bf023dc8b"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Rob"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70e94696590bf023dc8c",
+    "Name": "Nair",
+    "OwnerId": 43,
+    "Owner": "Rob",
+    "HitboxActive": "18-32",
+    "FirstActionableFrame": "48",
+    "BaseDamage": "8/6",
+    "Angle": "60/70",
+    "BaseKnockBackSetKnockback": "50",
+    "LandingLag": "12",
+    "AutoCancel": "33&gt;",
+    "KnockbackGrowth": "100/98",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70e94696590bf023dc8c"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Rob"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70e94696590bf023dc8d",
+    "Name": "Fair",
+    "OwnerId": 43,
+    "Owner": "Rob",
+    "HitboxActive": "6-7",
+    "FirstActionableFrame": "36",
+    "BaseDamage": "7",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "30",
+    "LandingLag": "15",
+    "AutoCancel": "25&gt;",
+    "KnockbackGrowth": "90",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70e94696590bf023dc8d"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Rob"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70e94696590bf023dc8e",
+    "Name": "Bair",
+    "OwnerId": 43,
+    "Owner": "Rob",
+    "HitboxActive": "19-23",
+    "FirstActionableFrame": "53",
+    "BaseDamage": "12/10",
+    "Angle": "35",
+    "BaseKnockBackSetKnockback": "32",
+    "LandingLag": "22",
+    "AutoCancel": "46&gt;",
+    "KnockbackGrowth": "100",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70e94696590bf023dc8e"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Rob"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70e94696590bf023dc8f",
+    "Name": "Bair (Late)",
+    "OwnerId": 43,
+    "Owner": "Rob",
+    "HitboxActive": "24-29",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "6/4.5",
+    "Angle": "35",
+    "BaseKnockBackSetKnockback": "30",
+    "LandingLag": "-",
+    "AutoCancel": "-",
+    "KnockbackGrowth": "100",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70e94696590bf023dc8f"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Rob"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70e94696590bf023dc90",
+    "Name": "Uair",
+    "OwnerId": 43,
+    "Owner": "Rob",
+    "HitboxActive": "7, 9, 13, 17",
+    "FirstActionableFrame": "52",
+    "BaseDamage": "1.5",
+    "Angle": "120/240",
+    "BaseKnockBackSetKnockback": "70/25",
+    "LandingLag": "22",
+    "AutoCancel": "40&gt;",
+    "KnockbackGrowth": "20",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70e94696590bf023dc90"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Rob"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70e94696590bf023dc91",
+    "Name": "Uair (Final Hit)",
+    "OwnerId": 43,
+    "Owner": "Rob",
+    "HitboxActive": "26",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "4",
+    "Angle": "70",
+    "BaseKnockBackSetKnockback": "45",
+    "LandingLag": "-",
+    "AutoCancel": "-",
+    "KnockbackGrowth": "180",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70e94696590bf023dc91"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Rob"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70e94696590bf023dc92",
+    "Name": "Dair",
+    "OwnerId": 43,
+    "Owner": "Rob",
+    "HitboxActive": "20-21",
+    "FirstActionableFrame": "70",
+    "BaseDamage": "12/11/11/6",
+    "Angle": "80/280/45/361",
+    "BaseKnockBackSetKnockback": "10/20/30/10",
+    "LandingLag": "21",
+    "AutoCancel": "45&gt;",
+    "KnockbackGrowth": "100/110/100/100",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70e94696590bf023dc92"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Rob"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70e94696590bf023dc93",
+    "Name": "Dair (Late)",
+    "OwnerId": 43,
+    "Owner": "Rob",
+    "HitboxActive": "22-26",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "8",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "30",
+    "LandingLag": "-",
+    "AutoCancel": "-",
+    "KnockbackGrowth": "100",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70e94696590bf023dc93"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Rob"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70e94696590bf023dc94",
+    "Name": "Robo Beam (No Charge)",
+    "OwnerId": 43,
+    "Owner": "Rob",
+    "HitboxActive": "25-",
+    "FirstActionableFrame": "50",
+    "BaseDamage": "7",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "40",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "95",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70e94696590bf023dc94"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Rob"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70e94696590bf023dc95",
+    "Name": "Robo Beam (Half Charge)",
+    "OwnerId": 43,
+    "Owner": "Rob",
+    "HitboxActive": "Charge: 160 Frames",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "-",
+    "Angle": "-",
+    "BaseKnockBackSetKnockback": "-",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "-",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70e94696590bf023dc95"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Rob"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70e94696590bf023dc96",
+    "Name": "Robo Beam (Half Charge)",
+    "OwnerId": 43,
+    "Owner": "Rob",
+    "HitboxActive": "25-",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "4.5",
+    "Angle": "80",
+    "BaseKnockBackSetKnockback": "70",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "40",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70e94696590bf023dc96"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Rob"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70e94696590bf023dc97",
+    "Name": "Robo Beam (Super Charge)",
+    "OwnerId": 43,
+    "Owner": "Rob",
+    "HitboxActive": "Charge: 860 Frames",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "-",
+    "Angle": "-",
+    "BaseKnockBackSetKnockback": "-",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "-",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70e94696590bf023dc97"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Rob"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70e94696590bf023dc98",
+    "Name": "Robo Beam (Super Charge)",
+    "OwnerId": 43,
+    "Owner": "Rob",
+    "HitboxActive": "25-",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "10",
+    "Angle": "60",
+    "BaseKnockBackSetKnockback": "50",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "70",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70e94696590bf023dc98"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Rob"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70e94696590bf023dc99",
+    "Name": "Arm Rotor (No Mashing)",
+    "OwnerId": 43,
+    "Owner": "Rob",
+    "HitboxActive": "16-55? (Rehit rate: 3)",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "1",
+    "Angle": "361/361/145/120",
+    "BaseKnockBackSetKnockback": "20",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "70",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70e94696590bf023dc99"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Rob"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70e94696590bf023dc9a",
+    "Name": "Arm Rotor (Max Mashing)",
+    "OwnerId": 43,
+    "Owner": "Rob",
+    "HitboxActive": "16-82? (Rehit rate: 3)",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "1",
+    "Angle": "361/361/145/120",
+    "BaseKnockBackSetKnockback": "20",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "70",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70e94696590bf023dc9a"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Rob"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70e94696590bf023dc9b",
+    "Name": "Arm Rotor (Final Hit)",
+    "OwnerId": 43,
+    "Owner": "Rob",
+    "HitboxActive": "7",
+    "FirstActionableFrame": "53",
+    "BaseDamage": "3",
+    "Angle": "45",
+    "BaseKnockBackSetKnockback": "40",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "210",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70e94696590bf023dc9b"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Rob"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70e94696590bf023dc9c",
+    "Name": "Robo Burner (Ground)",
+    "OwnerId": 43,
+    "Owner": "Rob",
+    "HitboxActive": "- (Intangible: 2-4)",
+    "FirstActionableFrame": "24",
+    "BaseDamage": "-",
+    "Angle": "-",
+    "BaseKnockBackSetKnockback": "-",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "-",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70e94696590bf023dc9c"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Rob"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70e94696590bf023dc9d",
+    "Name": "Gyro (Charging)",
+    "OwnerId": 43,
+    "Owner": "Rob",
+    "HitboxActive": "Charge: 90 Frames",
+    "FirstActionableFrame": "97",
+    "BaseDamage": "-",
+    "Angle": "-",
+    "BaseKnockBackSetKnockback": "-",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "-",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70e94696590bf023dc9d"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Rob"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70e94696590bf023dc9e",
+    "Name": "Gyro",
+    "OwnerId": 43,
+    "Owner": "Rob",
+    "HitboxActive": "9",
+    "FirstActionableFrame": "43",
+    "BaseDamage": "-",
+    "Angle": "-",
+    "BaseKnockBackSetKnockback": "-",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "-",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70e94696590bf023dc9e"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Rob"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70e94696590bf023dc9f",
+    "Name": "Gyro (Failure)",
+    "OwnerId": 43,
+    "Owner": "Rob",
+    "HitboxActive": "-",
+    "FirstActionableFrame": "61",
+    "BaseDamage": "-",
+    "Angle": "-",
+    "BaseKnockBackSetKnockback": "-",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "-",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70e94696590bf023dc9f"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Rob"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70e94696590bf023dca0",
+    "Name": "Fthrow",
+    "OwnerId": 43,
+    "Owner": "Rob",
+    "HitboxActive": null,
+    "FirstActionableFrame": null,
+    "BaseDamage": "8",
+    "Angle": "45",
+    "BaseKnockBackSetKnockback": "60",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "65",
+    "MoveType": "throw",
+    "IsWeightDependent": true,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70e94696590bf023dca0"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Rob"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70e94696590bf023dca1",
+    "Name": "Bthrow",
+    "OwnerId": 43,
+    "Owner": "Rob",
+    "HitboxActive": null,
+    "FirstActionableFrame": null,
+    "BaseDamage": "10",
+    "Angle": "45",
+    "BaseKnockBackSetKnockback": "60",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "65",
+    "MoveType": "throw",
+    "IsWeightDependent": true,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70e94696590bf023dca1"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Rob"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70e94696590bf023dca2",
+    "Name": "Uthrow",
+    "OwnerId": 43,
+    "Owner": "Rob",
+    "HitboxActive": null,
+    "FirstActionableFrame": null,
+    "BaseDamage": "12",
+    "Angle": "80",
+    "BaseKnockBackSetKnockback": "60",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "70",
+    "MoveType": "throw",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70e94696590bf023dca2"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Rob"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70e94696590bf023dca3",
+    "Name": "Dthrow",
+    "OwnerId": 43,
+    "Owner": "Rob",
+    "HitboxActive": null,
+    "FirstActionableFrame": null,
+    "BaseDamage": "10",
+    "Angle": "88",
+    "BaseKnockBackSetKnockback": "110",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "20",
+    "MoveType": "throw",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70e94696590bf023dca3"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Rob"
+      }
+    ]
+  }
+]

@@ -1,0 +1,308 @@
+﻿[
+  {
+    "InstanceId": "598e70a74696590bf023d38e",
+    "Name": "Weight",
+    "OwnerId": 18,
+    "Owner": "Jigglypuff",
+    "Value": "68 ",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e70a74696590bf023d38e"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Jigglypuff"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70a74696590bf023d38f",
+    "Name": "Max Jumps",
+    "OwnerId": 18,
+    "Owner": "Jigglypuff",
+    "Value": "6",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e70a74696590bf023d38f"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Jigglypuff"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70a74696590bf023d390",
+    "Name": "Run Speed",
+    "OwnerId": 18,
+    "Owner": "Jigglypuff",
+    "Value": "1.155 ",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e70a74696590bf023d390"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Jigglypuff"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70a74696590bf023d391",
+    "Name": "Wall Jump",
+    "OwnerId": 18,
+    "Owner": "Jigglypuff",
+    "Value": "No",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e70a74696590bf023d391"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Jigglypuff"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70a74696590bf023d392",
+    "Name": "Walk Speed",
+    "OwnerId": 18,
+    "Owner": "Jigglypuff",
+    "Value": "0.7 ",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e70a74696590bf023d392"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Jigglypuff"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70a74696590bf023d393",
+    "Name": "Wall Cling",
+    "OwnerId": 18,
+    "Owner": "Jigglypuff",
+    "Value": "No",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e70a74696590bf023d393"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Jigglypuff"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70a74696590bf023d394",
+    "Name": "Air Speed",
+    "OwnerId": 18,
+    "Owner": "Jigglypuff",
+    "Value": "1.269 ",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e70a74696590bf023d394"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Jigglypuff"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70a74696590bf023d395",
+    "Name": "Crawl",
+    "OwnerId": 18,
+    "Owner": "Jigglypuff",
+    "Value": "No",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e70a74696590bf023d395"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Jigglypuff"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70a74696590bf023d396",
+    "Name": "Fall Speed",
+    "OwnerId": 18,
+    "Owner": "Jigglypuff",
+    "Value": "0.98 ",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e70a74696590bf023d396"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Jigglypuff"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70a74696590bf023d397",
+    "Name": "Tether",
+    "OwnerId": 18,
+    "Owner": "Jigglypuff",
+    "Value": "No",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e70a74696590bf023d397"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Jigglypuff"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70a74696590bf023d398",
+    "Name": "Fast Fall Speed",
+    "OwnerId": 18,
+    "Owner": "Jigglypuff",
+    "Value": "1.568 ",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e70a74696590bf023d398"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Jigglypuff"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70a74696590bf023d399",
+    "Name": "Jumpsquat",
+    "OwnerId": 18,
+    "Owner": "Jigglypuff",
+    "Value": "6 frames",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e70a74696590bf023d399"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Jigglypuff"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70a74696590bf023d39a",
+    "Name": "Air Acceleration",
+    "OwnerId": 18,
+    "Owner": "Jigglypuff",
+    "Value": "0.08",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e70a74696590bf023d39a"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Jigglypuff"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70a74696590bf023d39b",
+    "Name": "Soft Landing Lag",
+    "OwnerId": 18,
+    "Owner": "Jigglypuff",
+    "Value": "2 frames",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e70a74696590bf023d39b"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Jigglypuff"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70a74696590bf023d39c",
+    "Name": "Gravity",
+    "OwnerId": 18,
+    "Owner": "Jigglypuff",
+    "Value": "0.05309",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e70a74696590bf023d39c"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Jigglypuff"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70a74696590bf023d39d",
+    "Name": "Hard Landing Lag",
+    "OwnerId": 18,
+    "Owner": "Jigglypuff",
+    "Value": "4 frames",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e70a74696590bf023d39d"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Jigglypuff"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70a74696590bf023d39e",
+    "Name": "SH Air Time",
+    "OwnerId": 18,
+    "Owner": "Jigglypuff",
+    "Value": "41 frames",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e70a74696590bf023d39e"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Jigglypuff"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70a74696590bf023d39f",
+    "Name": "FH Air Time",
+    "OwnerId": 18,
+    "Owner": "Jigglypuff",
+    "Value": "56 frames",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e70a74696590bf023d39f"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Jigglypuff"
+      }
+    ]
+  }
+]

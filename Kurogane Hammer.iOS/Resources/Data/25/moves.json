@@ -1,0 +1,1250 @@
+﻿[
+  {
+    "InstanceId": "598e70ba4696590bf023d60a",
+    "Name": "Jab 1",
+    "OwnerId": 25,
+    "Owner": "Lucina",
+    "HitboxActive": "5-7",
+    "FirstActionableFrame": "26",
+    "BaseDamage": "3.325",
+    "Angle": "78/65/90",
+    "BaseKnockBackSetKnockback": "55",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "30",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ba4696590bf023d60a"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Lucina"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ba4696590bf023d60b",
+    "Name": "Jab 2",
+    "OwnerId": 25,
+    "Owner": "Lucina",
+    "HitboxActive": "3-5",
+    "FirstActionableFrame": "29",
+    "BaseDamage": "4.75",
+    "Angle": "45",
+    "BaseKnockBackSetKnockback": "62",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "45",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ba4696590bf023d60b"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Lucina"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ba4696590bf023d60c",
+    "Name": "Dash Attack",
+    "OwnerId": 25,
+    "Owner": "Lucina",
+    "HitboxActive": "13-16",
+    "FirstActionableFrame": "50",
+    "BaseDamage": "9.975",
+    "Angle": "45",
+    "BaseKnockBackSetKnockback": "48",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "58",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ba4696590bf023d60c"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Lucina"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ba4696590bf023d60d",
+    "Name": "Ftilt",
+    "OwnerId": 25,
+    "Owner": "Lucina",
+    "HitboxActive": "8-11",
+    "FirstActionableFrame": "34",
+    "BaseDamage": "10.925",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "42",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "77",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ba4696590bf023d60d"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Lucina"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ba4696590bf023d60e",
+    "Name": "Utilt",
+    "OwnerId": 25,
+    "Owner": "Lucina",
+    "HitboxActive": "6-8",
+    "FirstActionableFrame": "34",
+    "BaseDamage": "7.6",
+    "Angle": "100",
+    "BaseKnockBackSetKnockback": "65",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ba4696590bf023d60e"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Lucina"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ba4696590bf023d60f",
+    "Name": "Utilt (Late)",
+    "OwnerId": 25,
+    "Owner": "Lucina",
+    "HitboxActive": "9-12",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "8.075",
+    "Angle": "85/100/100/85",
+    "BaseKnockBackSetKnockback": "52",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ba4696590bf023d60f"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Lucina"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ba4696590bf023d610",
+    "Name": "Dtilt",
+    "OwnerId": 25,
+    "Owner": "Lucina",
+    "HitboxActive": "7-8",
+    "FirstActionableFrame": "24",
+    "BaseDamage": "8.5",
+    "Angle": "30",
+    "BaseKnockBackSetKnockback": "45",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "40",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ba4696590bf023d610"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Lucina"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ba4696590bf023d611",
+    "Name": "Fsmash",
+    "OwnerId": 25,
+    "Owner": "Lucina",
+    "HitboxActive": "10-13",
+    "FirstActionableFrame": "52",
+    "BaseDamage": "15",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "65",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "80",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ba4696590bf023d611"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Lucina"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ba4696590bf023d612",
+    "Name": "Usmash (Launcher)",
+    "OwnerId": 25,
+    "Owner": "Lucina",
+    "HitboxActive": "13-14",
+    "FirstActionableFrame": "59",
+    "BaseDamage": "3",
+    "Angle": "125",
+    "BaseKnockBackSetKnockback": "W: 155",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ba4696590bf023d612"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Lucina"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ba4696590bf023d613",
+    "Name": "Usmash",
+    "OwnerId": 25,
+    "Owner": "Lucina",
+    "HitboxActive": "13-17",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "14.25",
+    "Angle": "89",
+    "BaseKnockBackSetKnockback": "42",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "90",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ba4696590bf023d613"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Lucina"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ba4696590bf023d614",
+    "Name": "Dsmash (Hit 1)",
+    "OwnerId": 25,
+    "Owner": "Lucina",
+    "HitboxActive": "6-7",
+    "FirstActionableFrame": "55",
+    "BaseDamage": "9.5",
+    "Angle": "75/361/361/361",
+    "BaseKnockBackSetKnockback": "60",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "88",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ba4696590bf023d614"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Lucina"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ba4696590bf023d615",
+    "Name": "Dsmash (Hit 2)",
+    "OwnerId": 25,
+    "Owner": "Lucina",
+    "HitboxActive": "21-23",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "14",
+    "Angle": "60/361/361/361",
+    "BaseKnockBackSetKnockback": "60",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "88",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ba4696590bf023d615"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Lucina"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ba4696590bf023d616",
+    "Name": "Standing Grab",
+    "OwnerId": 25,
+    "Owner": "Lucina",
+    "HitboxActive": "7-8",
+    "FirstActionableFrame": "30",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ba4696590bf023d616"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Lucina"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ba4696590bf023d617",
+    "Name": "Dash Grab",
+    "OwnerId": 25,
+    "Owner": "Lucina",
+    "HitboxActive": "8-9",
+    "FirstActionableFrame": "37",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ba4696590bf023d617"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Lucina"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ba4696590bf023d618",
+    "Name": "Pivot Grab",
+    "OwnerId": 25,
+    "Owner": "Lucina",
+    "HitboxActive": "9-10",
+    "FirstActionableFrame": "35",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ba4696590bf023d618"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Lucina"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ba4696590bf023d619",
+    "Name": "Spotdodge",
+    "OwnerId": 25,
+    "Owner": "Lucina",
+    "HitboxActive": "3-17",
+    "FirstActionableFrame": "27",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ba4696590bf023d619"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Lucina"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ba4696590bf023d61a",
+    "Name": "Forward Roll",
+    "OwnerId": 25,
+    "Owner": "Lucina",
+    "HitboxActive": "4-17",
+    "FirstActionableFrame": "31",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ba4696590bf023d61a"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Lucina"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ba4696590bf023d61b",
+    "Name": "Back Roll",
+    "OwnerId": 25,
+    "Owner": "Lucina",
+    "HitboxActive": "4-17",
+    "FirstActionableFrame": "31",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ba4696590bf023d61b"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Lucina"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ba4696590bf023d61c",
+    "Name": "Airdodge",
+    "OwnerId": 25,
+    "Owner": "Lucina",
+    "HitboxActive": "3-27",
+    "FirstActionableFrame": "33",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ba4696590bf023d61c"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Lucina"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ba4696590bf023d61d",
+    "Name": "Nair (Hit 1)",
+    "OwnerId": 25,
+    "Owner": "Lucina",
+    "HitboxActive": "6-7",
+    "FirstActionableFrame": "50",
+    "BaseDamage": "4.2",
+    "Angle": "80/75/65/90",
+    "BaseKnockBackSetKnockback": "30",
+    "LandingLag": "12",
+    "AutoCancel": "47&gt;",
+    "KnockbackGrowth": "50",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ba4696590bf023d61d"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Lucina"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ba4696590bf023d61e",
+    "Name": "Nair (Hit 2)",
+    "OwnerId": 25,
+    "Owner": "Lucina",
+    "HitboxActive": "15-21",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "8.5",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "55",
+    "LandingLag": "-",
+    "AutoCancel": "-",
+    "KnockbackGrowth": "95",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ba4696590bf023d61e"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Lucina"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ba4696590bf023d61f",
+    "Name": "Fair",
+    "OwnerId": 25,
+    "Owner": "Lucina",
+    "HitboxActive": "6-8",
+    "FirstActionableFrame": "38",
+    "BaseDamage": "10.5",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "40",
+    "LandingLag": "16",
+    "AutoCancel": "36&gt;",
+    "KnockbackGrowth": "85",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ba4696590bf023d61f"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Lucina"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ba4696590bf023d620",
+    "Name": "Bair",
+    "OwnerId": 25,
+    "Owner": "Lucina",
+    "HitboxActive": "7-11",
+    "FirstActionableFrame": "40",
+    "BaseDamage": "11.8",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "40",
+    "LandingLag": "17",
+    "AutoCancel": "1-2, 32&gt;",
+    "KnockbackGrowth": "90",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ba4696590bf023d620"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Lucina"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ba4696590bf023d621",
+    "Name": "Uair",
+    "OwnerId": 25,
+    "Owner": "Lucina",
+    "HitboxActive": "5-9",
+    "FirstActionableFrame": "46",
+    "BaseDamage": "11.4",
+    "Angle": "85",
+    "BaseKnockBackSetKnockback": "40",
+    "LandingLag": "14",
+    "AutoCancel": "1-2, 38&gt;",
+    "KnockbackGrowth": "82",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ba4696590bf023d621"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Lucina"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ba4696590bf023d622",
+    "Name": "Dair",
+    "OwnerId": 25,
+    "Owner": "Lucina",
+    "HitboxActive": "9-13",
+    "FirstActionableFrame": "60",
+    "BaseDamage": "12.3",
+    "Angle": "361/80/361",
+    "BaseKnockBackSetKnockback": "30",
+    "LandingLag": "24",
+    "AutoCancel": "1-2, 55&gt;",
+    "KnockbackGrowth": "75",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ba4696590bf023d622"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Lucina"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ba4696590bf023d623",
+    "Name": "Dair (Meteor)",
+    "OwnerId": 25,
+    "Owner": "Lucina",
+    "HitboxActive": "11",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "14.2",
+    "Angle": "270",
+    "BaseKnockBackSetKnockback": "20",
+    "LandingLag": "-",
+    "AutoCancel": "-",
+    "KnockbackGrowth": "80",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ba4696590bf023d623"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Lucina"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ba4696590bf023d624",
+    "Name": "Shield Breaker (No Charge)",
+    "OwnerId": 25,
+    "Owner": "Lucina",
+    "HitboxActive": "19-20",
+    "FirstActionableFrame": "51",
+    "BaseDamage": "8.5 (+25)",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "45",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "95",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ba4696590bf023d624"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Lucina"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ba4696590bf023d625",
+    "Name": "Shield Breaker (Full Charge)",
+    "OwnerId": 25,
+    "Owner": "Lucina",
+    "HitboxActive": "78-79",
+    "FirstActionableFrame": "110",
+    "BaseDamage": "23 (+50)",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "45",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "95",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ba4696590bf023d625"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Lucina"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ba4696590bf023d626",
+    "Name": "Dancing Blade",
+    "OwnerId": 25,
+    "Owner": "Lucina",
+    "HitboxActive": "6-8",
+    "FirstActionableFrame": "42",
+    "BaseDamage": "3.325",
+    "Angle": "78/92/20",
+    "BaseKnockBackSetKnockback": "25",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "75",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ba4696590bf023d626"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Lucina"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ba4696590bf023d627",
+    "Name": "Dancing Blade 2 (Up)",
+    "OwnerId": 25,
+    "Owner": "Lucina",
+    "HitboxActive": "7-10",
+    "FirstActionableFrame": "39",
+    "BaseDamage": "3.325",
+    "Angle": "80/85/60",
+    "BaseKnockBackSetKnockback": "30",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "60",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ba4696590bf023d627"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Lucina"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ba4696590bf023d628",
+    "Name": "Dancing Blade 2",
+    "OwnerId": 25,
+    "Owner": "Lucina",
+    "HitboxActive": "9-10",
+    "FirstActionableFrame": "39",
+    "BaseDamage": "3.325",
+    "Angle": "75/90/40",
+    "BaseKnockBackSetKnockback": "30",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "30",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ba4696590bf023d628"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Lucina"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ba4696590bf023d629",
+    "Name": "Dancing Blade 3 (Up)",
+    "OwnerId": 25,
+    "Owner": "Lucina",
+    "HitboxActive": "8-10",
+    "FirstActionableFrame": "44",
+    "BaseDamage": "4.275",
+    "Angle": "80/85/60",
+    "BaseKnockBackSetKnockback": "40",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "50",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ba4696590bf023d629"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Lucina"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ba4696590bf023d62a",
+    "Name": "Dancing Blade 3",
+    "OwnerId": 25,
+    "Owner": "Lucina",
+    "HitboxActive": "6-8",
+    "FirstActionableFrame": "44",
+    "BaseDamage": "4.275",
+    "Angle": "50/55/40",
+    "BaseKnockBackSetKnockback": "40",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "43",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ba4696590bf023d62a"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Lucina"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ba4696590bf023d62b",
+    "Name": "Dancing Blade 3 (Down)",
+    "OwnerId": 25,
+    "Owner": "Lucina",
+    "HitboxActive": "8-10",
+    "FirstActionableFrame": "44",
+    "BaseDamage": "4.75",
+    "Angle": "44",
+    "BaseKnockBackSetKnockback": "50",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "28",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ba4696590bf023d62b"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Lucina"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ba4696590bf023d62c",
+    "Name": "Dancing Blade 4 (Up)",
+    "OwnerId": 25,
+    "Owner": "Lucina",
+    "HitboxActive": "11-15",
+    "FirstActionableFrame": "51",
+    "BaseDamage": "6.65",
+    "Angle": "80",
+    "BaseKnockBackSetKnockback": "60",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "118",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ba4696590bf023d62c"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Lucina"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ba4696590bf023d62d",
+    "Name": "Dancing Blade 4",
+    "OwnerId": 25,
+    "Owner": "Lucina",
+    "HitboxActive": "13-15",
+    "FirstActionableFrame": "56",
+    "BaseDamage": "5.7",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "60",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "130",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ba4696590bf023d62d"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Lucina"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ba4696590bf023d62e",
+    "Name": "Dancing Blade 4 (Down, Hits 1-4)",
+    "OwnerId": 25,
+    "Owner": "Lucina",
+    "HitboxActive": "13-14, 19-20, 25-26, 31-32",
+    "FirstActionableFrame": "72",
+    "BaseDamage": "2",
+    "Angle": "80",
+    "BaseKnockBackSetKnockback": "2",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "40",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ba4696590bf023d62e"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Lucina"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ba4696590bf023d62f",
+    "Name": "Dancing Blade 4 (Down, Hit 5)",
+    "OwnerId": 25,
+    "Owner": "Lucina",
+    "HitboxActive": "37-38",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "4.75",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "70",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "80",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ba4696590bf023d62f"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Lucina"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ba4696590bf023d630",
+    "Name": "Dolphin Slash (Early)",
+    "OwnerId": 25,
+    "Owner": "Lucina",
+    "HitboxActive": "5 (Intangible: 4-5, Air: 1-5)",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "11",
+    "Angle": "361/74",
+    "BaseKnockBackSetKnockback": "70",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "74",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ba4696590bf023d630"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Lucina"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ba4696590bf023d631",
+    "Name": "Dolphin Slash",
+    "OwnerId": 25,
+    "Owner": "Lucina",
+    "HitboxActive": "6",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "7/7/6/11/11",
+    "Angle": "361/74/74/361/74",
+    "BaseKnockBackSetKnockback": "20/20/20/70/70",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "90/90/90/74/74",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ba4696590bf023d631"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Lucina"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ba4696590bf023d632",
+    "Name": "Dolphin Slash (Late)",
+    "OwnerId": 25,
+    "Owner": "Lucina",
+    "HitboxActive": "7-11",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "7/7/6",
+    "Angle": "361/74/74",
+    "BaseKnockBackSetKnockback": "20",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "90",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ba4696590bf023d632"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Lucina"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ba4696590bf023d633",
+    "Name": "Counter",
+    "OwnerId": 25,
+    "Owner": "Lucina",
+    "HitboxActive": "Counters: 6-27 (Intangible: 5-6)",
+    "FirstActionableFrame": "60",
+    "BaseDamage": "-",
+    "Angle": "-",
+    "BaseKnockBackSetKnockback": "-",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "-",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ba4696590bf023d633"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Lucina"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ba4696590bf023d634",
+    "Name": "Counter (On Hit)",
+    "OwnerId": 25,
+    "Owner": "Lucina",
+    "HitboxActive": "16 Freeze Frames, (Intangible: 1-16)",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "-",
+    "Angle": "-",
+    "BaseKnockBackSetKnockback": "-",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "-",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ba4696590bf023d634"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Lucina"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ba4696590bf023d635",
+    "Name": "Counter (Attack)",
+    "OwnerId": 25,
+    "Owner": "Lucina",
+    "HitboxActive": "5-7 (Intangible: 1-7)",
+    "FirstActionableFrame": "36",
+    "BaseDamage": "8 (1.2&#215;)",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "90",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "60",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ba4696590bf023d635"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Lucina"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ba4696590bf023d636",
+    "Name": "Fthrow",
+    "OwnerId": 25,
+    "Owner": "Lucina",
+    "HitboxActive": null,
+    "FirstActionableFrame": null,
+    "BaseDamage": "4",
+    "Angle": "50",
+    "BaseKnockBackSetKnockback": "100",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "50",
+    "MoveType": "throw",
+    "IsWeightDependent": true,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ba4696590bf023d636"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Lucina"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ba4696590bf023d637",
+    "Name": "Bthrow",
+    "OwnerId": 25,
+    "Owner": "Lucina",
+    "HitboxActive": null,
+    "FirstActionableFrame": null,
+    "BaseDamage": "4",
+    "Angle": "140",
+    "BaseKnockBackSetKnockback": "80",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "60",
+    "MoveType": "throw",
+    "IsWeightDependent": true,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ba4696590bf023d637"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Lucina"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ba4696590bf023d638",
+    "Name": "Uthrow",
+    "OwnerId": 25,
+    "Owner": "Lucina",
+    "HitboxActive": null,
+    "FirstActionableFrame": null,
+    "BaseDamage": "4",
+    "Angle": "93",
+    "BaseKnockBackSetKnockback": "70",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "120",
+    "MoveType": "throw",
+    "IsWeightDependent": true,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ba4696590bf023d638"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Lucina"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ba4696590bf023d639",
+    "Name": "Dthrow",
+    "OwnerId": 25,
+    "Owner": "Lucina",
+    "HitboxActive": null,
+    "FirstActionableFrame": null,
+    "BaseDamage": "5",
+    "Angle": "100",
+    "BaseKnockBackSetKnockback": "95",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "50",
+    "MoveType": "throw",
+    "IsWeightDependent": true,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ba4696590bf023d639"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Lucina"
+      }
+    ]
+  }
+]

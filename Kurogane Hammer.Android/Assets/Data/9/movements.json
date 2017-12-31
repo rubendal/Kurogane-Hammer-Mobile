@@ -1,0 +1,308 @@
+﻿[
+  {
+    "InstanceId": "598e708f4696590bf023d077",
+    "Name": "Weight",
+    "OwnerId": 9,
+    "Owner": "DiddyKong",
+    "Value": "93 ",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e708f4696590bf023d077"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DiddyKong"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e708f4696590bf023d078",
+    "Name": "Max Jumps",
+    "OwnerId": 9,
+    "Owner": "DiddyKong",
+    "Value": "2",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e708f4696590bf023d078"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DiddyKong"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e708f4696590bf023d079",
+    "Name": "Run Speed",
+    "OwnerId": 9,
+    "Owner": "DiddyKong",
+    "Value": "1.824 ",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e708f4696590bf023d079"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DiddyKong"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e708f4696590bf023d07a",
+    "Name": "Wall Jump",
+    "OwnerId": 9,
+    "Owner": "DiddyKong",
+    "Value": "Yes",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e708f4696590bf023d07a"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DiddyKong"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e708f4696590bf023d07b",
+    "Name": "Walk Speed",
+    "OwnerId": 9,
+    "Owner": "DiddyKong",
+    "Value": "1.25 ",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e708f4696590bf023d07b"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DiddyKong"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e708f4696590bf023d07c",
+    "Name": "Wall Cling",
+    "OwnerId": 9,
+    "Owner": "DiddyKong",
+    "Value": "Yes",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e708f4696590bf023d07c"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DiddyKong"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e708f4696590bf023d07d",
+    "Name": "Air Speed",
+    "OwnerId": 9,
+    "Owner": "DiddyKong",
+    "Value": "0.88 ",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e708f4696590bf023d07d"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DiddyKong"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e708f4696590bf023d07e",
+    "Name": "Crawl",
+    "OwnerId": 9,
+    "Owner": "DiddyKong",
+    "Value": "Yes",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e708f4696590bf023d07e"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DiddyKong"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e708f4696590bf023d07f",
+    "Name": "Fall Speed",
+    "OwnerId": 9,
+    "Owner": "DiddyKong",
+    "Value": "1.75 ",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e708f4696590bf023d07f"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DiddyKong"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e708f4696590bf023d080",
+    "Name": "Tether",
+    "OwnerId": 9,
+    "Owner": "DiddyKong",
+    "Value": "No",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e708f4696590bf023d080"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DiddyKong"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e708f4696590bf023d081",
+    "Name": "Fast Fall Speed",
+    "OwnerId": 9,
+    "Owner": "DiddyKong",
+    "Value": "2.8 ",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e708f4696590bf023d081"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DiddyKong"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e708f4696590bf023d082",
+    "Name": "Jumpsquat",
+    "OwnerId": 9,
+    "Owner": "DiddyKong",
+    "Value": "4 frames",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e708f4696590bf023d082"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DiddyKong"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e708f4696590bf023d083",
+    "Name": "Air Acceleration",
+    "OwnerId": 9,
+    "Owner": "DiddyKong",
+    "Value": "0.05",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e708f4696590bf023d083"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DiddyKong"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e708f4696590bf023d084",
+    "Name": "Soft Landing Lag",
+    "OwnerId": 9,
+    "Owner": "DiddyKong",
+    "Value": "2 frames",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e708f4696590bf023d084"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DiddyKong"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e708f4696590bf023d085",
+    "Name": "Gravity",
+    "OwnerId": 9,
+    "Owner": "DiddyKong",
+    "Value": "0.105",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e708f4696590bf023d085"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DiddyKong"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e708f4696590bf023d086",
+    "Name": "Hard Landing Lag",
+    "OwnerId": 9,
+    "Owner": "DiddyKong",
+    "Value": "4 frames",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e708f4696590bf023d086"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DiddyKong"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e708f4696590bf023d087",
+    "Name": "SH Air Time",
+    "OwnerId": 9,
+    "Owner": "DiddyKong",
+    "Value": "39 frames",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e708f4696590bf023d087"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DiddyKong"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e708f4696590bf023d088",
+    "Name": "FH Air Time",
+    "OwnerId": 9,
+    "Owner": "DiddyKong",
+    "Value": "59 frames",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e708f4696590bf023d088"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DiddyKong"
+      }
+    ]
+  }
+]

@@ -1,0 +1,308 @@
+﻿[
+  {
+    "InstanceId": "598e70e84696590bf023dc67",
+    "Name": "Weight",
+    "OwnerId": 43,
+    "Owner": "Rob",
+    "Value": "106 ",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e70e84696590bf023dc67"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Rob"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70e84696590bf023dc68",
+    "Name": "Max Jumps",
+    "OwnerId": 43,
+    "Owner": "Rob",
+    "Value": "2",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e70e84696590bf023dc68"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Rob"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70e84696590bf023dc69",
+    "Name": "Run Speed",
+    "OwnerId": 43,
+    "Owner": "Rob",
+    "Value": "1.568 ",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e70e84696590bf023dc69"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Rob"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70e84696590bf023dc6a",
+    "Name": "Wall Jump",
+    "OwnerId": 43,
+    "Owner": "Rob",
+    "Value": "No",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e70e84696590bf023dc6a"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Rob"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70e84696590bf023dc6b",
+    "Name": "Walk Speed",
+    "OwnerId": 43,
+    "Owner": "Rob",
+    "Value": "1.122 ",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e70e84696590bf023dc6b"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Rob"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70e84696590bf023dc6c",
+    "Name": "Wall Cling",
+    "OwnerId": 43,
+    "Owner": "Rob",
+    "Value": "No",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e70e84696590bf023dc6c"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Rob"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70e84696590bf023dc6d",
+    "Name": "Air Speed",
+    "OwnerId": 43,
+    "Owner": "Rob",
+    "Value": "1.08 ",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e70e84696590bf023dc6d"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Rob"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70e84696590bf023dc6e",
+    "Name": "Crawl",
+    "OwnerId": 43,
+    "Owner": "Rob",
+    "Value": "No",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e70e84696590bf023dc6e"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Rob"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70e84696590bf023dc6f",
+    "Name": "Fall Speed",
+    "OwnerId": 43,
+    "Owner": "Rob",
+    "Value": "1.6 ",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e70e84696590bf023dc6f"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Rob"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70e84696590bf023dc70",
+    "Name": "Tether",
+    "OwnerId": 43,
+    "Owner": "Rob",
+    "Value": "No",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e70e84696590bf023dc70"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Rob"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70e84696590bf023dc71",
+    "Name": "Fast Fall Speed",
+    "OwnerId": 43,
+    "Owner": "Rob",
+    "Value": "2.56 ",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e70e84696590bf023dc71"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Rob"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70e84696590bf023dc72",
+    "Name": "Jumpsquat",
+    "OwnerId": 43,
+    "Owner": "Rob",
+    "Value": "5 frames",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e70e84696590bf023dc72"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Rob"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70e84696590bf023dc73",
+    "Name": "Air Acceleration",
+    "OwnerId": 43,
+    "Owner": "Rob",
+    "Value": "0.045",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e70e84696590bf023dc73"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Rob"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70e84696590bf023dc74",
+    "Name": "Soft Landing Lag",
+    "OwnerId": 43,
+    "Owner": "Rob",
+    "Value": "2 frames",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e70e84696590bf023dc74"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Rob"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70e84696590bf023dc75",
+    "Name": "Gravity",
+    "OwnerId": 43,
+    "Owner": "Rob",
+    "Value": "0.09",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e70e84696590bf023dc75"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Rob"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70e84696590bf023dc76",
+    "Name": "Hard Landing Lag",
+    "OwnerId": 43,
+    "Owner": "Rob",
+    "Value": "4 frames",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e70e84696590bf023dc76"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Rob"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70e84696590bf023dc77",
+    "Name": "SH Air Time",
+    "OwnerId": 43,
+    "Owner": "Rob",
+    "Value": "40 frames",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e70e84696590bf023dc77"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Rob"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70e84696590bf023dc78",
+    "Name": "FH Air Time",
+    "OwnerId": 43,
+    "Owner": "Rob",
+    "Value": "61 frames",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e70e84696590bf023dc78"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Rob"
+      }
+    ]
+  }
+]

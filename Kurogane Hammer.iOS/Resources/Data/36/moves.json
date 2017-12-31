@@ -1,0 +1,1250 @@
+﻿[
+  {
+    "InstanceId": "598e70d64696590bf023da20",
+    "Name": "Jab 1",
+    "OwnerId": 36,
+    "Owner": "Ness",
+    "HitboxActive": "3-4",
+    "FirstActionableFrame": "20",
+    "BaseDamage": "2",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "8",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "50",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70d64696590bf023da20"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ness"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70d64696590bf023da21",
+    "Name": "Jab 2",
+    "OwnerId": 36,
+    "Owner": "Ness",
+    "HitboxActive": "3-4",
+    "FirstActionableFrame": "20",
+    "BaseDamage": "2",
+    "Angle": "70",
+    "BaseKnockBackSetKnockback": "8",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "50",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70d64696590bf023da21"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ness"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70d64696590bf023da22",
+    "Name": "Jab 3",
+    "OwnerId": 36,
+    "Owner": "Ness",
+    "HitboxActive": "6-9",
+    "FirstActionableFrame": "30",
+    "BaseDamage": "4",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "40",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70d64696590bf023da22"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ness"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70d64696590bf023da23",
+    "Name": "Dash Attack (Hit 1)",
+    "OwnerId": 36,
+    "Owner": "Ness",
+    "HitboxActive": "8",
+    "FirstActionableFrame": "40",
+    "BaseDamage": "4 (+1)/7 (+1)/3",
+    "Angle": "0/80/45",
+    "BaseKnockBackSetKnockback": "0/60/80",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100/70/100",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70d64696590bf023da23"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ness"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70d64696590bf023da24",
+    "Name": "Dash Attack (Hit 2)",
+    "OwnerId": 36,
+    "Owner": "Ness",
+    "HitboxActive": "15",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "2 (+1)",
+    "Angle": "20",
+    "BaseKnockBackSetKnockback": "W: 70",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70d64696590bf023da24"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ness"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70d64696590bf023da25",
+    "Name": "Dash Attack (Hit 3)",
+    "OwnerId": 36,
+    "Owner": "Ness",
+    "HitboxActive": "22",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "4 (+1)",
+    "Angle": "80",
+    "BaseKnockBackSetKnockback": "80",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "104",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70d64696590bf023da25"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ness"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70d64696590bf023da26",
+    "Name": "Ftilt (Angled Up)",
+    "OwnerId": 36,
+    "Owner": "Ness",
+    "HitboxActive": "7-10",
+    "FirstActionableFrame": "35",
+    "BaseDamage": "10",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "12",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70d64696590bf023da26"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ness"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70d64696590bf023da27",
+    "Name": "Ftilt",
+    "OwnerId": 36,
+    "Owner": "Ness",
+    "HitboxActive": "7-10",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "9",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "12",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70d64696590bf023da27"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ness"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70d64696590bf023da28",
+    "Name": "Ftilt (Angled Down)",
+    "OwnerId": 36,
+    "Owner": "Ness",
+    "HitboxActive": "7-10",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "10",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "12",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70d64696590bf023da28"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ness"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70d64696590bf023da29",
+    "Name": "Utilt",
+    "OwnerId": 36,
+    "Owner": "Ness",
+    "HitboxActive": "7-8",
+    "FirstActionableFrame": "32",
+    "BaseDamage": "7/5",
+    "Angle": "96",
+    "BaseKnockBackSetKnockback": "42",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "126",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70d64696590bf023da29"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ness"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70d64696590bf023da2a",
+    "Name": "Dtilt",
+    "OwnerId": 36,
+    "Owner": "Ness",
+    "HitboxActive": "3-4",
+    "FirstActionableFrame": "14 (Dtilt: 6)",
+    "BaseDamage": "4/2",
+    "Angle": "0",
+    "BaseKnockBackSetKnockback": "20",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "3/6",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70d64696590bf023da2a"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ness"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70d64696590bf023da2b",
+    "Name": "Fsmash",
+    "OwnerId": 36,
+    "Owner": "Ness",
+    "HitboxActive": "21-22 (Reflects: ?, 2.0&#215;, 80% Break Threshold)",
+    "FirstActionableFrame": "55",
+    "BaseDamage": "18/20/22",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "70",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "67",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70d64696590bf023da2b"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ness"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70d64696590bf023da2c",
+    "Name": "Usmash",
+    "OwnerId": 36,
+    "Owner": "Ness",
+    "HitboxActive": "6-11",
+    "FirstActionableFrame": "56",
+    "BaseDamage": "9",
+    "Angle": "80",
+    "BaseKnockBackSetKnockback": "90",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "60",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70d64696590bf023da2c"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ness"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70d64696590bf023da2d",
+    "Name": "Usmash (Late)",
+    "OwnerId": 36,
+    "Owner": "Ness",
+    "HitboxActive": "12-30",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "13",
+    "Angle": "80",
+    "BaseKnockBackSetKnockback": "70",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "60",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70d64696590bf023da2d"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ness"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70d64696590bf023da2e",
+    "Name": "Dsmash",
+    "OwnerId": 36,
+    "Owner": "Ness",
+    "HitboxActive": "10-15 (Rehit Rate: 4)",
+    "FirstActionableFrame": "46",
+    "BaseDamage": "1",
+    "Angle": "366",
+    "BaseKnockBackSetKnockback": "W: 12",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70d64696590bf023da2e"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ness"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70d64696590bf023da2f",
+    "Name": "Dsmash",
+    "OwnerId": 36,
+    "Owner": "Ness",
+    "HitboxActive": "17-18",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "10",
+    "Angle": "28",
+    "BaseKnockBackSetKnockback": "60",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "80",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70d64696590bf023da2f"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ness"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70d64696590bf023da30",
+    "Name": "Dsmash",
+    "OwnerId": 36,
+    "Owner": "Ness",
+    "HitboxActive": "23-25",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "1",
+    "Angle": "45",
+    "BaseKnockBackSetKnockback": "W: 14",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70d64696590bf023da30"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ness"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70d64696590bf023da31",
+    "Name": "Dsmash",
+    "OwnerId": 36,
+    "Owner": "Ness",
+    "HitboxActive": "26-29",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "1",
+    "Angle": "80",
+    "BaseKnockBackSetKnockback": "W: 14",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70d64696590bf023da31"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ness"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70d64696590bf023da32",
+    "Name": "Dsmash",
+    "OwnerId": 36,
+    "Owner": "Ness",
+    "HitboxActive": "31-32",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "10",
+    "Angle": "33",
+    "BaseKnockBackSetKnockback": "50",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "80",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70d64696590bf023da32"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ness"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70d64696590bf023da33",
+    "Name": "Standing Grab",
+    "OwnerId": 36,
+    "Owner": "Ness",
+    "HitboxActive": "6-7",
+    "FirstActionableFrame": "35",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70d64696590bf023da33"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ness"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70d64696590bf023da34",
+    "Name": "Dash Grab",
+    "OwnerId": 36,
+    "Owner": "Ness",
+    "HitboxActive": "8-9",
+    "FirstActionableFrame": "43",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70d64696590bf023da34"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ness"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70d64696590bf023da35",
+    "Name": "Pivot Grab",
+    "OwnerId": 36,
+    "Owner": "Ness",
+    "HitboxActive": "10-11",
+    "FirstActionableFrame": "41",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70d64696590bf023da35"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ness"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70d64696590bf023da36",
+    "Name": "Spotdodge",
+    "OwnerId": 36,
+    "Owner": "Ness",
+    "HitboxActive": "3-18",
+    "FirstActionableFrame": "28",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70d64696590bf023da36"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ness"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70d64696590bf023da37",
+    "Name": "Forward Roll",
+    "OwnerId": 36,
+    "Owner": "Ness",
+    "HitboxActive": "4-17",
+    "FirstActionableFrame": "31",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70d64696590bf023da37"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ness"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70d64696590bf023da38",
+    "Name": "Back Roll",
+    "OwnerId": 36,
+    "Owner": "Ness",
+    "HitboxActive": "4-17",
+    "FirstActionableFrame": "31",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70d64696590bf023da38"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ness"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70d64696590bf023da39",
+    "Name": "Airdodge",
+    "OwnerId": 36,
+    "Owner": "Ness",
+    "HitboxActive": "3-28",
+    "FirstActionableFrame": "34",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70d64696590bf023da39"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ness"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70d64696590bf023da3a",
+    "Name": "Nair",
+    "OwnerId": 36,
+    "Owner": "Ness",
+    "HitboxActive": "5-12",
+    "FirstActionableFrame": "36",
+    "BaseDamage": "11",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "20",
+    "LandingLag": "18",
+    "AutoCancel": "1-4, 26&gt;",
+    "KnockbackGrowth": "100",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70d64696590bf023da3a"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ness"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70d64696590bf023da3b",
+    "Name": "Nair (Late)",
+    "OwnerId": 36,
+    "Owner": "Ness",
+    "HitboxActive": "13-15",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "7",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "10",
+    "LandingLag": "-",
+    "AutoCancel": "-",
+    "KnockbackGrowth": "100",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70d64696590bf023da3b"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ness"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70d64696590bf023da3c",
+    "Name": "Fair",
+    "OwnerId": 36,
+    "Owner": "Ness",
+    "HitboxActive": "8-18 (Rehit Rate: 4)",
+    "FirstActionableFrame": "40",
+    "BaseDamage": "1 (+1)",
+    "Angle": "366",
+    "BaseKnockBackSetKnockback": "16",
+    "LandingLag": "20",
+    "AutoCancel": "1-7, 33&gt;",
+    "KnockbackGrowth": "60",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70d64696590bf023da3c"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ness"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70d64696590bf023da3d",
+    "Name": "Fair (Final Hit)",
+    "OwnerId": 36,
+    "Owner": "Ness",
+    "HitboxActive": "20",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "4 (+1)",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "32",
+    "LandingLag": "-",
+    "AutoCancel": "-",
+    "KnockbackGrowth": "150",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70d64696590bf023da3d"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ness"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70d64696590bf023da3e",
+    "Name": "Bair",
+    "OwnerId": 36,
+    "Owner": "Ness",
+    "HitboxActive": "10-11",
+    "FirstActionableFrame": "36",
+    "BaseDamage": "15",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "16",
+    "LandingLag": "17",
+    "AutoCancel": "1-9, 25&gt;",
+    "KnockbackGrowth": "100",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70d64696590bf023da3e"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ness"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70d64696590bf023da3f",
+    "Name": "Bair (Late)",
+    "OwnerId": 36,
+    "Owner": "Ness",
+    "HitboxActive": "12-18",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "8",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "0",
+    "LandingLag": "-",
+    "AutoCancel": "-",
+    "KnockbackGrowth": "100",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70d64696590bf023da3f"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ness"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70d64696590bf023da40",
+    "Name": "Uair",
+    "OwnerId": 36,
+    "Owner": "Ness",
+    "HitboxActive": "8-11",
+    "FirstActionableFrame": "42",
+    "BaseDamage": "13",
+    "Angle": "85",
+    "BaseKnockBackSetKnockback": "13",
+    "LandingLag": "14",
+    "AutoCancel": "1-7, 27&gt;",
+    "KnockbackGrowth": "109",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70d64696590bf023da40"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ness"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70d64696590bf023da41",
+    "Name": "Dair",
+    "OwnerId": 36,
+    "Owner": "Ness",
+    "HitboxActive": "20-21",
+    "FirstActionableFrame": "60",
+    "BaseDamage": "12",
+    "Angle": "270",
+    "BaseKnockBackSetKnockback": "20",
+    "LandingLag": "28",
+    "AutoCancel": "1-19, 50&gt;",
+    "KnockbackGrowth": "70",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70d64696590bf023da41"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ness"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70d64696590bf023da42",
+    "Name": "Dair (Late)",
+    "OwnerId": 36,
+    "Owner": "Ness",
+    "HitboxActive": "22-25",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "10",
+    "Angle": "45",
+    "BaseKnockBackSetKnockback": "30",
+    "LandingLag": "-",
+    "AutoCancel": "-",
+    "KnockbackGrowth": "70",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70d64696590bf023da42"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ness"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70d64696590bf023da43",
+    "Name": "PK Trash (No Charge)",
+    "OwnerId": 36,
+    "Owner": "Ness",
+    "HitboxActive": "43",
+    "FirstActionableFrame": "69",
+    "BaseDamage": "9",
+    "Angle": "70",
+    "BaseKnockBackSetKnockback": "10",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "70",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70d64696590bf023da43"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ness"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70d64696590bf023da44",
+    "Name": "PK Trash (Fully Charged)",
+    "OwnerId": 36,
+    "Owner": "Ness",
+    "HitboxActive": "149",
+    "FirstActionableFrame": "175",
+    "BaseDamage": "37",
+    "Angle": "70",
+    "BaseKnockBackSetKnockback": "10",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "70",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70d64696590bf023da44"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ness"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70d64696590bf023da45",
+    "Name": "PK Fire",
+    "OwnerId": 36,
+    "Owner": "Ness",
+    "HitboxActive": "21-38",
+    "FirstActionableFrame": "59",
+    "BaseDamage": "4",
+    "Angle": "80",
+    "BaseKnockBackSetKnockback": "80",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "30",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70d64696590bf023da45"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ness"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70d64696590bf023da46",
+    "Name": "PK Fire (Pillar)",
+    "OwnerId": 36,
+    "Owner": "Ness",
+    "HitboxActive": "(Rehit rate: 6)",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "2/1",
+    "Angle": "68",
+    "BaseKnockBackSetKnockback": "10",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "30",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70d64696590bf023da46"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ness"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70d64696590bf023da47",
+    "Name": "PK Thunder (Head)",
+    "OwnerId": 36,
+    "Owner": "Ness",
+    "HitboxActive": "20-137",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "8",
+    "Angle": "110",
+    "BaseKnockBackSetKnockback": "70",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "50",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70d64696590bf023da47"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ness"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70d64696590bf023da48",
+    "Name": "PK Thunder (Tail)",
+    "OwnerId": 36,
+    "Owner": "Ness",
+    "HitboxActive": "-",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "1",
+    "Angle": "-",
+    "BaseKnockBackSetKnockback": "-",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "-",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70d64696590bf023da48"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ness"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70d64696590bf023da49",
+    "Name": "PK Thunder 2",
+    "OwnerId": 36,
+    "Owner": "Ness",
+    "HitboxActive": "1-10 (Intangible: 1-9)",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "25",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "83",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "80",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70d64696590bf023da49"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ness"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70d64696590bf023da4a",
+    "Name": "PK Thunder 2 (Late)",
+    "OwnerId": 36,
+    "Owner": "Ness",
+    "HitboxActive": "11-32",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "21",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "45",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "70",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70d64696590bf023da4a"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ness"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70d64696590bf023da4b",
+    "Name": "PSI Magnet",
+    "OwnerId": 36,
+    "Owner": "Ness",
+    "HitboxActive": "18",
+    "FirstActionableFrame": "30",
+    "BaseDamage": "0",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "W: 11",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70d64696590bf023da4b"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ness"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70d64696590bf023da4c",
+    "Name": "Fthrow",
+    "OwnerId": 36,
+    "Owner": "Ness",
+    "HitboxActive": null,
+    "FirstActionableFrame": null,
+    "BaseDamage": "11",
+    "Angle": "45",
+    "BaseKnockBackSetKnockback": "120",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "10",
+    "MoveType": "throw",
+    "IsWeightDependent": true,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70d64696590bf023da4c"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ness"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70d64696590bf023da4d",
+    "Name": "Bthrow",
+    "OwnerId": 36,
+    "Owner": "Ness",
+    "HitboxActive": null,
+    "FirstActionableFrame": null,
+    "BaseDamage": "11",
+    "Angle": "135",
+    "BaseKnockBackSetKnockback": "15",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "130",
+    "MoveType": "throw",
+    "IsWeightDependent": true,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70d64696590bf023da4d"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ness"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70d64696590bf023da4e",
+    "Name": "Uthrow",
+    "OwnerId": 36,
+    "Owner": "Ness",
+    "HitboxActive": null,
+    "FirstActionableFrame": null,
+    "BaseDamage": "10",
+    "Angle": "90",
+    "BaseKnockBackSetKnockback": "105",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "40",
+    "MoveType": "throw",
+    "IsWeightDependent": true,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70d64696590bf023da4e"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ness"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70d64696590bf023da4f",
+    "Name": "Dthrow",
+    "OwnerId": 36,
+    "Owner": "Ness",
+    "HitboxActive": null,
+    "FirstActionableFrame": null,
+    "BaseDamage": "0.6&#37;&#215;5, 4",
+    "Angle": "70",
+    "BaseKnockBackSetKnockback": "70",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "80",
+    "MoveType": "throw",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70d64696590bf023da4f"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ness"
+      }
+    ]
+  }
+]

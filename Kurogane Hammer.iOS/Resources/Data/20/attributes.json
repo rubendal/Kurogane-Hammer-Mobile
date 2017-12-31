@@ -1,0 +1,476 @@
+﻿[
+  {
+    "InstanceId": "598e70ad4696590bf023d47d",
+    "Name": "AerialJump",
+    "OwnerId": 20,
+    "Owner": "Kirby",
+    "Values": [
+      {
+        "Value": "22",
+        "Owner": "Kirby",
+        "OwnerId": 20,
+        "Name": "HEIGHT"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70ad4696590bf023d47d"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Kirby"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ad4696590bf023d47e",
+    "Name": "AirAcceleration",
+    "OwnerId": 20,
+    "Owner": "Kirby",
+    "Values": [
+      {
+        "Value": "0.065",
+        "Owner": "Kirby",
+        "OwnerId": 20,
+        "Name": "MAX ADDITIONAL"
+      },
+      {
+        "Value": "0.03",
+        "Owner": "Kirby",
+        "OwnerId": 20,
+        "Name": "BASE VALUE"
+      },
+      {
+        "Value": "0.095",
+        "Owner": "Kirby",
+        "OwnerId": 20,
+        "Name": "TOTAL"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70ad4696590bf023d47e"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Kirby"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ad4696590bf023d47f",
+    "Name": "AirFriction",
+    "OwnerId": 20,
+    "Owner": "Kirby",
+    "Values": [
+      {
+        "Value": "0.015",
+        "Owner": "Kirby",
+        "OwnerId": 20,
+        "Name": "VALUE"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70ad4696590bf023d47f"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Kirby"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ad4696590bf023d480",
+    "Name": "DashLength",
+    "OwnerId": 20,
+    "Owner": "Kirby",
+    "Values": [
+      {
+        "Value": "13",
+        "Owner": "Kirby",
+        "OwnerId": 20,
+        "Name": "LENGTH IN FRAMES"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70ad4696590bf023d480"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Kirby"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ad4696590bf023d481",
+    "Name": "FallSpeed",
+    "OwnerId": 20,
+    "Owner": "Kirby",
+    "Values": [
+      {
+        "Value": "1.23",
+        "Owner": "Kirby",
+        "OwnerId": 20,
+        "Name": "MAX FALL SPEED"
+      },
+      {
+        "Value": "1.968",
+        "Owner": "Kirby",
+        "OwnerId": 20,
+        "Name": "FAST FALL SPEED"
+      },
+      {
+        "Value": "60%",
+        "Owner": "Kirby",
+        "OwnerId": 20,
+        "Name": "SPEED INCREASE"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70ad4696590bf023d481"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Kirby"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ad4696590bf023d482",
+    "Name": "FullHop",
+    "OwnerId": 20,
+    "Owner": "Kirby",
+    "Values": [
+      {
+        "Value": "25.368114",
+        "Owner": "Kirby",
+        "OwnerId": 20,
+        "Name": "HEIGHT"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70ad4696590bf023d482"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Kirby"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ad4696590bf023d483",
+    "Name": "Gravity",
+    "OwnerId": 20,
+    "Owner": "Kirby",
+    "Values": [
+      {
+        "Value": "0.06405",
+        "Owner": "Kirby",
+        "OwnerId": 20,
+        "Name": "VALUE"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70ad4696590bf023d483"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Kirby"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ad4696590bf023d484",
+    "Name": "JumpSquat",
+    "OwnerId": 20,
+    "Owner": "Kirby",
+    "Values": [
+      {
+        "Value": "4",
+        "Owner": "Kirby",
+        "OwnerId": 20,
+        "Name": "VALUE"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70ad4696590bf023d484"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Kirby"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ad4696590bf023d485",
+    "Name": "LedgeHop",
+    "OwnerId": 20,
+    "Owner": "Kirby",
+    "Values": [
+      {
+        "Value": "32.684059",
+        "Owner": "Kirby",
+        "OwnerId": 20,
+        "Name": "HEIGHT"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70ad4696590bf023d485"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Kirby"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ad4696590bf023d486",
+    "Name": "ShortHop",
+    "OwnerId": 20,
+    "Owner": "Kirby",
+    "Values": [
+      {
+        "Value": "12.241816",
+        "Owner": "Kirby",
+        "OwnerId": 20,
+        "Name": "HEIGHT"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70ad4696590bf023d486"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Kirby"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ad4696590bf023d487",
+    "Name": "Spotdodge",
+    "OwnerId": 20,
+    "Owner": "Kirby",
+    "Values": [
+      {
+        "Value": "2-17",
+        "Owner": "Kirby",
+        "OwnerId": 20,
+        "Name": "INTANGIBLE"
+      },
+      {
+        "Value": "27",
+        "Owner": "Kirby",
+        "OwnerId": 20,
+        "Name": "FAF"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70ad4696590bf023d487"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Kirby"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ad4696590bf023d488",
+    "Name": "Traction",
+    "OwnerId": 20,
+    "Owner": "Kirby",
+    "Values": [
+      {
+        "Value": "0.0493",
+        "Owner": "Kirby",
+        "OwnerId": 20,
+        "Name": "VALUE"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70ad4696590bf023d488"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Kirby"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ad4696590bf023d489",
+    "Name": "WalkSpeed",
+    "OwnerId": 20,
+    "Owner": "Kirby",
+    "Values": [
+      {
+        "Value": "0.93",
+        "Owner": "Kirby",
+        "OwnerId": 20,
+        "Name": "MAX WALK SPEED VALUE"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70ad4696590bf023d489"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Kirby"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ad4696590bf023d48a",
+    "Name": "AirSpeed",
+    "OwnerId": 20,
+    "Owner": "Kirby",
+    "Values": [
+      {
+        "Value": "0.8",
+        "Owner": "Kirby",
+        "OwnerId": 20,
+        "Name": "MAX AIR SPEED VALUE"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70ad4696590bf023d48a"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Kirby"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ad4696590bf023d48b",
+    "Name": "AirDodge",
+    "OwnerId": 20,
+    "Owner": "Kirby",
+    "Values": [
+      {
+        "Value": "3-27",
+        "Owner": "Kirby",
+        "OwnerId": 20,
+        "Name": "INTANGIBLE"
+      },
+      {
+        "Value": "33",
+        "Owner": "Kirby",
+        "OwnerId": 20,
+        "Name": "FAF"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70ad4696590bf023d48b"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Kirby"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ad4696590bf023d48c",
+    "Name": "Rolls",
+    "OwnerId": 20,
+    "Owner": "Kirby",
+    "Values": [
+      {
+        "Value": "4-17",
+        "Owner": "Kirby",
+        "OwnerId": 20,
+        "Name": "INTANGIBLE"
+      },
+      {
+        "Value": "31",
+        "Owner": "Kirby",
+        "OwnerId": 20,
+        "Name": "FAF"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70ad4696590bf023d48c"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Kirby"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ad4696590bf023d48d",
+    "Name": "RunSpeed",
+    "OwnerId": 20,
+    "Owner": "Kirby",
+    "Values": [
+      {
+        "Value": "1.57",
+        "Owner": "Kirby",
+        "OwnerId": 20,
+        "Name": "MAX RUN SPEED VALUE"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70ad4696590bf023d48d"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Kirby"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ad4696590bf023d48e",
+    "Name": "ShieldSize",
+    "OwnerId": 20,
+    "Owner": "Kirby",
+    "Values": [
+      {
+        "Value": "8.82",
+        "Owner": "Kirby",
+        "OwnerId": 20,
+        "Name": "SIZE"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70ad4696590bf023d48e"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Kirby"
+      }
+    ]
+  }
+]

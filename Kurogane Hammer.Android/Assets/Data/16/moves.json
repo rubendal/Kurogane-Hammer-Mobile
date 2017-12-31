@@ -1,0 +1,1302 @@
+﻿[
+  {
+    "InstanceId": "598e70a24696590bf023d2ee",
+    "Name": "Jab 1",
+    "OwnerId": 16,
+    "Owner": "Greninja",
+    "HitboxActive": "3-6",
+    "FirstActionableFrame": "22",
+    "BaseDamage": "2",
+    "Angle": "70/60/80",
+    "BaseKnockBackSetKnockback": "30",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "30",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70a24696590bf023d2ee"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Greninja"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70a24696590bf023d2ef",
+    "Name": "Jab 2",
+    "OwnerId": 16,
+    "Owner": "Greninja",
+    "HitboxActive": "3-4",
+    "FirstActionableFrame": "22",
+    "BaseDamage": "1.6",
+    "Angle": "70/60/90",
+    "BaseKnockBackSetKnockback": "30",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "50",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70a24696590bf023d2ef"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Greninja"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70a24696590bf023d2f0",
+    "Name": "Jab 3",
+    "OwnerId": 16,
+    "Owner": "Greninja",
+    "HitboxActive": "5-9",
+    "FirstActionableFrame": "36",
+    "BaseDamage": "3.5",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "60",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70a24696590bf023d2f0"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Greninja"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70a24696590bf023d2f1",
+    "Name": "Rapid Jab Finisher",
+    "OwnerId": 16,
+    "Owner": "Greninja",
+    "HitboxActive": "4-5",
+    "FirstActionableFrame": "36",
+    "BaseDamage": "2",
+    "Angle": "45",
+    "BaseKnockBackSetKnockback": "60",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "120",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70a24696590bf023d2f1"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Greninja"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70a24696590bf023d2f2",
+    "Name": "Dash Attack",
+    "OwnerId": 16,
+    "Owner": "Greninja",
+    "HitboxActive": "7-10",
+    "FirstActionableFrame": "31",
+    "BaseDamage": "7",
+    "Angle": "60",
+    "BaseKnockBackSetKnockback": "100",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "40",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70a24696590bf023d2f2"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Greninja"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70a24696590bf023d2f3",
+    "Name": "Ftilt (All Angles)",
+    "OwnerId": 16,
+    "Owner": "Greninja",
+    "HitboxActive": "10-12",
+    "FirstActionableFrame": "33",
+    "BaseDamage": "7.3",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "20/30/40",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "110/90/70",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70a24696590bf023d2f3"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Greninja"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70a24696590bf023d2f4",
+    "Name": "Utilt",
+    "OwnerId": 16,
+    "Owner": "Greninja",
+    "HitboxActive": "9-12",
+    "FirstActionableFrame": "33",
+    "BaseDamage": "4.5",
+    "Angle": "92/90/80",
+    "BaseKnockBackSetKnockback": "60",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70a24696590bf023d2f4"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Greninja"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70a24696590bf023d2f5",
+    "Name": "Dtilt",
+    "OwnerId": 16,
+    "Owner": "Greninja",
+    "HitboxActive": "5-6",
+    "FirstActionableFrame": "27",
+    "BaseDamage": "7",
+    "Angle": "70",
+    "BaseKnockBackSetKnockback": "60",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "40",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70a24696590bf023d2f5"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Greninja"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70a24696590bf023d2f6",
+    "Name": "Fsmash",
+    "OwnerId": 16,
+    "Owner": "Greninja",
+    "HitboxActive": "13-15",
+    "FirstActionableFrame": "50",
+    "BaseDamage": "14",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "30",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "101",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70a24696590bf023d2f6"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Greninja"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70a24696590bf023d2f7",
+    "Name": "Usmash (Hit 1)",
+    "OwnerId": 16,
+    "Owner": "Greninja",
+    "HitboxActive": "12-17",
+    "FirstActionableFrame": "52",
+    "BaseDamage": "5",
+    "Angle": "366",
+    "BaseKnockBackSetKnockback": "30",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "120",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70a24696590bf023d2f7"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Greninja"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70a24696590bf023d2f8",
+    "Name": "Usmash (Hit 2, Early)",
+    "OwnerId": 16,
+    "Owner": "Greninja",
+    "HitboxActive": "18",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "14/11/11/11/11",
+    "Angle": "90/44/44/44/44",
+    "BaseKnockBackSetKnockback": "30",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "104/100/100/100/100",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70a24696590bf023d2f8"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Greninja"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70a24696590bf023d2f9",
+    "Name": "Usmash (Hit 2)",
+    "OwnerId": 16,
+    "Owner": "Greninja",
+    "HitboxActive": "19-20",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "11",
+    "Angle": "44",
+    "BaseKnockBackSetKnockback": "30",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70a24696590bf023d2f9"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Greninja"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70a24696590bf023d2fa",
+    "Name": "Usmash (Hit 2, Late)",
+    "OwnerId": 16,
+    "Owner": "Greninja",
+    "HitboxActive": "21",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "10",
+    "Angle": "40",
+    "BaseKnockBackSetKnockback": "30",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "98",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70a24696590bf023d2fa"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Greninja"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70a24696590bf023d2fb",
+    "Name": "Dsmash",
+    "OwnerId": 16,
+    "Owner": "Greninja",
+    "HitboxActive": "16-18",
+    "FirstActionableFrame": "55",
+    "BaseDamage": "13/13/11/11",
+    "Angle": "30",
+    "BaseKnockBackSetKnockback": "32",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "92",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70a24696590bf023d2fb"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Greninja"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70a24696590bf023d2fc",
+    "Name": "Down Taunt",
+    "OwnerId": 16,
+    "Owner": "Greninja",
+    "HitboxActive": "30-73 (Rehit rate: 3)",
+    "FirstActionableFrame": "80",
+    "BaseDamage": "0.5",
+    "Angle": "90",
+    "BaseKnockBackSetKnockback": "70",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70a24696590bf023d2fc"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Greninja"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70a24696590bf023d2fd",
+    "Name": "Standing Grab",
+    "OwnerId": 16,
+    "Owner": "Greninja",
+    "HitboxActive": "11-12",
+    "FirstActionableFrame": "29",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70a24696590bf023d2fd"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Greninja"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70a24696590bf023d2fe",
+    "Name": "Dash Grab",
+    "OwnerId": 16,
+    "Owner": "Greninja",
+    "HitboxActive": "9-10",
+    "FirstActionableFrame": "38",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70a24696590bf023d2fe"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Greninja"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70a24696590bf023d2ff",
+    "Name": "Pivot Grab",
+    "OwnerId": 16,
+    "Owner": "Greninja",
+    "HitboxActive": "15-16",
+    "FirstActionableFrame": "37",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70a24696590bf023d2ff"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Greninja"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70a24696590bf023d300",
+    "Name": "Spotdodge",
+    "OwnerId": 16,
+    "Owner": "Greninja",
+    "HitboxActive": "2-16",
+    "FirstActionableFrame": "26",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70a24696590bf023d300"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Greninja"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70a24696590bf023d301",
+    "Name": "Forward Roll",
+    "OwnerId": 16,
+    "Owner": "Greninja",
+    "HitboxActive": "4-14",
+    "FirstActionableFrame": "30",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70a24696590bf023d301"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Greninja"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70a24696590bf023d302",
+    "Name": "Back Roll",
+    "OwnerId": 16,
+    "Owner": "Greninja",
+    "HitboxActive": "4-14",
+    "FirstActionableFrame": "33",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70a24696590bf023d302"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Greninja"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70a24696590bf023d303",
+    "Name": "Airdodge",
+    "OwnerId": 16,
+    "Owner": "Greninja",
+    "HitboxActive": "2-26",
+    "FirstActionableFrame": "32",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70a24696590bf023d303"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Greninja"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70a24696590bf023d304",
+    "Name": "Nair",
+    "OwnerId": 16,
+    "Owner": "Greninja",
+    "HitboxActive": "12-13",
+    "FirstActionableFrame": "65",
+    "BaseDamage": "11",
+    "Angle": "60",
+    "BaseKnockBackSetKnockback": "30",
+    "LandingLag": "12",
+    "AutoCancel": "1-9, 40&gt;",
+    "KnockbackGrowth": "95",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70a24696590bf023d304"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Greninja"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70a24696590bf023d305",
+    "Name": "Nair (Late)",
+    "OwnerId": 16,
+    "Owner": "Greninja",
+    "HitboxActive": "14-16",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "6",
+    "Angle": "60",
+    "BaseKnockBackSetKnockback": "30",
+    "LandingLag": "-",
+    "AutoCancel": "-",
+    "KnockbackGrowth": "95",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70a24696590bf023d305"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Greninja"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70a24696590bf023d306",
+    "Name": "Fair",
+    "OwnerId": 16,
+    "Owner": "Greninja",
+    "HitboxActive": "16-17",
+    "FirstActionableFrame": "55",
+    "BaseDamage": "14",
+    "Angle": "45",
+    "BaseKnockBackSetKnockback": "30",
+    "LandingLag": "15",
+    "AutoCancel": "1-12, 40&gt;",
+    "KnockbackGrowth": "84",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70a24696590bf023d306"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Greninja"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70a24696590bf023d307",
+    "Name": "Bair (Hit 1)",
+    "OwnerId": 16,
+    "Owner": "Greninja",
+    "HitboxActive": "5",
+    "FirstActionableFrame": "46",
+    "BaseDamage": "3",
+    "Angle": "365/30/30",
+    "BaseKnockBackSetKnockback": "W: 0/100/130",
+    "LandingLag": "13",
+    "AutoCancel": "1-3, 35&gt;",
+    "KnockbackGrowth": "100",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70a24696590bf023d307"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Greninja"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70a24696590bf023d308",
+    "Name": "Bair (Hit 2)",
+    "OwnerId": 16,
+    "Owner": "Greninja",
+    "HitboxActive": "8",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "2.5",
+    "Angle": "365/40/35",
+    "BaseKnockBackSetKnockback": "W: 0/105/140",
+    "LandingLag": "-",
+    "AutoCancel": "-",
+    "KnockbackGrowth": "100",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70a24696590bf023d308"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Greninja"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70a24696590bf023d309",
+    "Name": "Bair (Hit 3)",
+    "OwnerId": 16,
+    "Owner": "Greninja",
+    "HitboxActive": "13-16",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "4",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "60",
+    "LandingLag": "-",
+    "AutoCancel": "-",
+    "KnockbackGrowth": "120",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70a24696590bf023d309"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Greninja"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70a24696590bf023d30a",
+    "Name": "Uair (Hits 1-4)",
+    "OwnerId": 16,
+    "Owner": "Greninja",
+    "HitboxActive": "7-8, 9-10, 11-12, 13-14",
+    "FirstActionableFrame": "42",
+    "BaseDamage": "1.3",
+    "Angle": "366",
+    "BaseKnockBackSetKnockback": "45",
+    "LandingLag": "16",
+    "AutoCancel": "1-2, 35&gt;",
+    "KnockbackGrowth": "100",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70a24696590bf023d30a"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Greninja"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70a24696590bf023d30b",
+    "Name": "Uair (Hit 5)",
+    "OwnerId": 16,
+    "Owner": "Greninja",
+    "HitboxActive": "15-16",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "1.3",
+    "Angle": "85",
+    "BaseKnockBackSetKnockback": "W: 10 B: 45",
+    "LandingLag": "-",
+    "AutoCancel": "-",
+    "KnockbackGrowth": "100",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70a24696590bf023d30b"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Greninja"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70a24696590bf023d30c",
+    "Name": "Uair (Hit 6)",
+    "OwnerId": 16,
+    "Owner": "Greninja",
+    "HitboxActive": "17",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "3",
+    "Angle": "75",
+    "BaseKnockBackSetKnockback": "40",
+    "LandingLag": "-",
+    "AutoCancel": "-",
+    "KnockbackGrowth": "168",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70a24696590bf023d30c"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Greninja"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70a24696590bf023d30d",
+    "Name": "Dair",
+    "OwnerId": 16,
+    "Owner": "Greninja",
+    "HitboxActive": "17-19",
+    "FirstActionableFrame": "57 (On Hit: 13)",
+    "BaseDamage": "8",
+    "Angle": "270",
+    "BaseKnockBackSetKnockback": "20",
+    "LandingLag": "33",
+    "AutoCancel": "1-2, 53&gt;",
+    "KnockbackGrowth": "95",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70a24696590bf023d30d"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Greninja"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70a24696590bf023d30e",
+    "Name": "Dair (Late)",
+    "OwnerId": 16,
+    "Owner": "Greninja",
+    "HitboxActive": "20-45",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "8",
+    "Angle": "60",
+    "BaseKnockBackSetKnockback": "35",
+    "LandingLag": "-",
+    "AutoCancel": "-",
+    "KnockbackGrowth": "95",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70a24696590bf023d30e"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Greninja"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70a24696590bf023d30f",
+    "Name": "Water Shuriken (Uncharged)",
+    "OwnerId": 16,
+    "Owner": "Greninja",
+    "HitboxActive": "20-",
+    "FirstActionableFrame": "46",
+    "BaseDamage": "3",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "60",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70a24696590bf023d30f"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Greninja"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70a24696590bf023d310",
+    "Name": "Water Shuriken (Full Charge)",
+    "OwnerId": 16,
+    "Owner": "Greninja",
+    "HitboxActive": "60-100 (Rehit rate: 6)",
+    "FirstActionableFrame": "86",
+    "BaseDamage": "0.7",
+    "Angle": "21",
+    "BaseKnockBackSetKnockback": "W: 50",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70a24696590bf023d310"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Greninja"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70a24696590bf023d311",
+    "Name": "Water Shuriken (Full Charge, Final Hit)",
+    "OwnerId": 16,
+    "Owner": "Greninja",
+    "HitboxActive": "106",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "9",
+    "Angle": "60",
+    "BaseKnockBackSetKnockback": "40",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "122",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70a24696590bf023d311"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Greninja"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70a24696590bf023d312",
+    "Name": "Shadow Sneak (Charge)",
+    "OwnerId": 16,
+    "Owner": "Greninja",
+    "HitboxActive": "Hold Charge Until:",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "-",
+    "Angle": "-",
+    "BaseKnockBackSetKnockback": "-",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "-",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70a24696590bf023d312"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Greninja"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70a24696590bf023d313",
+    "Name": "Shadow Sneak (Front Attack)",
+    "OwnerId": 16,
+    "Owner": "Greninja",
+    "HitboxActive": "27-28",
+    "FirstActionableFrame": "67",
+    "BaseDamage": "10",
+    "Angle": "48",
+    "BaseKnockBackSetKnockback": "60",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "104",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70a24696590bf023d313"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Greninja"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70a24696590bf023d314",
+    "Name": "Shadow Sneak (Back Attack)",
+    "OwnerId": 16,
+    "Owner": "Greninja",
+    "HitboxActive": "27-28",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "12",
+    "Angle": "48",
+    "BaseKnockBackSetKnockback": "60",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "103",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70a24696590bf023d314"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Greninja"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70a24696590bf023d315",
+    "Name": "Hydro Pump",
+    "OwnerId": 16,
+    "Owner": "Greninja",
+    "HitboxActive": "19-31, 24-36, 30-42, 35-47",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "2",
+    "Angle": "58",
+    "BaseKnockBackSetKnockback": "65",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70a24696590bf023d315"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Greninja"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70a24696590bf023d316",
+    "Name": "Substitute",
+    "OwnerId": 16,
+    "Owner": "Greninja",
+    "HitboxActive": "Counters: 8-29 (Intangible: 8-19)",
+    "FirstActionableFrame": "65",
+    "BaseDamage": "-",
+    "Angle": "-",
+    "BaseKnockBackSetKnockback": "-",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "-",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70a24696590bf023d316"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Greninja"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70a24696590bf023d317",
+    "Name": "Substitute (Attack, Neutral/Side)",
+    "OwnerId": 16,
+    "Owner": "Greninja",
+    "HitboxActive": "41-65 (Intangible: 1-37)",
+    "FirstActionableFrame": "85",
+    "BaseDamage": "11",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "62",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70a24696590bf023d317"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Greninja"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70a24696590bf023d318",
+    "Name": "Substitute (Attack, Up)",
+    "OwnerId": 16,
+    "Owner": "Greninja",
+    "HitboxActive": "41-65 (Intangible: 1-37)",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "14",
+    "Angle": "90",
+    "BaseKnockBackSetKnockback": "50",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70a24696590bf023d318"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Greninja"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70a24696590bf023d319",
+    "Name": "Substitute (Attack, Up Diagonal)",
+    "OwnerId": 16,
+    "Owner": "Greninja",
+    "HitboxActive": "41-65 (Intangible: 1-37)",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "13",
+    "Angle": "60",
+    "BaseKnockBackSetKnockback": "62",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70a24696590bf023d319"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Greninja"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70a24696590bf023d31a",
+    "Name": "Substitute (Attack, Down)",
+    "OwnerId": 16,
+    "Owner": "Greninja",
+    "HitboxActive": "41-65 (Intangible: 1-37)",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "14",
+    "Angle": "45/270",
+    "BaseKnockBackSetKnockback": "50",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70a24696590bf023d31a"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Greninja"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70a24696590bf023d31b",
+    "Name": "Substitute (Attack, Down Diagonal)",
+    "OwnerId": 16,
+    "Owner": "Greninja",
+    "HitboxActive": "41-65 (Intangible: 1-37)",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "13",
+    "Angle": "25",
+    "BaseKnockBackSetKnockback": "62",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "72",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70a24696590bf023d31b"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Greninja"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70a24696590bf023d31c",
+    "Name": "Fthrow",
+    "OwnerId": 16,
+    "Owner": "Greninja",
+    "HitboxActive": null,
+    "FirstActionableFrame": null,
+    "BaseDamage": "5",
+    "Angle": "50",
+    "BaseKnockBackSetKnockback": "70",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "45",
+    "MoveType": "throw",
+    "IsWeightDependent": true,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70a24696590bf023d31c"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Greninja"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70a24696590bf023d31d",
+    "Name": "Bthrow",
+    "OwnerId": 16,
+    "Owner": "Greninja",
+    "HitboxActive": null,
+    "FirstActionableFrame": null,
+    "BaseDamage": "8",
+    "Angle": "140",
+    "BaseKnockBackSetKnockback": "55",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "60",
+    "MoveType": "throw",
+    "IsWeightDependent": true,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70a24696590bf023d31d"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Greninja"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70a24696590bf023d31e",
+    "Name": "Uthrow",
+    "OwnerId": 16,
+    "Owner": "Greninja",
+    "HitboxActive": null,
+    "FirstActionableFrame": null,
+    "BaseDamage": "5",
+    "Angle": "93",
+    "BaseKnockBackSetKnockback": "60",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "120",
+    "MoveType": "throw",
+    "IsWeightDependent": true,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70a24696590bf023d31e"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Greninja"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70a24696590bf023d31f",
+    "Name": "Dthrow",
+    "OwnerId": 16,
+    "Owner": "Greninja",
+    "HitboxActive": null,
+    "FirstActionableFrame": null,
+    "BaseDamage": "5",
+    "Angle": "65",
+    "BaseKnockBackSetKnockback": "53",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "75",
+    "MoveType": "throw",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70a24696590bf023d31f"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Greninja"
+      }
+    ]
+  }
+]

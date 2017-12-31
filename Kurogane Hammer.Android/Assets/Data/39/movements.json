@@ -1,0 +1,308 @@
+﻿[
+  {
+    "InstanceId": "598e70de4696590bf023db11",
+    "Name": "Weight",
+    "OwnerId": 39,
+    "Owner": "Palutena",
+    "Value": "91 ",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e70de4696590bf023db11"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Palutena"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70de4696590bf023db12",
+    "Name": "Max Jumps",
+    "OwnerId": 39,
+    "Owner": "Palutena",
+    "Value": "2",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e70de4696590bf023db12"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Palutena"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70de4696590bf023db13",
+    "Name": "Run Speed",
+    "OwnerId": 39,
+    "Owner": "Palutena",
+    "Value": "1.888 ",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e70de4696590bf023db13"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Palutena"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70de4696590bf023db14",
+    "Name": "Wall Jump",
+    "OwnerId": 39,
+    "Owner": "Palutena",
+    "Value": "No",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e70de4696590bf023db14"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Palutena"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70de4696590bf023db15",
+    "Name": "Walk Speed",
+    "OwnerId": 39,
+    "Owner": "Palutena",
+    "Value": "1.21 ",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e70de4696590bf023db15"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Palutena"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70de4696590bf023db16",
+    "Name": "Wall Cling",
+    "OwnerId": 39,
+    "Owner": "Palutena",
+    "Value": "No",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e70de4696590bf023db16"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Palutena"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70de4696590bf023db17",
+    "Name": "Air Speed",
+    "OwnerId": 39,
+    "Owner": "Palutena",
+    "Value": "0.91 ",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e70de4696590bf023db17"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Palutena"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70de4696590bf023db18",
+    "Name": "Crawl",
+    "OwnerId": 39,
+    "Owner": "Palutena",
+    "Value": "No",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e70de4696590bf023db18"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Palutena"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70de4696590bf023db19",
+    "Name": "Fall Speed",
+    "OwnerId": 39,
+    "Owner": "Palutena",
+    "Value": "1.4 ",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e70de4696590bf023db19"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Palutena"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70de4696590bf023db1a",
+    "Name": "Tether",
+    "OwnerId": 39,
+    "Owner": "Palutena",
+    "Value": "No",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e70de4696590bf023db1a"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Palutena"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70de4696590bf023db1b",
+    "Name": "Fast Fall Speed",
+    "OwnerId": 39,
+    "Owner": "Palutena",
+    "Value": "2.24 ",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e70de4696590bf023db1b"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Palutena"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70de4696590bf023db1c",
+    "Name": "Jumpsquat",
+    "OwnerId": 39,
+    "Owner": "Palutena",
+    "Value": "5 frames",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e70de4696590bf023db1c"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Palutena"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70de4696590bf023db1d",
+    "Name": "Air Acceleration",
+    "OwnerId": 39,
+    "Owner": "Palutena",
+    "Value": "0.1",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e70de4696590bf023db1d"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Palutena"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70de4696590bf023db1e",
+    "Name": "Soft Landing Lag",
+    "OwnerId": 39,
+    "Owner": "Palutena",
+    "Value": "2 frames",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e70de4696590bf023db1e"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Palutena"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70de4696590bf023db1f",
+    "Name": "Gravity",
+    "OwnerId": 39,
+    "Owner": "Palutena",
+    "Value": "0.105",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e70de4696590bf023db1f"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Palutena"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70de4696590bf023db20",
+    "Name": "Hard Landing Lag",
+    "OwnerId": 39,
+    "Owner": "Palutena",
+    "Value": "4 frames",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e70de4696590bf023db20"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Palutena"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70de4696590bf023db21",
+    "Name": "SH Air Time",
+    "OwnerId": 39,
+    "Owner": "Palutena",
+    "Value": "37 frames",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e70de4696590bf023db21"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Palutena"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70de4696590bf023db22",
+    "Name": "FH Air Time",
+    "OwnerId": 39,
+    "Owner": "Palutena",
+    "Value": "58 frames",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e70de4696590bf023db22"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Palutena"
+      }
+    ]
+  }
+]

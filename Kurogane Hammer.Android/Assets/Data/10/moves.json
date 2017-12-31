@@ -1,0 +1,1432 @@
+﻿[
+  {
+    "InstanceId": "598e70924696590bf023d0e0",
+    "Name": "Jab 1",
+    "OwnerId": 10,
+    "Owner": "DonkeyKong",
+    "HitboxActive": "5-6",
+    "FirstActionableFrame": "25",
+    "BaseDamage": "4",
+    "Angle": "361/110/361/130",
+    "BaseKnockBackSetKnockback": "0/35/0/45",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100/25/100/25",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70924696590bf023d0e0"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DonkeyKong"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70924696590bf023d0e1",
+    "Name": "Jab 2",
+    "OwnerId": 10,
+    "Owner": "DonkeyKong",
+    "HitboxActive": "6-7",
+    "FirstActionableFrame": "35",
+    "BaseDamage": "6",
+    "Angle": "70",
+    "BaseKnockBackSetKnockback": "40",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70924696590bf023d0e1"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DonkeyKong"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70924696590bf023d0e2",
+    "Name": "Dash Attack",
+    "OwnerId": 10,
+    "Owner": "DonkeyKong",
+    "HitboxActive": "9-12",
+    "FirstActionableFrame": "42",
+    "BaseDamage": "10 (+1)",
+    "Angle": "53",
+    "BaseKnockBackSetKnockback": "85",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "53",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70924696590bf023d0e2"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DonkeyKong"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70924696590bf023d0e3",
+    "Name": "Dash Attack (Late)",
+    "OwnerId": 10,
+    "Owner": "DonkeyKong",
+    "HitboxActive": "13-24",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "8 (+1)",
+    "Angle": "45",
+    "BaseKnockBackSetKnockback": "60",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "65",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70924696590bf023d0e3"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DonkeyKong"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70924696590bf023d0e4",
+    "Name": "Ftilt (High)",
+    "OwnerId": 10,
+    "Owner": "DonkeyKong",
+    "HitboxActive": "9-11 (Arm Intangibility: 7-11)",
+    "FirstActionableFrame": "38",
+    "BaseDamage": "11",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "10",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70924696590bf023d0e4"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DonkeyKong"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70924696590bf023d0e5",
+    "Name": "Ftilt",
+    "OwnerId": 10,
+    "Owner": "DonkeyKong",
+    "HitboxActive": "9-11 (Arm Intangibility: 1-25)",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "10",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "10",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70924696590bf023d0e5"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DonkeyKong"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70924696590bf023d0e6",
+    "Name": "Ftilt (Low)",
+    "OwnerId": 10,
+    "Owner": "DonkeyKong",
+    "HitboxActive": "9-11 (Arm Intangibility: 1-25)",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "9",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "10",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70924696590bf023d0e6"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DonkeyKong"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70924696590bf023d0e7",
+    "Name": "Utilt",
+    "OwnerId": 10,
+    "Owner": "DonkeyKong",
+    "HitboxActive": "5-11 (Arm Intangibility: 5-25)",
+    "FirstActionableFrame": "39",
+    "BaseDamage": "9/10/11",
+    "Angle": "100",
+    "BaseKnockBackSetKnockback": "40",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "105/110/115",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70924696590bf023d0e7"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DonkeyKong"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70924696590bf023d0e8",
+    "Name": "Dtilt",
+    "OwnerId": 10,
+    "Owner": "DonkeyKong",
+    "HitboxActive": "7-9 (Arm Intangibility: 1-9)",
+    "FirstActionableFrame": "23",
+    "BaseDamage": "7/7/6",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "10",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "80",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70924696590bf023d0e8"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DonkeyKong"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70924696590bf023d0e9",
+    "Name": "Fsmash",
+    "OwnerId": 10,
+    "Owner": "DonkeyKong",
+    "HitboxActive": "22-23 (Head and Arms Intangible: 20-26)",
+    "FirstActionableFrame": "55",
+    "BaseDamage": "20/19",
+    "Angle": "46/361",
+    "BaseKnockBackSetKnockback": "30/25",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "91",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70924696590bf023d0e9"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DonkeyKong"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70924696590bf023d0ea",
+    "Name": "Usmash",
+    "OwnerId": 10,
+    "Owner": "DonkeyKong",
+    "HitboxActive": "14-15 (Head and Arms Intangible: 12-15)",
+    "FirstActionableFrame": "50",
+    "BaseDamage": "18 (+4)",
+    "Angle": "90",
+    "BaseKnockBackSetKnockback": "30",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "83",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70924696590bf023d0ea"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DonkeyKong"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70924696590bf023d0eb",
+    "Name": "Dsmash",
+    "OwnerId": 10,
+    "Owner": "DonkeyKong",
+    "HitboxActive": "11-12 (Arms Intangible: 11-14)",
+    "FirstActionableFrame": "56",
+    "BaseDamage": "17/17/14/14 (+1)",
+    "Angle": "70/70/82/82",
+    "BaseKnockBackSetKnockback": "35",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "88",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70924696590bf023d0eb"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DonkeyKong"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70924696590bf023d0ec",
+    "Name": "Dsmash (Late)",
+    "OwnerId": 10,
+    "Owner": "DonkeyKong",
+    "HitboxActive": "13-14",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "18/18/14/14",
+    "Angle": "55/55/98/98",
+    "BaseKnockBackSetKnockback": "30/30/35/35",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "88",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70924696590bf023d0ec"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DonkeyKong"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70924696590bf023d0ed",
+    "Name": "Standing Grab",
+    "OwnerId": 10,
+    "Owner": "DonkeyKong",
+    "HitboxActive": "8-9",
+    "FirstActionableFrame": "31",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70924696590bf023d0ed"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DonkeyKong"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70924696590bf023d0ee",
+    "Name": "Dash Grab",
+    "OwnerId": 10,
+    "Owner": "DonkeyKong",
+    "HitboxActive": "10-11",
+    "FirstActionableFrame": "39",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70924696590bf023d0ee"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DonkeyKong"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70924696590bf023d0ef",
+    "Name": "Pivot Grab",
+    "OwnerId": 10,
+    "Owner": "DonkeyKong",
+    "HitboxActive": "11-12",
+    "FirstActionableFrame": "37",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70924696590bf023d0ef"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DonkeyKong"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70924696590bf023d0f0",
+    "Name": "Spotdodge",
+    "OwnerId": 10,
+    "Owner": "DonkeyKong",
+    "HitboxActive": "4-19",
+    "FirstActionableFrame": "29",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70924696590bf023d0f0"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DonkeyKong"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70924696590bf023d0f1",
+    "Name": "Forward Roll",
+    "OwnerId": 10,
+    "Owner": "DonkeyKong",
+    "HitboxActive": "4-16",
+    "FirstActionableFrame": "30",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70924696590bf023d0f1"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DonkeyKong"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70924696590bf023d0f2",
+    "Name": "Back Roll",
+    "OwnerId": 10,
+    "Owner": "DonkeyKong",
+    "HitboxActive": "4-16",
+    "FirstActionableFrame": "30",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70924696590bf023d0f2"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DonkeyKong"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70924696590bf023d0f3",
+    "Name": "Airdodge",
+    "OwnerId": 10,
+    "Owner": "DonkeyKong",
+    "HitboxActive": "4-29",
+    "FirstActionableFrame": "35",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70924696590bf023d0f3"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DonkeyKong"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70924696590bf023d0f4",
+    "Name": "Nair",
+    "OwnerId": 10,
+    "Owner": "DonkeyKong",
+    "HitboxActive": "10-13",
+    "FirstActionableFrame": "39",
+    "BaseDamage": "11",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "20",
+    "LandingLag": "17",
+    "AutoCancel": "1-9, 27&gt;",
+    "KnockbackGrowth": "100",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70924696590bf023d0f4"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DonkeyKong"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70924696590bf023d0f5",
+    "Name": "Nair (Late)",
+    "OwnerId": 10,
+    "Owner": "DonkeyKong",
+    "HitboxActive": "14-26",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "8",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "10",
+    "LandingLag": "-",
+    "AutoCancel": "-",
+    "KnockbackGrowth": "100",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70924696590bf023d0f5"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DonkeyKong"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70924696590bf023d0f6",
+    "Name": "Fair",
+    "OwnerId": 10,
+    "Owner": "DonkeyKong",
+    "HitboxActive": "18-20",
+    "FirstActionableFrame": "56",
+    "BaseDamage": "16",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "20",
+    "LandingLag": "29",
+    "AutoCancel": "78&gt;",
+    "KnockbackGrowth": "85",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70924696590bf023d0f6"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DonkeyKong"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70924696590bf023d0f7",
+    "Name": "Fair (Late, Meteor)",
+    "OwnerId": 10,
+    "Owner": "DonkeyKong",
+    "HitboxActive": "21-22",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "15/13",
+    "Angle": "270/361",
+    "BaseKnockBackSetKnockback": "30",
+    "LandingLag": "-",
+    "AutoCancel": "-",
+    "KnockbackGrowth": "100",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70924696590bf023d0f7"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DonkeyKong"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70924696590bf023d0f8",
+    "Name": "Bair",
+    "OwnerId": 10,
+    "Owner": "DonkeyKong",
+    "HitboxActive": "7-8",
+    "FirstActionableFrame": "32",
+    "BaseDamage": "13",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "20",
+    "LandingLag": "18",
+    "AutoCancel": "1-6, 31&gt;",
+    "KnockbackGrowth": "97",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70924696590bf023d0f8"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DonkeyKong"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70924696590bf023d0f9",
+    "Name": "Bair (Late)",
+    "OwnerId": 10,
+    "Owner": "DonkeyKong",
+    "HitboxActive": "9-16",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "8",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "10",
+    "LandingLag": "-",
+    "AutoCancel": "-",
+    "KnockbackGrowth": "100",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70924696590bf023d0f9"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DonkeyKong"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70924696590bf023d0fa",
+    "Name": "Uair",
+    "OwnerId": 10,
+    "Owner": "DonkeyKong",
+    "HitboxActive": "6-10 (Head Intangible: 1-10)",
+    "FirstActionableFrame": "38",
+    "BaseDamage": "13",
+    "Angle": "90",
+    "BaseKnockBackSetKnockback": "32",
+    "LandingLag": "25",
+    "AutoCancel": "1-5, 26&gt;",
+    "KnockbackGrowth": "90",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70924696590bf023d0fa"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DonkeyKong"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70924696590bf023d0fb",
+    "Name": "Dair",
+    "OwnerId": 10,
+    "Owner": "DonkeyKong",
+    "HitboxActive": "14-16",
+    "FirstActionableFrame": "55",
+    "BaseDamage": "16/13",
+    "Angle": "270/361",
+    "BaseKnockBackSetKnockback": "30/20",
+    "LandingLag": "24",
+    "AutoCancel": "1-2, 50&gt;",
+    "KnockbackGrowth": "90",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70924696590bf023d0fb"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DonkeyKong"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70924696590bf023d0fc",
+    "Name": "Giant Punch",
+    "OwnerId": 10,
+    "Owner": "DonkeyKong",
+    "HitboxActive": "Swings to Charge: 10",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "Extra Damage per Swing: 2%",
+    "Angle": "-",
+    "BaseKnockBackSetKnockback": "-",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "-",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70924696590bf023d0fc"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DonkeyKong"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70924696590bf023d0fd",
+    "Name": "Giant Punch (Uncharged)",
+    "OwnerId": 10,
+    "Owner": "DonkeyKong",
+    "HitboxActive": "18 (Arm Intangible: 4-20)",
+    "FirstActionableFrame": "63",
+    "BaseDamage": "12",
+    "Angle": "80",
+    "BaseKnockBackSetKnockback": "15",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70924696590bf023d0fd"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DonkeyKong"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70924696590bf023d0fe",
+    "Name": "Giant Punch (Uncharged, Late)",
+    "OwnerId": 10,
+    "Owner": "DonkeyKong",
+    "HitboxActive": "19-20",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "10",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "15",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70924696590bf023d0fe"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DonkeyKong"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70924696590bf023d0ff",
+    "Name": "Giant Punch (Full Charge)",
+    "OwnerId": 10,
+    "Owner": "DonkeyKong",
+    "HitboxActive": "19-20 (Super Armor: 11-20)",
+    "FirstActionableFrame": "48",
+    "BaseDamage": "28/28/28/18",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "10",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "80/80/80/50",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70924696590bf023d0ff"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DonkeyKong"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70924696590bf023d100",
+    "Name": "Giant Punch (Uncharged, Aerial)",
+    "OwnerId": 10,
+    "Owner": "DonkeyKong",
+    "HitboxActive": "18",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "8",
+    "Angle": "80",
+    "BaseKnockBackSetKnockback": "15",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70924696590bf023d100"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DonkeyKong"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70924696590bf023d101",
+    "Name": "Giant Punch (Uncharged, Aerial, Late)",
+    "OwnerId": 10,
+    "Owner": "DonkeyKong",
+    "HitboxActive": "19-20",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "6",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "15",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100/100/60",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70924696590bf023d101"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DonkeyKong"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70924696590bf023d102",
+    "Name": "Giant Punch (Full Charge, Aerial)",
+    "OwnerId": 10,
+    "Owner": "DonkeyKong",
+    "HitboxActive": "18 (Super Armor: 17-20)",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "15",
+    "Angle": "80",
+    "BaseKnockBackSetKnockback": "40",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "80",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70924696590bf023d102"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DonkeyKong"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70924696590bf023d103",
+    "Name": "Giant Punch (Full Charge, Aerial, Late)",
+    "OwnerId": 10,
+    "Owner": "DonkeyKong",
+    "HitboxActive": "19-20",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "25/25/25/20",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "10",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "80/80/80/50",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70924696590bf023d103"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DonkeyKong"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70924696590bf023d104",
+    "Name": "Headbutt (Ground)",
+    "OwnerId": 10,
+    "Owner": "DonkeyKong",
+    "HitboxActive": "20-21",
+    "FirstActionableFrame": "64",
+    "BaseDamage": "10/8 (+25)",
+    "Angle": "270/70",
+    "BaseKnockBackSetKnockback": "20/15",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "40",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70924696590bf023d104"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DonkeyKong"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70924696590bf023d105",
+    "Name": "Headbutt (Air)",
+    "OwnerId": 10,
+    "Owner": "DonkeyKong",
+    "HitboxActive": "20-21",
+    "FirstActionableFrame": "64",
+    "BaseDamage": "10/8 (+25)",
+    "Angle": "270/70",
+    "BaseKnockBackSetKnockback": "30/15",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "40",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70924696590bf023d105"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DonkeyKong"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70924696590bf023d106",
+    "Name": "Spinning Kong (Hit 1, Grounded)",
+    "OwnerId": 10,
+    "Owner": "DonkeyKong",
+    "HitboxActive": "19 (Super Armor 8-17, Arms Intangible: 19-24)",
+    "FirstActionableFrame": "93",
+    "BaseDamage": "7",
+    "Angle": "361/140/140",
+    "BaseKnockBackSetKnockback": "60",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "90",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70924696590bf023d106"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DonkeyKong"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70924696590bf023d107",
+    "Name": "Spinning Kong (Grounded)",
+    "OwnerId": 10,
+    "Owner": "DonkeyKong",
+    "HitboxActive": "25-58 (Rehit rate: 7)",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "1.3",
+    "Angle": "20/180/180",
+    "BaseKnockBackSetKnockback": "W: 150/45/45",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100/50/50",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70924696590bf023d107"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DonkeyKong"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70924696590bf023d108",
+    "Name": "Spinning Kong (Final Hit, Grounded)",
+    "OwnerId": 10,
+    "Owner": "DonkeyKong",
+    "HitboxActive": "62",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "4",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "40",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "170",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70924696590bf023d108"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DonkeyKong"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70924696590bf023d109",
+    "Name": "Spinning Kong (Hit 1, Aerial)",
+    "OwnerId": 10,
+    "Owner": "DonkeyKong",
+    "HitboxActive": "4-6 (Intangible: 3-6)",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "10",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "40",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "80",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70924696590bf023d109"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DonkeyKong"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70924696590bf023d10a",
+    "Name": "Spinning Kong (Hits 2-5, Aerial)",
+    "OwnerId": 10,
+    "Owner": "DonkeyKong",
+    "HitboxActive": "12-19, 20-27, 28-35, 36-43 (Arm intangibility: 12-43)",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "5/5/4/4",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "20",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "70",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70924696590bf023d10a"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DonkeyKong"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70924696590bf023d10b",
+    "Name": "Spinning Kong (Hits 6-8, Aerial)",
+    "OwnerId": 10,
+    "Owner": "DonkeyKong",
+    "HitboxActive": "44-51, 52-59, 60-67",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "2",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "0",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70924696590bf023d10b"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DonkeyKong"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70924696590bf023d10c",
+    "Name": "Hand Slap",
+    "OwnerId": 10,
+    "Owner": "DonkeyKong",
+    "HitboxActive": "19-20, 30-31... (Ground Only)",
+    "FirstActionableFrame": "75",
+    "BaseDamage": "14 (+1)",
+    "Angle": "78/84/84/78",
+    "BaseKnockBackSetKnockback": "82",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "23",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70924696590bf023d10c"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DonkeyKong"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70924696590bf023d10d",
+    "Name": "Hand Slap (Hit 1, Aerial)",
+    "OwnerId": 10,
+    "Owner": "DonkeyKong",
+    "HitboxActive": "19-21",
+    "FirstActionableFrame": "62",
+    "BaseDamage": "5",
+    "Angle": "90",
+    "BaseKnockBackSetKnockback": "W: 36",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70924696590bf023d10d"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DonkeyKong"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70924696590bf023d10e",
+    "Name": "Hand Slap (Hit 2, Aerial)",
+    "OwnerId": 10,
+    "Owner": "DonkeyKong",
+    "HitboxActive": "28-31",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "6",
+    "Angle": "270",
+    "BaseKnockBackSetKnockback": "30",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70924696590bf023d10e"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DonkeyKong"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70924696590bf023d10f",
+    "Name": "Fthrow",
+    "OwnerId": 10,
+    "Owner": "DonkeyKong",
+    "HitboxActive": null,
+    "FirstActionableFrame": null,
+    "BaseDamage": "-",
+    "Angle": "-",
+    "BaseKnockBackSetKnockback": "-",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "-",
+    "MoveType": "throw",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70924696590bf023d10f"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DonkeyKong"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70924696590bf023d110",
+    "Name": "Fthrow (Cargo)",
+    "OwnerId": 10,
+    "Owner": "DonkeyKong",
+    "HitboxActive": null,
+    "FirstActionableFrame": null,
+    "BaseDamage": "10",
+    "Angle": "60",
+    "BaseKnockBackSetKnockback": "80",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "50",
+    "MoveType": "throw",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70924696590bf023d110"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DonkeyKong"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70924696590bf023d111",
+    "Name": "Bthrow (Cargo)",
+    "OwnerId": 10,
+    "Owner": "DonkeyKong",
+    "HitboxActive": null,
+    "FirstActionableFrame": null,
+    "BaseDamage": "12",
+    "Angle": "72",
+    "BaseKnockBackSetKnockback": "70",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "50",
+    "MoveType": "throw",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70924696590bf023d111"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DonkeyKong"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70924696590bf023d112",
+    "Name": "Uthrow (Cargo)",
+    "OwnerId": 10,
+    "Owner": "DonkeyKong",
+    "HitboxActive": null,
+    "FirstActionableFrame": null,
+    "BaseDamage": "10",
+    "Angle": "92",
+    "BaseKnockBackSetKnockback": "58",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "52",
+    "MoveType": "throw",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70924696590bf023d112"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DonkeyKong"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70924696590bf023d113",
+    "Name": "Dthrow (Cargo)",
+    "OwnerId": 10,
+    "Owner": "DonkeyKong",
+    "HitboxActive": null,
+    "FirstActionableFrame": null,
+    "BaseDamage": "7",
+    "Angle": "48",
+    "BaseKnockBackSetKnockback": "50",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "80",
+    "MoveType": "throw",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70924696590bf023d113"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DonkeyKong"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70924696590bf023d114",
+    "Name": "Bthrow",
+    "OwnerId": 10,
+    "Owner": "DonkeyKong",
+    "HitboxActive": null,
+    "FirstActionableFrame": null,
+    "BaseDamage": "11",
+    "Angle": "40",
+    "BaseKnockBackSetKnockback": "60",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "65",
+    "MoveType": "throw",
+    "IsWeightDependent": true,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70924696590bf023d114"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DonkeyKong"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70924696590bf023d115",
+    "Name": "Uthrow",
+    "OwnerId": 10,
+    "Owner": "DonkeyKong",
+    "HitboxActive": null,
+    "FirstActionableFrame": null,
+    "BaseDamage": "9",
+    "Angle": "90",
+    "BaseKnockBackSetKnockback": "70",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "50",
+    "MoveType": "throw",
+    "IsWeightDependent": true,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70924696590bf023d115"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DonkeyKong"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70924696590bf023d116",
+    "Name": "Dthrow",
+    "OwnerId": 10,
+    "Owner": "DonkeyKong",
+    "HitboxActive": null,
+    "FirstActionableFrame": null,
+    "BaseDamage": "7",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "60",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "50",
+    "MoveType": "throw",
+    "IsWeightDependent": true,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70924696590bf023d116"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DonkeyKong"
+      }
+    ]
+  }
+]

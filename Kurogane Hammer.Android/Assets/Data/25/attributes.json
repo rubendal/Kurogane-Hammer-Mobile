@@ -1,0 +1,524 @@
+﻿[
+  {
+    "InstanceId": "598e70ba4696590bf023d63a",
+    "Name": "AerialJump",
+    "OwnerId": 25,
+    "Owner": "Lucina",
+    "Values": [
+      {
+        "Value": "33.660133",
+        "Owner": "Lucina",
+        "OwnerId": 25,
+        "Name": "HEIGHT"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70ba4696590bf023d63a"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Lucina"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ba4696590bf023d63b",
+    "Name": "Counters",
+    "OwnerId": 25,
+    "Owner": "Lucina",
+    "Values": [
+      {
+        "Value": "6-27",
+        "Owner": "Lucina",
+        "OwnerId": 25,
+        "Name": "COUNTER FRAMES"
+      },
+      {
+        "Value": "5-6",
+        "Owner": "Lucina",
+        "OwnerId": 25,
+        "Name": "INTANGIBLE ON"
+      },
+      {
+        "Value": "60",
+        "Owner": "Lucina",
+        "OwnerId": 25,
+        "Name": "FAF"
+      },
+      {
+        "Value": "1.2x",
+        "Owner": "Lucina",
+        "OwnerId": 25,
+        "Name": "DAMAGE (MULTIPLIER)"
+      },
+      {
+        "Value": "60 | 90",
+        "Owner": "Lucina",
+        "OwnerId": 25,
+        "Name": "BKB | KBG"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70ba4696590bf023d63b"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Lucina"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ba4696590bf023d63c",
+    "Name": "AirAcceleration",
+    "OwnerId": 25,
+    "Owner": "Lucina",
+    "Values": [
+      {
+        "Value": "0.07",
+        "Owner": "Lucina",
+        "OwnerId": 25,
+        "Name": "MAX ADDITIONAL"
+      },
+      {
+        "Value": "0.01",
+        "Owner": "Lucina",
+        "OwnerId": 25,
+        "Name": "BASE VALUE"
+      },
+      {
+        "Value": "0.08",
+        "Owner": "Lucina",
+        "OwnerId": 25,
+        "Name": "TOTAL"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70ba4696590bf023d63c"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Lucina"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ba4696590bf023d63d",
+    "Name": "AirFriction",
+    "OwnerId": 25,
+    "Owner": "Lucina",
+    "Values": [
+      {
+        "Value": "0.00375",
+        "Owner": "Lucina",
+        "OwnerId": 25,
+        "Name": "VALUE"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70ba4696590bf023d63d"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Lucina"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ba4696590bf023d63e",
+    "Name": "DashLength",
+    "OwnerId": 25,
+    "Owner": "Lucina",
+    "Values": [
+      {
+        "Value": "17",
+        "Owner": "Lucina",
+        "OwnerId": 25,
+        "Name": "LENGTH IN FRAMES"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70ba4696590bf023d63e"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Lucina"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ba4696590bf023d63f",
+    "Name": "FallSpeed",
+    "OwnerId": 25,
+    "Owner": "Lucina",
+    "Values": [
+      {
+        "Value": "1.58",
+        "Owner": "Lucina",
+        "OwnerId": 25,
+        "Name": "MAX FALL SPEED"
+      },
+      {
+        "Value": "2.528",
+        "Owner": "Lucina",
+        "OwnerId": 25,
+        "Name": "FAST FALL SPEED"
+      },
+      {
+        "Value": "60%",
+        "Owner": "Lucina",
+        "OwnerId": 25,
+        "Name": "SPEED INCREASE"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70ba4696590bf023d63f"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Lucina"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ba4696590bf023d640",
+    "Name": "FullHop",
+    "OwnerId": 25,
+    "Owner": "Lucina",
+    "Values": [
+      {
+        "Value": "33.660133",
+        "Owner": "Lucina",
+        "OwnerId": 25,
+        "Name": "HEIGHT"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70ba4696590bf023d640"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Lucina"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ba4696590bf023d641",
+    "Name": "Gravity",
+    "OwnerId": 25,
+    "Owner": "Lucina",
+    "Values": [
+      {
+        "Value": "0.075",
+        "Owner": "Lucina",
+        "OwnerId": 25,
+        "Name": "VALUE"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70ba4696590bf023d641"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Lucina"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ba4696590bf023d642",
+    "Name": "JumpSquat",
+    "OwnerId": 25,
+    "Owner": "Lucina",
+    "Values": [
+      {
+        "Value": "5",
+        "Owner": "Lucina",
+        "OwnerId": 25,
+        "Name": "VALUE"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70ba4696590bf023d642"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Lucina"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ba4696590bf023d643",
+    "Name": "LedgeHop",
+    "OwnerId": 25,
+    "Owner": "Lucina",
+    "Values": [
+      {
+        "Value": "36.830067",
+        "Owner": "Lucina",
+        "OwnerId": 25,
+        "Name": "HEIGHT"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70ba4696590bf023d643"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Lucina"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ba4696590bf023d644",
+    "Name": "ShortHop",
+    "OwnerId": 25,
+    "Owner": "Lucina",
+    "Values": [
+      {
+        "Value": "16.263107",
+        "Owner": "Lucina",
+        "OwnerId": 25,
+        "Name": "HEIGHT"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70ba4696590bf023d644"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Lucina"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ba4696590bf023d645",
+    "Name": "Spotdodge",
+    "OwnerId": 25,
+    "Owner": "Lucina",
+    "Values": [
+      {
+        "Value": "2-17",
+        "Owner": "Lucina",
+        "OwnerId": 25,
+        "Name": "INTANGIBLE"
+      },
+      {
+        "Value": "27",
+        "Owner": "Lucina",
+        "OwnerId": 25,
+        "Name": "FAF"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70ba4696590bf023d645"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Lucina"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ba4696590bf023d646",
+    "Name": "Traction",
+    "OwnerId": 25,
+    "Owner": "Lucina",
+    "Values": [
+      {
+        "Value": "0.055",
+        "Owner": "Lucina",
+        "OwnerId": 25,
+        "Name": "VALUE"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70ba4696590bf023d646"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Lucina"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ba4696590bf023d647",
+    "Name": "WalkSpeed",
+    "OwnerId": 25,
+    "Owner": "Lucina",
+    "Values": [
+      {
+        "Value": "1.5",
+        "Owner": "Lucina",
+        "OwnerId": 25,
+        "Name": "MAX WALK SPEED VALUE"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70ba4696590bf023d647"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Lucina"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ba4696590bf023d648",
+    "Name": "AirSpeed",
+    "OwnerId": 25,
+    "Owner": "Lucina",
+    "Values": [
+      {
+        "Value": "1.02",
+        "Owner": "Lucina",
+        "OwnerId": 25,
+        "Name": "MAX AIR SPEED VALUE"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70ba4696590bf023d648"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Lucina"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ba4696590bf023d649",
+    "Name": "AirDodge",
+    "OwnerId": 25,
+    "Owner": "Lucina",
+    "Values": [
+      {
+        "Value": "3-27",
+        "Owner": "Lucina",
+        "OwnerId": 25,
+        "Name": "INTANGIBLE"
+      },
+      {
+        "Value": "33",
+        "Owner": "Lucina",
+        "OwnerId": 25,
+        "Name": "FAF"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70ba4696590bf023d649"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Lucina"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ba4696590bf023d64a",
+    "Name": "Rolls",
+    "OwnerId": 25,
+    "Owner": "Lucina",
+    "Values": [
+      {
+        "Value": "4-17",
+        "Owner": "Lucina",
+        "OwnerId": 25,
+        "Name": "INTANGIBLE"
+      },
+      {
+        "Value": "31",
+        "Owner": "Lucina",
+        "OwnerId": 25,
+        "Name": "FAF"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70ba4696590bf023d64a"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Lucina"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ba4696590bf023d64b",
+    "Name": "RunSpeed",
+    "OwnerId": 25,
+    "Owner": "Lucina",
+    "Values": [
+      {
+        "Value": "1.785",
+        "Owner": "Lucina",
+        "OwnerId": 25,
+        "Name": "MAX RUN SPEED VALUE"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70ba4696590bf023d64b"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Lucina"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ba4696590bf023d64c",
+    "Name": "ShieldSize",
+    "OwnerId": 25,
+    "Owner": "Lucina",
+    "Values": [
+      {
+        "Value": "12.033",
+        "Owner": "Lucina",
+        "OwnerId": 25,
+        "Name": "SIZE"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70ba4696590bf023d64c"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Lucina"
+      }
+    ]
+  }
+]

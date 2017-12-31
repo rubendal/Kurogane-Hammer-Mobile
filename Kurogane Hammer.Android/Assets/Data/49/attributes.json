@@ -1,0 +1,476 @@
+﻿[
+  {
+    "InstanceId": "598e70f94696590bf023deee",
+    "Name": "AerialJump",
+    "OwnerId": 49,
+    "Owner": "Sheik",
+    "Values": [
+      {
+        "Value": "40",
+        "Owner": "Sheik",
+        "OwnerId": 49,
+        "Name": "HEIGHT"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70f94696590bf023deee"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Sheik"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70f94696590bf023deef",
+    "Name": "AirAcceleration",
+    "OwnerId": 49,
+    "Owner": "Sheik",
+    "Values": [
+      {
+        "Value": "0.08",
+        "Owner": "Sheik",
+        "OwnerId": 49,
+        "Name": "MAX ADDITIONAL"
+      },
+      {
+        "Value": "0.01",
+        "Owner": "Sheik",
+        "OwnerId": 49,
+        "Name": "BASE VALUE"
+      },
+      {
+        "Value": "0.09",
+        "Owner": "Sheik",
+        "OwnerId": 49,
+        "Name": "TOTAL"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70f94696590bf023deef"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Sheik"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70f94696590bf023def0",
+    "Name": "AirFriction",
+    "OwnerId": 49,
+    "Owner": "Sheik",
+    "Values": [
+      {
+        "Value": "0.015",
+        "Owner": "Sheik",
+        "OwnerId": 49,
+        "Name": "VALUE"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70f94696590bf023def0"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Sheik"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70f94696590bf023def1",
+    "Name": "DashLength",
+    "OwnerId": 49,
+    "Owner": "Sheik",
+    "Values": [
+      {
+        "Value": "8",
+        "Owner": "Sheik",
+        "OwnerId": 49,
+        "Name": "LENGTH IN FRAMES"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70f94696590bf023def1"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Sheik"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70f94696590bf023def2",
+    "Name": "FallSpeed",
+    "OwnerId": 49,
+    "Owner": "Sheik",
+    "Values": [
+      {
+        "Value": "1.75",
+        "Owner": "Sheik",
+        "OwnerId": 49,
+        "Name": "MAX FALL SPEED"
+      },
+      {
+        "Value": "2.8",
+        "Owner": "Sheik",
+        "OwnerId": 49,
+        "Name": "FAST FALL SPEED"
+      },
+      {
+        "Value": "60%",
+        "Owner": "Sheik",
+        "OwnerId": 49,
+        "Name": "SPEED INCREASE"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70f94696590bf023def2"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Sheik"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70f94696590bf023def3",
+    "Name": "FullHop",
+    "OwnerId": 49,
+    "Owner": "Sheik",
+    "Values": [
+      {
+        "Value": "39",
+        "Owner": "Sheik",
+        "OwnerId": 49,
+        "Name": "HEIGHT"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70f94696590bf023def3"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Sheik"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70f94696590bf023def4",
+    "Name": "Gravity",
+    "OwnerId": 49,
+    "Owner": "Sheik",
+    "Values": [
+      {
+        "Value": "0.15",
+        "Owner": "Sheik",
+        "OwnerId": 49,
+        "Name": "VALUE"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70f94696590bf023def4"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Sheik"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70f94696590bf023def5",
+    "Name": "JumpSquat",
+    "OwnerId": 49,
+    "Owner": "Sheik",
+    "Values": [
+      {
+        "Value": "4",
+        "Owner": "Sheik",
+        "OwnerId": 49,
+        "Name": "VALUE"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70f94696590bf023def5"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Sheik"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70f94696590bf023def6",
+    "Name": "LedgeHop",
+    "OwnerId": 49,
+    "Owner": "Sheik",
+    "Values": [
+      {
+        "Value": "39.5",
+        "Owner": "Sheik",
+        "OwnerId": 49,
+        "Name": "HEIGHT"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70f94696590bf023def6"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Sheik"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70f94696590bf023def7",
+    "Name": "ShortHop",
+    "OwnerId": 49,
+    "Owner": "Sheik",
+    "Values": [
+      {
+        "Value": "18.752533",
+        "Owner": "Sheik",
+        "OwnerId": 49,
+        "Name": "HEIGHT"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70f94696590bf023def7"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Sheik"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70f94696590bf023def8",
+    "Name": "Spotdodge",
+    "OwnerId": 49,
+    "Owner": "Sheik",
+    "Values": [
+      {
+        "Value": "2-15",
+        "Owner": "Sheik",
+        "OwnerId": 49,
+        "Name": "INTANGIBLE"
+      },
+      {
+        "Value": "25",
+        "Owner": "Sheik",
+        "OwnerId": 49,
+        "Name": "FAF"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70f94696590bf023def8"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Sheik"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70f94696590bf023def9",
+    "Name": "Traction",
+    "OwnerId": 49,
+    "Owner": "Sheik",
+    "Values": [
+      {
+        "Value": "0.06",
+        "Owner": "Sheik",
+        "OwnerId": 49,
+        "Name": "VALUE"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70f94696590bf023def9"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Sheik"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70f94696590bf023defa",
+    "Name": "WalkSpeed",
+    "OwnerId": 49,
+    "Owner": "Sheik",
+    "Values": [
+      {
+        "Value": "1.4",
+        "Owner": "Sheik",
+        "OwnerId": 49,
+        "Name": "MAX WALK SPEED VALUE"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70f94696590bf023defa"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Sheik"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70f94696590bf023defb",
+    "Name": "AirSpeed",
+    "OwnerId": 49,
+    "Owner": "Sheik",
+    "Values": [
+      {
+        "Value": "1.1",
+        "Owner": "Sheik",
+        "OwnerId": 49,
+        "Name": "MAX AIR SPEED VALUE"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70f94696590bf023defb"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Sheik"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70f94696590bf023defc",
+    "Name": "AirDodge",
+    "OwnerId": 49,
+    "Owner": "Sheik",
+    "Values": [
+      {
+        "Value": "2-25",
+        "Owner": "Sheik",
+        "OwnerId": 49,
+        "Name": "INTANGIBLE"
+      },
+      {
+        "Value": "31",
+        "Owner": "Sheik",
+        "OwnerId": 49,
+        "Name": "FAF"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70f94696590bf023defc"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Sheik"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70f94696590bf023defd",
+    "Name": "Rolls",
+    "OwnerId": 49,
+    "Owner": "Sheik",
+    "Values": [
+      {
+        "Value": "4-15",
+        "Owner": "Sheik",
+        "OwnerId": 49,
+        "Name": "INTANGIBLE"
+      },
+      {
+        "Value": "28",
+        "Owner": "Sheik",
+        "OwnerId": 49,
+        "Name": "FAF"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70f94696590bf023defd"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Sheik"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70f94696590bf023defe",
+    "Name": "RunSpeed",
+    "OwnerId": 49,
+    "Owner": "Sheik",
+    "Values": [
+      {
+        "Value": "2.016",
+        "Owner": "Sheik",
+        "OwnerId": 49,
+        "Name": "MAX RUN SPEED VALUE"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70f94696590bf023defe"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Sheik"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70f94696590bf023deff",
+    "Name": "ShieldSize",
+    "OwnerId": 49,
+    "Owner": "Sheik",
+    "Values": [
+      {
+        "Value": "11.025",
+        "Owner": "Sheik",
+        "OwnerId": 49,
+        "Name": "SIZE"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70f94696590bf023deff"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Sheik"
+      }
+    ]
+  }
+]

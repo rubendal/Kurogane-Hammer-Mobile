@@ -1,0 +1,1224 @@
+﻿[
+  {
+    "InstanceId": "598e71074696590bf023e083",
+    "Name": "Jab 1",
+    "OwnerId": 54,
+    "Owner": "Wario",
+    "HitboxActive": "8-9",
+    "FirstActionableFrame": "30",
+    "BaseDamage": "4",
+    "Angle": "55/72",
+    "BaseKnockBackSetKnockback": "45/38",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "50/40",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e71074696590bf023e083"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Wario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e71074696590bf023e084",
+    "Name": "Jab 2",
+    "OwnerId": 54,
+    "Owner": "Wario",
+    "HitboxActive": "4-5",
+    "FirstActionableFrame": "34",
+    "BaseDamage": "5",
+    "Angle": "75",
+    "BaseKnockBackSetKnockback": "60",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e71074696590bf023e084"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Wario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e71074696590bf023e085",
+    "Name": "Dash Attack",
+    "OwnerId": 54,
+    "Owner": "Wario",
+    "HitboxActive": "4-5",
+    "FirstActionableFrame": "49",
+    "BaseDamage": "7",
+    "Angle": "70",
+    "BaseKnockBackSetKnockback": "80",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "70",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e71074696590bf023e085"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Wario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e71074696590bf023e086",
+    "Name": "Dash Attack (Late)",
+    "OwnerId": 54,
+    "Owner": "Wario",
+    "HitboxActive": "6-23 (100% Trip Chance)",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "4",
+    "Angle": "180",
+    "BaseKnockBackSetKnockback": "W: 50",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e71074696590bf023e086"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Wario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e71074696590bf023e087",
+    "Name": "Ftilt (Angled Up)",
+    "OwnerId": 54,
+    "Owner": "Wario",
+    "HitboxActive": "12-15",
+    "FirstActionableFrame": "40",
+    "BaseDamage": "14/14/14/11",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "22",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "98",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e71074696590bf023e087"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Wario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e71074696590bf023e088",
+    "Name": "Ftilt",
+    "OwnerId": 54,
+    "Owner": "Wario",
+    "HitboxActive": "12-15",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "13/13/13/11",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "22",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "98",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e71074696590bf023e088"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Wario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e71074696590bf023e089",
+    "Name": "Ftilt (Angled Down)",
+    "OwnerId": 54,
+    "Owner": "Wario",
+    "HitboxActive": "12-15",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "12/12/12/10",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "22",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "98",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e71074696590bf023e089"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Wario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e71074696590bf023e08a",
+    "Name": "Utilt",
+    "OwnerId": 54,
+    "Owner": "Wario",
+    "HitboxActive": "12-14 (Hands and Head Intangible: 5-23)",
+    "FirstActionableFrame": "36",
+    "BaseDamage": "10",
+    "Angle": "92",
+    "BaseKnockBackSetKnockback": "65",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "74",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e71074696590bf023e08a"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Wario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e71074696590bf023e08b",
+    "Name": "Utilt (Late)",
+    "OwnerId": 54,
+    "Owner": "Wario",
+    "HitboxActive": "15-23",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "6",
+    "Angle": "80",
+    "BaseKnockBackSetKnockback": "30",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "50",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e71074696590bf023e08b"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Wario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e71074696590bf023e08c",
+    "Name": "Dtilt",
+    "OwnerId": 54,
+    "Owner": "Wario",
+    "HitboxActive": "5",
+    "FirstActionableFrame": "18",
+    "BaseDamage": "4",
+    "Angle": "46/69",
+    "BaseKnockBackSetKnockback": "20",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "50",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e71074696590bf023e08c"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Wario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e71074696590bf023e08d",
+    "Name": "Fsmash",
+    "OwnerId": 54,
+    "Owner": "Wario",
+    "HitboxActive": "18-19",
+    "FirstActionableFrame": "66",
+    "BaseDamage": "19",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "20",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "99",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e71074696590bf023e08d"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Wario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e71074696590bf023e08e",
+    "Name": "Usmash",
+    "OwnerId": 54,
+    "Owner": "Wario",
+    "HitboxActive": "11-12 (Head Intangible: 8-14)",
+    "FirstActionableFrame": "58",
+    "BaseDamage": "16",
+    "Angle": "95",
+    "BaseKnockBackSetKnockback": "40",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "85",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e71074696590bf023e08e"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Wario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e71074696590bf023e08f",
+    "Name": "Usmash (Late)",
+    "OwnerId": 54,
+    "Owner": "Wario",
+    "HitboxActive": "13",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "13",
+    "Angle": "95",
+    "BaseKnockBackSetKnockback": "40",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "85",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e71074696590bf023e08f"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Wario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e71074696590bf023e090",
+    "Name": "Dsmash (Early)",
+    "OwnerId": 54,
+    "Owner": "Wario",
+    "HitboxActive": "8-17",
+    "FirstActionableFrame": "68",
+    "BaseDamage": "13",
+    "Angle": "30",
+    "BaseKnockBackSetKnockback": "30",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "80",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e71074696590bf023e090"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Wario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e71074696590bf023e091",
+    "Name": "Dsmash",
+    "OwnerId": 54,
+    "Owner": "Wario",
+    "HitboxActive": "18-27",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "10",
+    "Angle": "30",
+    "BaseKnockBackSetKnockback": "20",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "84",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e71074696590bf023e091"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Wario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e71074696590bf023e092",
+    "Name": "Dsmash (Late)",
+    "OwnerId": 54,
+    "Owner": "Wario",
+    "HitboxActive": "28-36",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "5",
+    "Angle": "30",
+    "BaseKnockBackSetKnockback": "10",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "88",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e71074696590bf023e092"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Wario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e71074696590bf023e093",
+    "Name": "Standing Grab",
+    "OwnerId": 54,
+    "Owner": "Wario",
+    "HitboxActive": "8-9",
+    "FirstActionableFrame": "30",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e71074696590bf023e093"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Wario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e71074696590bf023e094",
+    "Name": "Dash Grab",
+    "OwnerId": 54,
+    "Owner": "Wario",
+    "HitboxActive": "8-9",
+    "FirstActionableFrame": "37",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e71074696590bf023e094"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Wario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e71074696590bf023e095",
+    "Name": "Pivot Grab",
+    "OwnerId": 54,
+    "Owner": "Wario",
+    "HitboxActive": "8-9",
+    "FirstActionableFrame": "35",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e71074696590bf023e095"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Wario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e71074696590bf023e096",
+    "Name": "Spotdodge",
+    "OwnerId": 54,
+    "Owner": "Wario",
+    "HitboxActive": "3-17",
+    "FirstActionableFrame": "27",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e71074696590bf023e096"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Wario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e71074696590bf023e097",
+    "Name": "Forward Roll",
+    "OwnerId": 54,
+    "Owner": "Wario",
+    "HitboxActive": "4-16",
+    "FirstActionableFrame": "30",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e71074696590bf023e097"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Wario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e71074696590bf023e098",
+    "Name": "Back Roll",
+    "OwnerId": 54,
+    "Owner": "Wario",
+    "HitboxActive": "4-16",
+    "FirstActionableFrame": "30",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e71074696590bf023e098"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Wario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e71074696590bf023e099",
+    "Name": "Airdodge",
+    "OwnerId": 54,
+    "Owner": "Wario",
+    "HitboxActive": "3-27",
+    "FirstActionableFrame": "33",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e71074696590bf023e099"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Wario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e71074696590bf023e09a",
+    "Name": "Nair (Hit 1)",
+    "OwnerId": 54,
+    "Owner": "Wario",
+    "HitboxActive": "4",
+    "FirstActionableFrame": "50",
+    "BaseDamage": "6.5",
+    "Angle": "40",
+    "BaseKnockBackSetKnockback": "30",
+    "LandingLag": "12",
+    "AutoCancel": "1-3, 44&gt;",
+    "KnockbackGrowth": "100",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e71074696590bf023e09a"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Wario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e71074696590bf023e09b",
+    "Name": "Nair (Hit 2)",
+    "OwnerId": 54,
+    "Owner": "Wario",
+    "HitboxActive": "15-38",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "4",
+    "Angle": "70",
+    "BaseKnockBackSetKnockback": "65",
+    "LandingLag": "-",
+    "AutoCancel": "-",
+    "KnockbackGrowth": "100",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e71074696590bf023e09b"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Wario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e71074696590bf023e09c",
+    "Name": "Fair",
+    "OwnerId": 54,
+    "Owner": "Wario",
+    "HitboxActive": "5-6",
+    "FirstActionableFrame": "38",
+    "BaseDamage": "7",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "30",
+    "LandingLag": "16",
+    "AutoCancel": "1-4, 27&gt;",
+    "KnockbackGrowth": "97",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e71074696590bf023e09c"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Wario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e71074696590bf023e09d",
+    "Name": "Fair (Late)",
+    "OwnerId": 54,
+    "Owner": "Wario",
+    "HitboxActive": "7-17",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "4.5",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "15",
+    "LandingLag": "-",
+    "AutoCancel": "-",
+    "KnockbackGrowth": "80",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e71074696590bf023e09d"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Wario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e71074696590bf023e09e",
+    "Name": "Bair",
+    "OwnerId": 54,
+    "Owner": "Wario",
+    "HitboxActive": "9-11",
+    "FirstActionableFrame": "50",
+    "BaseDamage": "12",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "20",
+    "LandingLag": "27",
+    "AutoCancel": "1-5, 34&gt;",
+    "KnockbackGrowth": "100",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e71074696590bf023e09e"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Wario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e71074696590bf023e09f",
+    "Name": "Uair",
+    "OwnerId": 54,
+    "Owner": "Wario",
+    "HitboxActive": "8-9",
+    "FirstActionableFrame": "47",
+    "BaseDamage": "13",
+    "Angle": "88",
+    "BaseKnockBackSetKnockback": "30",
+    "LandingLag": "12",
+    "AutoCancel": "1-3, 37&gt;",
+    "KnockbackGrowth": "78",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e71074696590bf023e09f"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Wario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e71074696590bf023e0a0",
+    "Name": "Dair (Hits 1-6)",
+    "OwnerId": 54,
+    "Owner": "Wario",
+    "HitboxActive": "9, 11, 13, 15, 17, 19",
+    "FirstActionableFrame": "48",
+    "BaseDamage": "1.3",
+    "Angle": "250/110/110",
+    "BaseKnockBackSetKnockback": "W: 60",
+    "LandingLag": "19",
+    "AutoCancel": "1-2, 42&gt;",
+    "KnockbackGrowth": "100",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e71074696590bf023e0a0"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Wario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e71074696590bf023e0a1",
+    "Name": "Dair (Hit 7)",
+    "OwnerId": 54,
+    "Owner": "Wario",
+    "HitboxActive": "21",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "4",
+    "Angle": "45",
+    "BaseKnockBackSetKnockback": "25",
+    "LandingLag": "-",
+    "AutoCancel": "-",
+    "KnockbackGrowth": "200",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e71074696590bf023e0a1"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Wario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e71074696590bf023e0a2",
+    "Name": "Chomp",
+    "OwnerId": 54,
+    "Owner": "Wario",
+    "HitboxActive": "8- (Head Intangibility?: 8-25)",
+    "FirstActionableFrame": "38 (Max Hold Frames: 48)",
+    "BaseDamage": "5",
+    "Angle": "45",
+    "BaseKnockBackSetKnockback": "70",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "76",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e71074696590bf023e0a2"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Wario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e71074696590bf023e0a3",
+    "Name": "Chomp (Eating Explosive)",
+    "OwnerId": 54,
+    "Owner": "Wario",
+    "HitboxActive": "18 (Deals 5%)",
+    "FirstActionableFrame": "73",
+    "BaseDamage": "13",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "50",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "110",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e71074696590bf023e0a3"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Wario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e71074696590bf023e0a4",
+    "Name": "Chomp (\"Food\")",
+    "OwnerId": 54,
+    "Owner": "Wario",
+    "HitboxActive": "- (Heals 1%)",
+    "FirstActionableFrame": "28",
+    "BaseDamage": "-",
+    "Angle": "-",
+    "BaseKnockBackSetKnockback": "-",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "-",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e71074696590bf023e0a4"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Wario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e71074696590bf023e0a5",
+    "Name": "Wario Bike",
+    "OwnerId": 54,
+    "Owner": "Wario",
+    "HitboxActive": "20-",
+    "FirstActionableFrame": "28",
+    "BaseDamage": "-",
+    "Angle": "-",
+    "BaseKnockBackSetKnockback": "-",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "-",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e71074696590bf023e0a5"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Wario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e71074696590bf023e0a6",
+    "Name": "Corkscrew (Hit 1)",
+    "OwnerId": 54,
+    "Owner": "Wario",
+    "HitboxActive": "6-7",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "5",
+    "Angle": "85/115/85/105",
+    "BaseKnockBackSetKnockback": "W: 110/110/90/90",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e71074696590bf023e0a6"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Wario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e71074696590bf023e0a7",
+    "Name": "Corkscrew",
+    "OwnerId": 54,
+    "Owner": "Wario",
+    "HitboxActive": "8-11, 12-15, 16-19, 20-23",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "1",
+    "Angle": "104",
+    "BaseKnockBackSetKnockback": "W: 100",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e71074696590bf023e0a7"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Wario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e71074696590bf023e0a8",
+    "Name": "Corkscrew",
+    "OwnerId": 54,
+    "Owner": "Wario",
+    "HitboxActive": "29-30",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "4",
+    "Angle": "45/45/85",
+    "BaseKnockBackSetKnockback": "70/70/60",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "130",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e71074696590bf023e0a8"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Wario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e71074696590bf023e0a9",
+    "Name": "Wario Waft (No Charge)",
+    "OwnerId": 54,
+    "Owner": "Wario",
+    "HitboxActive": "16-18 (100% Trip Chance)",
+    "FirstActionableFrame": "80",
+    "BaseDamage": "0",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "0",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "1",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e71074696590bf023e0a9"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Wario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e71074696590bf023e0aa",
+    "Name": "Wario Waft (15 Seconds)",
+    "OwnerId": 54,
+    "Owner": "Wario",
+    "HitboxActive": "10-11",
+    "FirstActionableFrame": "65",
+    "BaseDamage": "12/10",
+    "Angle": "45",
+    "BaseKnockBackSetKnockback": "30/20",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "80",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e71074696590bf023e0aa"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Wario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e71074696590bf023e0ab",
+    "Name": "Wario Waft (55 Seconds)",
+    "OwnerId": 54,
+    "Owner": "Wario",
+    "HitboxActive": "5-8",
+    "FirstActionableFrame": "50",
+    "BaseDamage": "20",
+    "Angle": "45",
+    "BaseKnockBackSetKnockback": "50",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "68",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e71074696590bf023e0ab"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Wario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e71074696590bf023e0ac",
+    "Name": "Wario Waft (110 Seconds)",
+    "OwnerId": 54,
+    "Owner": "Wario",
+    "HitboxActive": "9-10 (Super Armor: 5-10)",
+    "FirstActionableFrame": "60",
+    "BaseDamage": "27",
+    "Angle": "35",
+    "BaseKnockBackSetKnockback": "50",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "75",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e71074696590bf023e0ac"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Wario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e71074696590bf023e0ad",
+    "Name": "Wario Waft (110 Seconds, Late)",
+    "OwnerId": 54,
+    "Owner": "Wario",
+    "HitboxActive": "11-26",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "20",
+    "Angle": "80",
+    "BaseKnockBackSetKnockback": "0",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e71074696590bf023e0ad"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Wario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e71074696590bf023e0ae",
+    "Name": "Fthrow",
+    "OwnerId": 54,
+    "Owner": "Wario",
+    "HitboxActive": null,
+    "FirstActionableFrame": null,
+    "BaseDamage": "12",
+    "Angle": "45",
+    "BaseKnockBackSetKnockback": "60",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "65",
+    "MoveType": "throw",
+    "IsWeightDependent": true,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e71074696590bf023e0ae"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Wario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e71074696590bf023e0af",
+    "Name": "Bthrow",
+    "OwnerId": 54,
+    "Owner": "Wario",
+    "HitboxActive": null,
+    "FirstActionableFrame": null,
+    "BaseDamage": "7",
+    "Angle": "45",
+    "BaseKnockBackSetKnockback": "80",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "60",
+    "MoveType": "throw",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e71074696590bf023e0af"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Wario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e71074696590bf023e0b0",
+    "Name": "Uthrow",
+    "OwnerId": 54,
+    "Owner": "Wario",
+    "HitboxActive": null,
+    "FirstActionableFrame": null,
+    "BaseDamage": "4, 7",
+    "Angle": "89",
+    "BaseKnockBackSetKnockback": "60",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "72",
+    "MoveType": "throw",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e71074696590bf023e0b0"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Wario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e71074696590bf023e0b1",
+    "Name": "Dthrow",
+    "OwnerId": 54,
+    "Owner": "Wario",
+    "HitboxActive": null,
+    "FirstActionableFrame": null,
+    "BaseDamage": "4, 4",
+    "Angle": "130",
+    "BaseKnockBackSetKnockback": "80",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "18",
+    "MoveType": "throw",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e71074696590bf023e0b1"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Wario"
+      }
+    ]
+  }
+]

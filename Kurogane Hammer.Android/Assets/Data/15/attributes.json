@@ -1,0 +1,476 @@
+﻿[
+  {
+    "InstanceId": "598e709f4696590bf023d2c9",
+    "Name": "AerialJump",
+    "OwnerId": 15,
+    "Owner": "Ganondorf",
+    "Values": [
+      {
+        "Value": "26",
+        "Owner": "Ganondorf",
+        "OwnerId": 15,
+        "Name": "HEIGHT"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e709f4696590bf023d2c9"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ganondorf"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e709f4696590bf023d2ca",
+    "Name": "AirAcceleration",
+    "OwnerId": 15,
+    "Owner": "Ganondorf",
+    "Values": [
+      {
+        "Value": "0.03",
+        "Owner": "Ganondorf",
+        "OwnerId": 15,
+        "Name": "MAX ADDITIONAL"
+      },
+      {
+        "Value": "0.01",
+        "Owner": "Ganondorf",
+        "OwnerId": 15,
+        "Name": "BASE VALUE"
+      },
+      {
+        "Value": "0.04",
+        "Owner": "Ganondorf",
+        "OwnerId": 15,
+        "Name": "TOTAL"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e709f4696590bf023d2ca"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ganondorf"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e709f4696590bf023d2cb",
+    "Name": "AirFriction",
+    "OwnerId": 15,
+    "Owner": "Ganondorf",
+    "Values": [
+      {
+        "Value": "0.015",
+        "Owner": "Ganondorf",
+        "OwnerId": 15,
+        "Name": "VALUE"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e709f4696590bf023d2cb"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ganondorf"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e709f4696590bf023d2cc",
+    "Name": "DashLength",
+    "OwnerId": 15,
+    "Owner": "Ganondorf",
+    "Values": [
+      {
+        "Value": "16",
+        "Owner": "Ganondorf",
+        "OwnerId": 15,
+        "Name": "LENGTH IN FRAMES"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e709f4696590bf023d2cc"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ganondorf"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e709f4696590bf023d2cd",
+    "Name": "FallSpeed",
+    "OwnerId": 15,
+    "Owner": "Ganondorf",
+    "Values": [
+      {
+        "Value": "1.65",
+        "Owner": "Ganondorf",
+        "OwnerId": 15,
+        "Name": "MAX FALL SPEED"
+      },
+      {
+        "Value": "2.64",
+        "Owner": "Ganondorf",
+        "OwnerId": 15,
+        "Name": "FAST FALL SPEED"
+      },
+      {
+        "Value": "60%",
+        "Owner": "Ganondorf",
+        "OwnerId": 15,
+        "Name": "SPEED INCREASE"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e709f4696590bf023d2cd"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ganondorf"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e709f4696590bf023d2ce",
+    "Name": "FullHop",
+    "OwnerId": 15,
+    "Owner": "Ganondorf",
+    "Values": [
+      {
+        "Value": "25.488228",
+        "Owner": "Ganondorf",
+        "OwnerId": 15,
+        "Name": "HEIGHT"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e709f4696590bf023d2ce"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ganondorf"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e709f4696590bf023d2cf",
+    "Name": "Gravity",
+    "OwnerId": 15,
+    "Owner": "Ganondorf",
+    "Values": [
+      {
+        "Value": "0.10784",
+        "Owner": "Ganondorf",
+        "OwnerId": 15,
+        "Name": "VALUE"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e709f4696590bf023d2cf"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ganondorf"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e709f4696590bf023d2d0",
+    "Name": "JumpSquat",
+    "OwnerId": 15,
+    "Owner": "Ganondorf",
+    "Values": [
+      {
+        "Value": "7",
+        "Owner": "Ganondorf",
+        "OwnerId": 15,
+        "Name": "VALUE"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e709f4696590bf023d2d0"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ganondorf"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e709f4696590bf023d2d1",
+    "Name": "LedgeHop",
+    "OwnerId": 15,
+    "Owner": "Ganondorf",
+    "Values": [
+      {
+        "Value": "32.744114",
+        "Owner": "Ganondorf",
+        "OwnerId": 15,
+        "Name": "HEIGHT"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e709f4696590bf023d2d1"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ganondorf"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e709f4696590bf023d2d2",
+    "Name": "ShortHop",
+    "OwnerId": 15,
+    "Owner": "Ganondorf",
+    "Values": [
+      {
+        "Value": "12.244264",
+        "Owner": "Ganondorf",
+        "OwnerId": 15,
+        "Name": "HEIGHT"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e709f4696590bf023d2d2"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ganondorf"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e709f4696590bf023d2d3",
+    "Name": "Spotdodge",
+    "OwnerId": 15,
+    "Owner": "Ganondorf",
+    "Values": [
+      {
+        "Value": "4-19",
+        "Owner": "Ganondorf",
+        "OwnerId": 15,
+        "Name": "INTANGIBLE"
+      },
+      {
+        "Value": "29",
+        "Owner": "Ganondorf",
+        "OwnerId": 15,
+        "Name": "FAF"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e709f4696590bf023d2d3"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ganondorf"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e709f4696590bf023d2d4",
+    "Name": "Traction",
+    "OwnerId": 15,
+    "Owner": "Ganondorf",
+    "Values": [
+      {
+        "Value": "0.068",
+        "Owner": "Ganondorf",
+        "OwnerId": 15,
+        "Name": "VALUE"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e709f4696590bf023d2d4"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ganondorf"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e709f4696590bf023d2d5",
+    "Name": "WalkSpeed",
+    "OwnerId": 15,
+    "Owner": "Ganondorf",
+    "Values": [
+      {
+        "Value": "0.73",
+        "Owner": "Ganondorf",
+        "OwnerId": 15,
+        "Name": "MAX WALK SPEED VALUE"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e709f4696590bf023d2d5"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ganondorf"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e709f4696590bf023d2d6",
+    "Name": "AirSpeed",
+    "OwnerId": 15,
+    "Owner": "Ganondorf",
+    "Values": [
+      {
+        "Value": "0.79",
+        "Owner": "Ganondorf",
+        "OwnerId": 15,
+        "Name": "MAX AIR SPEED VALUE"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e709f4696590bf023d2d6"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ganondorf"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e709f4696590bf023d2d7",
+    "Name": "AirDodge",
+    "OwnerId": 15,
+    "Owner": "Ganondorf",
+    "Values": [
+      {
+        "Value": "4-29",
+        "Owner": "Ganondorf",
+        "OwnerId": 15,
+        "Name": "INTANGIBLE"
+      },
+      {
+        "Value": "35",
+        "Owner": "Ganondorf",
+        "OwnerId": 15,
+        "Name": "FAF"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e709f4696590bf023d2d7"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ganondorf"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e709f4696590bf023d2d8",
+    "Name": "Rolls",
+    "OwnerId": 15,
+    "Owner": "Ganondorf",
+    "Values": [
+      {
+        "Value": "4-19",
+        "Owner": "Ganondorf",
+        "OwnerId": 15,
+        "Name": "INTANGIBLE"
+      },
+      {
+        "Value": "34",
+        "Owner": "Ganondorf",
+        "OwnerId": 15,
+        "Name": "FAF"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e709f4696590bf023d2d8"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ganondorf"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e709f4696590bf023d2d9",
+    "Name": "RunSpeed",
+    "OwnerId": 15,
+    "Owner": "Ganondorf",
+    "Values": [
+      {
+        "Value": "1.218",
+        "Owner": "Ganondorf",
+        "OwnerId": 15,
+        "Name": "MAX RUN SPEED VALUE"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e709f4696590bf023d2d9"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ganondorf"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e709f4696590bf023d2da",
+    "Name": "ShieldSize",
+    "OwnerId": 15,
+    "Owner": "Ganondorf",
+    "Values": [
+      {
+        "Value": "13.23",
+        "Owner": "Ganondorf",
+        "OwnerId": 15,
+        "Name": "SIZE"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e709f4696590bf023d2da"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ganondorf"
+      }
+    ]
+  }
+]

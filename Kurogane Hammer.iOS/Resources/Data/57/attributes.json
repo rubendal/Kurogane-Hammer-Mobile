@@ -1,0 +1,524 @@
+﻿[
+  {
+    "InstanceId": "598e710f4696590bf023e1a5",
+    "Name": "AerialJump",
+    "OwnerId": 57,
+    "Owner": "Zelda",
+    "Values": [
+      {
+        "Value": "31.552761",
+        "Owner": "Zelda",
+        "OwnerId": 57,
+        "Name": "HEIGHT"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e710f4696590bf023e1a5"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Zelda"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e710f4696590bf023e1a6",
+    "Name": "AirAcceleration",
+    "OwnerId": 57,
+    "Owner": "Zelda",
+    "Values": [
+      {
+        "Value": "0.055",
+        "Owner": "Zelda",
+        "OwnerId": 57,
+        "Name": "MAX ADDITIONAL"
+      },
+      {
+        "Value": "0.01",
+        "Owner": "Zelda",
+        "OwnerId": 57,
+        "Name": "BASE VALUE"
+      },
+      {
+        "Value": "0.065",
+        "Owner": "Zelda",
+        "OwnerId": 57,
+        "Name": "TOTAL"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e710f4696590bf023e1a6"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Zelda"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e710f4696590bf023e1a7",
+    "Name": "AirFriction",
+    "OwnerId": 57,
+    "Owner": "Zelda",
+    "Values": [
+      {
+        "Value": "0.006",
+        "Owner": "Zelda",
+        "OwnerId": 57,
+        "Name": "VALUE"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e710f4696590bf023e1a7"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Zelda"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e710f4696590bf023e1a8",
+    "Name": "DashLength",
+    "OwnerId": 57,
+    "Owner": "Zelda",
+    "Values": [
+      {
+        "Value": "16",
+        "Owner": "Zelda",
+        "OwnerId": 57,
+        "Name": "LENGTH IN FRAMES"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e710f4696590bf023e1a8"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Zelda"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e710f4696590bf023e1a9",
+    "Name": "FallSpeed",
+    "OwnerId": 57,
+    "Owner": "Zelda",
+    "Values": [
+      {
+        "Value": "1.35",
+        "Owner": "Zelda",
+        "OwnerId": 57,
+        "Name": "MAX FALL SPEED"
+      },
+      {
+        "Value": "2.16",
+        "Owner": "Zelda",
+        "OwnerId": 57,
+        "Name": "FAST FALL SPEED"
+      },
+      {
+        "Value": "60%",
+        "Owner": "Zelda",
+        "OwnerId": 57,
+        "Name": "SPEED INCREASE"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e710f4696590bf023e1a9"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Zelda"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e710f4696590bf023e1aa",
+    "Name": "FullHop",
+    "OwnerId": 57,
+    "Owner": "Zelda",
+    "Values": [
+      {
+        "Value": "31.552761",
+        "Owner": "Zelda",
+        "OwnerId": 57,
+        "Name": "HEIGHT"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e710f4696590bf023e1aa"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Zelda"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e710f4696590bf023e1ab",
+    "Name": "Gravity",
+    "OwnerId": 57,
+    "Owner": "Zelda",
+    "Values": [
+      {
+        "Value": "0.071",
+        "Owner": "Zelda",
+        "OwnerId": 57,
+        "Name": "VALUE"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e710f4696590bf023e1ab"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Zelda"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e710f4696590bf023e1ac",
+    "Name": "JumpSquat",
+    "OwnerId": 57,
+    "Owner": "Zelda",
+    "Values": [
+      {
+        "Value": "6",
+        "Owner": "Zelda",
+        "OwnerId": 57,
+        "Name": "VALUE"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e710f4696590bf023e1ac"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Zelda"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e710f4696590bf023e1ad",
+    "Name": "LedgeHop",
+    "OwnerId": 57,
+    "Owner": "Zelda",
+    "Values": [
+      {
+        "Value": "35.776382",
+        "Owner": "Zelda",
+        "OwnerId": 57,
+        "Name": "HEIGHT"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e710f4696590bf023e1ad"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Zelda"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e710f4696590bf023e1ae",
+    "Name": "ShortHop",
+    "OwnerId": 57,
+    "Owner": "Zelda",
+    "Values": [
+      {
+        "Value": "15.239396",
+        "Owner": "Zelda",
+        "OwnerId": 57,
+        "Name": "HEIGHT"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e710f4696590bf023e1ae"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Zelda"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e710f4696590bf023e1af",
+    "Name": "Spotdodge",
+    "OwnerId": 57,
+    "Owner": "Zelda",
+    "Values": [
+      {
+        "Value": "3-18",
+        "Owner": "Zelda",
+        "OwnerId": 57,
+        "Name": "INTANGIBLE"
+      },
+      {
+        "Value": "28",
+        "Owner": "Zelda",
+        "OwnerId": 57,
+        "Name": "FAF"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e710f4696590bf023e1af"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Zelda"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e710f4696590bf023e1b0",
+    "Name": "Traction",
+    "OwnerId": 57,
+    "Owner": "Zelda",
+    "Values": [
+      {
+        "Value": "0.054",
+        "Owner": "Zelda",
+        "OwnerId": 57,
+        "Name": "VALUE"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e710f4696590bf023e1b0"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Zelda"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e710f4696590bf023e1b1",
+    "Name": "WalkSpeed",
+    "OwnerId": 57,
+    "Owner": "Zelda",
+    "Values": [
+      {
+        "Value": "0.87",
+        "Owner": "Zelda",
+        "OwnerId": 57,
+        "Name": "MAX WALK SPEED VALUE"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e710f4696590bf023e1b1"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Zelda"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e710f4696590bf023e1b2",
+    "Name": "AirSpeed",
+    "OwnerId": 57,
+    "Owner": "Zelda",
+    "Values": [
+      {
+        "Value": "1.04",
+        "Owner": "Zelda",
+        "OwnerId": 57,
+        "Name": "MAX AIR SPEED VALUE"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e710f4696590bf023e1b2"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Zelda"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e710f4696590bf023e1b3",
+    "Name": "AirDodge",
+    "OwnerId": 57,
+    "Owner": "Zelda",
+    "Values": [
+      {
+        "Value": "3-28",
+        "Owner": "Zelda",
+        "OwnerId": 57,
+        "Name": "INTANGIBLE"
+      },
+      {
+        "Value": "34",
+        "Owner": "Zelda",
+        "OwnerId": 57,
+        "Name": "FAF"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e710f4696590bf023e1b3"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Zelda"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e710f4696590bf023e1b4",
+    "Name": "Rolls",
+    "OwnerId": 57,
+    "Owner": "Zelda",
+    "Values": [
+      {
+        "Value": "4-17",
+        "Owner": "Zelda",
+        "OwnerId": 57,
+        "Name": "INTANGIBLE"
+      },
+      {
+        "Value": "31",
+        "Owner": "Zelda",
+        "OwnerId": 57,
+        "Name": "FAF"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e710f4696590bf023e1b4"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Zelda"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e710f4696590bf023e1b5",
+    "Name": "RunSpeed",
+    "OwnerId": 57,
+    "Owner": "Zelda",
+    "Values": [
+      {
+        "Value": "1.3",
+        "Owner": "Zelda",
+        "OwnerId": 57,
+        "Name": "MAX RUN SPEED VALUE"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e710f4696590bf023e1b5"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Zelda"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e710f4696590bf023e1b6",
+    "Name": "ShieldSize",
+    "OwnerId": 57,
+    "Owner": "Zelda",
+    "Values": [
+      {
+        "Value": "11.55",
+        "Owner": "Zelda",
+        "OwnerId": 57,
+        "Name": "SIZE"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e710f4696590bf023e1b6"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Zelda"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e710f4696590bf023e1b7",
+    "Name": "Reflectors",
+    "OwnerId": 57,
+    "Owner": "Zelda",
+    "Values": [
+      {
+        "Value": "5-43",
+        "Owner": "Zelda",
+        "OwnerId": 57,
+        "Name": "REFLECTS ON"
+      },
+      {
+        "Value": "13-",
+        "Owner": "Zelda",
+        "OwnerId": 57,
+        "Name": "HITBOX ON"
+      },
+      {
+        "Value": "1.25x",
+        "Owner": "Zelda",
+        "OwnerId": 57,
+        "Name": "DAMAGE MULTIPLIER"
+      },
+      {
+        "Value": "1.4x",
+        "Owner": "Zelda",
+        "OwnerId": 57,
+        "Name": "SPEED MULTIPLIER"
+      },
+      {
+        "Value": "50%",
+        "Owner": "Zelda",
+        "OwnerId": 57,
+        "Name": "BREAK THRESHOLD"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e710f4696590bf023e1b7"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Zelda"
+      }
+    ]
+  }
+]

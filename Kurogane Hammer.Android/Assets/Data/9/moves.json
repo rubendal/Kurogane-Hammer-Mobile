@@ -1,0 +1,1302 @@
+﻿[
+  {
+    "InstanceId": "598e708f4696590bf023d089",
+    "Name": "Jab 1",
+    "OwnerId": 9,
+    "Owner": "DiddyKong",
+    "HitboxActive": "3-4",
+    "FirstActionableFrame": "34",
+    "BaseDamage": "1.2",
+    "Angle": "105/78/45",
+    "BaseKnockBackSetKnockback": "W: 16/18/24",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e708f4696590bf023d089"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DiddyKong"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e708f4696590bf023d08a",
+    "Name": "Jab 2",
+    "OwnerId": 9,
+    "Owner": "DiddyKong",
+    "HitboxActive": "5-6",
+    "FirstActionableFrame": "37",
+    "BaseDamage": "1.2",
+    "Angle": "100/78/45",
+    "BaseKnockBackSetKnockback": "W: 16/18/24",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e708f4696590bf023d08a"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DiddyKong"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e708f4696590bf023d08b",
+    "Name": "Jab 3",
+    "OwnerId": 9,
+    "Owner": "DiddyKong",
+    "HitboxActive": "9-10",
+    "FirstActionableFrame": "35",
+    "BaseDamage": "2",
+    "Angle": "90/85/60",
+    "BaseKnockBackSetKnockback": "W: 25/25/37",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e708f4696590bf023d08b"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DiddyKong"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e708f4696590bf023d08c",
+    "Name": "Rapid Jab",
+    "OwnerId": 9,
+    "Owner": "DiddyKong",
+    "HitboxActive": "-",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "1",
+    "Angle": "60",
+    "BaseKnockBackSetKnockback": "W: 8",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e708f4696590bf023d08c"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DiddyKong"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e708f4696590bf023d08d",
+    "Name": "Rapid Jab Finisher",
+    "OwnerId": 9,
+    "Owner": "DiddyKong",
+    "HitboxActive": "5-6",
+    "FirstActionableFrame": "39",
+    "BaseDamage": "3",
+    "Angle": "55",
+    "BaseKnockBackSetKnockback": "45",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "177",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e708f4696590bf023d08d"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DiddyKong"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e708f4696590bf023d08e",
+    "Name": "Dash Attack (Hit 1)",
+    "OwnerId": 9,
+    "Owner": "DiddyKong",
+    "HitboxActive": "9",
+    "FirstActionableFrame": "46",
+    "BaseDamage": "2",
+    "Angle": "40",
+    "BaseKnockBackSetKnockback": "W: 55",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e708f4696590bf023d08e"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DiddyKong"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e708f4696590bf023d08f",
+    "Name": "Dash Attack (Hit 2)",
+    "OwnerId": 9,
+    "Owner": "DiddyKong",
+    "HitboxActive": "18",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "2",
+    "Angle": "366",
+    "BaseKnockBackSetKnockback": "W: 62",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e708f4696590bf023d08f"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DiddyKong"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e708f4696590bf023d090",
+    "Name": "Dash Attack (Hit 3)",
+    "OwnerId": 9,
+    "Owner": "DiddyKong",
+    "HitboxActive": "24",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "3",
+    "Angle": "78",
+    "BaseKnockBackSetKnockback": "80",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "90",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e708f4696590bf023d090"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DiddyKong"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e708f4696590bf023d091",
+    "Name": "Ftilt (All Angles)",
+    "OwnerId": 9,
+    "Owner": "DiddyKong",
+    "HitboxActive": "10",
+    "FirstActionableFrame": "37",
+    "BaseDamage": "10",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "10",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e708f4696590bf023d091"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DiddyKong"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e708f4696590bf023d092",
+    "Name": "Ftilt (All Angles, Late)",
+    "OwnerId": 9,
+    "Owner": "DiddyKong",
+    "HitboxActive": "11-13",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "7",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "10",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e708f4696590bf023d092"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DiddyKong"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e708f4696590bf023d093",
+    "Name": "Utilt",
+    "OwnerId": 9,
+    "Owner": "DiddyKong",
+    "HitboxActive": "6-11",
+    "FirstActionableFrame": "33",
+    "BaseDamage": "6",
+    "Angle": "92",
+    "BaseKnockBackSetKnockback": "28",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "150",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e708f4696590bf023d093"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DiddyKong"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e708f4696590bf023d094",
+    "Name": "Dtilt",
+    "OwnerId": 9,
+    "Owner": "DiddyKong",
+    "HitboxActive": "4-5",
+    "FirstActionableFrame": "19",
+    "BaseDamage": "5.5",
+    "Angle": "50/60",
+    "BaseKnockBackSetKnockback": "15",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "75",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e708f4696590bf023d094"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DiddyKong"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e708f4696590bf023d095",
+    "Name": "Fsmash (Hit 1)",
+    "OwnerId": 9,
+    "Owner": "DiddyKong",
+    "HitboxActive": "12-13",
+    "FirstActionableFrame": "51",
+    "BaseDamage": "5",
+    "Angle": "90/60/30",
+    "BaseKnockBackSetKnockback": "W: 28/35/42",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e708f4696590bf023d095"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DiddyKong"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e708f4696590bf023d096",
+    "Name": "Fsmash (Hit 2)",
+    "OwnerId": 9,
+    "Owner": "DiddyKong",
+    "HitboxActive": "22-24",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "11/11/9",
+    "Angle": "46/50/60",
+    "BaseKnockBackSetKnockback": "40",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "116",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e708f4696590bf023d096"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DiddyKong"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e708f4696590bf023d097",
+    "Name": "Usmash (Hit 1)",
+    "OwnerId": 9,
+    "Owner": "DiddyKong",
+    "HitboxActive": "5-8",
+    "FirstActionableFrame": "54",
+    "BaseDamage": "2.5",
+    "Angle": "95/110/95/95",
+    "BaseKnockBackSetKnockback": "W: 85/106/50/60",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e708f4696590bf023d097"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DiddyKong"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e708f4696590bf023d098",
+    "Name": "Usmash (Hit 2)",
+    "OwnerId": 9,
+    "Owner": "DiddyKong",
+    "HitboxActive": "12-15",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "2.5",
+    "Angle": "125/105/95",
+    "BaseKnockBackSetKnockback": "W: 48/45/45",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e708f4696590bf023d098"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DiddyKong"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e708f4696590bf023d099",
+    "Name": "Usmash (Hit 3)",
+    "OwnerId": 9,
+    "Owner": "DiddyKong",
+    "HitboxActive": "19-23",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "6",
+    "Angle": "85",
+    "BaseKnockBackSetKnockback": "50",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "126",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e708f4696590bf023d099"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DiddyKong"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e708f4696590bf023d09a",
+    "Name": "Dsmash (Hit 1)",
+    "OwnerId": 9,
+    "Owner": "DiddyKong",
+    "HitboxActive": "6-7",
+    "FirstActionableFrame": "53",
+    "BaseDamage": "12",
+    "Angle": "33",
+    "BaseKnockBackSetKnockback": "40",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "72",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e708f4696590bf023d09a"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DiddyKong"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e708f4696590bf023d09b",
+    "Name": "Dsmash (Hit 2)",
+    "OwnerId": 9,
+    "Owner": "DiddyKong",
+    "HitboxActive": "16-18",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "15",
+    "Angle": "35",
+    "BaseKnockBackSetKnockback": "35",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "76",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e708f4696590bf023d09b"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DiddyKong"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e708f4696590bf023d09c",
+    "Name": "Standing Grab",
+    "OwnerId": 9,
+    "Owner": "DiddyKong",
+    "HitboxActive": "6-7",
+    "FirstActionableFrame": "32",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e708f4696590bf023d09c"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DiddyKong"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e708f4696590bf023d09d",
+    "Name": "Dash Grab",
+    "OwnerId": 9,
+    "Owner": "DiddyKong",
+    "HitboxActive": "8-9",
+    "FirstActionableFrame": "39",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e708f4696590bf023d09d"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DiddyKong"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e708f4696590bf023d09e",
+    "Name": "Pivot Grab",
+    "OwnerId": 9,
+    "Owner": "DiddyKong",
+    "HitboxActive": "9-10",
+    "FirstActionableFrame": "37",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e708f4696590bf023d09e"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DiddyKong"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e708f4696590bf023d09f",
+    "Name": "Spotdodge",
+    "OwnerId": 9,
+    "Owner": "DiddyKong",
+    "HitboxActive": "2-16",
+    "FirstActionableFrame": "26",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e708f4696590bf023d09f"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DiddyKong"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e708f4696590bf023d0a0",
+    "Name": "Forward Roll",
+    "OwnerId": 9,
+    "Owner": "DiddyKong",
+    "HitboxActive": "4-15",
+    "FirstActionableFrame": "28",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e708f4696590bf023d0a0"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DiddyKong"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e708f4696590bf023d0a1",
+    "Name": "Back Roll",
+    "OwnerId": 9,
+    "Owner": "DiddyKong",
+    "HitboxActive": "4-15",
+    "FirstActionableFrame": "28",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e708f4696590bf023d0a1"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DiddyKong"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e708f4696590bf023d0a2",
+    "Name": "Airdodge",
+    "OwnerId": 9,
+    "Owner": "DiddyKong",
+    "HitboxActive": "2-26",
+    "FirstActionableFrame": "32",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e708f4696590bf023d0a2"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DiddyKong"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e708f4696590bf023d0a3",
+    "Name": "Nair",
+    "OwnerId": 9,
+    "Owner": "DiddyKong",
+    "HitboxActive": "8-20",
+    "FirstActionableFrame": "49",
+    "BaseDamage": "6",
+    "Angle": "80",
+    "BaseKnockBackSetKnockback": "60",
+    "LandingLag": "13",
+    "AutoCancel": "1-3, 59&gt;",
+    "KnockbackGrowth": "75",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e708f4696590bf023d0a3"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DiddyKong"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e708f4696590bf023d0a4",
+    "Name": "Fair",
+    "OwnerId": 9,
+    "Owner": "DiddyKong",
+    "HitboxActive": "6-9",
+    "FirstActionableFrame": "47",
+    "BaseDamage": "10",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "30",
+    "LandingLag": "26",
+    "AutoCancel": "1-2, 26&gt;",
+    "KnockbackGrowth": "86",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e708f4696590bf023d0a4"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DiddyKong"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e708f4696590bf023d0a5",
+    "Name": "Fair (Late)",
+    "OwnerId": 9,
+    "Owner": "DiddyKong",
+    "HitboxActive": "10-16",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "8",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "30",
+    "LandingLag": "-",
+    "AutoCancel": "-",
+    "KnockbackGrowth": "86",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e708f4696590bf023d0a5"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DiddyKong"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e708f4696590bf023d0a6",
+    "Name": "Bair",
+    "OwnerId": 9,
+    "Owner": "DiddyKong",
+    "HitboxActive": "5-8",
+    "FirstActionableFrame": "31",
+    "BaseDamage": "9",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "30",
+    "LandingLag": "12",
+    "AutoCancel": "1-2, 20&gt;",
+    "KnockbackGrowth": "102",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e708f4696590bf023d0a6"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DiddyKong"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e708f4696590bf023d0a7",
+    "Name": "Uair",
+    "OwnerId": 9,
+    "Owner": "DiddyKong",
+    "HitboxActive": "4-7",
+    "FirstActionableFrame": "39",
+    "BaseDamage": "6",
+    "Angle": "76",
+    "BaseKnockBackSetKnockback": "64",
+    "LandingLag": "21",
+    "AutoCancel": "27&gt;",
+    "KnockbackGrowth": "89",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e708f4696590bf023d0a7"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DiddyKong"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e708f4696590bf023d0a8",
+    "Name": "Dair",
+    "OwnerId": 9,
+    "Owner": "DiddyKong",
+    "HitboxActive": "17",
+    "FirstActionableFrame": "49",
+    "BaseDamage": "13/10",
+    "Angle": "270",
+    "BaseKnockBackSetKnockback": "25/20",
+    "LandingLag": "28",
+    "AutoCancel": "1-16, 37&gt;",
+    "KnockbackGrowth": "110/100",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e708f4696590bf023d0a8"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DiddyKong"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e708f4696590bf023d0a9",
+    "Name": "Peanut Popgun (Peanut)",
+    "OwnerId": 9,
+    "Owner": "DiddyKong",
+    "HitboxActive": "18-",
+    "FirstActionableFrame": "49",
+    "BaseDamage": "3",
+    "Angle": "70",
+    "BaseKnockBackSetKnockback": "40",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "70",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e708f4696590bf023d0a9"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DiddyKong"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e708f4696590bf023d0aa",
+    "Name": "Peanut Popgun (Explosion)",
+    "OwnerId": 9,
+    "Owner": "DiddyKong",
+    "HitboxActive": "123",
+    "FirstActionableFrame": "229",
+    "BaseDamage": "23",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "30",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "92",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e708f4696590bf023d0aa"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DiddyKong"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e708f4696590bf023d0ab",
+    "Name": "Monkey Flip (Grounded)",
+    "OwnerId": 9,
+    "Owner": "DiddyKong",
+    "HitboxActive": "20-36",
+    "FirstActionableFrame": "44",
+    "BaseDamage": "-",
+    "Angle": "-",
+    "BaseKnockBackSetKnockback": "-",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "-",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e708f4696590bf023d0ab"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DiddyKong"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e708f4696590bf023d0ac",
+    "Name": "Monkey Flip (Aerial)",
+    "OwnerId": 9,
+    "Owner": "DiddyKong",
+    "HitboxActive": "20-29",
+    "FirstActionableFrame": "44",
+    "BaseDamage": "-",
+    "Angle": "-",
+    "BaseKnockBackSetKnockback": "-",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "-",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e708f4696590bf023d0ac"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DiddyKong"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e708f4696590bf023d0ad",
+    "Name": "Monkey Flip (Ground Throw)",
+    "OwnerId": 9,
+    "Owner": "DiddyKong",
+    "HitboxActive": "-",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "3, 7",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "50",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e708f4696590bf023d0ad"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DiddyKong"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e708f4696590bf023d0ae",
+    "Name": "Monkey Flip (Aerial Throw)",
+    "OwnerId": 9,
+    "Owner": "DiddyKong",
+    "HitboxActive": "-",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "3, 5",
+    "Angle": "270",
+    "BaseKnockBackSetKnockback": "25",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "40",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e708f4696590bf023d0ae"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DiddyKong"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e708f4696590bf023d0af",
+    "Name": "Monkey Flip (Attack Input)",
+    "OwnerId": 9,
+    "Owner": "DiddyKong",
+    "HitboxActive": "6-10",
+    "FirstActionableFrame": "30",
+    "BaseDamage": "14/12",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "80",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "50",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e708f4696590bf023d0af"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DiddyKong"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e708f4696590bf023d0b0",
+    "Name": "Monkey Flip (Attack Input, Late)",
+    "OwnerId": 9,
+    "Owner": "DiddyKong",
+    "HitboxActive": "11-25",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "12/10",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "80",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "50",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e708f4696590bf023d0b0"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DiddyKong"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e708f4696590bf023d0b1",
+    "Name": "Rocketbarrel Boost (Launch)",
+    "OwnerId": 9,
+    "Owner": "DiddyKong",
+    "HitboxActive": "8-9",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "10",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "40",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "85",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e708f4696590bf023d0b1"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DiddyKong"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e708f4696590bf023d0b2",
+    "Name": "Rocketbarrel Boost (Travel)",
+    "OwnerId": 9,
+    "Owner": "DiddyKong",
+    "HitboxActive": "10-16",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "8",
+    "Angle": "80",
+    "BaseKnockBackSetKnockback": "40",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "90",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e708f4696590bf023d0b2"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DiddyKong"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e708f4696590bf023d0b3",
+    "Name": "Rocketbarrel Boost (Travel, Late)",
+    "OwnerId": 9,
+    "Owner": "DiddyKong",
+    "HitboxActive": "17-33",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "6",
+    "Angle": "70",
+    "BaseKnockBackSetKnockback": "40",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "90",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e708f4696590bf023d0b3"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DiddyKong"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e708f4696590bf023d0b4",
+    "Name": "Rocketbarrel Boost (Explosion)",
+    "OwnerId": 9,
+    "Owner": "DiddyKong",
+    "HitboxActive": "1-2",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "18",
+    "Angle": "70",
+    "BaseKnockBackSetKnockback": "50",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "60",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e708f4696590bf023d0b4"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DiddyKong"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e708f4696590bf023d0b5",
+    "Name": "Banana Peel",
+    "OwnerId": 9,
+    "Owner": "DiddyKong",
+    "HitboxActive": "20-",
+    "FirstActionableFrame": "40",
+    "BaseDamage": "3",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "50",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "0",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e708f4696590bf023d0b5"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DiddyKong"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e708f4696590bf023d0b6",
+    "Name": "Banana Peel (Failed)",
+    "OwnerId": 9,
+    "Owner": "DiddyKong",
+    "HitboxActive": "-",
+    "FirstActionableFrame": "50",
+    "BaseDamage": "-",
+    "Angle": "-",
+    "BaseKnockBackSetKnockback": "-",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "-",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e708f4696590bf023d0b6"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DiddyKong"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e708f4696590bf023d0b7",
+    "Name": "Fthrow",
+    "OwnerId": 9,
+    "Owner": "DiddyKong",
+    "HitboxActive": null,
+    "FirstActionableFrame": null,
+    "BaseDamage": "9",
+    "Angle": "46",
+    "BaseKnockBackSetKnockback": "69",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "65",
+    "MoveType": "throw",
+    "IsWeightDependent": true,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e708f4696590bf023d0b7"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DiddyKong"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e708f4696590bf023d0b8",
+    "Name": "Bthrow",
+    "OwnerId": 9,
+    "Owner": "DiddyKong",
+    "HitboxActive": null,
+    "FirstActionableFrame": null,
+    "BaseDamage": "12",
+    "Angle": "42",
+    "BaseKnockBackSetKnockback": "60",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "55",
+    "MoveType": "throw",
+    "IsWeightDependent": true,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e708f4696590bf023d0b8"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DiddyKong"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e708f4696590bf023d0b9",
+    "Name": "Uthrow",
+    "OwnerId": 9,
+    "Owner": "DiddyKong",
+    "HitboxActive": null,
+    "FirstActionableFrame": null,
+    "BaseDamage": "1, 4",
+    "Angle": "87",
+    "BaseKnockBackSetKnockback": "70",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "72",
+    "MoveType": "throw",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e708f4696590bf023d0b9"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DiddyKong"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e708f4696590bf023d0ba",
+    "Name": "Dthrow",
+    "OwnerId": 9,
+    "Owner": "DiddyKong",
+    "HitboxActive": null,
+    "FirstActionableFrame": null,
+    "BaseDamage": "7",
+    "Angle": "106",
+    "BaseKnockBackSetKnockback": "85",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "59",
+    "MoveType": "throw",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e708f4696590bf023d0ba"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DiddyKong"
+      }
+    ]
+  }
+]

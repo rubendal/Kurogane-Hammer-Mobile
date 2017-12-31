@@ -1,0 +1,524 @@
+﻿[
+  {
+    "InstanceId": "598e70e94696590bf023dca4",
+    "Name": "AerialJump",
+    "OwnerId": 43,
+    "Owner": "Rob",
+    "Values": [
+      {
+        "Value": "38",
+        "Owner": "Rob",
+        "OwnerId": 43,
+        "Name": "HEIGHT"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70e94696590bf023dca4"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Rob"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70e94696590bf023dca5",
+    "Name": "AirAcceleration",
+    "OwnerId": 43,
+    "Owner": "Rob",
+    "Values": [
+      {
+        "Value": "0.045",
+        "Owner": "Rob",
+        "OwnerId": 43,
+        "Name": "MAX ADDITIONAL"
+      },
+      {
+        "Value": "0.04",
+        "Owner": "Rob",
+        "OwnerId": 43,
+        "Name": "BASE VALUE"
+      },
+      {
+        "Value": "0.085",
+        "Owner": "Rob",
+        "OwnerId": 43,
+        "Name": "TOTAL"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70e94696590bf023dca5"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Rob"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70e94696590bf023dca6",
+    "Name": "AirFriction",
+    "OwnerId": 43,
+    "Owner": "Rob",
+    "Values": [
+      {
+        "Value": "0.015",
+        "Owner": "Rob",
+        "OwnerId": 43,
+        "Name": "VALUE"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70e94696590bf023dca6"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Rob"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70e94696590bf023dca7",
+    "Name": "DashLength",
+    "OwnerId": 43,
+    "Owner": "Rob",
+    "Values": [
+      {
+        "Value": "11",
+        "Owner": "Rob",
+        "OwnerId": 43,
+        "Name": "LENGTH IN FRAMES"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70e94696590bf023dca7"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Rob"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70e94696590bf023dca8",
+    "Name": "FallSpeed",
+    "OwnerId": 43,
+    "Owner": "Rob",
+    "Values": [
+      {
+        "Value": "1.6",
+        "Owner": "Rob",
+        "OwnerId": 43,
+        "Name": "MAX FALL SPEED"
+      },
+      {
+        "Value": "2.56",
+        "Owner": "Rob",
+        "OwnerId": 43,
+        "Name": "FAST FALL SPEED"
+      },
+      {
+        "Value": "60%",
+        "Owner": "Rob",
+        "OwnerId": 43,
+        "Name": "SPEED INCREASE"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70e94696590bf023dca8"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Rob"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70e94696590bf023dca9",
+    "Name": "FullHop",
+    "OwnerId": 43,
+    "Owner": "Rob",
+    "Values": [
+      {
+        "Value": "38",
+        "Owner": "Rob",
+        "OwnerId": 43,
+        "Name": "HEIGHT"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70e94696590bf023dca9"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Rob"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70e94696590bf023dcaa",
+    "Name": "Gravity",
+    "OwnerId": 43,
+    "Owner": "Rob",
+    "Values": [
+      {
+        "Value": "0.09",
+        "Owner": "Rob",
+        "OwnerId": 43,
+        "Name": "VALUE"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70e94696590bf023dcaa"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Rob"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70e94696590bf023dcab",
+    "Name": "JumpSquat",
+    "OwnerId": 43,
+    "Owner": "Rob",
+    "Values": [
+      {
+        "Value": "5",
+        "Owner": "Rob",
+        "OwnerId": 43,
+        "Name": "VALUE"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70e94696590bf023dcab"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Rob"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70e94696590bf023dcac",
+    "Name": "LedgeHop",
+    "OwnerId": 43,
+    "Owner": "Rob",
+    "Values": [
+      {
+        "Value": "39",
+        "Owner": "Rob",
+        "OwnerId": 43,
+        "Name": "HEIGHT"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70e94696590bf023dcac"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Rob"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70e94696590bf023dcad",
+    "Name": "ShortHop",
+    "OwnerId": 43,
+    "Owner": "Rob",
+    "Values": [
+      {
+        "Value": "18.378603",
+        "Owner": "Rob",
+        "OwnerId": 43,
+        "Name": "HEIGHT"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70e94696590bf023dcad"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Rob"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70e94696590bf023dcae",
+    "Name": "Spotdodge",
+    "OwnerId": 43,
+    "Owner": "Rob",
+    "Values": [
+      {
+        "Value": "2-17",
+        "Owner": "Rob",
+        "OwnerId": 43,
+        "Name": "INTANGIBLE"
+      },
+      {
+        "Value": "27",
+        "Owner": "Rob",
+        "OwnerId": 43,
+        "Name": "FAF"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70e94696590bf023dcae"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Rob"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70e94696590bf023dcaf",
+    "Name": "Traction",
+    "OwnerId": 43,
+    "Owner": "Rob",
+    "Values": [
+      {
+        "Value": "0.06",
+        "Owner": "Rob",
+        "OwnerId": 43,
+        "Name": "VALUE"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70e94696590bf023dcaf"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Rob"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70e94696590bf023dcb0",
+    "Name": "WalkSpeed",
+    "OwnerId": 43,
+    "Owner": "Rob",
+    "Values": [
+      {
+        "Value": "1.122",
+        "Owner": "Rob",
+        "OwnerId": 43,
+        "Name": "MAX WALK SPEED VALUE"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70e94696590bf023dcb0"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Rob"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70e94696590bf023dcb1",
+    "Name": "AirSpeed",
+    "OwnerId": 43,
+    "Owner": "Rob",
+    "Values": [
+      {
+        "Value": "1.08",
+        "Owner": "Rob",
+        "OwnerId": 43,
+        "Name": "MAX AIR SPEED VALUE"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70e94696590bf023dcb1"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Rob"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70e94696590bf023dcb2",
+    "Name": "AirDodge",
+    "OwnerId": 43,
+    "Owner": "Rob",
+    "Values": [
+      {
+        "Value": "3-27",
+        "Owner": "Rob",
+        "OwnerId": 43,
+        "Name": "INTANGIBLE"
+      },
+      {
+        "Value": "33",
+        "Owner": "Rob",
+        "OwnerId": 43,
+        "Name": "FAF"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70e94696590bf023dcb2"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Rob"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70e94696590bf023dcb3",
+    "Name": "Rolls",
+    "OwnerId": 43,
+    "Owner": "Rob",
+    "Values": [
+      {
+        "Value": "4-16",
+        "Owner": "Rob",
+        "OwnerId": 43,
+        "Name": "INTANGIBLE"
+      },
+      {
+        "Value": "30",
+        "Owner": "Rob",
+        "OwnerId": 43,
+        "Name": "FAF"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70e94696590bf023dcb3"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Rob"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70e94696590bf023dcb4",
+    "Name": "RunSpeed",
+    "OwnerId": 43,
+    "Owner": "Rob",
+    "Values": [
+      {
+        "Value": "1.568",
+        "Owner": "Rob",
+        "OwnerId": 43,
+        "Name": "MAX RUN SPEED VALUE"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70e94696590bf023dcb4"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Rob"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70e94696590bf023dcb5",
+    "Name": "ShieldSize",
+    "OwnerId": 43,
+    "Owner": "Rob",
+    "Values": [
+      {
+        "Value": "13.104",
+        "Owner": "Rob",
+        "OwnerId": 43,
+        "Name": "SIZE"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70e94696590bf023dcb5"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Rob"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70e94696590bf023dcb6",
+    "Name": "Reflectors",
+    "OwnerId": 43,
+    "Owner": "Rob",
+    "Values": [
+      {
+        "Value": "???",
+        "Owner": "Rob",
+        "OwnerId": 43,
+        "Name": "REFLECTS ON"
+      },
+      {
+        "Value": "16-",
+        "Owner": "Rob",
+        "OwnerId": 43,
+        "Name": "HITBOX ON"
+      },
+      {
+        "Value": "1.5x",
+        "Owner": "Rob",
+        "OwnerId": 43,
+        "Name": "DAMAGE MULTIPLIER"
+      },
+      {
+        "Value": "1.3x",
+        "Owner": "Rob",
+        "OwnerId": 43,
+        "Name": "SPEED MULTIPLIER"
+      },
+      {
+        "Value": "60%",
+        "Owner": "Rob",
+        "OwnerId": 43,
+        "Name": "BREAK THRESHOLD"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70e94696590bf023dcb6"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Rob"
+      }
+    ]
+  }
+]

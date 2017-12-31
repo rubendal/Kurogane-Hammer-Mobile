@@ -1,0 +1,1328 @@
+﻿[
+  {
+    "InstanceId": "598e70a54696590bf023d347",
+    "Name": "Jab 1",
+    "OwnerId": 17,
+    "Owner": "Ike",
+    "HitboxActive": "4-5",
+    "FirstActionableFrame": "24",
+    "BaseDamage": "3",
+    "Angle": "65",
+    "BaseKnockBackSetKnockback": "W: 50",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70a54696590bf023d347"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ike"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70a54696590bf023d348",
+    "Name": "Jab 2",
+    "OwnerId": 17,
+    "Owner": "Ike",
+    "HitboxActive": "3-4",
+    "FirstActionableFrame": "28",
+    "BaseDamage": "3",
+    "Angle": "65/80/65",
+    "BaseKnockBackSetKnockback": "W: 40/25/50",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "80/80/100",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70a54696590bf023d348"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ike"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70a54696590bf023d349",
+    "Name": "Jab 3",
+    "OwnerId": 17,
+    "Owner": "Ike",
+    "HitboxActive": "5-8",
+    "FirstActionableFrame": "39",
+    "BaseDamage": "5",
+    "Angle": "45",
+    "BaseKnockBackSetKnockback": "60",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70a54696590bf023d349"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ike"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70a54696590bf023d34a",
+    "Name": "Dash Attack",
+    "OwnerId": 17,
+    "Owner": "Ike",
+    "HitboxActive": "15-16 (Cannot Rebound)",
+    "FirstActionableFrame": "52",
+    "BaseDamage": "14/11",
+    "Angle": "52",
+    "BaseKnockBackSetKnockback": "70",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "78",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70a54696590bf023d34a"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ike"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70a54696590bf023d34b",
+    "Name": "Dash Attack (Late)",
+    "OwnerId": 17,
+    "Owner": "Ike",
+    "HitboxActive": "17-19",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "9",
+    "Angle": "45",
+    "BaseKnockBackSetKnockback": "60",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70a54696590bf023d34b"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ike"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70a54696590bf023d34c",
+    "Name": "Ftilt (All Angles)",
+    "OwnerId": 17,
+    "Owner": "Ike",
+    "HitboxActive": "13-14",
+    "FirstActionableFrame": "42",
+    "BaseDamage": "12.5",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "30",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "97",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70a54696590bf023d34c"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ike"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70a54696590bf023d34d",
+    "Name": "Utilt",
+    "OwnerId": 17,
+    "Owner": "Ike",
+    "HitboxActive": "11-13",
+    "FirstActionableFrame": "48",
+    "BaseDamage": "14",
+    "Angle": "95",
+    "BaseKnockBackSetKnockback": "50",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "90",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70a54696590bf023d34d"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ike"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70a54696590bf023d34e",
+    "Name": "Utilt (Late)",
+    "OwnerId": 17,
+    "Owner": "Ike",
+    "HitboxActive": "14-21",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "10",
+    "Angle": "85",
+    "BaseKnockBackSetKnockback": "50",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "90",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70a54696590bf023d34e"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ike"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70a54696590bf023d34f",
+    "Name": "Dtilt",
+    "OwnerId": 17,
+    "Owner": "Ike",
+    "HitboxActive": "7-8",
+    "FirstActionableFrame": "29",
+    "BaseDamage": "8",
+    "Angle": "80",
+    "BaseKnockBackSetKnockback": "70",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "70",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70a54696590bf023d34f"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ike"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70a54696590bf023d350",
+    "Name": "Fsmash",
+    "OwnerId": 17,
+    "Owner": "Ike",
+    "HitboxActive": "31-32",
+    "FirstActionableFrame": "84",
+    "BaseDamage": "19",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "40",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "90",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70a54696590bf023d350"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ike"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70a54696590bf023d351",
+    "Name": "Fsmash (Late)",
+    "OwnerId": 17,
+    "Owner": "Ike",
+    "HitboxActive": "33-35",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "22/22/19",
+    "Angle": "361/361/57",
+    "BaseKnockBackSetKnockback": "40",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "86",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70a54696590bf023d351"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ike"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70a54696590bf023d352",
+    "Name": "Usmash",
+    "OwnerId": 17,
+    "Owner": "Ike",
+    "HitboxActive": "25-29",
+    "FirstActionableFrame": "71",
+    "BaseDamage": "17",
+    "Angle": "82/75/70/65",
+    "BaseKnockBackSetKnockback": "50",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "86",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70a54696590bf023d352"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ike"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70a54696590bf023d353",
+    "Name": "Usmash (Late)",
+    "OwnerId": 17,
+    "Owner": "Ike",
+    "HitboxActive": "30-31",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "10",
+    "Angle": "65",
+    "BaseKnockBackSetKnockback": "50",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "85",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70a54696590bf023d353"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ike"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70a54696590bf023d354",
+    "Name": "Dsmash (Hit 1)",
+    "OwnerId": 17,
+    "Owner": "Ike",
+    "HitboxActive": "13-15",
+    "FirstActionableFrame": "71",
+    "BaseDamage": "14",
+    "Angle": "48",
+    "BaseKnockBackSetKnockback": "40",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70a54696590bf023d354"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ike"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70a54696590bf023d355",
+    "Name": "Dsmash (Hit 2)",
+    "OwnerId": 17,
+    "Owner": "Ike",
+    "HitboxActive": "32-33",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "17",
+    "Angle": "48",
+    "BaseKnockBackSetKnockback": "40",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70a54696590bf023d355"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ike"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70a54696590bf023d356",
+    "Name": "Dsmash (Hit 2, Late)",
+    "OwnerId": 17,
+    "Owner": "Ike",
+    "HitboxActive": "34-36",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "8",
+    "Angle": "61",
+    "BaseKnockBackSetKnockback": "30",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70a54696590bf023d356"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ike"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70a54696590bf023d357",
+    "Name": "Standing Grab",
+    "OwnerId": 17,
+    "Owner": "Ike",
+    "HitboxActive": "7-8",
+    "FirstActionableFrame": "33",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70a54696590bf023d357"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ike"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70a54696590bf023d358",
+    "Name": "Dash Grab",
+    "OwnerId": 17,
+    "Owner": "Ike",
+    "HitboxActive": "10-11",
+    "FirstActionableFrame": "41",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70a54696590bf023d358"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ike"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70a54696590bf023d359",
+    "Name": "Pivot Grab",
+    "OwnerId": 17,
+    "Owner": "Ike",
+    "HitboxActive": "11-12",
+    "FirstActionableFrame": "39",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70a54696590bf023d359"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ike"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70a54696590bf023d35a",
+    "Name": "Spotdodge",
+    "OwnerId": 17,
+    "Owner": "Ike",
+    "HitboxActive": "3-18",
+    "FirstActionableFrame": "28",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70a54696590bf023d35a"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ike"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70a54696590bf023d35b",
+    "Name": "Forward Roll",
+    "OwnerId": 17,
+    "Owner": "Ike",
+    "HitboxActive": "4-18",
+    "FirstActionableFrame": "33",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70a54696590bf023d35b"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ike"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70a54696590bf023d35c",
+    "Name": "Back Roll",
+    "OwnerId": 17,
+    "Owner": "Ike",
+    "HitboxActive": "4-18",
+    "FirstActionableFrame": "33",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70a54696590bf023d35c"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ike"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70a54696590bf023d35d",
+    "Name": "Airdodge",
+    "OwnerId": 17,
+    "Owner": "Ike",
+    "HitboxActive": "3-28",
+    "FirstActionableFrame": "34",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70a54696590bf023d35d"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ike"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70a54696590bf023d35e",
+    "Name": "Nair",
+    "OwnerId": 17,
+    "Owner": "Ike",
+    "HitboxActive": "12-21",
+    "FirstActionableFrame": "60",
+    "BaseDamage": "10",
+    "Angle": "80",
+    "BaseKnockBackSetKnockback": "35",
+    "LandingLag": "14",
+    "AutoCancel": "1-5, 64&gt;",
+    "KnockbackGrowth": "105",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70a54696590bf023d35e"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ike"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70a54696590bf023d35f",
+    "Name": "Nair (Late)",
+    "OwnerId": 17,
+    "Owner": "Ike",
+    "HitboxActive": "22-27",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "7",
+    "Angle": "80",
+    "BaseKnockBackSetKnockback": "35",
+    "LandingLag": "-",
+    "AutoCancel": "-",
+    "KnockbackGrowth": "105",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70a54696590bf023d35f"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ike"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70a54696590bf023d360",
+    "Name": "Fair",
+    "OwnerId": 17,
+    "Owner": "Ike",
+    "HitboxActive": "12-16",
+    "FirstActionableFrame": "55",
+    "BaseDamage": "13",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "30",
+    "LandingLag": "18",
+    "AutoCancel": "1-2, 36&gt;",
+    "KnockbackGrowth": "100",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70a54696590bf023d360"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ike"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70a54696590bf023d361",
+    "Name": "Bair",
+    "OwnerId": 17,
+    "Owner": "Ike",
+    "HitboxActive": "7-9",
+    "FirstActionableFrame": "55",
+    "BaseDamage": "14",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "30",
+    "LandingLag": "19",
+    "AutoCancel": "1-2, 35&gt;",
+    "KnockbackGrowth": "100",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70a54696590bf023d361"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ike"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70a54696590bf023d362",
+    "Name": "Uair",
+    "OwnerId": 17,
+    "Owner": "Ike",
+    "HitboxActive": "13-29",
+    "FirstActionableFrame": "57",
+    "BaseDamage": "11",
+    "Angle": "80",
+    "BaseKnockBackSetKnockback": "55",
+    "LandingLag": "15",
+    "AutoCancel": "1-5, 51&gt;",
+    "KnockbackGrowth": "94",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70a54696590bf023d362"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ike"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70a54696590bf023d363",
+    "Name": "Dair",
+    "OwnerId": 17,
+    "Owner": "Ike",
+    "HitboxActive": "16-17",
+    "FirstActionableFrame": "55",
+    "BaseDamage": "15",
+    "Angle": "50/270",
+    "BaseKnockBackSetKnockback": "30/20",
+    "LandingLag": "23",
+    "AutoCancel": "1-4, 48&gt;",
+    "KnockbackGrowth": "100/90",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70a54696590bf023d363"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ike"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70a54696590bf023d364",
+    "Name": "Eruption (Charging)",
+    "OwnerId": 17,
+    "Owner": "Ike",
+    "HitboxActive": "Starts Charging: Frame 20",
+    "FirstActionableFrame": "Max Charge: Frames 180-189",
+    "BaseDamage": "-",
+    "Angle": "-",
+    "BaseKnockBackSetKnockback": "-",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "-",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70a54696590bf023d364"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ike"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70a54696590bf023d365",
+    "Name": "Eruption",
+    "OwnerId": 17,
+    "Owner": "Ike",
+    "HitboxActive": "30-34",
+    "FirstActionableFrame": "79",
+    "BaseDamage": "9",
+    "Angle": "80/80/270/85",
+    "BaseKnockBackSetKnockback": "40",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70a54696590bf023d365"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ike"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70a54696590bf023d366",
+    "Name": "Eruption (Late)",
+    "OwnerId": 17,
+    "Owner": "Ike",
+    "HitboxActive": "35-36",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "9",
+    "Angle": "270/85",
+    "BaseKnockBackSetKnockback": "40",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70a54696590bf023d366"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ike"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70a54696590bf023d367",
+    "Name": "Eruption (Fully Charged)",
+    "OwnerId": 17,
+    "Owner": "Ike",
+    "HitboxActive": "239-243 (Super Armor: 234-238)",
+    "FirstActionableFrame": "288",
+    "BaseDamage": "35/28/26",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "20",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "70",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70a54696590bf023d367"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ike"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70a54696590bf023d368",
+    "Name": "Quickdraw (Charge)",
+    "OwnerId": 17,
+    "Owner": "Ike",
+    "HitboxActive": "Max Charge: 88~ Frames",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "-",
+    "Angle": "-",
+    "BaseKnockBackSetKnockback": "-",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "-",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70a54696590bf023d368"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ike"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70a54696590bf023d369",
+    "Name": "Quickdraw (Travel)",
+    "OwnerId": 17,
+    "Owner": "Ike",
+    "HitboxActive": "Travel Time: 12 Frames",
+    "FirstActionableFrame": "57",
+    "BaseDamage": "-",
+    "Angle": "-",
+    "BaseKnockBackSetKnockback": "-",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "-",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70a54696590bf023d369"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ike"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70a54696590bf023d36a",
+    "Name": "Quickdraw (Attack)",
+    "OwnerId": 17,
+    "Owner": "Ike",
+    "HitboxActive": "16-18",
+    "FirstActionableFrame": "59",
+    "BaseDamage": "6",
+    "Angle": "60",
+    "BaseKnockBackSetKnockback": "70",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "88",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70a54696590bf023d36a"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ike"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70a54696590bf023d36b",
+    "Name": "Aether (Hit 1)",
+    "OwnerId": 17,
+    "Owner": "Ike",
+    "HitboxActive": "18-19 (Super Armor: 18-21)",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "6",
+    "Angle": "91/78/90/91",
+    "BaseKnockBackSetKnockback": "W: 160/160/130/130",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70a54696590bf023d36b"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ike"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70a54696590bf023d36c",
+    "Name": "Aether (Hit 1, Late)",
+    "OwnerId": 17,
+    "Owner": "Ike",
+    "HitboxActive": "20-29",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "4/4/6/6",
+    "Angle": "91/91/90/91",
+    "BaseKnockBackSetKnockback": "W: 100/100/130/130",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70a54696590bf023d36c"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ike"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70a54696590bf023d36d",
+    "Name": "Aether (Projectile, Hit 1)",
+    "OwnerId": 17,
+    "Owner": "Ike",
+    "HitboxActive": "30-39",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "2",
+    "Angle": "91",
+    "BaseKnockBackSetKnockback": "W: 80",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70a54696590bf023d36d"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ike"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70a54696590bf023d36e",
+    "Name": "Aether (Projectile, Hit 2)",
+    "OwnerId": 17,
+    "Owner": "Ike",
+    "HitboxActive": "40",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "1",
+    "Angle": "91",
+    "BaseKnockBackSetKnockback": "W: 40",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70a54696590bf023d36e"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ike"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70a54696590bf023d36f",
+    "Name": "Aether",
+    "OwnerId": 17,
+    "Owner": "Ike",
+    "HitboxActive": "47-57 (Rehit rate: 7)",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "1",
+    "Angle": "366",
+    "BaseKnockBackSetKnockback": "W: 50",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70a54696590bf023d36f"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ike"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70a54696590bf023d370",
+    "Name": "Aether (Falling)",
+    "OwnerId": 17,
+    "Owner": "Ike",
+    "HitboxActive": "64-",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "3",
+    "Angle": "70/270/60",
+    "BaseKnockBackSetKnockback": "120",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "30",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70a54696590bf023d370"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ike"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70a54696590bf023d371",
+    "Name": "Aether (Landing)",
+    "OwnerId": 17,
+    "Owner": "Ike",
+    "HitboxActive": "1",
+    "FirstActionableFrame": "38",
+    "BaseDamage": "6",
+    "Angle": "60",
+    "BaseKnockBackSetKnockback": "70",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "80",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70a54696590bf023d371"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ike"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70a54696590bf023d372",
+    "Name": "Aether (Landing, Late)",
+    "OwnerId": 17,
+    "Owner": "Ike",
+    "HitboxActive": "2-5 (Aerial Only)",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "6",
+    "Angle": "60",
+    "BaseKnockBackSetKnockback": "70",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "80",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70a54696590bf023d372"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ike"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70a54696590bf023d373",
+    "Name": "Counter",
+    "OwnerId": 17,
+    "Owner": "Ike",
+    "HitboxActive": "Counters: 9-35 (Invincible: 9-16)",
+    "FirstActionableFrame": "59",
+    "BaseDamage": "-",
+    "Angle": "-",
+    "BaseKnockBackSetKnockback": "-",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "-",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70a54696590bf023d373"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ike"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70a54696590bf023d374",
+    "Name": "Counter (On Hit)",
+    "OwnerId": 17,
+    "Owner": "Ike",
+    "HitboxActive": "16 Freeze Frames, Intangible 1-16",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "-",
+    "Angle": "-",
+    "BaseKnockBackSetKnockback": "-",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "-",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70a54696590bf023d374"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ike"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70a54696590bf023d375",
+    "Name": "Counter (Attack)",
+    "OwnerId": 17,
+    "Owner": "Ike",
+    "HitboxActive": "5-6 (Invincible: 1-5)",
+    "FirstActionableFrame": "35",
+    "BaseDamage": "10 (1.2&#215;)",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "48",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70a54696590bf023d375"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ike"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70a54696590bf023d376",
+    "Name": "Fthrow",
+    "OwnerId": 17,
+    "Owner": "Ike",
+    "HitboxActive": null,
+    "FirstActionableFrame": null,
+    "BaseDamage": "3, 4",
+    "Angle": "28",
+    "BaseKnockBackSetKnockback": "55",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "75",
+    "MoveType": "throw",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70a54696590bf023d376"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ike"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70a54696590bf023d377",
+    "Name": "Bthrow",
+    "OwnerId": 17,
+    "Owner": "Ike",
+    "HitboxActive": null,
+    "FirstActionableFrame": null,
+    "BaseDamage": "3, 4",
+    "Angle": "28",
+    "BaseKnockBackSetKnockback": "55",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "75",
+    "MoveType": "throw",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70a54696590bf023d377"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ike"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70a54696590bf023d378",
+    "Name": "Uthrow",
+    "OwnerId": 17,
+    "Owner": "Ike",
+    "HitboxActive": null,
+    "FirstActionableFrame": null,
+    "BaseDamage": "3, 4",
+    "Angle": "87",
+    "BaseKnockBackSetKnockback": "70",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "72",
+    "MoveType": "throw",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70a54696590bf023d378"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ike"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70a54696590bf023d379",
+    "Name": "Dthrow",
+    "OwnerId": 17,
+    "Owner": "Ike",
+    "HitboxActive": null,
+    "FirstActionableFrame": null,
+    "BaseDamage": "3, 4",
+    "Angle": "80",
+    "BaseKnockBackSetKnockback": "75",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "120",
+    "MoveType": "throw",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70a54696590bf023d379"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ike"
+      }
+    ]
+  }
+]

@@ -1,0 +1,1394 @@
+﻿[
+  {
+    "InstanceId": "598e70794696590bf023cdd3",
+    "Name": "AerialJump",
+    "OwnerId": 1,
+    "Owner": "Bayonetta",
+    "Values": [
+      {
+        "Value": "42",
+        "Owner": "Bayonetta",
+        "OwnerId": 1,
+        "Name": "HEIGHT"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70794696590bf023cdd3"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Bayonetta"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e707c4696590bf023ce2b",
+    "Name": "AerialJump",
+    "OwnerId": 2,
+    "Owner": "Bowser",
+    "Values": [
+      {
+        "Value": "32.611839",
+        "Owner": "Bowser",
+        "OwnerId": 2,
+        "Name": "HEIGHT"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e707c4696590bf023ce2b"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Bowser"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e707f4696590bf023ce87",
+    "Name": "AerialJump",
+    "OwnerId": 3,
+    "Owner": "BowserJr",
+    "Values": [
+      {
+        "Value": "34.400002",
+        "Owner": "BowserJr",
+        "OwnerId": 3,
+        "Name": "HEIGHT"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e707f4696590bf023ce87"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/BowserJr"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70814696590bf023cee5",
+    "Name": "AerialJump",
+    "OwnerId": 4,
+    "Owner": "CaptainFalcon",
+    "Values": [
+      {
+        "Value": "37.306652",
+        "Owner": "CaptainFalcon",
+        "OwnerId": 4,
+        "Name": "HEIGHT"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70814696590bf023cee5"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/CaptainFalcon"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70844696590bf023cf33",
+    "Name": "AerialJump",
+    "OwnerId": 5,
+    "Owner": "Charizard",
+    "Values": [
+      {
+        "Value": "36",
+        "Owner": "Charizard",
+        "OwnerId": 5,
+        "Name": "HEIGHT"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70844696590bf023cf33"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Charizard"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70874696590bf023cfa2",
+    "Name": "AerialJump",
+    "OwnerId": 6,
+    "Owner": "Cloud",
+    "Values": [
+      {
+        "Value": "32",
+        "Owner": "Cloud",
+        "OwnerId": 6,
+        "Name": "HEIGHT"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70874696590bf023cfa2"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Cloud"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e708a4696590bf023d00b",
+    "Name": "AerialJump",
+    "OwnerId": 7,
+    "Owner": "Corrin",
+    "Values": [
+      {
+        "Value": "31",
+        "Owner": "Corrin",
+        "OwnerId": 7,
+        "Name": "HEIGHT"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e708a4696590bf023d00b"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Corrin"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e708c4696590bf023d063",
+    "Name": "AerialJump",
+    "OwnerId": 8,
+    "Owner": "DarkPit",
+    "Values": [
+      {
+        "Value": "31",
+        "Owner": "DarkPit",
+        "OwnerId": 8,
+        "Name": "HEIGHT"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e708c4696590bf023d063"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DarkPit"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e708f4696590bf023d0bb",
+    "Name": "AerialJump",
+    "OwnerId": 9,
+    "Owner": "DiddyKong",
+    "Values": [
+      {
+        "Value": "41.208694",
+        "Owner": "DiddyKong",
+        "OwnerId": 9,
+        "Name": "HEIGHT"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e708f4696590bf023d0bb"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DiddyKong"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70924696590bf023d117",
+    "Name": "AerialJump",
+    "OwnerId": 10,
+    "Owner": "DonkeyKong",
+    "Values": [
+      {
+        "Value": "35.5",
+        "Owner": "DonkeyKong",
+        "OwnerId": 10,
+        "Name": "HEIGHT"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70924696590bf023d117"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DonkeyKong"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70954696590bf023d16a",
+    "Name": "AerialJump",
+    "OwnerId": 11,
+    "Owner": "DrMario",
+    "Values": [
+      {
+        "Value": "36.331814",
+        "Owner": "DrMario",
+        "OwnerId": 11,
+        "Name": "HEIGHT"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70954696590bf023d16a"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DrMario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70984696590bf023d1c5",
+    "Name": "AerialJump",
+    "OwnerId": 12,
+    "Owner": "DuckHunt",
+    "Values": [
+      {
+        "Value": "33.799999",
+        "Owner": "DuckHunt",
+        "OwnerId": 12,
+        "Name": "HEIGHT"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70984696590bf023d1c5"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DuckHunt"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e709a4696590bf023d21a",
+    "Name": "AerialJump",
+    "OwnerId": 13,
+    "Owner": "Falco",
+    "Values": [
+      {
+        "Value": "50.506073",
+        "Owner": "Falco",
+        "OwnerId": 13,
+        "Name": "HEIGHT"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e709a4696590bf023d21a"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Falco"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e709d4696590bf023d273",
+    "Name": "AerialJump",
+    "OwnerId": 14,
+    "Owner": "Fox",
+    "Values": [
+      {
+        "Value": "37",
+        "Owner": "Fox",
+        "OwnerId": 14,
+        "Name": "HEIGHT"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e709d4696590bf023d273"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Fox"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e709f4696590bf023d2c9",
+    "Name": "AerialJump",
+    "OwnerId": 15,
+    "Owner": "Ganondorf",
+    "Values": [
+      {
+        "Value": "26",
+        "Owner": "Ganondorf",
+        "OwnerId": 15,
+        "Name": "HEIGHT"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e709f4696590bf023d2c9"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ganondorf"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70a24696590bf023d320",
+    "Name": "AerialJump",
+    "OwnerId": 16,
+    "Owner": "Greninja",
+    "Values": [
+      {
+        "Value": "46",
+        "Owner": "Greninja",
+        "OwnerId": 16,
+        "Name": "HEIGHT"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70a24696590bf023d320"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Greninja"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70a54696590bf023d37a",
+    "Name": "AerialJump",
+    "OwnerId": 17,
+    "Owner": "Ike",
+    "Values": [
+      {
+        "Value": "31",
+        "Owner": "Ike",
+        "OwnerId": 17,
+        "Name": "HEIGHT"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70a54696590bf023d37a"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ike"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70a74696590bf023d3c5",
+    "Name": "AerialJump",
+    "OwnerId": 18,
+    "Owner": "Jigglypuff",
+    "Values": [
+      {
+        "Value": "19.786329",
+        "Owner": "Jigglypuff",
+        "OwnerId": 18,
+        "Name": "HEIGHT"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70a74696590bf023d3c5"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Jigglypuff"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70aa4696590bf023d41d",
+    "Name": "AerialJump",
+    "OwnerId": 19,
+    "Owner": "KingDedede",
+    "Values": [
+      {
+        "Value": "32.849998",
+        "Owner": "KingDedede",
+        "OwnerId": 19,
+        "Name": "HEIGHT"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70aa4696590bf023d41d"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/KingDedede"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ad4696590bf023d47d",
+    "Name": "AerialJump",
+    "OwnerId": 20,
+    "Owner": "Kirby",
+    "Values": [
+      {
+        "Value": "22",
+        "Owner": "Kirby",
+        "OwnerId": 20,
+        "Name": "HEIGHT"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70ad4696590bf023d47d"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Kirby"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70af4696590bf023d4de",
+    "Name": "AerialJump",
+    "OwnerId": 21,
+    "Owner": "Link",
+    "Values": [
+      {
+        "Value": "29",
+        "Owner": "Link",
+        "OwnerId": 21,
+        "Name": "HEIGHT"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70af4696590bf023d4de"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Link"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70b24696590bf023d53a",
+    "Name": "AerialJump",
+    "OwnerId": 22,
+    "Owner": "LittleMac",
+    "Values": [
+      {
+        "Value": "26",
+        "Owner": "LittleMac",
+        "OwnerId": 22,
+        "Name": "HEIGHT"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70b24696590bf023d53a"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/LittleMac"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70b44696590bf023d58c",
+    "Name": "AerialJump",
+    "OwnerId": 23,
+    "Owner": "Lucario",
+    "Values": [
+      {
+        "Value": "37.619999",
+        "Owner": "Lucario",
+        "OwnerId": 23,
+        "Name": "HEIGHT"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70b44696590bf023d58c"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Lucario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70b74696590bf023d5e4",
+    "Name": "AerialJump",
+    "OwnerId": 24,
+    "Owner": "Lucas",
+    "Values": [
+      {
+        "Value": "34.48",
+        "Owner": "Lucas",
+        "OwnerId": 24,
+        "Name": "HEIGHT"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70b74696590bf023d5e4"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Lucas"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ba4696590bf023d63a",
+    "Name": "AerialJump",
+    "OwnerId": 25,
+    "Owner": "Lucina",
+    "Values": [
+      {
+        "Value": "33.660133",
+        "Owner": "Lucina",
+        "OwnerId": 25,
+        "Name": "HEIGHT"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70ba4696590bf023d63a"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Lucina"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70bd4696590bf023d68f",
+    "Name": "AerialJump",
+    "OwnerId": 26,
+    "Owner": "Luigi",
+    "Values": [
+      {
+        "Value": "41.305771",
+        "Owner": "Luigi",
+        "OwnerId": 26,
+        "Name": "HEIGHT"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70bd4696590bf023d68f"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Luigi"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70bf4696590bf023d6e2",
+    "Name": "AerialJump",
+    "OwnerId": 27,
+    "Owner": "Mario",
+    "Values": [
+      {
+        "Value": "36.331814",
+        "Owner": "Mario",
+        "OwnerId": 27,
+        "Name": "HEIGHT"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70bf4696590bf023d6e2"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Mario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c24696590bf023d738",
+    "Name": "AerialJump",
+    "OwnerId": 28,
+    "Owner": "Marth",
+    "Values": [
+      {
+        "Value": "33.660133",
+        "Owner": "Marth",
+        "OwnerId": 28,
+        "Name": "HEIGHT"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70c24696590bf023d738"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Marth"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c44696590bf023d7ad",
+    "Name": "AerialJump",
+    "OwnerId": 29,
+    "Owner": "MegaMan",
+    "Values": [
+      {
+        "Value": "32.799999",
+        "Owner": "MegaMan",
+        "OwnerId": 29,
+        "Name": "HEIGHT"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70c44696590bf023d7ad"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MegaMan"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c74696590bf023d801",
+    "Name": "AerialJump",
+    "OwnerId": 30,
+    "Owner": "MetaKnight",
+    "Values": [
+      {
+        "Value": "28.925524",
+        "Owner": "MetaKnight",
+        "OwnerId": 30,
+        "Name": "HEIGHT"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70c74696590bf023d801"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MetaKnight"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c94696590bf023d84c",
+    "Name": "AerialJump",
+    "OwnerId": 31,
+    "Owner": "Mewtwo",
+    "Values": [
+      {
+        "Value": "58.542999",
+        "Owner": "Mewtwo",
+        "OwnerId": 31,
+        "Name": "HEIGHT"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70c94696590bf023d84c"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Mewtwo"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70cc4696590bf023d8c4",
+    "Name": "AerialJump",
+    "OwnerId": 34,
+    "Owner": "MiiSwordfighter",
+    "Values": [
+      {
+        "Value": "28.299999",
+        "Owner": "MiiSwordfighter",
+        "OwnerId": 34,
+        "Name": "HEIGHT"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70cc4696590bf023d8c4"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MiiSwordfighter"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70cf4696590bf023d93f",
+    "Name": "AerialJump",
+    "OwnerId": 32,
+    "Owner": "MiiBrawler",
+    "Values": [
+      {
+        "Value": "35.5",
+        "Owner": "MiiBrawler",
+        "OwnerId": 32,
+        "Name": "HEIGHT"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70cf4696590bf023d93f"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MiiBrawler"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70d14696590bf023d99f",
+    "Name": "AerialJump",
+    "OwnerId": 33,
+    "Owner": "MiiGunner",
+    "Values": [
+      {
+        "Value": "33.500343",
+        "Owner": "MiiGunner",
+        "OwnerId": 33,
+        "Name": "HEIGHT"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70d14696590bf023d99f"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MiiGunner"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70d44696590bf023d9fb",
+    "Name": "AerialJump",
+    "OwnerId": 35,
+    "Owner": "MrGameWatch",
+    "Values": [
+      {
+        "Value": "27.511969",
+        "Owner": "MrGameWatch",
+        "OwnerId": 35,
+        "Name": "HEIGHT"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70d44696590bf023d9fb"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MrGameWatch"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70d64696590bf023da50",
+    "Name": "AerialJump",
+    "OwnerId": 36,
+    "Owner": "Ness",
+    "Values": [
+      {
+        "Value": "34.476265",
+        "Owner": "Ness",
+        "OwnerId": 36,
+        "Name": "HEIGHT"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70d64696590bf023da50"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ness"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70d94696590bf023daa0",
+    "Name": "AerialJump",
+    "OwnerId": 37,
+    "Owner": "Olimar",
+    "Values": [
+      {
+        "Value": "33.5",
+        "Owner": "Olimar",
+        "OwnerId": 37,
+        "Name": "HEIGHT"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70d94696590bf023daa0"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Olimar"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70dc4696590bf023daff",
+    "Name": "AerialJump",
+    "OwnerId": 38,
+    "Owner": "PAC-MAN",
+    "Values": [
+      {
+        "Value": "34.099998",
+        "Owner": "PAC-MAN",
+        "OwnerId": 38,
+        "Name": "HEIGHT"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70dc4696590bf023daff"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/PAC-MAN"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70de4696590bf023db4c",
+    "Name": "AerialJump",
+    "OwnerId": 39,
+    "Owner": "Palutena",
+    "Values": [
+      {
+        "Value": "35.900002",
+        "Owner": "Palutena",
+        "OwnerId": 39,
+        "Name": "HEIGHT"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70de4696590bf023db4c"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Palutena"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70e14696590bf023dba6",
+    "Name": "AerialJump",
+    "OwnerId": 40,
+    "Owner": "Peach",
+    "Values": [
+      {
+        "Value": "30.025824",
+        "Owner": "Peach",
+        "OwnerId": 40,
+        "Name": "HEIGHT"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70e14696590bf023dba6"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Peach"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70e34696590bf023dbfc",
+    "Name": "AerialJump",
+    "OwnerId": 41,
+    "Owner": "Pikachu",
+    "Values": [
+      {
+        "Value": "35.5",
+        "Owner": "Pikachu",
+        "OwnerId": 41,
+        "Name": "HEIGHT"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70e34696590bf023dbfc"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Pikachu"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70e64696590bf023dc53",
+    "Name": "AerialJump",
+    "OwnerId": 42,
+    "Owner": "Pit",
+    "Values": [
+      {
+        "Value": "31",
+        "Owner": "Pit",
+        "OwnerId": 42,
+        "Name": "HEIGHT"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70e64696590bf023dc53"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Pit"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70e94696590bf023dca4",
+    "Name": "AerialJump",
+    "OwnerId": 43,
+    "Owner": "Rob",
+    "Values": [
+      {
+        "Value": "38",
+        "Owner": "Rob",
+        "OwnerId": 43,
+        "Name": "HEIGHT"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70e94696590bf023dca4"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Rob"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ec4696590bf023dd0e",
+    "Name": "AerialJump",
+    "OwnerId": 44,
+    "Owner": "Robin",
+    "Values": [
+      {
+        "Value": "33.208813",
+        "Owner": "Robin",
+        "OwnerId": 44,
+        "Name": "HEIGHT"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70ec4696590bf023dd0e"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Robin"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ee4696590bf023dd74",
+    "Name": "AerialJump",
+    "OwnerId": 45,
+    "Owner": "RosalinaLuma",
+    "Values": [
+      {
+        "Value": "40",
+        "Owner": "RosalinaLuma",
+        "OwnerId": 45,
+        "Name": "HEIGHT"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70ee4696590bf023dd74"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/RosalinaLuma"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70f14696590bf023ddce",
+    "Name": "AerialJump",
+    "OwnerId": 46,
+    "Owner": "Roy",
+    "Values": [
+      {
+        "Value": "28",
+        "Owner": "Roy",
+        "OwnerId": 46,
+        "Name": "HEIGHT"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70f14696590bf023ddce"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Roy"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70f44696590bf023de36",
+    "Name": "AerialJump",
+    "OwnerId": 47,
+    "Owner": "Ryu",
+    "Values": [
+      {
+        "Value": "29.5",
+        "Owner": "Ryu",
+        "OwnerId": 47,
+        "Name": "HEIGHT"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70f44696590bf023de36"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ryu"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70f64696590bf023de98",
+    "Name": "AerialJump",
+    "OwnerId": 48,
+    "Owner": "Samus",
+    "Values": [
+      {
+        "Value": "37",
+        "Owner": "Samus",
+        "OwnerId": 48,
+        "Name": "HEIGHT"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70f64696590bf023de98"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Samus"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70f94696590bf023deee",
+    "Name": "AerialJump",
+    "OwnerId": 49,
+    "Owner": "Sheik",
+    "Values": [
+      {
+        "Value": "40",
+        "Owner": "Sheik",
+        "OwnerId": 49,
+        "Name": "HEIGHT"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70f94696590bf023deee"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Sheik"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70fb4696590bf023df4f",
+    "Name": "AerialJump",
+    "OwnerId": 50,
+    "Owner": "Shulk",
+    "Values": [
+      {
+        "Value": "34.799999",
+        "Owner": "Shulk",
+        "OwnerId": 50,
+        "Name": "HEIGHT"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70fb4696590bf023df4f"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Shulk"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ff4696590bf023dfa4",
+    "Name": "AerialJump",
+    "OwnerId": 51,
+    "Owner": "Sonic",
+    "Values": [
+      {
+        "Value": "35",
+        "Owner": "Sonic",
+        "OwnerId": 51,
+        "Name": "HEIGHT"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70ff4696590bf023dfa4"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Sonic"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e71024696590bf023dffb",
+    "Name": "AerialJump",
+    "OwnerId": 52,
+    "Owner": "ToonLink",
+    "Values": [
+      {
+        "Value": "33.799999",
+        "Owner": "ToonLink",
+        "OwnerId": 52,
+        "Name": "HEIGHT"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e71024696590bf023dffb"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/ToonLink"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e71044696590bf023e05e",
+    "Name": "AerialJump",
+    "OwnerId": 53,
+    "Owner": "Villager",
+    "Values": [
+      {
+        "Value": "32",
+        "Owner": "Villager",
+        "OwnerId": 53,
+        "Name": "HEIGHT"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e71044696590bf023e05e"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Villager"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e71074696590bf023e0b2",
+    "Name": "AerialJump",
+    "OwnerId": 54,
+    "Owner": "Wario",
+    "Values": [
+      {
+        "Value": "30.5",
+        "Owner": "Wario",
+        "OwnerId": 54,
+        "Name": "HEIGHT"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e71074696590bf023e0b2"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Wario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e71094696590bf023e104",
+    "Name": "AerialJump",
+    "OwnerId": 55,
+    "Owner": "WiiFitTrainer",
+    "Values": [
+      {
+        "Value": "35.599998",
+        "Owner": "WiiFitTrainer",
+        "OwnerId": 55,
+        "Name": "HEIGHT"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e71094696590bf023e104"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/WiiFitTrainer"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e710c4696590bf023e155",
+    "Name": "AerialJump",
+    "OwnerId": 56,
+    "Owner": "Yoshi",
+    "Values": [
+      {
+        "Value": "51.560001",
+        "Owner": "Yoshi",
+        "OwnerId": 56,
+        "Name": "HEIGHT"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e710c4696590bf023e155"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Yoshi"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e710f4696590bf023e1a5",
+    "Name": "AerialJump",
+    "OwnerId": 57,
+    "Owner": "Zelda",
+    "Values": [
+      {
+        "Value": "31.552761",
+        "Owner": "Zelda",
+        "OwnerId": 57,
+        "Name": "HEIGHT"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e710f4696590bf023e1a5"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Zelda"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e71114696590bf023e1fe",
+    "Name": "AerialJump",
+    "OwnerId": 58,
+    "Owner": "ZeroSuitSamus",
+    "Values": [
+      {
+        "Value": "44.199909",
+        "Owner": "ZeroSuitSamus",
+        "OwnerId": 58,
+        "Name": "HEIGHT"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e71114696590bf023e1fe"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/ZeroSuitSamus"
+      }
+    ]
+  }
+]

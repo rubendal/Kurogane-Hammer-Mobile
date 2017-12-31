@@ -1,0 +1,2056 @@
+﻿[
+  {
+    "InstanceId": "598e70c44696590bf023d75e",
+    "Name": "Jab 1",
+    "OwnerId": 29,
+    "Owner": "MegaMan",
+    "HitboxActive": "7",
+    "FirstActionableFrame": "36",
+    "BaseDamage": "1 (+1)",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "40",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "25",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c44696590bf023d75e"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MegaMan"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c44696590bf023d75f",
+    "Name": "Jab 1 (Shot, Early)",
+    "OwnerId": 29,
+    "Owner": "MegaMan",
+    "HitboxActive": "7-9",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "2",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "22",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "30",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c44696590bf023d75f"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MegaMan"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c44696590bf023d760",
+    "Name": "Jab 1 (Shot)",
+    "OwnerId": 29,
+    "Owner": "MegaMan",
+    "HitboxActive": "10-13",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "2",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "12",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "10",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c44696590bf023d760"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MegaMan"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c44696590bf023d761",
+    "Name": "Jab 1 (Shot, Late)",
+    "OwnerId": 29,
+    "Owner": "MegaMan",
+    "HitboxActive": "14-24",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "2",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "8",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "10",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c44696590bf023d761"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MegaMan"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c44696590bf023d762",
+    "Name": "Jab 2",
+    "OwnerId": 29,
+    "Owner": "MegaMan",
+    "HitboxActive": "19",
+    "FirstActionableFrame": "48",
+    "BaseDamage": "1 (+1)",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "40",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "25",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c44696590bf023d762"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MegaMan"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c44696590bf023d763",
+    "Name": "Jab 2 (Shot, Early)",
+    "OwnerId": 29,
+    "Owner": "MegaMan",
+    "HitboxActive": "19-21",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "2",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "22",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "30",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c44696590bf023d763"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MegaMan"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c44696590bf023d764",
+    "Name": "Jab 2 (Shot)",
+    "OwnerId": 29,
+    "Owner": "MegaMan",
+    "HitboxActive": "22-25",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "2",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "12",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "10",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c44696590bf023d764"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MegaMan"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c44696590bf023d765",
+    "Name": "Jab 2 (Shot, Late)",
+    "OwnerId": 29,
+    "Owner": "MegaMan",
+    "HitboxActive": "26-36",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "2",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "8",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "10",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c44696590bf023d765"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MegaMan"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c44696590bf023d766",
+    "Name": "Jab 3",
+    "OwnerId": 29,
+    "Owner": "MegaMan",
+    "HitboxActive": "31",
+    "FirstActionableFrame": "60",
+    "BaseDamage": "1 (+1)",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "40",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "25",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c44696590bf023d766"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MegaMan"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c44696590bf023d767",
+    "Name": "Jab 3 (Shot, Early)",
+    "OwnerId": 29,
+    "Owner": "MegaMan",
+    "HitboxActive": "31-33",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "2",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "22",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "30",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c44696590bf023d767"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MegaMan"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c44696590bf023d768",
+    "Name": "Jab 3 (Shot)",
+    "OwnerId": 29,
+    "Owner": "MegaMan",
+    "HitboxActive": "34-37",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "2",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "12",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "10",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c44696590bf023d768"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MegaMan"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c44696590bf023d769",
+    "Name": "Jab 3 (Shot, Late)",
+    "OwnerId": 29,
+    "Owner": "MegaMan",
+    "HitboxActive": "38-48",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "2",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "8",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "10",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c44696590bf023d769"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MegaMan"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c44696590bf023d76a",
+    "Name": "Dash Attack (Hits 1-7)",
+    "OwnerId": 29,
+    "Owner": "MegaMan",
+    "HitboxActive": "8, 11, 14, 17, 20, 23, 26",
+    "FirstActionableFrame": "61",
+    "BaseDamage": "1 (+1)",
+    "Angle": "20",
+    "BaseKnockBackSetKnockback": "W: 65/36/42",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c44696590bf023d76a"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MegaMan"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c44696590bf023d76b",
+    "Name": "Dash Attack (Hit 8)",
+    "OwnerId": 29,
+    "Owner": "MegaMan",
+    "HitboxActive": "36",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "3 (+1)",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "60",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c44696590bf023d76b"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MegaMan"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c44696590bf023d76c",
+    "Name": "Ftilt 1 (Shot, Early)",
+    "OwnerId": 29,
+    "Owner": "MegaMan",
+    "HitboxActive": "7-9",
+    "FirstActionableFrame": "34",
+    "BaseDamage": "2",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "22",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "30",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c44696590bf023d76c"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MegaMan"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c44696590bf023d76d",
+    "Name": "Ftilt 1 (Shot)",
+    "OwnerId": 29,
+    "Owner": "MegaMan",
+    "HitboxActive": "10-13",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "2",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "12",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "10",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c44696590bf023d76d"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MegaMan"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c44696590bf023d76e",
+    "Name": "Ftilt 1 (Shot, Late)",
+    "OwnerId": 29,
+    "Owner": "MegaMan",
+    "HitboxActive": "14-24",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "2",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "8",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "10",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c44696590bf023d76e"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MegaMan"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c44696590bf023d76f",
+    "Name": "Ftilt 2 (Shot, Early)",
+    "OwnerId": 29,
+    "Owner": "MegaMan",
+    "HitboxActive": "19-21",
+    "FirstActionableFrame": "46",
+    "BaseDamage": "2",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "22",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "30",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c44696590bf023d76f"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MegaMan"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c44696590bf023d770",
+    "Name": "Ftilt 2 (Shot)",
+    "OwnerId": 29,
+    "Owner": "MegaMan",
+    "HitboxActive": "22-25",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "2",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "12",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "10",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c44696590bf023d770"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MegaMan"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c44696590bf023d771",
+    "Name": "Ftilt 2 (Shot, Late)",
+    "OwnerId": 29,
+    "Owner": "MegaMan",
+    "HitboxActive": "26-36",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "2",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "8",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "10",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c44696590bf023d771"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MegaMan"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c44696590bf023d772",
+    "Name": "Ftilt 3 (Shot, Early)",
+    "OwnerId": 29,
+    "Owner": "MegaMan",
+    "HitboxActive": "31-33",
+    "FirstActionableFrame": "58",
+    "BaseDamage": "2",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "22",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "30",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c44696590bf023d772"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MegaMan"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c44696590bf023d773",
+    "Name": "Ftilt 3 (Shot)",
+    "OwnerId": 29,
+    "Owner": "MegaMan",
+    "HitboxActive": "34-37",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "2",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "12",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "10",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c44696590bf023d773"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MegaMan"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c44696590bf023d774",
+    "Name": "Ftilt 3 (Shot, Late)",
+    "OwnerId": 29,
+    "Owner": "MegaMan",
+    "HitboxActive": "38-48",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "2",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "8",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "10",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c44696590bf023d774"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MegaMan"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c44696590bf023d775",
+    "Name": "Utilt (Early)",
+    "OwnerId": 29,
+    "Owner": "MegaMan",
+    "HitboxActive": "6 (Intangible: 5-7)",
+    "FirstActionableFrame": "71",
+    "BaseDamage": "17",
+    "Angle": "85",
+    "BaseKnockBackSetKnockback": "38",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c44696590bf023d775"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MegaMan"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c44696590bf023d776",
+    "Name": "Utilt",
+    "OwnerId": 29,
+    "Owner": "MegaMan",
+    "HitboxActive": "7-9",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "12",
+    "Angle": "85",
+    "BaseKnockBackSetKnockback": "40",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "80",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c44696590bf023d776"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MegaMan"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c44696590bf023d777",
+    "Name": "Utilt (Late)",
+    "OwnerId": 29,
+    "Owner": "MegaMan",
+    "HitboxActive": "10-16",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "8",
+    "Angle": "70",
+    "BaseKnockBackSetKnockback": "70",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "80",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c44696590bf023d777"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MegaMan"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c44696590bf023d778",
+    "Name": "Dtilt",
+    "OwnerId": 29,
+    "Owner": "MegaMan",
+    "HitboxActive": "5-8 (Legs Intangible: 3-12)",
+    "FirstActionableFrame": "47",
+    "BaseDamage": "8",
+    "Angle": "70",
+    "BaseKnockBackSetKnockback": "80",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "70",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c44696590bf023d778"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MegaMan"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c44696590bf023d779",
+    "Name": "Dtilt (Late)",
+    "OwnerId": 29,
+    "Owner": "MegaMan",
+    "HitboxActive": "9-21",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "5",
+    "Angle": "50",
+    "BaseKnockBackSetKnockback": "80",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "56",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c44696590bf023d779"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MegaMan"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c44696590bf023d77a",
+    "Name": "Fsmash",
+    "OwnerId": 29,
+    "Owner": "MegaMan",
+    "HitboxActive": "19-40",
+    "FirstActionableFrame": "70",
+    "BaseDamage": "11.5",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "25",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "102",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c44696590bf023d77a"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MegaMan"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c44696590bf023d77b",
+    "Name": "Fsmash (Full Charge)",
+    "OwnerId": 29,
+    "Owner": "MegaMan",
+    "HitboxActive": "79-106",
+    "FirstActionableFrame": "130",
+    "BaseDamage": "19.5",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "25",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "102",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c44696590bf023d77b"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MegaMan"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c44696590bf023d77c",
+    "Name": "Usmash (Hit 1)",
+    "OwnerId": 29,
+    "Owner": "MegaMan",
+    "HitboxActive": "8",
+    "FirstActionableFrame": "69",
+    "BaseDamage": "2",
+    "Angle": "120",
+    "BaseKnockBackSetKnockback": "W: 160",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c44696590bf023d77c"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MegaMan"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c44696590bf023d77d",
+    "Name": "Usmash (Hits 2-6)",
+    "OwnerId": 29,
+    "Owner": "MegaMan",
+    "HitboxActive": "11-12, 15-16, 19-20, 23-24, 27-28",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "1.5",
+    "Angle": "90/366",
+    "BaseKnockBackSetKnockback": "W: 40/15",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c44696590bf023d77d"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MegaMan"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c44696590bf023d77e",
+    "Name": "Usmash (Hit 7)",
+    "OwnerId": 29,
+    "Owner": "MegaMan",
+    "HitboxActive": "31",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "6",
+    "Angle": "90",
+    "BaseKnockBackSetKnockback": "30",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "160",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c44696590bf023d77e"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MegaMan"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c44696590bf023d77f",
+    "Name": "Dsmash (Early)",
+    "OwnerId": 29,
+    "Owner": "MegaMan",
+    "HitboxActive": "17",
+    "FirstActionableFrame": "79",
+    "BaseDamage": "17",
+    "Angle": "80",
+    "BaseKnockBackSetKnockback": "30",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "99",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c44696590bf023d77f"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MegaMan"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c44696590bf023d780",
+    "Name": "Dsmash",
+    "OwnerId": 29,
+    "Owner": "MegaMan",
+    "HitboxActive": "18-19",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "14",
+    "Angle": "80/80/60/60",
+    "BaseKnockBackSetKnockback": "30/30/20/20",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "99/99/105/105",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c44696590bf023d780"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MegaMan"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c44696590bf023d781",
+    "Name": "Dsmash (Late)",
+    "OwnerId": 29,
+    "Owner": "MegaMan",
+    "HitboxActive": "20-33",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "9",
+    "Angle": "40/40/70/70",
+    "BaseKnockBackSetKnockback": "35",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "36",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c44696590bf023d781"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MegaMan"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c44696590bf023d782",
+    "Name": "Standing Grab",
+    "OwnerId": 29,
+    "Owner": "MegaMan",
+    "HitboxActive": "6-7",
+    "FirstActionableFrame": "31",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c44696590bf023d782"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MegaMan"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c44696590bf023d783",
+    "Name": "Dash Grab",
+    "OwnerId": 29,
+    "Owner": "MegaMan",
+    "HitboxActive": "8-9",
+    "FirstActionableFrame": "38",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c44696590bf023d783"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MegaMan"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c44696590bf023d784",
+    "Name": "Pivot Grab",
+    "OwnerId": 29,
+    "Owner": "MegaMan",
+    "HitboxActive": "9-10",
+    "FirstActionableFrame": "36",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c44696590bf023d784"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MegaMan"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c44696590bf023d785",
+    "Name": "Spotdodge",
+    "OwnerId": 29,
+    "Owner": "MegaMan",
+    "HitboxActive": "3-18",
+    "FirstActionableFrame": "28",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c44696590bf023d785"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MegaMan"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c44696590bf023d786",
+    "Name": "Forward Roll",
+    "OwnerId": 29,
+    "Owner": "MegaMan",
+    "HitboxActive": "4-17",
+    "FirstActionableFrame": "31",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c44696590bf023d786"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MegaMan"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c44696590bf023d787",
+    "Name": "Back Roll",
+    "OwnerId": 29,
+    "Owner": "MegaMan",
+    "HitboxActive": "4-17",
+    "FirstActionableFrame": "31",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c44696590bf023d787"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MegaMan"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c44696590bf023d788",
+    "Name": "Airdodge",
+    "OwnerId": 29,
+    "Owner": "MegaMan",
+    "HitboxActive": "3-28",
+    "FirstActionableFrame": "34",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c44696590bf023d788"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MegaMan"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c44696590bf023d789",
+    "Name": "Nair 1",
+    "OwnerId": 29,
+    "Owner": "MegaMan",
+    "HitboxActive": "7-9",
+    "FirstActionableFrame": "34",
+    "BaseDamage": "1 (+1)",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "60",
+    "LandingLag": "-",
+    "AutoCancel": "-",
+    "KnockbackGrowth": "150",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c44696590bf023d789"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MegaMan"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c44696590bf023d78a",
+    "Name": "Nair 1 (Shot, Early)",
+    "OwnerId": 29,
+    "Owner": "MegaMan",
+    "HitboxActive": "7-9",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "2",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "22",
+    "LandingLag": "-",
+    "AutoCancel": "-",
+    "KnockbackGrowth": "30",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c44696590bf023d78a"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MegaMan"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c44696590bf023d78b",
+    "Name": "Nair 1 (Shot)",
+    "OwnerId": 29,
+    "Owner": "MegaMan",
+    "HitboxActive": "10-13",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "2",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "12",
+    "LandingLag": "-",
+    "AutoCancel": "-",
+    "KnockbackGrowth": "10",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c44696590bf023d78b"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MegaMan"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c44696590bf023d78c",
+    "Name": "Nair 1 (Shot, Late)",
+    "OwnerId": 29,
+    "Owner": "MegaMan",
+    "HitboxActive": "14-24",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "2",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "8",
+    "LandingLag": "-",
+    "AutoCancel": "-",
+    "KnockbackGrowth": "10",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c44696590bf023d78c"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MegaMan"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c44696590bf023d78d",
+    "Name": "Nair 2",
+    "OwnerId": 29,
+    "Owner": "MegaMan",
+    "HitboxActive": "19-21",
+    "FirstActionableFrame": "46",
+    "BaseDamage": "1 (+1)",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "60",
+    "LandingLag": "-",
+    "AutoCancel": "-",
+    "KnockbackGrowth": "150",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c44696590bf023d78d"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MegaMan"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c44696590bf023d78e",
+    "Name": "Nair 2 (Shot, Early)",
+    "OwnerId": 29,
+    "Owner": "MegaMan",
+    "HitboxActive": "19-21",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "2",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "22",
+    "LandingLag": "-",
+    "AutoCancel": "-",
+    "KnockbackGrowth": "30",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c44696590bf023d78e"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MegaMan"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c44696590bf023d78f",
+    "Name": "Nair 2 (Shot)",
+    "OwnerId": 29,
+    "Owner": "MegaMan",
+    "HitboxActive": "22-25",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "2",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "12",
+    "LandingLag": "-",
+    "AutoCancel": "-",
+    "KnockbackGrowth": "10",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c44696590bf023d78f"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MegaMan"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c44696590bf023d790",
+    "Name": "Nair 2 (Shot, Late)",
+    "OwnerId": 29,
+    "Owner": "MegaMan",
+    "HitboxActive": "26-36",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "2",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "8",
+    "LandingLag": "-",
+    "AutoCancel": "-",
+    "KnockbackGrowth": "10",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c44696590bf023d790"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MegaMan"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c44696590bf023d791",
+    "Name": "Nair 3",
+    "OwnerId": 29,
+    "Owner": "MegaMan",
+    "HitboxActive": "31-33",
+    "FirstActionableFrame": "58",
+    "BaseDamage": "1 (+1)",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "60",
+    "LandingLag": "-",
+    "AutoCancel": "-",
+    "KnockbackGrowth": "150",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c44696590bf023d791"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MegaMan"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c44696590bf023d792",
+    "Name": "Nair 3 (Shot, Early)",
+    "OwnerId": 29,
+    "Owner": "MegaMan",
+    "HitboxActive": "31-33",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "2",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "22",
+    "LandingLag": "-",
+    "AutoCancel": "-",
+    "KnockbackGrowth": "30",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c44696590bf023d792"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MegaMan"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c44696590bf023d793",
+    "Name": "Nair 3 (Shot)",
+    "OwnerId": 29,
+    "Owner": "MegaMan",
+    "HitboxActive": "34-37",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "2",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "12",
+    "LandingLag": "-",
+    "AutoCancel": "-",
+    "KnockbackGrowth": "10",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c44696590bf023d793"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MegaMan"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c44696590bf023d794",
+    "Name": "Nair 3 (Shot, Late)",
+    "OwnerId": 29,
+    "Owner": "MegaMan",
+    "HitboxActive": "38-48",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "2",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "8",
+    "LandingLag": "-",
+    "AutoCancel": "-",
+    "KnockbackGrowth": "10",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c44696590bf023d794"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MegaMan"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c44696590bf023d795",
+    "Name": "Fair",
+    "OwnerId": 29,
+    "Owner": "MegaMan",
+    "HitboxActive": "9-11",
+    "FirstActionableFrame": "41",
+    "BaseDamage": "8.5/8/8",
+    "Angle": "50",
+    "BaseKnockBackSetKnockback": "23",
+    "LandingLag": "19",
+    "AutoCancel": "1-2, 39&gt;",
+    "KnockbackGrowth": "90",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c44696590bf023d795"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MegaMan"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c44696590bf023d796",
+    "Name": "Fair (Late)",
+    "OwnerId": 29,
+    "Owner": "MegaMan",
+    "HitboxActive": "12-17",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "5",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "12",
+    "LandingLag": "-",
+    "AutoCancel": "-",
+    "KnockbackGrowth": "100",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c44696590bf023d796"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MegaMan"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c44696590bf023d797",
+    "Name": "Bair (Hit 1)",
+    "OwnerId": 29,
+    "Owner": "MegaMan",
+    "HitboxActive": "4",
+    "FirstActionableFrame": "43",
+    "BaseDamage": "3",
+    "Angle": "366/366/0/0",
+    "BaseKnockBackSetKnockback": "W: 70/70/B: 55/65",
+    "LandingLag": "20",
+    "AutoCancel": "1-3, 40&gt;",
+    "KnockbackGrowth": "100/100/15/15",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c44696590bf023d797"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MegaMan"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c44696590bf023d798",
+    "Name": "Bair (Hit 2)",
+    "OwnerId": 29,
+    "Owner": "MegaMan",
+    "HitboxActive": "7",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "4",
+    "Angle": "366/366/0/0",
+    "BaseKnockBackSetKnockback": "W: 70/70/B: 55/65",
+    "LandingLag": "-",
+    "AutoCancel": "-",
+    "KnockbackGrowth": "100/100/15/15",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c44696590bf023d798"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MegaMan"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c44696590bf023d799",
+    "Name": "Bair (Hit 3)",
+    "OwnerId": 29,
+    "Owner": "MegaMan",
+    "HitboxActive": "10",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "5",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "30",
+    "LandingLag": "-",
+    "AutoCancel": "-",
+    "KnockbackGrowth": "180",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c44696590bf023d799"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MegaMan"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c44696590bf023d79a",
+    "Name": "Uair (Early)",
+    "OwnerId": 29,
+    "Owner": "MegaMan",
+    "HitboxActive": "11-17 (Rehit rate: 3)",
+    "FirstActionableFrame": "54",
+    "BaseDamage": "3",
+    "Angle": "92",
+    "BaseKnockBackSetKnockback": "W: 70",
+    "LandingLag": "19",
+    "AutoCancel": "51&gt;",
+    "KnockbackGrowth": "100",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c44696590bf023d79a"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MegaMan"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c44696590bf023d79b",
+    "Name": "Uair",
+    "OwnerId": 29,
+    "Owner": "MegaMan",
+    "HitboxActive": "18-31 (Rehit rate: 5)",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "2",
+    "Angle": "92",
+    "BaseKnockBackSetKnockback": "W: 80",
+    "LandingLag": "-",
+    "AutoCancel": "-",
+    "KnockbackGrowth": "100",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c44696590bf023d79b"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MegaMan"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c44696590bf023d79c",
+    "Name": "Uair (Late)",
+    "OwnerId": 29,
+    "Owner": "MegaMan",
+    "HitboxActive": "32-54 (Rehit rate: 5)",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "1",
+    "Angle": "92",
+    "BaseKnockBackSetKnockback": "W: 80",
+    "LandingLag": "-",
+    "AutoCancel": "-",
+    "KnockbackGrowth": "100",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c44696590bf023d79c"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MegaMan"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c44696590bf023d79d",
+    "Name": "Uair (Final Hit)",
+    "OwnerId": 29,
+    "Owner": "MegaMan",
+    "HitboxActive": "55",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "2",
+    "Angle": "92",
+    "BaseKnockBackSetKnockback": "5",
+    "LandingLag": "-",
+    "AutoCancel": "-",
+    "KnockbackGrowth": "260",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c44696590bf023d79d"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MegaMan"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c44696590bf023d79e",
+    "Name": "Dair",
+    "OwnerId": 29,
+    "Owner": "MegaMan",
+    "HitboxActive": "23-24",
+    "FirstActionableFrame": "65",
+    "BaseDamage": "14",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "5",
+    "LandingLag": "24",
+    "AutoCancel": "1-4, 55&gt;",
+    "KnockbackGrowth": "90",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c44696590bf023d79e"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MegaMan"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c44696590bf023d79f",
+    "Name": "Dair (Late)",
+    "OwnerId": 29,
+    "Owner": "MegaMan",
+    "HitboxActive": "25-33",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "12",
+    "Angle": "270/45",
+    "BaseKnockBackSetKnockback": "5",
+    "LandingLag": "-",
+    "AutoCancel": "-",
+    "KnockbackGrowth": "90",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c44696590bf023d79f"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MegaMan"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c44696590bf023d7a0",
+    "Name": "Metal Blade",
+    "OwnerId": 29,
+    "Owner": "MegaMan",
+    "HitboxActive": "16-64",
+    "FirstActionableFrame": "43",
+    "BaseDamage": "3",
+    "Angle": "70",
+    "BaseKnockBackSetKnockback": "20",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "50",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c44696590bf023d7a0"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MegaMan"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c44696590bf023d7a1",
+    "Name": "Metal Blade (Thrown Back)",
+    "OwnerId": 29,
+    "Owner": "MegaMan",
+    "HitboxActive": "18-66",
+    "FirstActionableFrame": "45",
+    "BaseDamage": "3",
+    "Angle": "70",
+    "BaseKnockBackSetKnockback": "20",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "50",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c44696590bf023d7a1"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MegaMan"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c44696590bf023d7a2",
+    "Name": "Metal Blade (Item Toss)",
+    "OwnerId": 29,
+    "Owner": "MegaMan",
+    "HitboxActive": "-",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "5",
+    "Angle": "46",
+    "BaseKnockBackSetKnockback": "40",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "70",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c44696590bf023d7a2"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MegaMan"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c44696590bf023d7a3",
+    "Name": "Crash Bomber (Bomb)",
+    "OwnerId": 29,
+    "Owner": "MegaMan",
+    "HitboxActive": "19-76",
+    "FirstActionableFrame": "45",
+    "BaseDamage": "0",
+    "Angle": "0",
+    "BaseKnockBackSetKnockback": "5",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "0",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c44696590bf023d7a3"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MegaMan"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c44696590bf023d7a4",
+    "Name": "Crash Bomber (Explosion)",
+    "OwnerId": 29,
+    "Owner": "MegaMan",
+    "HitboxActive": "1-18 (Rehit rate: 5)",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "1",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "11",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "15",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c44696590bf023d7a4"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MegaMan"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c44696590bf023d7a5",
+    "Name": "Crash Bomber (Explosion, Final Hit)",
+    "OwnerId": 29,
+    "Owner": "MegaMan",
+    "HitboxActive": "19-",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "4",
+    "Angle": "40",
+    "BaseKnockBackSetKnockback": "120",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "70",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c44696590bf023d7a5"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MegaMan"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c44696590bf023d7a6",
+    "Name": "Rush Coil",
+    "OwnerId": 29,
+    "Owner": "MegaMan",
+    "HitboxActive": "1 (Intangible: 6-9)",
+    "FirstActionableFrame": "41",
+    "BaseDamage": "-",
+    "Angle": "-",
+    "BaseKnockBackSetKnockback": "-",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "-",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c44696590bf023d7a6"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MegaMan"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c44696590bf023d7a7",
+    "Name": "Leaf Shield",
+    "OwnerId": 29,
+    "Owner": "MegaMan",
+    "HitboxActive": "50-144 (Rehit rate: 18)",
+    "FirstActionableFrame": "54",
+    "BaseDamage": "2",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "14",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "22",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c44696590bf023d7a7"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MegaMan"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c44696590bf023d7a8",
+    "Name": "Leaf Shield (Thrown)",
+    "OwnerId": 29,
+    "Owner": "MegaMan",
+    "HitboxActive": "22-79 (Rehit rate: 11)",
+    "FirstActionableFrame": "56",
+    "BaseDamage": "3.8",
+    "Angle": "65",
+    "BaseKnockBackSetKnockback": "50",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "70",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c44696590bf023d7a8"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MegaMan"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c44696590bf023d7a9",
+    "Name": "Fthrow",
+    "OwnerId": 29,
+    "Owner": "MegaMan",
+    "HitboxActive": null,
+    "FirstActionableFrame": null,
+    "BaseDamage": "8",
+    "Angle": "45",
+    "BaseKnockBackSetKnockback": "60",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "65",
+    "MoveType": "throw",
+    "IsWeightDependent": true,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c44696590bf023d7a9"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MegaMan"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c44696590bf023d7aa",
+    "Name": "Bthrow",
+    "OwnerId": 29,
+    "Owner": "MegaMan",
+    "HitboxActive": null,
+    "FirstActionableFrame": null,
+    "BaseDamage": "11",
+    "Angle": "45",
+    "BaseKnockBackSetKnockback": "70",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "63",
+    "MoveType": "throw",
+    "IsWeightDependent": true,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c44696590bf023d7aa"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MegaMan"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c44696590bf023d7ab",
+    "Name": "Uthrow",
+    "OwnerId": 29,
+    "Owner": "MegaMan",
+    "HitboxActive": null,
+    "FirstActionableFrame": null,
+    "BaseDamage": "7",
+    "Angle": "90",
+    "BaseKnockBackSetKnockback": "70",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "72",
+    "MoveType": "throw",
+    "IsWeightDependent": true,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c44696590bf023d7ab"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MegaMan"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c44696590bf023d7ac",
+    "Name": "Dthrow",
+    "OwnerId": 29,
+    "Owner": "MegaMan",
+    "HitboxActive": null,
+    "FirstActionableFrame": null,
+    "BaseDamage": "4.5",
+    "Angle": "80",
+    "BaseKnockBackSetKnockback": "75",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "75",
+    "MoveType": "throw",
+    "IsWeightDependent": true,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c44696590bf023d7ac"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MegaMan"
+      }
+    ]
+  }
+]

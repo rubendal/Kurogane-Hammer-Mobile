@@ -1,0 +1,1146 @@
+﻿[
+  {
+    "InstanceId": "598e710c4696590bf023e129",
+    "Name": "Jab 1",
+    "OwnerId": 56,
+    "Owner": "Yoshi",
+    "HitboxActive": "3-4",
+    "FirstActionableFrame": "18",
+    "BaseDamage": "3",
+    "Angle": "60/90/50",
+    "BaseKnockBackSetKnockback": "30",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "50",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e710c4696590bf023e129"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Yoshi"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e710c4696590bf023e12a",
+    "Name": "Jab 2",
+    "OwnerId": 56,
+    "Owner": "Yoshi",
+    "HitboxActive": "3-4",
+    "FirstActionableFrame": "20",
+    "BaseDamage": "4",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "56",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "70",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e710c4696590bf023e12a"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Yoshi"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e710c4696590bf023e12b",
+    "Name": "Dash Attack",
+    "OwnerId": 56,
+    "Owner": "Yoshi",
+    "HitboxActive": "10-12",
+    "FirstActionableFrame": "50",
+    "BaseDamage": "9",
+    "Angle": "65",
+    "BaseKnockBackSetKnockback": "90",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "52",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e710c4696590bf023e12b"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Yoshi"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e710c4696590bf023e12c",
+    "Name": "Dash Attack (Late)",
+    "OwnerId": 56,
+    "Owner": "Yoshi",
+    "HitboxActive": "13-20",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "6",
+    "Angle": "65",
+    "BaseKnockBackSetKnockback": "90",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "52",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e710c4696590bf023e12c"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Yoshi"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e710c4696590bf023e12d",
+    "Name": "Ftilt (Angled Up)",
+    "OwnerId": 56,
+    "Owner": "Yoshi",
+    "HitboxActive": "5-7",
+    "FirstActionableFrame": "39",
+    "BaseDamage": "8",
+    "Angle": "80/65/50",
+    "BaseKnockBackSetKnockback": "50",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "80",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e710c4696590bf023e12d"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Yoshi"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e710c4696590bf023e12e",
+    "Name": "Ftilt",
+    "OwnerId": 56,
+    "Owner": "Yoshi",
+    "HitboxActive": "5-7",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "7",
+    "Angle": "80/65/50",
+    "BaseKnockBackSetKnockback": "50",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "80",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e710c4696590bf023e12e"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Yoshi"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e710c4696590bf023e12f",
+    "Name": "Ftilt (Angled Down)",
+    "OwnerId": 56,
+    "Owner": "Yoshi",
+    "HitboxActive": "5-7",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "8",
+    "Angle": "80/65/50",
+    "BaseKnockBackSetKnockback": "50",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "80",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e710c4696590bf023e12f"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Yoshi"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e710c4696590bf023e130",
+    "Name": "Utilt",
+    "OwnerId": 56,
+    "Owner": "Yoshi",
+    "HitboxActive": "8-15",
+    "FirstActionableFrame": "32",
+    "BaseDamage": "7",
+    "Angle": "100",
+    "BaseKnockBackSetKnockback": "72",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "45",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e710c4696590bf023e130"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Yoshi"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e710c4696590bf023e131",
+    "Name": "Dtilt",
+    "OwnerId": 56,
+    "Owner": "Yoshi",
+    "HitboxActive": "8-10",
+    "FirstActionableFrame": "24",
+    "BaseDamage": "5/4.5/4",
+    "Angle": "28/28/361",
+    "BaseKnockBackSetKnockback": "65",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "30",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e710c4696590bf023e131"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Yoshi"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e710c4696590bf023e132",
+    "Name": "Fsmash (All Angles)",
+    "OwnerId": 56,
+    "Owner": "Yoshi",
+    "HitboxActive": "14 (Head intangibility: 12-14)",
+    "FirstActionableFrame": "53",
+    "BaseDamage": "14/15.5/13",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "30",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "97/98/97",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e710c4696590bf023e132"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Yoshi"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e710c4696590bf023e133",
+    "Name": "Usmash",
+    "OwnerId": 56,
+    "Owner": "Yoshi",
+    "HitboxActive": "11-13 (Leg Intangibility: 11-13)",
+    "FirstActionableFrame": "47",
+    "BaseDamage": "14",
+    "Angle": "75",
+    "BaseKnockBackSetKnockback": "37",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "95",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e710c4696590bf023e133"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Yoshi"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e710c4696590bf023e134",
+    "Name": "Usmash (Late)",
+    "OwnerId": 56,
+    "Owner": "Yoshi",
+    "HitboxActive": "14-16",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "12",
+    "Angle": "75",
+    "BaseKnockBackSetKnockback": "37",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "95",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e710c4696590bf023e134"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Yoshi"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e710c4696590bf023e135",
+    "Name": "Dsmash (Hit 1)",
+    "OwnerId": 56,
+    "Owner": "Yoshi",
+    "HitboxActive": "7-8",
+    "FirstActionableFrame": "50",
+    "BaseDamage": "12/10",
+    "Angle": "30",
+    "BaseKnockBackSetKnockback": "40/42",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "73/57",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e710c4696590bf023e135"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Yoshi"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e710c4696590bf023e136",
+    "Name": "Dsmash (Hit 2)",
+    "OwnerId": 56,
+    "Owner": "Yoshi",
+    "HitboxActive": "22-23",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "12/10",
+    "Angle": "30",
+    "BaseKnockBackSetKnockback": "40/42",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "81/75",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e710c4696590bf023e136"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Yoshi"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e710c4696590bf023e137",
+    "Name": "Standing Grab",
+    "OwnerId": 56,
+    "Owner": "Yoshi",
+    "HitboxActive": "14-24",
+    "FirstActionableFrame": "56",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e710c4696590bf023e137"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Yoshi"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e710c4696590bf023e138",
+    "Name": "Dash Grab",
+    "OwnerId": 56,
+    "Owner": "Yoshi",
+    "HitboxActive": "11-21",
+    "FirstActionableFrame": "68",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e710c4696590bf023e138"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Yoshi"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e710c4696590bf023e139",
+    "Name": "Pivot Grab",
+    "OwnerId": 56,
+    "Owner": "Yoshi",
+    "HitboxActive": "10-20",
+    "FirstActionableFrame": "65",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e710c4696590bf023e139"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Yoshi"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e710c4696590bf023e13a",
+    "Name": "Spotdodge",
+    "OwnerId": 56,
+    "Owner": "Yoshi",
+    "HitboxActive": "3-18",
+    "FirstActionableFrame": "28",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e710c4696590bf023e13a"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Yoshi"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e710c4696590bf023e13b",
+    "Name": "Forward Roll",
+    "OwnerId": 56,
+    "Owner": "Yoshi",
+    "HitboxActive": "4-21",
+    "FirstActionableFrame": "36",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e710c4696590bf023e13b"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Yoshi"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e710c4696590bf023e13c",
+    "Name": "Back Roll",
+    "OwnerId": 56,
+    "Owner": "Yoshi",
+    "HitboxActive": "4-21",
+    "FirstActionableFrame": "36",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e710c4696590bf023e13c"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Yoshi"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e710c4696590bf023e13d",
+    "Name": "Airdodge",
+    "OwnerId": 56,
+    "Owner": "Yoshi",
+    "HitboxActive": "3-28",
+    "FirstActionableFrame": "34",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e710c4696590bf023e13d"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Yoshi"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e710c4696590bf023e13e",
+    "Name": "Nair (Early)",
+    "OwnerId": 56,
+    "Owner": "Yoshi",
+    "HitboxActive": "3-5",
+    "FirstActionableFrame": "45",
+    "BaseDamage": "10",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "40",
+    "LandingLag": "11",
+    "AutoCancel": "1-2, 38&gt;",
+    "KnockbackGrowth": "86",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e710c4696590bf023e13e"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Yoshi"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e710c4696590bf023e13f",
+    "Name": "Nair",
+    "OwnerId": 56,
+    "Owner": "Yoshi",
+    "HitboxActive": "5-11",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "7",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "30",
+    "LandingLag": "-",
+    "AutoCancel": "-",
+    "KnockbackGrowth": "100",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e710c4696590bf023e13f"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Yoshi"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e710c4696590bf023e140",
+    "Name": "Nair (Late)",
+    "OwnerId": 56,
+    "Owner": "Yoshi",
+    "HitboxActive": "12-25",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "5",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "30",
+    "LandingLag": "-",
+    "AutoCancel": "-",
+    "KnockbackGrowth": "100",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e710c4696590bf023e140"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Yoshi"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e710c4696590bf023e141",
+    "Name": "Fair",
+    "OwnerId": 56,
+    "Owner": "Yoshi",
+    "HitboxActive": "16-20",
+    "FirstActionableFrame": "44",
+    "BaseDamage": "15/14/14",
+    "Angle": "361/270/361",
+    "BaseKnockBackSetKnockback": "0",
+    "LandingLag": "17",
+    "AutoCancel": "1-3, 40&gt;",
+    "KnockbackGrowth": "90",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e710c4696590bf023e141"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Yoshi"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e710c4696590bf023e142",
+    "Name": "Bair (Hits 1-2)",
+    "OwnerId": 56,
+    "Owner": "Yoshi",
+    "HitboxActive": "11, 17",
+    "FirstActionableFrame": "56",
+    "BaseDamage": "2.5",
+    "Angle": "361/366",
+    "BaseKnockBackSetKnockback": "50/30",
+    "LandingLag": "19",
+    "AutoCancel": "1-5, 44&gt;",
+    "KnockbackGrowth": "150/200",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e710c4696590bf023e142"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Yoshi"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e710c4696590bf023e143",
+    "Name": "Bair (Hit 3)",
+    "OwnerId": 56,
+    "Owner": "Yoshi",
+    "HitboxActive": "25-26",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "5",
+    "Angle": "54",
+    "BaseKnockBackSetKnockback": "30",
+    "LandingLag": "-",
+    "AutoCancel": "-",
+    "KnockbackGrowth": "184",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e710c4696590bf023e143"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Yoshi"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e710c4696590bf023e144",
+    "Name": "Uair",
+    "OwnerId": 56,
+    "Owner": "Yoshi",
+    "HitboxActive": "5-6",
+    "FirstActionableFrame": "39",
+    "BaseDamage": "12",
+    "Angle": "90",
+    "BaseKnockBackSetKnockback": "25",
+    "LandingLag": "14",
+    "AutoCancel": "1-4, 33&gt;",
+    "KnockbackGrowth": "100",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e710c4696590bf023e144"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Yoshi"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e710c4696590bf023e145",
+    "Name": "Dair (Hits 1-6)",
+    "OwnerId": 56,
+    "Owner": "Yoshi",
+    "HitboxActive": "16, 18, 20, 22, 24, 26",
+    "FirstActionableFrame": "57",
+    "BaseDamage": "3/2/2",
+    "Angle": "270/260/280",
+    "BaseKnockBackSetKnockback": "5",
+    "LandingLag": "24",
+    "AutoCancel": "1-13, 50&gt;",
+    "KnockbackGrowth": "80",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e710c4696590bf023e145"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Yoshi"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e710c4696590bf023e146",
+    "Name": "Dair (Hits 7-13)",
+    "OwnerId": 56,
+    "Owner": "Yoshi",
+    "HitboxActive": "28, 30, 32, 34, 36, 38, 40",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "2.2/1.5/1.5",
+    "Angle": "270/260/280",
+    "BaseKnockBackSetKnockback": "5",
+    "LandingLag": "-",
+    "AutoCancel": "-",
+    "KnockbackGrowth": "100",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e710c4696590bf023e146"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Yoshi"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e710c4696590bf023e147",
+    "Name": "Dair (Hit 14)",
+    "OwnerId": 56,
+    "Owner": "Yoshi",
+    "HitboxActive": "41",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "1",
+    "Angle": "80/40",
+    "BaseKnockBackSetKnockback": "60",
+    "LandingLag": "-",
+    "AutoCancel": "-",
+    "KnockbackGrowth": "200",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e710c4696590bf023e147"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Yoshi"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e710c4696590bf023e148",
+    "Name": "Dair (Landing)",
+    "OwnerId": 56,
+    "Owner": "Yoshi",
+    "HitboxActive": "2 (Ground Only)",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "1",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "W: 40",
+    "LandingLag": "-",
+    "AutoCancel": "-",
+    "KnockbackGrowth": "100",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e710c4696590bf023e148"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Yoshi"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e710c4696590bf023e149",
+    "Name": "Egg Lay",
+    "OwnerId": 56,
+    "Owner": "Yoshi",
+    "HitboxActive": "21-24",
+    "FirstActionableFrame": "44",
+    "BaseDamage": "7",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "0",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e710c4696590bf023e149"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Yoshi"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e710c4696590bf023e14a",
+    "Name": "Egg Roll",
+    "OwnerId": 56,
+    "Owner": "Yoshi",
+    "HitboxActive": "31",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "4",
+    "Angle": "80",
+    "BaseKnockBackSetKnockback": "50",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "70",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e710c4696590bf023e14a"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Yoshi"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e710c4696590bf023e14b",
+    "Name": "Egg Throw (Contact)",
+    "OwnerId": 56,
+    "Owner": "Yoshi",
+    "HitboxActive": "15-59",
+    "FirstActionableFrame": "54",
+    "BaseDamage": "1",
+    "Angle": "70",
+    "BaseKnockBackSetKnockback": "20",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "55",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e710c4696590bf023e14b"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Yoshi"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e710c4696590bf023e14c",
+    "Name": "Egg Throw (Explosion)",
+    "OwnerId": 56,
+    "Owner": "Yoshi",
+    "HitboxActive": "1-3",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "5",
+    "Angle": "70",
+    "BaseKnockBackSetKnockback": "60",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "50",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e710c4696590bf023e14c"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Yoshi"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e710c4696590bf023e14d",
+    "Name": "Yoshi Bomb (Hit 1)",
+    "OwnerId": 56,
+    "Owner": "Yoshi",
+    "HitboxActive": "7 (Grounded Only)",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "4",
+    "Angle": "80",
+    "BaseKnockBackSetKnockback": "W: 80",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e710c4696590bf023e14d"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Yoshi"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e710c4696590bf023e14e",
+    "Name": "Yoshi Bomb (Hit 2)",
+    "OwnerId": 56,
+    "Owner": "Yoshi",
+    "HitboxActive": "27-",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "15 (+10)",
+    "Angle": "80",
+    "BaseKnockBackSetKnockback": "60",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "72",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e710c4696590bf023e14e"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Yoshi"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e710c4696590bf023e14f",
+    "Name": "Yoshi Bomb (Aerial)",
+    "OwnerId": 56,
+    "Owner": "Yoshi",
+    "HitboxActive": "20-",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "12 (+10)",
+    "Angle": "80",
+    "BaseKnockBackSetKnockback": "70",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "68",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e710c4696590bf023e14f"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Yoshi"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e710c4696590bf023e150",
+    "Name": "Yoshi Bomb (Stars)",
+    "OwnerId": 56,
+    "Owner": "Yoshi",
+    "HitboxActive": "3-12",
+    "FirstActionableFrame": "40",
+    "BaseDamage": "4 (+6)",
+    "Angle": "50",
+    "BaseKnockBackSetKnockback": "50",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "40",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e710c4696590bf023e150"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Yoshi"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e710c4696590bf023e151",
+    "Name": "Fthrow",
+    "OwnerId": 56,
+    "Owner": "Yoshi",
+    "HitboxActive": null,
+    "FirstActionableFrame": null,
+    "BaseDamage": "7",
+    "Angle": "45",
+    "BaseKnockBackSetKnockback": "55",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "66",
+    "MoveType": "throw",
+    "IsWeightDependent": true,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e710c4696590bf023e151"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Yoshi"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e710c4696590bf023e152",
+    "Name": "Bthrow",
+    "OwnerId": 56,
+    "Owner": "Yoshi",
+    "HitboxActive": null,
+    "FirstActionableFrame": null,
+    "BaseDamage": "7",
+    "Angle": "45",
+    "BaseKnockBackSetKnockback": "55",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "66",
+    "MoveType": "throw",
+    "IsWeightDependent": true,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e710c4696590bf023e152"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Yoshi"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e710c4696590bf023e153",
+    "Name": "Uthrow",
+    "OwnerId": 56,
+    "Owner": "Yoshi",
+    "HitboxActive": null,
+    "FirstActionableFrame": null,
+    "BaseDamage": "5",
+    "Angle": "90",
+    "BaseKnockBackSetKnockback": "65",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "43",
+    "MoveType": "throw",
+    "IsWeightDependent": true,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e710c4696590bf023e153"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Yoshi"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e710c4696590bf023e154",
+    "Name": "Dthrow",
+    "OwnerId": 56,
+    "Owner": "Yoshi",
+    "HitboxActive": null,
+    "FirstActionableFrame": null,
+    "BaseDamage": "4",
+    "Angle": "80",
+    "BaseKnockBackSetKnockback": "100",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "25",
+    "MoveType": "throw",
+    "IsWeightDependent": true,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e710c4696590bf023e154"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Yoshi"
+      }
+    ]
+  }
+]

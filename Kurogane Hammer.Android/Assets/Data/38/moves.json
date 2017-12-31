@@ -1,0 +1,1510 @@
+﻿[
+  {
+    "InstanceId": "598e70dc4696590bf023dac5",
+    "Name": "Jab 1",
+    "OwnerId": 38,
+    "Owner": "PAC-MAN",
+    "HitboxActive": "4-6",
+    "FirstActionableFrame": "20",
+    "BaseDamage": "3",
+    "Angle": "80/361",
+    "BaseKnockBackSetKnockback": "W: 22/16",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70dc4696590bf023dac5"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/PAC-MAN"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70dc4696590bf023dac6",
+    "Name": "Jab 2",
+    "OwnerId": 38,
+    "Owner": "PAC-MAN",
+    "HitboxActive": "4-6",
+    "FirstActionableFrame": "22",
+    "BaseDamage": "2",
+    "Angle": "80/361",
+    "BaseKnockBackSetKnockback": "W: 26/15",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70dc4696590bf023dac6"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/PAC-MAN"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70dc4696590bf023dac7",
+    "Name": "Jab 3",
+    "OwnerId": 38,
+    "Owner": "PAC-MAN",
+    "HitboxActive": "4-7",
+    "FirstActionableFrame": "34",
+    "BaseDamage": "4",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "45",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "106",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70dc4696590bf023dac7"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/PAC-MAN"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70dc4696590bf023dac8",
+    "Name": "Dash Attack (Windbox)",
+    "OwnerId": 38,
+    "Owner": "PAC-MAN",
+    "HitboxActive": "3-9",
+    "FirstActionableFrame": "42",
+    "BaseDamage": "0",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "W: 12",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70dc4696590bf023dac8"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/PAC-MAN"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70dc4696590bf023dac9",
+    "Name": "Dash Attack (Hits 1-2)",
+    "OwnerId": 38,
+    "Owner": "PAC-MAN",
+    "HitboxActive": "10-11, 20-21",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "2",
+    "Angle": "12",
+    "BaseKnockBackSetKnockback": "45",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "15",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70dc4696590bf023dac9"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/PAC-MAN"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70dc4696590bf023daca",
+    "Name": "Dash Attack (Hit 3)",
+    "OwnerId": 38,
+    "Owner": "PAC-MAN",
+    "HitboxActive": "30",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "5",
+    "Angle": "60",
+    "BaseKnockBackSetKnockback": "100",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "60",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70dc4696590bf023daca"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/PAC-MAN"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70dc4696590bf023dacb",
+    "Name": "Ftilt (All Angles)",
+    "OwnerId": 38,
+    "Owner": "PAC-MAN",
+    "HitboxActive": "5-7",
+    "FirstActionableFrame": "31",
+    "BaseDamage": "8",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "20",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70dc4696590bf023dacb"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/PAC-MAN"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70dc4696590bf023dacc",
+    "Name": "Utilt",
+    "OwnerId": 38,
+    "Owner": "PAC-MAN",
+    "HitboxActive": "7-10 (Head Intangible: 6-10)",
+    "FirstActionableFrame": "34",
+    "BaseDamage": "7",
+    "Angle": "96",
+    "BaseKnockBackSetKnockback": "50",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70dc4696590bf023dacc"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/PAC-MAN"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70dc4696590bf023dacd",
+    "Name": "Dtilt",
+    "OwnerId": 38,
+    "Owner": "PAC-MAN",
+    "HitboxActive": "7-9",
+    "FirstActionableFrame": "29",
+    "BaseDamage": "6",
+    "Angle": "45",
+    "BaseKnockBackSetKnockback": "50",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "80",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70dc4696590bf023dacd"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/PAC-MAN"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70dc4696590bf023dace",
+    "Name": "Fsmash",
+    "OwnerId": 38,
+    "Owner": "PAC-MAN",
+    "HitboxActive": "18-20",
+    "FirstActionableFrame": "53",
+    "BaseDamage": "16/15",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "25",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "99",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70dc4696590bf023dace"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/PAC-MAN"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70dc4696590bf023dacf",
+    "Name": "Fsmash (Late)",
+    "OwnerId": 38,
+    "Owner": "PAC-MAN",
+    "HitboxActive": "21-28",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "9",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "25",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "102",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70dc4696590bf023dacf"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/PAC-MAN"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70dc4696590bf023dad0",
+    "Name": "Usmash (Hit 1)",
+    "OwnerId": 38,
+    "Owner": "PAC-MAN",
+    "HitboxActive": "13",
+    "FirstActionableFrame": "50",
+    "BaseDamage": "3",
+    "Angle": "115",
+    "BaseKnockBackSetKnockback": "95",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "20",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70dc4696590bf023dad0"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/PAC-MAN"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70dc4696590bf023dad1",
+    "Name": "Usmash (Hit 2)",
+    "OwnerId": 38,
+    "Owner": "PAC-MAN",
+    "HitboxActive": "16-18",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "14",
+    "Angle": "83",
+    "BaseKnockBackSetKnockback": "32",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "97",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70dc4696590bf023dad1"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/PAC-MAN"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70dc4696590bf023dad2",
+    "Name": "Usmash (Hit 2, Late)",
+    "OwnerId": 38,
+    "Owner": "PAC-MAN",
+    "HitboxActive": "19-26",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "8",
+    "Angle": "83",
+    "BaseKnockBackSetKnockback": "32",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "92",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70dc4696590bf023dad2"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/PAC-MAN"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70dc4696590bf023dad3",
+    "Name": "Dsmash",
+    "OwnerId": 38,
+    "Owner": "PAC-MAN",
+    "HitboxActive": "18-20",
+    "FirstActionableFrame": "55",
+    "BaseDamage": "13",
+    "Angle": "29",
+    "BaseKnockBackSetKnockback": "30",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "86",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70dc4696590bf023dad3"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/PAC-MAN"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70dc4696590bf023dad4",
+    "Name": "Dsmash (Late)",
+    "OwnerId": 38,
+    "Owner": "PAC-MAN",
+    "HitboxActive": "21-28",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "7",
+    "Angle": "45",
+    "BaseKnockBackSetKnockback": "40",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "92",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70dc4696590bf023dad4"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/PAC-MAN"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70dc4696590bf023dad5",
+    "Name": "Useless Tractor Beams",
+    "OwnerId": 38,
+    "Owner": "PAC-MAN",
+    "HitboxActive": "Hitbox Active",
+    "FirstActionableFrame": "FAF",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70dc4696590bf023dad5"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/PAC-MAN"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70dc4696590bf023dad6",
+    "Name": "Standing Grab",
+    "OwnerId": 38,
+    "Owner": "PAC-MAN",
+    "HitboxActive": "12-14, 22-24, 32-39",
+    "FirstActionableFrame": "76",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70dc4696590bf023dad6"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/PAC-MAN"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70dc4696590bf023dad7",
+    "Name": "Dash Grab",
+    "OwnerId": 38,
+    "Owner": "PAC-MAN",
+    "HitboxActive": "12-14, 22-24, 32-39",
+    "FirstActionableFrame": "76",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70dc4696590bf023dad7"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/PAC-MAN"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70dc4696590bf023dad8",
+    "Name": "Pivot Grab",
+    "OwnerId": 38,
+    "Owner": "PAC-MAN",
+    "HitboxActive": "12-14, 22-24, 32-39",
+    "FirstActionableFrame": "76",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70dc4696590bf023dad8"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/PAC-MAN"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70dc4696590bf023dad9",
+    "Name": "Spotdodge",
+    "OwnerId": 38,
+    "Owner": "PAC-MAN",
+    "HitboxActive": "3-17",
+    "FirstActionableFrame": "27",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70dc4696590bf023dad9"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/PAC-MAN"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70dc4696590bf023dada",
+    "Name": "Forward Roll",
+    "OwnerId": 38,
+    "Owner": "PAC-MAN",
+    "HitboxActive": "4-16",
+    "FirstActionableFrame": "30",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70dc4696590bf023dada"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/PAC-MAN"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70dc4696590bf023dadb",
+    "Name": "Back Roll",
+    "OwnerId": 38,
+    "Owner": "PAC-MAN",
+    "HitboxActive": "4-16",
+    "FirstActionableFrame": "30",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70dc4696590bf023dadb"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/PAC-MAN"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70dc4696590bf023dadc",
+    "Name": "Airdodge",
+    "OwnerId": 38,
+    "Owner": "PAC-MAN",
+    "HitboxActive": "3-27",
+    "FirstActionableFrame": "33",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70dc4696590bf023dadc"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/PAC-MAN"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70dc4696590bf023dadd",
+    "Name": "Nair (Early)",
+    "OwnerId": 38,
+    "Owner": "PAC-MAN",
+    "HitboxActive": "3-5",
+    "FirstActionableFrame": "52",
+    "BaseDamage": "10",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "20",
+    "LandingLag": "12",
+    "AutoCancel": "1-2, 48&gt;",
+    "KnockbackGrowth": "100",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70dc4696590bf023dadd"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/PAC-MAN"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70dc4696590bf023dade",
+    "Name": "Nair",
+    "OwnerId": 38,
+    "Owner": "PAC-MAN",
+    "HitboxActive": "6-9",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "6",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "13",
+    "LandingLag": "-",
+    "AutoCancel": "-",
+    "KnockbackGrowth": "90",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70dc4696590bf023dade"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/PAC-MAN"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70dc4696590bf023dadf",
+    "Name": "Nair (Late)",
+    "OwnerId": 38,
+    "Owner": "PAC-MAN",
+    "HitboxActive": "10-19",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "3",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "13",
+    "LandingLag": "-",
+    "AutoCancel": "-",
+    "KnockbackGrowth": "90",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70dc4696590bf023dadf"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/PAC-MAN"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70dc4696590bf023dae0",
+    "Name": "Fair",
+    "OwnerId": 38,
+    "Owner": "PAC-MAN",
+    "HitboxActive": "5-8",
+    "FirstActionableFrame": "26",
+    "BaseDamage": "5.3",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "7",
+    "LandingLag": "16",
+    "AutoCancel": "1, 43&gt;",
+    "KnockbackGrowth": "90",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70dc4696590bf023dae0"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/PAC-MAN"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70dc4696590bf023dae1",
+    "Name": "Bair",
+    "OwnerId": 38,
+    "Owner": "PAC-MAN",
+    "HitboxActive": "9-11",
+    "FirstActionableFrame": "41",
+    "BaseDamage": "11.8",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "10",
+    "LandingLag": "22",
+    "AutoCancel": "1-8, 36&gt;",
+    "KnockbackGrowth": "100",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70dc4696590bf023dae1"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/PAC-MAN"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70dc4696590bf023dae2",
+    "Name": "Bair (Late)",
+    "OwnerId": 38,
+    "Owner": "PAC-MAN",
+    "HitboxActive": "12-16",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "7",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "7",
+    "LandingLag": "-",
+    "AutoCancel": "-",
+    "KnockbackGrowth": "90",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70dc4696590bf023dae2"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/PAC-MAN"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70dc4696590bf023dae3",
+    "Name": "Uair",
+    "OwnerId": 38,
+    "Owner": "PAC-MAN",
+    "HitboxActive": "9-16",
+    "FirstActionableFrame": "37",
+    "BaseDamage": "10",
+    "Angle": "70",
+    "BaseKnockBackSetKnockback": "13",
+    "LandingLag": "16",
+    "AutoCancel": "1, 32&gt;",
+    "KnockbackGrowth": "100",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70dc4696590bf023dae3"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/PAC-MAN"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70dc4696590bf023dae4",
+    "Name": "Dair (Hits 1-3)",
+    "OwnerId": 38,
+    "Owner": "PAC-MAN",
+    "HitboxActive": "6-7, 14-15, 22-23",
+    "FirstActionableFrame": "60",
+    "BaseDamage": "1.5",
+    "Angle": "100",
+    "BaseKnockBackSetKnockback": "W: 10",
+    "LandingLag": "20",
+    "AutoCancel": "1, 56&gt;",
+    "KnockbackGrowth": "100",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70dc4696590bf023dae4"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/PAC-MAN"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70dc4696590bf023dae5",
+    "Name": "Dair (Hit 4)",
+    "OwnerId": 38,
+    "Owner": "PAC-MAN",
+    "HitboxActive": "30-31",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "6",
+    "Angle": "65",
+    "BaseKnockBackSetKnockback": "80",
+    "LandingLag": "-",
+    "AutoCancel": "-",
+    "KnockbackGrowth": "90",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70dc4696590bf023dae5"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/PAC-MAN"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70dc4696590bf023dae6",
+    "Name": "Bonus Fruit (Throw)",
+    "OwnerId": 38,
+    "Owner": "PAC-MAN",
+    "HitboxActive": "12-",
+    "FirstActionableFrame": "45",
+    "BaseDamage": "-",
+    "Angle": "-",
+    "BaseKnockBackSetKnockback": "-",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "-",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70dc4696590bf023dae6"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/PAC-MAN"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70dc4696590bf023dae7",
+    "Name": "Bonus Fruit (CHERRY)",
+    "OwnerId": 38,
+    "Owner": "PAC-MAN",
+    "HitboxActive": "Fruit Generated: Frame 8",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "4",
+    "Angle": "55",
+    "BaseKnockBackSetKnockback": "40",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "80",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70dc4696590bf023dae7"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/PAC-MAN"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70dc4696590bf023dae8",
+    "Name": "Bonus Fruit (STRAWBERRY)",
+    "OwnerId": 38,
+    "Owner": "PAC-MAN",
+    "HitboxActive": "Fruit Generated: Frame 19",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "6",
+    "Angle": "55",
+    "BaseKnockBackSetKnockback": "40",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "80",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70dc4696590bf023dae8"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/PAC-MAN"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70dc4696590bf023dae9",
+    "Name": "Bonus Fruit (ORANGE)",
+    "OwnerId": 38,
+    "Owner": "PAC-MAN",
+    "HitboxActive": "Fruit Generated: Frame 30",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "8",
+    "Angle": "30",
+    "BaseKnockBackSetKnockback": "50",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "76",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70dc4696590bf023dae9"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/PAC-MAN"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70dc4696590bf023daea",
+    "Name": "Bonus Fruit (APPLE)",
+    "OwnerId": 38,
+    "Owner": "PAC-MAN",
+    "HitboxActive": "Fruit Generated: Frame 54",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "9",
+    "Angle": "75",
+    "BaseKnockBackSetKnockback": "60",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70dc4696590bf023daea"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/PAC-MAN"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70dc4696590bf023daeb",
+    "Name": "Bonus Fruit (MELON)",
+    "OwnerId": 38,
+    "Owner": "PAC-MAN",
+    "HitboxActive": "Fruit Generated: Frame 78",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "12",
+    "Angle": "55",
+    "BaseKnockBackSetKnockback": "40",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70dc4696590bf023daeb"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/PAC-MAN"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70dc4696590bf023daec",
+    "Name": "Bonus Fruit (GALAGA)",
+    "OwnerId": 38,
+    "Owner": "PAC-MAN",
+    "HitboxActive": "Fruit Generated: Frame 102",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "9",
+    "Angle": "70",
+    "BaseKnockBackSetKnockback": "40",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "80",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70dc4696590bf023daec"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/PAC-MAN"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70dc4696590bf023daed",
+    "Name": "Bonus Fruit (BELL)",
+    "OwnerId": 38,
+    "Owner": "PAC-MAN",
+    "HitboxActive": "Fruit Generated: Frame 126",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "8",
+    "Angle": "55",
+    "BaseKnockBackSetKnockback": "30",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "120",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70dc4696590bf023daed"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/PAC-MAN"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70dc4696590bf023daee",
+    "Name": "Bonus Fruit (KEY)",
+    "OwnerId": 38,
+    "Owner": "PAC-MAN",
+    "HitboxActive": "Fruit Generated: Frame 150",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "15",
+    "Angle": "55",
+    "BaseKnockBackSetKnockback": "40",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "90",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70dc4696590bf023daee"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/PAC-MAN"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70dc4696590bf023daef",
+    "Name": "Power Pellet",
+    "OwnerId": 38,
+    "Owner": "PAC-MAN",
+    "HitboxActive": "23-",
+    "FirstActionableFrame": "94",
+    "BaseDamage": "10",
+    "Angle": "45",
+    "BaseKnockBackSetKnockback": "30",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "90",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70dc4696590bf023daef"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/PAC-MAN"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70dc4696590bf023daf0",
+    "Name": "Power Pellet (Dash)",
+    "OwnerId": 38,
+    "Owner": "PAC-MAN",
+    "HitboxActive": "?? (Super Armor: ??)",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "1",
+    "Angle": "50/361",
+    "BaseKnockBackSetKnockback": "50/40",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "108/66",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70dc4696590bf023daf0"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/PAC-MAN"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70dc4696590bf023daf1",
+    "Name": "Pac-Jump",
+    "OwnerId": 38,
+    "Owner": "PAC-MAN",
+    "HitboxActive": "Trampoline From: 1-295 (Unblockable)",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "-",
+    "Angle": "-",
+    "BaseKnockBackSetKnockback": "-",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "-",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70dc4696590bf023daf1"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/PAC-MAN"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70dc4696590bf023daf2",
+    "Name": "Pac-Jump (Attack, Early)",
+    "OwnerId": 38,
+    "Owner": "PAC-MAN",
+    "HitboxActive": "4-7",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "7",
+    "Angle": "92",
+    "BaseKnockBackSetKnockback": "40",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "90",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70dc4696590bf023daf2"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/PAC-MAN"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70dc4696590bf023daf3",
+    "Name": "Pac-Jump (Attack)",
+    "OwnerId": 38,
+    "Owner": "PAC-MAN",
+    "HitboxActive": "8-12",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "6",
+    "Angle": "86",
+    "BaseKnockBackSetKnockback": "40",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "90",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70dc4696590bf023daf3"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/PAC-MAN"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70dc4696590bf023daf4",
+    "Name": "Pac-Jump (Attack, Late)",
+    "OwnerId": 38,
+    "Owner": "PAC-MAN",
+    "HitboxActive": "13-17",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "5",
+    "Angle": "50",
+    "BaseKnockBackSetKnockback": "40",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "90",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70dc4696590bf023daf4"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/PAC-MAN"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70dc4696590bf023daf5",
+    "Name": "Fire Hydrant",
+    "OwnerId": 38,
+    "Owner": "PAC-MAN",
+    "HitboxActive": "Hydrant Appears: 12",
+    "FirstActionableFrame": "40",
+    "BaseDamage": "-",
+    "Angle": "-",
+    "BaseKnockBackSetKnockback": "-",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "-",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70dc4696590bf023daf5"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/PAC-MAN"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70dc4696590bf023daf6",
+    "Name": "Fire Hydrant (Air)",
+    "OwnerId": 38,
+    "Owner": "PAC-MAN",
+    "HitboxActive": "Hydrant Appears: 9",
+    "FirstActionableFrame": "35",
+    "BaseDamage": "-",
+    "Angle": "-",
+    "BaseKnockBackSetKnockback": "-",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "-",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70dc4696590bf023daf6"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/PAC-MAN"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70dc4696590bf023daf7",
+    "Name": "Fire Hydrant (Drop Hitbox)",
+    "OwnerId": 38,
+    "Owner": "PAC-MAN",
+    "HitboxActive": "12-",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "9",
+    "Angle": "60",
+    "BaseKnockBackSetKnockback": "60",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "80",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70dc4696590bf023daf7"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/PAC-MAN"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70dc4696590bf023daf8",
+    "Name": "Fire Hydrant (Damaged Hitbox)",
+    "OwnerId": 38,
+    "Owner": "PAC-MAN",
+    "HitboxActive": "1-",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "13",
+    "Angle": "45",
+    "BaseKnockBackSetKnockback": "30",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "90",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70dc4696590bf023daf8"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/PAC-MAN"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70dc4696590bf023daf9",
+    "Name": "Fire Hydrant (Horizontal Water)",
+    "OwnerId": 38,
+    "Owner": "PAC-MAN",
+    "HitboxActive": "1- (Unblockable)",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "0",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "W: 45",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "135",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70dc4696590bf023daf9"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/PAC-MAN"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70dc4696590bf023dafa",
+    "Name": "Fire Hydrant (Vertical Water)",
+    "OwnerId": 38,
+    "Owner": "PAC-MAN",
+    "HitboxActive": "1- (Unblockable)",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "0",
+    "Angle": "90",
+    "BaseKnockBackSetKnockback": "W: 45",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "135",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70dc4696590bf023dafa"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/PAC-MAN"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70dc4696590bf023dafb",
+    "Name": "Fthrow",
+    "OwnerId": 38,
+    "Owner": "PAC-MAN",
+    "HitboxActive": null,
+    "FirstActionableFrame": null,
+    "BaseDamage": "6",
+    "Angle": "58",
+    "BaseKnockBackSetKnockback": "48",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "65",
+    "MoveType": "throw",
+    "IsWeightDependent": true,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70dc4696590bf023dafb"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/PAC-MAN"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70dc4696590bf023dafc",
+    "Name": "Bthrow",
+    "OwnerId": 38,
+    "Owner": "PAC-MAN",
+    "HitboxActive": null,
+    "FirstActionableFrame": null,
+    "BaseDamage": "11",
+    "Angle": "45",
+    "BaseKnockBackSetKnockback": "70",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "61",
+    "MoveType": "throw",
+    "IsWeightDependent": true,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70dc4696590bf023dafc"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/PAC-MAN"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70dc4696590bf023dafd",
+    "Name": "Uthrow",
+    "OwnerId": 38,
+    "Owner": "PAC-MAN",
+    "HitboxActive": null,
+    "FirstActionableFrame": null,
+    "BaseDamage": "5",
+    "Angle": "89",
+    "BaseKnockBackSetKnockback": "60",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "throw",
+    "IsWeightDependent": true,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70dc4696590bf023dafd"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/PAC-MAN"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70dc4696590bf023dafe",
+    "Name": "Dthrow",
+    "OwnerId": 38,
+    "Owner": "PAC-MAN",
+    "HitboxActive": null,
+    "FirstActionableFrame": null,
+    "BaseDamage": "1.5&#37;&#215;3, 6",
+    "Angle": "45",
+    "BaseKnockBackSetKnockback": "60",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "55",
+    "MoveType": "throw",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70dc4696590bf023dafe"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/PAC-MAN"
+      }
+    ]
+  }
+]

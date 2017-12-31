@@ -1,0 +1,308 @@
+﻿[
+  {
+    "InstanceId": "598e70944696590bf023d12a",
+    "Name": "Weight",
+    "OwnerId": 11,
+    "Owner": "DrMario",
+    "Value": "98 ",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e70944696590bf023d12a"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DrMario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70944696590bf023d12b",
+    "Name": "Max Jumps",
+    "OwnerId": 11,
+    "Owner": "DrMario",
+    "Value": "2",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e70944696590bf023d12b"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DrMario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70944696590bf023d12c",
+    "Name": "Run Speed",
+    "OwnerId": 11,
+    "Owner": "DrMario",
+    "Value": "1.312 ",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e70944696590bf023d12c"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DrMario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70944696590bf023d12d",
+    "Name": "Wall Jump",
+    "OwnerId": 11,
+    "Owner": "DrMario",
+    "Value": "Yes",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e70944696590bf023d12d"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DrMario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70944696590bf023d12e",
+    "Name": "Walk Speed",
+    "OwnerId": 11,
+    "Owner": "DrMario",
+    "Value": "0.902 ",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e70944696590bf023d12e"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DrMario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70944696590bf023d12f",
+    "Name": "Wall Cling",
+    "OwnerId": 11,
+    "Owner": "DrMario",
+    "Value": "No",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e70944696590bf023d12f"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DrMario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70944696590bf023d130",
+    "Name": "Air Speed",
+    "OwnerId": 11,
+    "Owner": "DrMario",
+    "Value": "0.943 ",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e70944696590bf023d130"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DrMario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70944696590bf023d131",
+    "Name": "Crawl",
+    "OwnerId": 11,
+    "Owner": "DrMario",
+    "Value": "No",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e70944696590bf023d131"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DrMario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70944696590bf023d132",
+    "Name": "Fall Speed",
+    "OwnerId": 11,
+    "Owner": "DrMario",
+    "Value": "1.5 ",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e70944696590bf023d132"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DrMario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70944696590bf023d133",
+    "Name": "Tether",
+    "OwnerId": 11,
+    "Owner": "DrMario",
+    "Value": "No",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e70944696590bf023d133"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DrMario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70944696590bf023d134",
+    "Name": "Fast Fall Speed",
+    "OwnerId": 11,
+    "Owner": "DrMario",
+    "Value": "2.4 ",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e70944696590bf023d134"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DrMario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70944696590bf023d135",
+    "Name": "Jumpsquat",
+    "OwnerId": 11,
+    "Owner": "DrMario",
+    "Value": "5 frames",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e70944696590bf023d135"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DrMario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70944696590bf023d136",
+    "Name": "Air Acceleration",
+    "OwnerId": 11,
+    "Owner": "DrMario",
+    "Value": "0.0574",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e70944696590bf023d136"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DrMario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70944696590bf023d137",
+    "Name": "Soft Landing Lag",
+    "OwnerId": 11,
+    "Owner": "DrMario",
+    "Value": "2 frames",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e70944696590bf023d137"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DrMario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70944696590bf023d138",
+    "Name": "Gravity",
+    "OwnerId": 11,
+    "Owner": "DrMario",
+    "Value": "0.08715",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e70944696590bf023d138"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DrMario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70944696590bf023d139",
+    "Name": "Hard Landing Lag",
+    "OwnerId": 11,
+    "Owner": "DrMario",
+    "Value": "4 frames",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e70944696590bf023d139"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DrMario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70944696590bf023d13a",
+    "Name": "SH Air Time",
+    "OwnerId": 11,
+    "Owner": "DrMario",
+    "Value": "35 frames",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e70944696590bf023d13a"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DrMario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70944696590bf023d13b",
+    "Name": "FH Air Time",
+    "OwnerId": 11,
+    "Owner": "DrMario",
+    "Value": "53 frames",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e70944696590bf023d13b"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DrMario"
+      }
+    ]
+  }
+]

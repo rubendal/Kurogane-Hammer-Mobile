@@ -1,0 +1,308 @@
+﻿[
+  {
+    "InstanceId": "598e70e34696590bf023dbba",
+    "Name": "Weight",
+    "OwnerId": 41,
+    "Owner": "Pikachu",
+    "Value": "79 ",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e70e34696590bf023dbba"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Pikachu"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70e34696590bf023dbbb",
+    "Name": "Max Jumps",
+    "OwnerId": 41,
+    "Owner": "Pikachu",
+    "Value": "2",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e70e34696590bf023dbbb"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Pikachu"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70e34696590bf023dbbc",
+    "Name": "Run Speed",
+    "OwnerId": 41,
+    "Owner": "Pikachu",
+    "Value": "1.85325 ",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e70e34696590bf023dbbc"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Pikachu"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70e34696590bf023dbbd",
+    "Name": "Wall Jump",
+    "OwnerId": 41,
+    "Owner": "Pikachu",
+    "Value": "Yes",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e70e34696590bf023dbbd"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Pikachu"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70e34696590bf023dbbe",
+    "Name": "Walk Speed",
+    "OwnerId": 41,
+    "Owner": "Pikachu",
+    "Value": "1.24 ",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e70e34696590bf023dbbe"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Pikachu"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70e34696590bf023dbbf",
+    "Name": "Wall Cling",
+    "OwnerId": 41,
+    "Owner": "Pikachu",
+    "Value": "No",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e70e34696590bf023dbbf"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Pikachu"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70e34696590bf023dbc0",
+    "Name": "Air Speed",
+    "OwnerId": 41,
+    "Owner": "Pikachu",
+    "Value": "0.9118 ",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e70e34696590bf023dbc0"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Pikachu"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70e34696590bf023dbc1",
+    "Name": "Crawl",
+    "OwnerId": 41,
+    "Owner": "Pikachu",
+    "Value": "Yes",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e70e34696590bf023dbc1"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Pikachu"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70e34696590bf023dbc2",
+    "Name": "Fall Speed",
+    "OwnerId": 41,
+    "Owner": "Pikachu",
+    "Value": "1.55 ",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e70e34696590bf023dbc2"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Pikachu"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70e34696590bf023dbc3",
+    "Name": "Tether",
+    "OwnerId": 41,
+    "Owner": "Pikachu",
+    "Value": "No",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e70e34696590bf023dbc3"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Pikachu"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70e34696590bf023dbc4",
+    "Name": "Fast Fall Speed",
+    "OwnerId": 41,
+    "Owner": "Pikachu",
+    "Value": "2.48 ",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e70e34696590bf023dbc4"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Pikachu"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70e34696590bf023dbc5",
+    "Name": "Jumpsquat",
+    "OwnerId": 41,
+    "Owner": "Pikachu",
+    "Value": "4 frames",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e70e34696590bf023dbc5"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Pikachu"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70e34696590bf023dbc6",
+    "Name": "Air Acceleration",
+    "OwnerId": 41,
+    "Owner": "Pikachu",
+    "Value": "0.09",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e70e34696590bf023dbc6"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Pikachu"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70e34696590bf023dbc7",
+    "Name": "Soft Landing Lag",
+    "OwnerId": 41,
+    "Owner": "Pikachu",
+    "Value": "2 frames",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e70e34696590bf023dbc7"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Pikachu"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70e34696590bf023dbc8",
+    "Name": "Gravity",
+    "OwnerId": 41,
+    "Owner": "Pikachu",
+    "Value": "0.095",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e70e34696590bf023dbc8"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Pikachu"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70e34696590bf023dbc9",
+    "Name": "Hard Landing Lag",
+    "OwnerId": 41,
+    "Owner": "Pikachu",
+    "Value": "4 frames",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e70e34696590bf023dbc9"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Pikachu"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70e34696590bf023dbca",
+    "Name": "SH Air Time",
+    "OwnerId": 41,
+    "Owner": "Pikachu",
+    "Value": "38 frames",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e70e34696590bf023dbca"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Pikachu"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70e34696590bf023dbcb",
+    "Name": "FH Air Time",
+    "OwnerId": 41,
+    "Owner": "Pikachu",
+    "Value": "58 frames",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e70e34696590bf023dbcb"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Pikachu"
+      }
+    ]
+  }
+]

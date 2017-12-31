@@ -1,0 +1,1250 @@
+﻿[
+  {
+    "InstanceId": "598e709a4696590bf023d1ea",
+    "Name": "Jab 1",
+    "OwnerId": 13,
+    "Owner": "Falco",
+    "HitboxActive": "2-4",
+    "FirstActionableFrame": "23",
+    "BaseDamage": "3",
+    "Angle": "68/77/80",
+    "BaseKnockBackSetKnockback": "35",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "30",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e709a4696590bf023d1ea"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Falco"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e709a4696590bf023d1eb",
+    "Name": "Jab 2",
+    "OwnerId": 13,
+    "Owner": "Falco",
+    "HitboxActive": "3-5",
+    "FirstActionableFrame": "26",
+    "BaseDamage": "2",
+    "Angle": "80/50/45",
+    "BaseKnockBackSetKnockback": "30",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "30",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e709a4696590bf023d1eb"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Falco"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e709a4696590bf023d1ec",
+    "Name": "Rapid Jab",
+    "OwnerId": 13,
+    "Owner": "Falco",
+    "HitboxActive": "-",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "0.4",
+    "Angle": "30/50/70",
+    "BaseKnockBackSetKnockback": "W: 3",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e709a4696590bf023d1ec"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Falco"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e709a4696590bf023d1ed",
+    "Name": "Rapid Jab Finisher",
+    "OwnerId": 13,
+    "Owner": "Falco",
+    "HitboxActive": "5-6",
+    "FirstActionableFrame": "40",
+    "BaseDamage": "3",
+    "Angle": "45",
+    "BaseKnockBackSetKnockback": "60",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e709a4696590bf023d1ed"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Falco"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e709a4696590bf023d1ee",
+    "Name": "Dash Attack",
+    "OwnerId": 13,
+    "Owner": "Falco",
+    "HitboxActive": "8-11",
+    "FirstActionableFrame": "40",
+    "BaseDamage": "9",
+    "Angle": "65",
+    "BaseKnockBackSetKnockback": "80",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "70",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e709a4696590bf023d1ee"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Falco"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e709a4696590bf023d1ef",
+    "Name": "Dash Attack (Late)",
+    "OwnerId": 13,
+    "Owner": "Falco",
+    "HitboxActive": "12-18",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "6",
+    "Angle": "40",
+    "BaseKnockBackSetKnockback": "70",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "70",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e709a4696590bf023d1ef"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Falco"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e709a4696590bf023d1f0",
+    "Name": "Ftilt (All Angles)",
+    "OwnerId": 13,
+    "Owner": "Falco",
+    "HitboxActive": "6-8",
+    "FirstActionableFrame": "28",
+    "BaseDamage": "9",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "0",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e709a4696590bf023d1f0"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Falco"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e709a4696590bf023d1f1",
+    "Name": "Utilt (Hit 1)",
+    "OwnerId": 13,
+    "Owner": "Falco",
+    "HitboxActive": "5 (Ground Only)",
+    "FirstActionableFrame": "37",
+    "BaseDamage": "4",
+    "Angle": "106",
+    "BaseKnockBackSetKnockback": "W: 100",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e709a4696590bf023d1f1"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Falco"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e709a4696590bf023d1f2",
+    "Name": "Utilt (Hit 1, Late)",
+    "OwnerId": 13,
+    "Owner": "Falco",
+    "HitboxActive": "6-9",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "4/4/3",
+    "Angle": "100/100/270",
+    "BaseKnockBackSetKnockback": "W: 25/20/15",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e709a4696590bf023d1f2"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Falco"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e709a4696590bf023d1f3",
+    "Name": "Utilt (Hit 2)",
+    "OwnerId": 13,
+    "Owner": "Falco",
+    "HitboxActive": "12-16",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "5",
+    "Angle": "90/90/97",
+    "BaseKnockBackSetKnockback": "30",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "150",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e709a4696590bf023d1f3"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Falco"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e709a4696590bf023d1f4",
+    "Name": "Dtilt",
+    "OwnerId": 13,
+    "Owner": "Falco",
+    "HitboxActive": "7-9",
+    "FirstActionableFrame": "28",
+    "BaseDamage": "12/11/9",
+    "Angle": "75",
+    "BaseKnockBackSetKnockback": "50/35/35",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "90/88/88",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e709a4696590bf023d1f4"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Falco"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e709a4696590bf023d1f5",
+    "Name": "Fsmash",
+    "OwnerId": 13,
+    "Owner": "Falco",
+    "HitboxActive": "17-19",
+    "FirstActionableFrame": "49",
+    "BaseDamage": "15",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "42",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "90/93/96",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e709a4696590bf023d1f5"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Falco"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e709a4696590bf023d1f6",
+    "Name": "Fsmash (Late)",
+    "OwnerId": 13,
+    "Owner": "Falco",
+    "HitboxActive": "20",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "10",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "30",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "90",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e709a4696590bf023d1f6"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Falco"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e709a4696590bf023d1f7",
+    "Name": "Usmash (Hit 1)",
+    "OwnerId": 13,
+    "Owner": "Falco",
+    "HitboxActive": "7-8 (Ground Only, Foot Intangible: 7-12)",
+    "FirstActionableFrame": "50",
+    "BaseDamage": "4",
+    "Angle": "110/110/130",
+    "BaseKnockBackSetKnockback": "70",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "18",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e709a4696590bf023d1f7"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Falco"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e709a4696590bf023d1f8",
+    "Name": "Usmash (Hit 1, Late)",
+    "OwnerId": 13,
+    "Owner": "Falco",
+    "HitboxActive": "9-12 (Foot Intangible: 13-20)",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "4",
+    "Angle": "110/110/220",
+    "BaseKnockBackSetKnockback": "B: 70/70/W: 15",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "18/18/100",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e709a4696590bf023d1f8"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Falco"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e709a4696590bf023d1f9",
+    "Name": "Usmash (Hit 2)",
+    "OwnerId": 13,
+    "Owner": "Falco",
+    "HitboxActive": "13-20",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "12",
+    "Angle": "80",
+    "BaseKnockBackSetKnockback": "31",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "104",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e709a4696590bf023d1f9"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Falco"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e709a4696590bf023d1fa",
+    "Name": "Dsmash",
+    "OwnerId": 13,
+    "Owner": "Falco",
+    "HitboxActive": "7-9 (Leg Intangibility: 3-7)",
+    "FirstActionableFrame": "47",
+    "BaseDamage": "15/15/12/12",
+    "Angle": "25/25/80/80",
+    "BaseKnockBackSetKnockback": "20",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "78",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e709a4696590bf023d1fa"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Falco"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e709a4696590bf023d1fb",
+    "Name": "Standing Grab",
+    "OwnerId": 13,
+    "Owner": "Falco",
+    "HitboxActive": "8-9",
+    "FirstActionableFrame": "32",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e709a4696590bf023d1fb"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Falco"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e709a4696590bf023d1fc",
+    "Name": "Dash Grab",
+    "OwnerId": 13,
+    "Owner": "Falco",
+    "HitboxActive": "10-11",
+    "FirstActionableFrame": "40",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e709a4696590bf023d1fc"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Falco"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e709a4696590bf023d1fd",
+    "Name": "Pivot Grab",
+    "OwnerId": 13,
+    "Owner": "Falco",
+    "HitboxActive": "11-12",
+    "FirstActionableFrame": "38",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e709a4696590bf023d1fd"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Falco"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e709a4696590bf023d1fe",
+    "Name": "Spotdodge",
+    "OwnerId": 13,
+    "Owner": "Falco",
+    "HitboxActive": "2-16",
+    "FirstActionableFrame": "26",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e709a4696590bf023d1fe"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Falco"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e709a4696590bf023d1ff",
+    "Name": "Forward Roll",
+    "OwnerId": 13,
+    "Owner": "Falco",
+    "HitboxActive": "4-16",
+    "FirstActionableFrame": "30",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e709a4696590bf023d1ff"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Falco"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e709a4696590bf023d200",
+    "Name": "Back Roll",
+    "OwnerId": 13,
+    "Owner": "Falco",
+    "HitboxActive": "4-16",
+    "FirstActionableFrame": "30",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e709a4696590bf023d200"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Falco"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e709a4696590bf023d201",
+    "Name": "Airdodge",
+    "OwnerId": 13,
+    "Owner": "Falco",
+    "HitboxActive": "2-26",
+    "FirstActionableFrame": "32",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e709a4696590bf023d201"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Falco"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e709a4696590bf023d202",
+    "Name": "Nair (Hit 1)",
+    "OwnerId": 13,
+    "Owner": "Falco",
+    "HitboxActive": "3-5",
+    "FirstActionableFrame": "49",
+    "BaseDamage": "3",
+    "Angle": "367",
+    "BaseKnockBackSetKnockback": "W: 22",
+    "LandingLag": "15",
+    "AutoCancel": "1-2, 43&gt;",
+    "KnockbackGrowth": "100",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e709a4696590bf023d202"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Falco"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e709a4696590bf023d203",
+    "Name": "Nair (Hits 2-3)",
+    "OwnerId": 13,
+    "Owner": "Falco",
+    "HitboxActive": "6-9, 14-17",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "2",
+    "Angle": "367",
+    "BaseKnockBackSetKnockback": "W: 22",
+    "LandingLag": "-",
+    "AutoCancel": "-",
+    "KnockbackGrowth": "100",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e709a4696590bf023d203"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Falco"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e709a4696590bf023d204",
+    "Name": "Nair (Hit 4)",
+    "OwnerId": 13,
+    "Owner": "Falco",
+    "HitboxActive": "23-24",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "4",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "55",
+    "LandingLag": "-",
+    "AutoCancel": "-",
+    "KnockbackGrowth": "130",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e709a4696590bf023d204"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Falco"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e709a4696590bf023d205",
+    "Name": "Fair",
+    "OwnerId": 13,
+    "Owner": "Falco",
+    "HitboxActive": "10-27 (Rehit rate: 4)",
+    "FirstActionableFrame": "50",
+    "BaseDamage": "1",
+    "Angle": "366",
+    "BaseKnockBackSetKnockback": "W: 60",
+    "LandingLag": "25",
+    "AutoCancel": "1-5, 46&gt;",
+    "KnockbackGrowth": "100",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e709a4696590bf023d205"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Falco"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e709a4696590bf023d206",
+    "Name": "Fair (Final Hit)",
+    "OwnerId": 13,
+    "Owner": "Falco",
+    "HitboxActive": "28-29",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "4",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "55",
+    "LandingLag": "-",
+    "AutoCancel": "-",
+    "KnockbackGrowth": "145",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e709a4696590bf023d206"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Falco"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e709a4696590bf023d207",
+    "Name": "Fair (Landing)",
+    "OwnerId": 13,
+    "Owner": "Falco",
+    "HitboxActive": "1",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "3",
+    "Angle": "45",
+    "BaseKnockBackSetKnockback": "30",
+    "LandingLag": "-",
+    "AutoCancel": "-",
+    "KnockbackGrowth": "160",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e709a4696590bf023d207"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Falco"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e709a4696590bf023d208",
+    "Name": "Bair",
+    "OwnerId": 13,
+    "Owner": "Falco",
+    "HitboxActive": "4-5",
+    "FirstActionableFrame": "38",
+    "BaseDamage": "13",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "0",
+    "LandingLag": "15",
+    "AutoCancel": "1-3, 15&gt;",
+    "KnockbackGrowth": "130",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e709a4696590bf023d208"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Falco"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e709a4696590bf023d209",
+    "Name": "Bair (Late)",
+    "OwnerId": 13,
+    "Owner": "Falco",
+    "HitboxActive": "6-11",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "7",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "30",
+    "LandingLag": "-",
+    "AutoCancel": "-",
+    "KnockbackGrowth": "100",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e709a4696590bf023d209"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Falco"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e709a4696590bf023d20a",
+    "Name": "Uair",
+    "OwnerId": 13,
+    "Owner": "Falco",
+    "HitboxActive": "7-11",
+    "FirstActionableFrame": "34",
+    "BaseDamage": "10",
+    "Angle": "65/75/85",
+    "BaseKnockBackSetKnockback": "35",
+    "LandingLag": "15",
+    "AutoCancel": "1-3, 23&gt;",
+    "KnockbackGrowth": "90",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e709a4696590bf023d20a"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Falco"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e709a4696590bf023d20b",
+    "Name": "Dair",
+    "OwnerId": 13,
+    "Owner": "Falco",
+    "HitboxActive": "16-19",
+    "FirstActionableFrame": "52",
+    "BaseDamage": "13",
+    "Angle": "285/80",
+    "BaseKnockBackSetKnockback": "10",
+    "LandingLag": "23",
+    "AutoCancel": "1-3, 38&gt;",
+    "KnockbackGrowth": "80",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e709a4696590bf023d20b"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Falco"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e709a4696590bf023d20c",
+    "Name": "Dair (Late)",
+    "OwnerId": 13,
+    "Owner": "Falco",
+    "HitboxActive": "20-30",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "8",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "20",
+    "LandingLag": "-",
+    "AutoCancel": "-",
+    "KnockbackGrowth": "90",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e709a4696590bf023d20c"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Falco"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e709a4696590bf023d20d",
+    "Name": "Blaster",
+    "OwnerId": 13,
+    "Owner": "Falco",
+    "HitboxActive": "11-43",
+    "FirstActionableFrame": "59",
+    "BaseDamage": "3",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "W: 2",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e709a4696590bf023d20d"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Falco"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e709a4696590bf023d20e",
+    "Name": "Blaster (Aerial)",
+    "OwnerId": 13,
+    "Owner": "Falco",
+    "HitboxActive": "9-41",
+    "FirstActionableFrame": "50",
+    "BaseDamage": "3",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "W: 2",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e709a4696590bf023d20e"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Falco"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e709a4696590bf023d20f",
+    "Name": "Falco Phantasm (Ground)",
+    "OwnerId": 13,
+    "Owner": "Falco",
+    "HitboxActive": "18-22",
+    "FirstActionableFrame": "61",
+    "BaseDamage": "7",
+    "Angle": "80",
+    "BaseKnockBackSetKnockback": "40",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e709a4696590bf023d20f"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Falco"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e709a4696590bf023d210",
+    "Name": "Falco Phantasm (Aerial)",
+    "OwnerId": 13,
+    "Owner": "Falco",
+    "HitboxActive": "18-22",
+    "FirstActionableFrame": "67",
+    "BaseDamage": "7/6",
+    "Angle": "80/270",
+    "BaseKnockBackSetKnockback": "68/40",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "60/50",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e709a4696590bf023d210"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Falco"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e709a4696590bf023d211",
+    "Name": "Fire Bird (Hits 1-7)",
+    "OwnerId": 13,
+    "Owner": "Falco",
+    "HitboxActive": "20, 22, 24, 26, 28, 30, 32",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "2",
+    "Angle": "70",
+    "BaseKnockBackSetKnockback": "40",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "40",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e709a4696590bf023d211"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Falco"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e709a4696590bf023d212",
+    "Name": "Fire Bird (Hit 8)",
+    "OwnerId": 13,
+    "Owner": "Falco",
+    "HitboxActive": "44-47",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "3",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "30",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "50",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e709a4696590bf023d212"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Falco"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e709a4696590bf023d213",
+    "Name": "Fire Bird (Hits 9-14)",
+    "OwnerId": 13,
+    "Owner": "Falco",
+    "HitboxActive": "49, 51, 53, 55, 57, 59",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "2",
+    "Angle": "365",
+    "BaseKnockBackSetKnockback": "30",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "50",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e709a4696590bf023d213"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Falco"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e709a4696590bf023d214",
+    "Name": "Fire Bird (Hit 15)",
+    "OwnerId": 13,
+    "Owner": "Falco",
+    "HitboxActive": "61",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "2",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "70",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "90",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e709a4696590bf023d214"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Falco"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e709a4696590bf023d215",
+    "Name": "Reflector",
+    "OwnerId": 13,
+    "Owner": "Falco",
+    "HitboxActive": "5-14 (Reflects: 1-33)",
+    "FirstActionableFrame": "51",
+    "BaseDamage": "5 (+5)",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "35",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "30",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e709a4696590bf023d215"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Falco"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e709a4696590bf023d216",
+    "Name": "Fthrow",
+    "OwnerId": 13,
+    "Owner": "Falco",
+    "HitboxActive": null,
+    "FirstActionableFrame": null,
+    "BaseDamage": "4, 3",
+    "Angle": "45",
+    "BaseKnockBackSetKnockback": "35",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "135",
+    "MoveType": "throw",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e709a4696590bf023d216"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Falco"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e709a4696590bf023d217",
+    "Name": "Bthrow",
+    "OwnerId": 13,
+    "Owner": "Falco",
+    "HitboxActive": null,
+    "FirstActionableFrame": null,
+    "BaseDamage": "6, 3",
+    "Angle": "35, 50",
+    "BaseKnockBackSetKnockback": "80, 60",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "60, 80",
+    "MoveType": "throw",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e709a4696590bf023d217"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Falco"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e709a4696590bf023d218",
+    "Name": "Uthrow",
+    "OwnerId": 13,
+    "Owner": "Falco",
+    "HitboxActive": null,
+    "FirstActionableFrame": null,
+    "BaseDamage": "4, 4",
+    "Angle": "94, 90",
+    "BaseKnockBackSetKnockback": "60, 60",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100, 80",
+    "MoveType": "throw",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e709a4696590bf023d218"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Falco"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e709a4696590bf023d219",
+    "Name": "Dthrow",
+    "OwnerId": 13,
+    "Owner": "Falco",
+    "HitboxActive": null,
+    "FirstActionableFrame": null,
+    "BaseDamage": "2, 3",
+    "Angle": "50",
+    "BaseKnockBackSetKnockback": "60",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "110",
+    "MoveType": "throw",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e709a4696590bf023d219"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Falco"
+      }
+    ]
+  }
+]

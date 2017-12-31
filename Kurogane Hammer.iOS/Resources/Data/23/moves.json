@@ -1,0 +1,1146 @@
+﻿[
+  {
+    "InstanceId": "598e70b44696590bf023d560",
+    "Name": "Jab 1",
+    "OwnerId": 23,
+    "Owner": "Lucario",
+    "HitboxActive": "6",
+    "FirstActionableFrame": "34",
+    "BaseDamage": "2.5",
+    "Angle": "80/55",
+    "BaseKnockBackSetKnockback": "33",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "10",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70b44696590bf023d560"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Lucario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70b44696590bf023d561",
+    "Name": "Jab 1 (Late)",
+    "OwnerId": 23,
+    "Owner": "Lucario",
+    "HitboxActive": "7-8",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "2.5",
+    "Angle": "80/55/80",
+    "BaseKnockBackSetKnockback": "32",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "10",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70b44696590bf023d561"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Lucario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70b44696590bf023d562",
+    "Name": "Jab 2",
+    "OwnerId": 23,
+    "Owner": "Lucario",
+    "HitboxActive": "5-6",
+    "FirstActionableFrame": "38",
+    "BaseDamage": "2",
+    "Angle": "72/90/45",
+    "BaseKnockBackSetKnockback": "38/32/50",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "20",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70b44696590bf023d562"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Lucario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70b44696590bf023d563",
+    "Name": "Jab 3",
+    "OwnerId": 23,
+    "Owner": "Lucario",
+    "HitboxActive": "9-11",
+    "FirstActionableFrame": "41",
+    "BaseDamage": "3",
+    "Angle": "60",
+    "BaseKnockBackSetKnockback": "50",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "120",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70b44696590bf023d563"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Lucario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70b44696590bf023d564",
+    "Name": "Dash Attack",
+    "OwnerId": 23,
+    "Owner": "Lucario",
+    "HitboxActive": "7-9",
+    "FirstActionableFrame": "42",
+    "BaseDamage": "8",
+    "Angle": "50",
+    "BaseKnockBackSetKnockback": "70",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "75",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70b44696590bf023d564"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Lucario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70b44696590bf023d565",
+    "Name": "Dash Attack (Late)",
+    "OwnerId": 23,
+    "Owner": "Lucario",
+    "HitboxActive": "10-15",
+    "FirstActionableFrame": "",
+    "BaseDamage": "6",
+    "Angle": "60",
+    "BaseKnockBackSetKnockback": "70",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "75",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70b44696590bf023d565"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Lucario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70b44696590bf023d566",
+    "Name": "Ftilt (Hit 1, All Angles)",
+    "OwnerId": 23,
+    "Owner": "Lucario",
+    "HitboxActive": "12-14",
+    "FirstActionableFrame": "33",
+    "BaseDamage": "4",
+    "Angle": "80",
+    "BaseKnockBackSetKnockback": "W: 20",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70b44696590bf023d566"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Lucario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70b44696590bf023d567",
+    "Name": "Ftilt (Hit 2, All Angles)",
+    "OwnerId": 23,
+    "Owner": "Lucario",
+    "HitboxActive": "15-16",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "6",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "50",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "95",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70b44696590bf023d567"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Lucario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70b44696590bf023d568",
+    "Name": "Utilt",
+    "OwnerId": 23,
+    "Owner": "Lucario",
+    "HitboxActive": "6-13",
+    "FirstActionableFrame": "33",
+    "BaseDamage": "5/5/6",
+    "Angle": "96",
+    "BaseKnockBackSetKnockback": "45/45/50",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "110",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70b44696590bf023d568"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Lucario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70b44696590bf023d569",
+    "Name": "Dtilt",
+    "OwnerId": 23,
+    "Owner": "Lucario",
+    "HitboxActive": "9-12",
+    "FirstActionableFrame": "25",
+    "BaseDamage": "5",
+    "Angle": "60",
+    "BaseKnockBackSetKnockback": "37",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "110",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70b44696590bf023d569"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Lucario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70b44696590bf023d56a",
+    "Name": "Fsmash",
+    "OwnerId": 23,
+    "Owner": "Lucario",
+    "HitboxActive": "22-23",
+    "FirstActionableFrame": "55",
+    "BaseDamage": "16",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "40",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "106",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70b44696590bf023d56a"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Lucario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70b44696590bf023d56b",
+    "Name": "Fsmash (Late)",
+    "OwnerId": 23,
+    "Owner": "Lucario",
+    "HitboxActive": "24-25",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "13",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "40",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "106",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70b44696590bf023d56b"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Lucario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70b44696590bf023d56c",
+    "Name": "Usmash (Hit 1)",
+    "OwnerId": 23,
+    "Owner": "Lucario",
+    "HitboxActive": "15-17",
+    "FirstActionableFrame": "64",
+    "BaseDamage": "4",
+    "Angle": "100",
+    "BaseKnockBackSetKnockback": "W: 100",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "103",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70b44696590bf023d56c"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Lucario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70b44696590bf023d56d",
+    "Name": "Usmash (Hit 2)",
+    "OwnerId": 23,
+    "Owner": "Lucario",
+    "HitboxActive": "19-20",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "14/12",
+    "Angle": "83",
+    "BaseKnockBackSetKnockback": "32",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "103",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70b44696590bf023d56d"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Lucario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70b44696590bf023d56e",
+    "Name": "Usmash (Hit 2, Late)",
+    "OwnerId": 23,
+    "Owner": "Lucario",
+    "HitboxActive": "21-23",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "9",
+    "Angle": "83",
+    "BaseKnockBackSetKnockback": "32",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "103",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70b44696590bf023d56e"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Lucario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70b44696590bf023d56f",
+    "Name": "Dsmash",
+    "OwnerId": 23,
+    "Owner": "Lucario",
+    "HitboxActive": "19-21",
+    "FirstActionableFrame": "55",
+    "BaseDamage": "14",
+    "Angle": "33",
+    "BaseKnockBackSetKnockback": "30",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "99",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70b44696590bf023d56f"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Lucario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70b44696590bf023d570",
+    "Name": "Standing Grab",
+    "OwnerId": 23,
+    "Owner": "Lucario",
+    "HitboxActive": "6-7",
+    "FirstActionableFrame": "29",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70b44696590bf023d570"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Lucario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70b44696590bf023d571",
+    "Name": "Dash Grab",
+    "OwnerId": 23,
+    "Owner": "Lucario",
+    "HitboxActive": "8-9",
+    "FirstActionableFrame": "36",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70b44696590bf023d571"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Lucario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70b44696590bf023d572",
+    "Name": "Pivot Grab",
+    "OwnerId": 23,
+    "Owner": "Lucario",
+    "HitboxActive": "9-10",
+    "FirstActionableFrame": "34",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70b44696590bf023d572"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Lucario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70b44696590bf023d573",
+    "Name": "Spotdodge",
+    "OwnerId": 23,
+    "Owner": "Lucario",
+    "HitboxActive": "2-15",
+    "FirstActionableFrame": "27",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70b44696590bf023d573"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Lucario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70b44696590bf023d574",
+    "Name": "Forward Roll",
+    "OwnerId": 23,
+    "Owner": "Lucario",
+    "HitboxActive": "4-12",
+    "FirstActionableFrame": "30",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70b44696590bf023d574"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Lucario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70b44696590bf023d575",
+    "Name": "Back Roll",
+    "OwnerId": 23,
+    "Owner": "Lucario",
+    "HitboxActive": "4-12",
+    "FirstActionableFrame": "30",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70b44696590bf023d575"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Lucario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70b44696590bf023d576",
+    "Name": "Airdodge",
+    "OwnerId": 23,
+    "Owner": "Lucario",
+    "HitboxActive": "2-25",
+    "FirstActionableFrame": "32",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70b44696590bf023d576"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Lucario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70b44696590bf023d577",
+    "Name": "Nair",
+    "OwnerId": 23,
+    "Owner": "Lucario",
+    "HitboxActive": "8-11",
+    "FirstActionableFrame": "43",
+    "BaseDamage": "8",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "20",
+    "LandingLag": "9",
+    "AutoCancel": "1-7, 39&gt;",
+    "KnockbackGrowth": "100",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70b44696590bf023d577"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Lucario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70b44696590bf023d578",
+    "Name": "Nair (Hit 2)",
+    "OwnerId": 23,
+    "Owner": "Lucario",
+    "HitboxActive": "22-29",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "6",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "15",
+    "LandingLag": "-",
+    "AutoCancel": "-",
+    "KnockbackGrowth": "100",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70b44696590bf023d578"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Lucario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70b44696590bf023d579",
+    "Name": "Fair",
+    "OwnerId": 23,
+    "Owner": "Lucario",
+    "HitboxActive": "7-8",
+    "FirstActionableFrame": "28",
+    "BaseDamage": "6",
+    "Angle": "64",
+    "BaseKnockBackSetKnockback": "80",
+    "LandingLag": "18",
+    "AutoCancel": "-",
+    "KnockbackGrowth": "70",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70b44696590bf023d579"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Lucario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70b44696590bf023d57a",
+    "Name": "Bair",
+    "OwnerId": 23,
+    "Owner": "Lucario",
+    "HitboxActive": "16-19",
+    "FirstActionableFrame": "49",
+    "BaseDamage": "15",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "30",
+    "LandingLag": "15",
+    "AutoCancel": "1-3, 40&gt;",
+    "KnockbackGrowth": "100",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70b44696590bf023d57a"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Lucario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70b44696590bf023d57b",
+    "Name": "Uair",
+    "OwnerId": 23,
+    "Owner": "Lucario",
+    "HitboxActive": "10-11",
+    "FirstActionableFrame": "39",
+    "BaseDamage": "11",
+    "Angle": "90",
+    "BaseKnockBackSetKnockback": "30",
+    "LandingLag": "22",
+    "AutoCancel": "29&gt;",
+    "KnockbackGrowth": "110",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70b44696590bf023d57b"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Lucario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70b44696590bf023d57c",
+    "Name": "Uair (Late)",
+    "OwnerId": 23,
+    "Owner": "Lucario",
+    "HitboxActive": "12-15",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "6",
+    "Angle": "90",
+    "BaseKnockBackSetKnockback": "30",
+    "LandingLag": "-",
+    "AutoCancel": "-",
+    "KnockbackGrowth": "110",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70b44696590bf023d57c"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Lucario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70b44696590bf023d57d",
+    "Name": "Dair (Hit 1)",
+    "OwnerId": 23,
+    "Owner": "Lucario",
+    "HitboxActive": "4-5",
+    "FirstActionableFrame": "31",
+    "BaseDamage": "5",
+    "Angle": "80",
+    "BaseKnockBackSetKnockback": "20",
+    "LandingLag": "9",
+    "AutoCancel": "25&gt;",
+    "KnockbackGrowth": "30",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70b44696590bf023d57d"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Lucario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70b44696590bf023d57e",
+    "Name": "Dair (Hit 2)",
+    "OwnerId": 23,
+    "Owner": "Lucario",
+    "HitboxActive": "11-12",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "6",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "60",
+    "LandingLag": "-",
+    "AutoCancel": "-",
+    "KnockbackGrowth": "100",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70b44696590bf023d57e"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Lucario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70b44696590bf023d57f",
+    "Name": "Aura Sphere (Charging)",
+    "OwnerId": 23,
+    "Owner": "Lucario",
+    "HitboxActive": "14-16, 19-21, 24-26...",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "1",
+    "Angle": "83",
+    "BaseKnockBackSetKnockback": "10",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "93",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70b44696590bf023d57f"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Lucario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70b44696590bf023d580",
+    "Name": "Aura Sphere (Release from Charge)",
+    "OwnerId": 23,
+    "Owner": "Lucario",
+    "HitboxActive": "6-65",
+    "FirstActionableFrame": "49",
+    "BaseDamage": "10",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "14",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "42",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70b44696590bf023d580"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Lucario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70b44696590bf023d581",
+    "Name": "Aura Sphere (Full Charge)",
+    "OwnerId": 23,
+    "Owner": "Lucario",
+    "HitboxActive": "19-78",
+    "FirstActionableFrame": "62",
+    "BaseDamage": "25",
+    "Angle": "47",
+    "BaseKnockBackSetKnockback": "35",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "69",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70b44696590bf023d581"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Lucario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70b44696590bf023d582",
+    "Name": "Force Palm (Command Grab)",
+    "OwnerId": 23,
+    "Owner": "Lucario",
+    "HitboxActive": "9",
+    "FirstActionableFrame": "51 (On grab)",
+    "BaseDamage": "13",
+    "Angle": "52",
+    "BaseKnockBackSetKnockback": "66",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "86",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70b44696590bf023d582"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Lucario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70b44696590bf023d583",
+    "Name": "Force Palm (Projectile)",
+    "OwnerId": 23,
+    "Owner": "Lucario",
+    "HitboxActive": "24-25",
+    "FirstActionableFrame": "64",
+    "BaseDamage": "11/7",
+    "Angle": "43",
+    "BaseKnockBackSetKnockback": "50",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "48",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70b44696590bf023d583"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Lucario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70b44696590bf023d584",
+    "Name": "Extremespeed (Hitbox)",
+    "OwnerId": 23,
+    "Owner": "Lucario",
+    "HitboxActive": "46-47",
+    "FirstActionableFrame": "",
+    "BaseDamage": "6",
+    "Angle": "38",
+    "BaseKnockBackSetKnockback": "70",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70b44696590bf023d584"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Lucario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70b44696590bf023d585",
+    "Name": "Double Team",
+    "OwnerId": 23,
+    "Owner": "Lucario",
+    "HitboxActive": "Counters: 5-39 (Intangible: 5-39)",
+    "FirstActionableFrame": "80",
+    "BaseDamage": "-",
+    "Angle": "-",
+    "BaseKnockBackSetKnockback": "-",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "-",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70b44696590bf023d585"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Lucario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70b44696590bf023d586",
+    "Name": "Double Team (Attack, Grounded)",
+    "OwnerId": 23,
+    "Owner": "Lucario",
+    "HitboxActive": "28-39 (Intangible 1-35, 40-68)",
+    "FirstActionableFrame": "61",
+    "BaseDamage": "11",
+    "Angle": "70",
+    "BaseKnockBackSetKnockback": "60",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "108",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70b44696590bf023d586"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Lucario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70b44696590bf023d587",
+    "Name": "Double Team (Attack, Aerial)",
+    "OwnerId": 23,
+    "Owner": "Lucario",
+    "HitboxActive": "28-39 (Intangible 1-35, 40-61)",
+    "FirstActionableFrame": "61",
+    "BaseDamage": "11",
+    "Angle": "70",
+    "BaseKnockBackSetKnockback": "60",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "108",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70b44696590bf023d587"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Lucario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70b44696590bf023d588",
+    "Name": "Fthrow",
+    "OwnerId": 23,
+    "Owner": "Lucario",
+    "HitboxActive": null,
+    "FirstActionableFrame": null,
+    "BaseDamage": "8",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "70",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "55",
+    "MoveType": "throw",
+    "IsWeightDependent": true,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70b44696590bf023d588"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Lucario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70b44696590bf023d589",
+    "Name": "Bthrow",
+    "OwnerId": 23,
+    "Owner": "Lucario",
+    "HitboxActive": null,
+    "FirstActionableFrame": null,
+    "BaseDamage": "10",
+    "Angle": "40",
+    "BaseKnockBackSetKnockback": "50",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "60",
+    "MoveType": "throw",
+    "IsWeightDependent": true,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70b44696590bf023d589"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Lucario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70b44696590bf023d58a",
+    "Name": "Uthrow",
+    "OwnerId": 23,
+    "Owner": "Lucario",
+    "HitboxActive": null,
+    "FirstActionableFrame": null,
+    "BaseDamage": "5, 6",
+    "Angle": "88",
+    "BaseKnockBackSetKnockback": "70",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "70",
+    "MoveType": "throw",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70b44696590bf023d58a"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Lucario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70b44696590bf023d58b",
+    "Name": "Dthrow",
+    "OwnerId": 23,
+    "Owner": "Lucario",
+    "HitboxActive": null,
+    "FirstActionableFrame": null,
+    "BaseDamage": "7",
+    "Angle": "80",
+    "BaseKnockBackSetKnockback": "100",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "30",
+    "MoveType": "throw",
+    "IsWeightDependent": true,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70b44696590bf023d58b"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Lucario"
+      }
+    ]
+  }
+]

@@ -1,0 +1,1198 @@
+﻿[
+  {
+    "InstanceId": "598e70bf4696590bf023d6b4",
+    "Name": "Jab 1",
+    "OwnerId": 27,
+    "Owner": "Mario",
+    "HitboxActive": "2-3",
+    "FirstActionableFrame": "20",
+    "BaseDamage": "2.5",
+    "Angle": "361/361/80",
+    "BaseKnockBackSetKnockback": "W: 15/10/15",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70bf4696590bf023d6b4"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Mario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70bf4696590bf023d6b5",
+    "Name": "Jab 2",
+    "OwnerId": 27,
+    "Owner": "Mario",
+    "HitboxActive": "2-3",
+    "FirstActionableFrame": "22",
+    "BaseDamage": "1.5",
+    "Angle": "361/361/80",
+    "BaseKnockBackSetKnockback": "W: 18/15/18",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70bf4696590bf023d6b5"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Mario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70bf4696590bf023d6b6",
+    "Name": "Jab 3",
+    "OwnerId": 27,
+    "Owner": "Mario",
+    "HitboxActive": "7-8",
+    "FirstActionableFrame": "34",
+    "BaseDamage": "4",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "45",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "80",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70bf4696590bf023d6b6"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Mario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70bf4696590bf023d6b7",
+    "Name": "Dash Attack",
+    "OwnerId": 27,
+    "Owner": "Mario",
+    "HitboxActive": "6-9",
+    "FirstActionableFrame": "38",
+    "BaseDamage": "8",
+    "Angle": "60",
+    "BaseKnockBackSetKnockback": "100",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "43",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70bf4696590bf023d6b7"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Mario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70bf4696590bf023d6b8",
+    "Name": "Dash Attack (Late)",
+    "OwnerId": 27,
+    "Owner": "Mario",
+    "HitboxActive": "10-25",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "6",
+    "Angle": "110",
+    "BaseKnockBackSetKnockback": "100",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "43",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70bf4696590bf023d6b8"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Mario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70bf4696590bf023d6b9",
+    "Name": "Ftilt (All Angles)",
+    "OwnerId": 27,
+    "Owner": "Mario",
+    "HitboxActive": "5-6",
+    "FirstActionableFrame": "31",
+    "BaseDamage": "7",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "8",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70bf4696590bf023d6b9"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Mario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70bf4696590bf023d6ba",
+    "Name": "Utilt",
+    "OwnerId": 27,
+    "Owner": "Mario",
+    "HitboxActive": "5-11",
+    "FirstActionableFrame": "30",
+    "BaseDamage": "5.5",
+    "Angle": "96",
+    "BaseKnockBackSetKnockback": "28",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "130",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70bf4696590bf023d6ba"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Mario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70bf4696590bf023d6bb",
+    "Name": "Dtilt",
+    "OwnerId": 27,
+    "Owner": "Mario",
+    "HitboxActive": "5-7",
+    "FirstActionableFrame": "28",
+    "BaseDamage": "5/7",
+    "Angle": "80",
+    "BaseKnockBackSetKnockback": "35",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "80",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70bf4696590bf023d6bb"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Mario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70bf4696590bf023d6bc",
+    "Name": "Fsmash (Angled Up)",
+    "OwnerId": 27,
+    "Owner": "Mario",
+    "HitboxActive": "15-17",
+    "FirstActionableFrame": "48",
+    "BaseDamage": "14.7/17.85",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "25",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "103/99",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70bf4696590bf023d6bc"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Mario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70bf4696590bf023d6bd",
+    "Name": "Fsmash",
+    "OwnerId": 27,
+    "Owner": "Mario",
+    "HitboxActive": "15-17",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "14/17",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "25",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "103/99",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70bf4696590bf023d6bd"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Mario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70bf4696590bf023d6be",
+    "Name": "Fsmash (Angled Down)",
+    "OwnerId": 27,
+    "Owner": "Mario",
+    "HitboxActive": "15-17",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "14.42/17.51",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "25",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "103/99",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70bf4696590bf023d6be"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Mario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70bf4696590bf023d6bf",
+    "Name": "Usmash",
+    "OwnerId": 27,
+    "Owner": "Mario",
+    "HitboxActive": "9-12 (Head Intangible: 9-12)",
+    "FirstActionableFrame": "40",
+    "BaseDamage": "14",
+    "Angle": "83",
+    "BaseKnockBackSetKnockback": "32",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "94",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70bf4696590bf023d6bf"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Mario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70bf4696590bf023d6c0",
+    "Name": "Dsmash (Hit 1)",
+    "OwnerId": 27,
+    "Owner": "Mario",
+    "HitboxActive": "5-6",
+    "FirstActionableFrame": "44",
+    "BaseDamage": "10",
+    "Angle": "32",
+    "BaseKnockBackSetKnockback": "30",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70bf4696590bf023d6c0"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Mario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70bf4696590bf023d6c1",
+    "Name": "Dsmash (Hit 2)",
+    "OwnerId": 27,
+    "Owner": "Mario",
+    "HitboxActive": "14",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "12",
+    "Angle": "30",
+    "BaseKnockBackSetKnockback": "30",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70bf4696590bf023d6c1"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Mario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70bf4696590bf023d6c2",
+    "Name": "Standing Grab",
+    "OwnerId": 27,
+    "Owner": "Mario",
+    "HitboxActive": "6-7",
+    "FirstActionableFrame": "29",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70bf4696590bf023d6c2"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Mario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70bf4696590bf023d6c3",
+    "Name": "Dash Grab",
+    "OwnerId": 27,
+    "Owner": "Mario",
+    "HitboxActive": "8-9",
+    "FirstActionableFrame": "36",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70bf4696590bf023d6c3"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Mario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70bf4696590bf023d6c4",
+    "Name": "Pivot Grab",
+    "OwnerId": 27,
+    "Owner": "Mario",
+    "HitboxActive": "9-10",
+    "FirstActionableFrame": "34",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70bf4696590bf023d6c4"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Mario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70bf4696590bf023d6c5",
+    "Name": "Spotdodge",
+    "OwnerId": 27,
+    "Owner": "Mario",
+    "HitboxActive": "3-17",
+    "FirstActionableFrame": "27",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70bf4696590bf023d6c5"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Mario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70bf4696590bf023d6c6",
+    "Name": "Forward Roll",
+    "OwnerId": 27,
+    "Owner": "Mario",
+    "HitboxActive": "4-16",
+    "FirstActionableFrame": "30",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70bf4696590bf023d6c6"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Mario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70bf4696590bf023d6c7",
+    "Name": "Back Roll",
+    "OwnerId": 27,
+    "Owner": "Mario",
+    "HitboxActive": "4-16",
+    "FirstActionableFrame": "30",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70bf4696590bf023d6c7"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Mario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70bf4696590bf023d6c8",
+    "Name": "Airdodge",
+    "OwnerId": 27,
+    "Owner": "Mario",
+    "HitboxActive": "3-27",
+    "FirstActionableFrame": "33",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70bf4696590bf023d6c8"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Mario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70bf4696590bf023d6c9",
+    "Name": "Nair",
+    "OwnerId": 27,
+    "Owner": "Mario",
+    "HitboxActive": "3-5",
+    "FirstActionableFrame": "46",
+    "BaseDamage": "8",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "20",
+    "LandingLag": "10",
+    "AutoCancel": "1-2, 34&gt;",
+    "KnockbackGrowth": "100",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70bf4696590bf023d6c9"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Mario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70bf4696590bf023d6ca",
+    "Name": "Nair (Late)",
+    "OwnerId": 27,
+    "Owner": "Mario",
+    "HitboxActive": "6-29",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "5",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "13",
+    "LandingLag": "-",
+    "AutoCancel": "-",
+    "KnockbackGrowth": "90",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70bf4696590bf023d6ca"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Mario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70bf4696590bf023d6cb",
+    "Name": "Fair (Early)",
+    "OwnerId": 27,
+    "Owner": "Mario",
+    "HitboxActive": "16",
+    "FirstActionableFrame": "60",
+    "BaseDamage": "12",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "30",
+    "LandingLag": "26",
+    "AutoCancel": "1-2, 43&gt;",
+    "KnockbackGrowth": "80",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70bf4696590bf023d6cb"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Mario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70bf4696590bf023d6cc",
+    "Name": "Fair",
+    "OwnerId": 27,
+    "Owner": "Mario",
+    "HitboxActive": "17-20",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "14",
+    "Angle": "280",
+    "BaseKnockBackSetKnockback": "32",
+    "LandingLag": "-",
+    "AutoCancel": "-",
+    "KnockbackGrowth": "78",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70bf4696590bf023d6cc"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Mario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70bf4696590bf023d6cd",
+    "Name": "Fair (Late)",
+    "OwnerId": 27,
+    "Owner": "Mario",
+    "HitboxActive": "21",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "10",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "20",
+    "LandingLag": "-",
+    "AutoCancel": "-",
+    "KnockbackGrowth": "80",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70bf4696590bf023d6cd"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Mario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70bf4696590bf023d6ce",
+    "Name": "Bair",
+    "OwnerId": 27,
+    "Owner": "Mario",
+    "HitboxActive": "6-7",
+    "FirstActionableFrame": "34",
+    "BaseDamage": "10.5",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "12",
+    "LandingLag": "12",
+    "AutoCancel": "1-5, 19&gt;",
+    "KnockbackGrowth": "106",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70bf4696590bf023d6ce"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Mario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70bf4696590bf023d6cf",
+    "Name": "Bair (Late)",
+    "OwnerId": 27,
+    "Owner": "Mario",
+    "HitboxActive": "8-10",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "7",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "7",
+    "LandingLag": "-",
+    "AutoCancel": "-",
+    "KnockbackGrowth": "90",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70bf4696590bf023d6cf"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Mario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70bf4696590bf023d6d0",
+    "Name": "Uair",
+    "OwnerId": 27,
+    "Owner": "Mario",
+    "HitboxActive": "4-8",
+    "FirstActionableFrame": "32",
+    "BaseDamage": "7",
+    "Angle": "75",
+    "BaseKnockBackSetKnockback": "10",
+    "LandingLag": "12",
+    "AutoCancel": "18&gt;",
+    "KnockbackGrowth": "135",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70bf4696590bf023d6d0"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Mario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70bf4696590bf023d6d1",
+    "Name": "Dair (Hits 1-5)",
+    "OwnerId": 27,
+    "Owner": "Mario",
+    "HitboxActive": "5, 7, 9, 11, 13",
+    "FirstActionableFrame": "38",
+    "BaseDamage": "1",
+    "Angle": "94",
+    "BaseKnockBackSetKnockback": "W: 10",
+    "LandingLag": "19",
+    "AutoCancel": "1-4, 33&gt;",
+    "KnockbackGrowth": "100",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70bf4696590bf023d6d1"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Mario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70bf4696590bf023d6d2",
+    "Name": "Dair (Hit 6)",
+    "OwnerId": 27,
+    "Owner": "Mario",
+    "HitboxActive": "25",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "5",
+    "Angle": "75",
+    "BaseKnockBackSetKnockback": "80",
+    "LandingLag": "-",
+    "AutoCancel": "-",
+    "KnockbackGrowth": "100",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70bf4696590bf023d6d2"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Mario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70bf4696590bf023d6d3",
+    "Name": "Dair (Landing)",
+    "OwnerId": 27,
+    "Owner": "Mario",
+    "HitboxActive": "1-3",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "2",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "W: 60",
+    "LandingLag": "-",
+    "AutoCancel": "-",
+    "KnockbackGrowth": "100",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70bf4696590bf023d6d3"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Mario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70bf4696590bf023d6d4",
+    "Name": "Fireball",
+    "OwnerId": 27,
+    "Owner": "Mario",
+    "HitboxActive": "17-20",
+    "FirstActionableFrame": "53",
+    "BaseDamage": "5",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "35",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "20",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70bf4696590bf023d6d4"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Mario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70bf4696590bf023d6d5",
+    "Name": "Fireball",
+    "OwnerId": 27,
+    "Owner": "Mario",
+    "HitboxActive": "21-44",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "5",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "28",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "15",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70bf4696590bf023d6d5"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Mario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70bf4696590bf023d6d6",
+    "Name": "Fireball (Late)",
+    "OwnerId": 27,
+    "Owner": "Mario",
+    "HitboxActive": "45-69",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "4",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "22",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "10",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70bf4696590bf023d6d6"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Mario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70bf4696590bf023d6d7",
+    "Name": "Cape",
+    "OwnerId": 27,
+    "Owner": "Mario",
+    "HitboxActive": "12-14 (Reflects 6-20, 1.5&#215; 50% Break Threshold)",
+    "FirstActionableFrame": "36",
+    "BaseDamage": "7",
+    "Angle": "110",
+    "BaseKnockBackSetKnockback": "0",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "0",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70bf4696590bf023d6d7"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Mario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70bf4696590bf023d6d8",
+    "Name": "Super Jump Punch (Hit 1)",
+    "OwnerId": 27,
+    "Owner": "Mario",
+    "HitboxActive": "3-4 (Intangible: 3-6)",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "5",
+    "Angle": "70/90",
+    "BaseKnockBackSetKnockback": "W: 130/140",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70bf4696590bf023d6d8"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Mario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70bf4696590bf023d6d9",
+    "Name": "Super Jump Punch (Hits 2-4)",
+    "OwnerId": 27,
+    "Owner": "Mario",
+    "HitboxActive": "5, 6, 7",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "1",
+    "Angle": "74/90",
+    "BaseKnockBackSetKnockback": "W: 150",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70bf4696590bf023d6d9"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Mario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70bf4696590bf023d6da",
+    "Name": "Super Jump Punch (Hit 5)",
+    "OwnerId": 27,
+    "Owner": "Mario",
+    "HitboxActive": "9",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "1",
+    "Angle": "365",
+    "BaseKnockBackSetKnockback": "W: 90/120",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70bf4696590bf023d6da"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Mario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70bf4696590bf023d6db",
+    "Name": "Super Jump Punch (Hit 6)",
+    "OwnerId": 27,
+    "Owner": "Mario",
+    "HitboxActive": "11",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "3",
+    "Angle": "60",
+    "BaseKnockBackSetKnockback": "52",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "145",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70bf4696590bf023d6db"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Mario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70bf4696590bf023d6dc",
+    "Name": "F.L.U.D.D",
+    "OwnerId": 27,
+    "Owner": "Mario",
+    "HitboxActive": "Max Charge: Frame 98",
+    "FirstActionableFrame": "99 (Shield Cancellable From: 20)",
+    "BaseDamage": "-",
+    "Angle": "-",
+    "BaseKnockBackSetKnockback": "-",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "-",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70bf4696590bf023d6dc"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Mario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70bf4696590bf023d6dd",
+    "Name": "F.L.U.D.D (Attack)",
+    "OwnerId": 27,
+    "Owner": "Mario",
+    "HitboxActive": "21-",
+    "FirstActionableFrame": "75",
+    "BaseDamage": "0",
+    "Angle": "55",
+    "BaseKnockBackSetKnockback": "W: 45",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70bf4696590bf023d6dd"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Mario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70bf4696590bf023d6de",
+    "Name": "Fthrow",
+    "OwnerId": 27,
+    "Owner": "Mario",
+    "HitboxActive": null,
+    "FirstActionableFrame": null,
+    "BaseDamage": "8",
+    "Angle": "45",
+    "BaseKnockBackSetKnockback": "60",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "60",
+    "MoveType": "throw",
+    "IsWeightDependent": true,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70bf4696590bf023d6de"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Mario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70bf4696590bf023d6df",
+    "Name": "Bthrow",
+    "OwnerId": 27,
+    "Owner": "Mario",
+    "HitboxActive": null,
+    "FirstActionableFrame": null,
+    "BaseDamage": "11",
+    "Angle": "45",
+    "BaseKnockBackSetKnockback": "70",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "66",
+    "MoveType": "throw",
+    "IsWeightDependent": true,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70bf4696590bf023d6df"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Mario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70bf4696590bf023d6e0",
+    "Name": "Uthrow",
+    "OwnerId": 27,
+    "Owner": "Mario",
+    "HitboxActive": null,
+    "FirstActionableFrame": null,
+    "BaseDamage": "7",
+    "Angle": "90",
+    "BaseKnockBackSetKnockback": "70",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "72",
+    "MoveType": "throw",
+    "IsWeightDependent": true,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70bf4696590bf023d6e0"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Mario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70bf4696590bf023d6e1",
+    "Name": "Dthrow",
+    "OwnerId": 27,
+    "Owner": "Mario",
+    "HitboxActive": null,
+    "FirstActionableFrame": null,
+    "BaseDamage": "5",
+    "Angle": "68",
+    "BaseKnockBackSetKnockback": "40",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "90",
+    "MoveType": "throw",
+    "IsWeightDependent": true,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70bf4696590bf023d6e1"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Mario"
+      }
+    ]
+  }
+]

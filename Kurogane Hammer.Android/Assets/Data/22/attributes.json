@@ -1,0 +1,524 @@
+﻿[
+  {
+    "InstanceId": "598e70b24696590bf023d53a",
+    "Name": "AerialJump",
+    "OwnerId": 22,
+    "Owner": "LittleMac",
+    "Values": [
+      {
+        "Value": "26",
+        "Owner": "LittleMac",
+        "OwnerId": 22,
+        "Name": "HEIGHT"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70b24696590bf023d53a"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/LittleMac"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70b24696590bf023d53b",
+    "Name": "Counters",
+    "OwnerId": 22,
+    "Owner": "LittleMac",
+    "Values": [
+      {
+        "Value": "5-29",
+        "Owner": "LittleMac",
+        "OwnerId": 22,
+        "Name": "COUNTER FRAMES"
+      },
+      {
+        "Value": "5-6",
+        "Owner": "LittleMac",
+        "OwnerId": 22,
+        "Name": "INTANGIBLE ON"
+      },
+      {
+        "Value": "63",
+        "Owner": "LittleMac",
+        "OwnerId": 22,
+        "Name": "FAF"
+      },
+      {
+        "Value": "1.3x",
+        "Owner": "LittleMac",
+        "OwnerId": 22,
+        "Name": "DAMAGE (MULTIPLIER)"
+      },
+      {
+        "Value": "90 | 50",
+        "Owner": "LittleMac",
+        "OwnerId": 22,
+        "Name": "BKB | KBG"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70b24696590bf023d53b"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/LittleMac"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70b24696590bf023d53c",
+    "Name": "AirAcceleration",
+    "OwnerId": 22,
+    "Owner": "LittleMac",
+    "Values": [
+      {
+        "Value": "0.028",
+        "Owner": "LittleMac",
+        "OwnerId": 22,
+        "Name": "MAX ADDITIONAL"
+      },
+      {
+        "Value": "0.01",
+        "Owner": "LittleMac",
+        "OwnerId": 22,
+        "Name": "BASE VALUE"
+      },
+      {
+        "Value": "0.038",
+        "Owner": "LittleMac",
+        "OwnerId": 22,
+        "Name": "TOTAL"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70b24696590bf023d53c"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/LittleMac"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70b24696590bf023d53d",
+    "Name": "AirFriction",
+    "OwnerId": 22,
+    "Owner": "LittleMac",
+    "Values": [
+      {
+        "Value": "0.0075",
+        "Owner": "LittleMac",
+        "OwnerId": 22,
+        "Name": "VALUE"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70b24696590bf023d53d"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/LittleMac"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70b24696590bf023d53e",
+    "Name": "DashLength",
+    "OwnerId": 22,
+    "Owner": "LittleMac",
+    "Values": [
+      {
+        "Value": "16",
+        "Owner": "LittleMac",
+        "OwnerId": 22,
+        "Name": "LENGTH IN FRAMES"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70b24696590bf023d53e"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/LittleMac"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70b24696590bf023d53f",
+    "Name": "FallSpeed",
+    "OwnerId": 22,
+    "Owner": "LittleMac",
+    "Values": [
+      {
+        "Value": "1.8",
+        "Owner": "LittleMac",
+        "OwnerId": 22,
+        "Name": "MAX FALL SPEED"
+      },
+      {
+        "Value": "2.88",
+        "Owner": "LittleMac",
+        "OwnerId": 22,
+        "Name": "FAST FALL SPEED"
+      },
+      {
+        "Value": "60%",
+        "Owner": "LittleMac",
+        "OwnerId": 22,
+        "Name": "SPEED INCREASE"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70b24696590bf023d53f"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/LittleMac"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70b24696590bf023d540",
+    "Name": "FullHop",
+    "OwnerId": 22,
+    "Owner": "LittleMac",
+    "Values": [
+      {
+        "Value": "26",
+        "Owner": "LittleMac",
+        "OwnerId": 22,
+        "Name": "HEIGHT"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70b24696590bf023d540"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/LittleMac"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70b24696590bf023d541",
+    "Name": "Gravity",
+    "OwnerId": 22,
+    "Owner": "LittleMac",
+    "Values": [
+      {
+        "Value": "0.08",
+        "Owner": "LittleMac",
+        "OwnerId": 22,
+        "Name": "VALUE"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70b24696590bf023d541"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/LittleMac"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70b24696590bf023d542",
+    "Name": "JumpSquat",
+    "OwnerId": 22,
+    "Owner": "LittleMac",
+    "Values": [
+      {
+        "Value": "5",
+        "Owner": "LittleMac",
+        "OwnerId": 22,
+        "Name": "VALUE"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70b24696590bf023d542"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/LittleMac"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70b24696590bf023d543",
+    "Name": "LedgeHop",
+    "OwnerId": 22,
+    "Owner": "LittleMac",
+    "Values": [
+      {
+        "Value": "33",
+        "Owner": "LittleMac",
+        "OwnerId": 22,
+        "Name": "HEIGHT"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70b24696590bf023d543"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/LittleMac"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70b24696590bf023d544",
+    "Name": "ShortHop",
+    "OwnerId": 22,
+    "Owner": "LittleMac",
+    "Values": [
+      {
+        "Value": "12.526741",
+        "Owner": "LittleMac",
+        "OwnerId": 22,
+        "Name": "HEIGHT"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70b24696590bf023d544"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/LittleMac"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70b24696590bf023d545",
+    "Name": "Spotdodge",
+    "OwnerId": 22,
+    "Owner": "LittleMac",
+    "Values": [
+      {
+        "Value": "2-15",
+        "Owner": "LittleMac",
+        "OwnerId": 22,
+        "Name": "INTANGIBLE"
+      },
+      {
+        "Value": "25",
+        "Owner": "LittleMac",
+        "OwnerId": 22,
+        "Name": "FAF"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70b24696590bf023d545"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/LittleMac"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70b24696590bf023d546",
+    "Name": "Traction",
+    "OwnerId": 22,
+    "Owner": "LittleMac",
+    "Values": [
+      {
+        "Value": "0.07",
+        "Owner": "LittleMac",
+        "OwnerId": 22,
+        "Name": "VALUE"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70b24696590bf023d546"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/LittleMac"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70b24696590bf023d547",
+    "Name": "WalkSpeed",
+    "OwnerId": 22,
+    "Owner": "LittleMac",
+    "Values": [
+      {
+        "Value": "1.32",
+        "Owner": "LittleMac",
+        "OwnerId": 22,
+        "Name": "MAX WALK SPEED VALUE"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70b24696590bf023d547"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/LittleMac"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70b24696590bf023d548",
+    "Name": "AirSpeed",
+    "OwnerId": 22,
+    "Owner": "LittleMac",
+    "Values": [
+      {
+        "Value": "1",
+        "Owner": "LittleMac",
+        "OwnerId": 22,
+        "Name": "MAX AIR SPEED VALUE"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70b24696590bf023d548"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/LittleMac"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70b24696590bf023d549",
+    "Name": "AirDodge",
+    "OwnerId": 22,
+    "Owner": "LittleMac",
+    "Values": [
+      {
+        "Value": "2-25",
+        "Owner": "LittleMac",
+        "OwnerId": 22,
+        "Name": "INTANGIBLE"
+      },
+      {
+        "Value": "31",
+        "Owner": "LittleMac",
+        "OwnerId": 22,
+        "Name": "FAF"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70b24696590bf023d549"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/LittleMac"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70b24696590bf023d54a",
+    "Name": "Rolls",
+    "OwnerId": 22,
+    "Owner": "LittleMac",
+    "Values": [
+      {
+        "Value": "4-12",
+        "Owner": "LittleMac",
+        "OwnerId": 22,
+        "Name": "INTANGIBLE"
+      },
+      {
+        "Value": "27",
+        "Owner": "LittleMac",
+        "OwnerId": 22,
+        "Name": "FAF"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70b24696590bf023d54a"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/LittleMac"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70b24696590bf023d54b",
+    "Name": "RunSpeed",
+    "OwnerId": 22,
+    "Owner": "LittleMac",
+    "Values": [
+      {
+        "Value": "2.24",
+        "Owner": "LittleMac",
+        "OwnerId": 22,
+        "Name": "MAX RUN SPEED VALUE"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70b24696590bf023d54b"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/LittleMac"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70b24696590bf023d54c",
+    "Name": "ShieldSize",
+    "OwnerId": 22,
+    "Owner": "LittleMac",
+    "Values": [
+      {
+        "Value": "9.8175",
+        "Owner": "LittleMac",
+        "OwnerId": 22,
+        "Name": "SIZE"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70b24696590bf023d54c"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/LittleMac"
+      }
+    ]
+  }
+]

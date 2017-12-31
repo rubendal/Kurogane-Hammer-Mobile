@@ -1,0 +1,1328 @@
+﻿[
+  {
+    "InstanceId": "598e71114696590bf023e1cb",
+    "Name": "Jab 1",
+    "OwnerId": 58,
+    "Owner": "ZeroSuitSamus",
+    "HitboxActive": "1",
+    "FirstActionableFrame": "21",
+    "BaseDamage": "1.5",
+    "Angle": "92/61",
+    "BaseKnockBackSetKnockback": "W: 23/45",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e71114696590bf023e1cb"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/ZeroSuitSamus"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e71114696590bf023e1cc",
+    "Name": "Jab 2",
+    "OwnerId": 58,
+    "Owner": "ZeroSuitSamus",
+    "HitboxActive": "2-3",
+    "FirstActionableFrame": "26",
+    "BaseDamage": "1.5",
+    "Angle": "45",
+    "BaseKnockBackSetKnockback": "W: 34/50",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e71114696590bf023e1cc"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/ZeroSuitSamus"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e71114696590bf023e1cd",
+    "Name": "Jab 3",
+    "OwnerId": 58,
+    "Owner": "ZeroSuitSamus",
+    "HitboxActive": "3-4",
+    "FirstActionableFrame": "32",
+    "BaseDamage": "3",
+    "Angle": "45",
+    "BaseKnockBackSetKnockback": "60",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e71114696590bf023e1cd"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/ZeroSuitSamus"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e71114696590bf023e1ce",
+    "Name": "Dash Attack",
+    "OwnerId": 58,
+    "Owner": "ZeroSuitSamus",
+    "HitboxActive": "7-9",
+    "FirstActionableFrame": "52",
+    "BaseDamage": "8",
+    "Angle": "70",
+    "BaseKnockBackSetKnockback": "100",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "40",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e71114696590bf023e1ce"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/ZeroSuitSamus"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e71114696590bf023e1cf",
+    "Name": "Dash Attack (Late)",
+    "OwnerId": 58,
+    "Owner": "ZeroSuitSamus",
+    "HitboxActive": "10-19",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "5",
+    "Angle": "60",
+    "BaseKnockBackSetKnockback": "80",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "40",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e71114696590bf023e1cf"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/ZeroSuitSamus"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e71114696590bf023e1d0",
+    "Name": "Ftilt (Angled Up)",
+    "OwnerId": 58,
+    "Owner": "ZeroSuitSamus",
+    "HitboxActive": "6-8",
+    "FirstActionableFrame": "29",
+    "BaseDamage": "8/8/6.5",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "30",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e71114696590bf023e1d0"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/ZeroSuitSamus"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e71114696590bf023e1d1",
+    "Name": "Ftilt",
+    "OwnerId": 58,
+    "Owner": "ZeroSuitSamus",
+    "HitboxActive": "6-8",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "7/7/6",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "30",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e71114696590bf023e1d1"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/ZeroSuitSamus"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e71114696590bf023e1d2",
+    "Name": "Ftilt (Angled Down)",
+    "OwnerId": 58,
+    "Owner": "ZeroSuitSamus",
+    "HitboxActive": "6-8",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "8/8/6.5",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "30",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e71114696590bf023e1d2"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/ZeroSuitSamus"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e71114696590bf023e1d3",
+    "Name": "Utilt (Hit 1)",
+    "OwnerId": 58,
+    "Owner": "ZeroSuitSamus",
+    "HitboxActive": "3-4 (Cannot Rebound, Legs Intangible: 3-10)",
+    "FirstActionableFrame": "46",
+    "BaseDamage": "5",
+    "Angle": "130/150",
+    "BaseKnockBackSetKnockback": "55/85",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "30/50",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e71114696590bf023e1d3"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/ZeroSuitSamus"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e71114696590bf023e1d4",
+    "Name": "Utilt (Hit 2)",
+    "OwnerId": 58,
+    "Owner": "ZeroSuitSamus",
+    "HitboxActive": "9-10 (Cannot Rebound)",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "7",
+    "Angle": "90",
+    "BaseKnockBackSetKnockback": "70",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "90",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e71114696590bf023e1d4"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/ZeroSuitSamus"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e71114696590bf023e1d5",
+    "Name": "Dtilt",
+    "OwnerId": 58,
+    "Owner": "ZeroSuitSamus",
+    "HitboxActive": "8-9",
+    "FirstActionableFrame": "36",
+    "BaseDamage": "8/6",
+    "Angle": "60",
+    "BaseKnockBackSetKnockback": "60",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "85",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e71114696590bf023e1d5"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/ZeroSuitSamus"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e71114696590bf023e1d6",
+    "Name": "Fsmash (Hit 1)",
+    "OwnerId": 58,
+    "Owner": "ZeroSuitSamus",
+    "HitboxActive": "13-15",
+    "FirstActionableFrame": "62",
+    "BaseDamage": "5",
+    "Angle": "45/40/38",
+    "BaseKnockBackSetKnockback": "W: 50/68/72",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e71114696590bf023e1d6"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/ZeroSuitSamus"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e71114696590bf023e1d7",
+    "Name": "Fsmash (Hit 2)",
+    "OwnerId": 58,
+    "Owner": "ZeroSuitSamus",
+    "HitboxActive": "26-28",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "11",
+    "Angle": "36/361/361/361",
+    "BaseKnockBackSetKnockback": "28",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "106/109/109/109",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e71114696590bf023e1d7"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/ZeroSuitSamus"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e71114696590bf023e1d8",
+    "Name": "Usmash (Hit 1)",
+    "OwnerId": 58,
+    "Owner": "ZeroSuitSamus",
+    "HitboxActive": "10-11",
+    "FirstActionableFrame": "49",
+    "BaseDamage": "4",
+    "Angle": "110",
+    "BaseKnockBackSetKnockback": "W: 150",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e71114696590bf023e1d8"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/ZeroSuitSamus"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e71114696590bf023e1d9",
+    "Name": "Usmash (Hits 2-6)",
+    "OwnerId": 58,
+    "Owner": "ZeroSuitSamus",
+    "HitboxActive": "14, 17, 20, 23, 26",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "0.8",
+    "Angle": "110/100/255",
+    "BaseKnockBackSetKnockback": "55",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "25",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e71114696590bf023e1d9"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/ZeroSuitSamus"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e71114696590bf023e1da",
+    "Name": "Usmash (Hit 7)",
+    "OwnerId": 58,
+    "Owner": "ZeroSuitSamus",
+    "HitboxActive": "28-29",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "3",
+    "Angle": "80",
+    "BaseKnockBackSetKnockback": "70",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "145",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e71114696590bf023e1da"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/ZeroSuitSamus"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e71114696590bf023e1db",
+    "Name": "Dsmash",
+    "OwnerId": 58,
+    "Owner": "ZeroSuitSamus",
+    "HitboxActive": "20-24",
+    "FirstActionableFrame": "42",
+    "BaseDamage": "8/6",
+    "Angle": "60",
+    "BaseKnockBackSetKnockback": "50/40",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "90/50",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e71114696590bf023e1db"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/ZeroSuitSamus"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e71114696590bf023e1dc",
+    "Name": "Standing Grab",
+    "OwnerId": 58,
+    "Owner": "ZeroSuitSamus",
+    "HitboxActive": "16-19, 16-25",
+    "FirstActionableFrame": "69",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e71114696590bf023e1dc"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/ZeroSuitSamus"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e71114696590bf023e1dd",
+    "Name": "Dash Grab",
+    "OwnerId": 58,
+    "Owner": "ZeroSuitSamus",
+    "HitboxActive": "16-19, 16-25",
+    "FirstActionableFrame": "72",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e71114696590bf023e1dd"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/ZeroSuitSamus"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e71114696590bf023e1de",
+    "Name": "Pivot Grab",
+    "OwnerId": 58,
+    "Owner": "ZeroSuitSamus",
+    "HitboxActive": "17-19, 17-25",
+    "FirstActionableFrame": "80",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e71114696590bf023e1de"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/ZeroSuitSamus"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e71114696590bf023e1df",
+    "Name": "Spotdodge",
+    "OwnerId": 58,
+    "Owner": "ZeroSuitSamus",
+    "HitboxActive": "2-15",
+    "FirstActionableFrame": "25",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e71114696590bf023e1df"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/ZeroSuitSamus"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e71114696590bf023e1e0",
+    "Name": "Forward Roll",
+    "OwnerId": 58,
+    "Owner": "ZeroSuitSamus",
+    "HitboxActive": "4-15",
+    "FirstActionableFrame": "28",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e71114696590bf023e1e0"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/ZeroSuitSamus"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e71114696590bf023e1e1",
+    "Name": "Back Roll",
+    "OwnerId": 58,
+    "Owner": "ZeroSuitSamus",
+    "HitboxActive": "4-15",
+    "FirstActionableFrame": "28",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e71114696590bf023e1e1"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/ZeroSuitSamus"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e71114696590bf023e1e2",
+    "Name": "Airdodge",
+    "OwnerId": 58,
+    "Owner": "ZeroSuitSamus",
+    "HitboxActive": "2-25",
+    "FirstActionableFrame": "31",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e71114696590bf023e1e2"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/ZeroSuitSamus"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e71114696590bf023e1e3",
+    "Name": "Nair",
+    "OwnerId": 58,
+    "Owner": "ZeroSuitSamus",
+    "HitboxActive": "10-11",
+    "FirstActionableFrame": "52",
+    "BaseDamage": "8",
+    "Angle": "55",
+    "BaseKnockBackSetKnockback": "38",
+    "LandingLag": "10",
+    "AutoCancel": "1-3, 42&gt;",
+    "KnockbackGrowth": "96",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e71114696590bf023e1e3"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/ZeroSuitSamus"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e71114696590bf023e1e4",
+    "Name": "Nair (Late)",
+    "OwnerId": 58,
+    "Owner": "ZeroSuitSamus",
+    "HitboxActive": "15-16",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "8",
+    "Angle": "55",
+    "BaseKnockBackSetKnockback": "38",
+    "LandingLag": "-",
+    "AutoCancel": "-",
+    "KnockbackGrowth": "96",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e71114696590bf023e1e4"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/ZeroSuitSamus"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e71114696590bf023e1e5",
+    "Name": "Fair (Hit 1)",
+    "OwnerId": 58,
+    "Owner": "ZeroSuitSamus",
+    "HitboxActive": "6-7",
+    "FirstActionableFrame": "47",
+    "BaseDamage": "5",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "50",
+    "LandingLag": "16",
+    "AutoCancel": "1-3, 38&gt;",
+    "KnockbackGrowth": "50",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e71114696590bf023e1e5"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/ZeroSuitSamus"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e71114696590bf023e1e6",
+    "Name": "Fair (Hit 2)",
+    "OwnerId": 58,
+    "Owner": "ZeroSuitSamus",
+    "HitboxActive": "16-17",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "7",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "40",
+    "LandingLag": "-",
+    "AutoCancel": "-",
+    "KnockbackGrowth": "126",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e71114696590bf023e1e6"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/ZeroSuitSamus"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e71114696590bf023e1e7",
+    "Name": "Bair",
+    "OwnerId": 58,
+    "Owner": "ZeroSuitSamus",
+    "HitboxActive": "8-9",
+    "FirstActionableFrame": "40",
+    "BaseDamage": "12/10",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "42",
+    "LandingLag": "11",
+    "AutoCancel": "1-3, 31&gt;",
+    "KnockbackGrowth": "98",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e71114696590bf023e1e7"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/ZeroSuitSamus"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e71114696590bf023e1e8",
+    "Name": "Uair",
+    "OwnerId": 58,
+    "Owner": "ZeroSuitSamus",
+    "HitboxActive": "6-12",
+    "FirstActionableFrame": "34",
+    "BaseDamage": "6.5",
+    "Angle": "80",
+    "BaseKnockBackSetKnockback": "30",
+    "LandingLag": "9",
+    "AutoCancel": "25&gt;",
+    "KnockbackGrowth": "125",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e71114696590bf023e1e8"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/ZeroSuitSamus"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e71114696590bf023e1e9",
+    "Name": "Dair",
+    "OwnerId": 58,
+    "Owner": "ZeroSuitSamus",
+    "HitboxActive": "14-49",
+    "FirstActionableFrame": "68",
+    "BaseDamage": "6/5",
+    "Angle": "278/278/80/80",
+    "BaseKnockBackSetKnockback": "35",
+    "LandingLag": "30",
+    "AutoCancel": "1-3, 50&gt;",
+    "KnockbackGrowth": "90",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e71114696590bf023e1e9"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/ZeroSuitSamus"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e71114696590bf023e1ea",
+    "Name": "Dair (Landing)",
+    "OwnerId": 58,
+    "Owner": "ZeroSuitSamus",
+    "HitboxActive": "1-2",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "5.5",
+    "Angle": "60",
+    "BaseKnockBackSetKnockback": "70",
+    "LandingLag": "-",
+    "AutoCancel": "-",
+    "KnockbackGrowth": "110",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e71114696590bf023e1ea"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/ZeroSuitSamus"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e71114696590bf023e1eb",
+    "Name": "Zair (Hit 1)",
+    "OwnerId": 58,
+    "Owner": "ZeroSuitSamus",
+    "HitboxActive": "9-18",
+    "FirstActionableFrame": "60",
+    "BaseDamage": "3",
+    "Angle": "45",
+    "BaseKnockBackSetKnockback": "60",
+    "LandingLag": "8",
+    "AutoCancel": "-",
+    "KnockbackGrowth": "30",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e71114696590bf023e1eb"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/ZeroSuitSamus"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e71114696590bf023e1ec",
+    "Name": "Zair (Hit 2)",
+    "OwnerId": 58,
+    "Owner": "ZeroSuitSamus",
+    "HitboxActive": "19",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "6",
+    "Angle": "45",
+    "BaseKnockBackSetKnockback": "60",
+    "LandingLag": "-",
+    "AutoCancel": "-",
+    "KnockbackGrowth": "60",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e71114696590bf023e1ec"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/ZeroSuitSamus"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e71114696590bf023e1ed",
+    "Name": "Paralyzer (Uncharged)",
+    "OwnerId": 58,
+    "Owner": "ZeroSuitSamus",
+    "HitboxActive": "21-",
+    "FirstActionableFrame": "49",
+    "BaseDamage": "4",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "W: 18",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e71114696590bf023e1ed"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/ZeroSuitSamus"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e71114696590bf023e1ee",
+    "Name": "Paralyzer (Charged)",
+    "OwnerId": 58,
+    "Owner": "ZeroSuitSamus",
+    "HitboxActive": "43-",
+    "FirstActionableFrame": "71",
+    "BaseDamage": "6",
+    "Angle": "60/315",
+    "BaseKnockBackSetKnockback": "W: 65",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e71114696590bf023e1ee"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/ZeroSuitSamus"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e71114696590bf023e1ef",
+    "Name": "Plasma Whip (Hit 1)",
+    "OwnerId": 58,
+    "Owner": "ZeroSuitSamus",
+    "HitboxActive": "22",
+    "FirstActionableFrame": "56",
+    "BaseDamage": "2",
+    "Angle": "30",
+    "BaseKnockBackSetKnockback": "100",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "30",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e71114696590bf023e1ef"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/ZeroSuitSamus"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e71114696590bf023e1f0",
+    "Name": "Plasma Whip",
+    "OwnerId": 58,
+    "Owner": "ZeroSuitSamus",
+    "HitboxActive": "?",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "1.2",
+    "Angle": "10",
+    "BaseKnockBackSetKnockback": "60",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "10",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e71114696590bf023e1f0"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/ZeroSuitSamus"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e71114696590bf023e1f1",
+    "Name": "Plasma Whip (Final Hit)",
+    "OwnerId": 58,
+    "Owner": "ZeroSuitSamus",
+    "HitboxActive": "32",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "7.5",
+    "Angle": "60",
+    "BaseKnockBackSetKnockback": "45",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "105",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e71114696590bf023e1f1"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/ZeroSuitSamus"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e71114696590bf023e1f2",
+    "Name": "Boost Kick (Hit 1)",
+    "OwnerId": 58,
+    "Owner": "ZeroSuitSamus",
+    "HitboxActive": "4",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "5",
+    "Angle": "90",
+    "BaseKnockBackSetKnockback": "W: 150",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e71114696590bf023e1f2"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/ZeroSuitSamus"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e71114696590bf023e1f3",
+    "Name": "Boost Kick (Hits 2-5)",
+    "OwnerId": 58,
+    "Owner": "ZeroSuitSamus",
+    "HitboxActive": "10-26 (Rehit rate: 4)",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "1.3",
+    "Angle": "87",
+    "BaseKnockBackSetKnockback": "W: 110",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e71114696590bf023e1f3"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/ZeroSuitSamus"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e71114696590bf023e1f4",
+    "Name": "Boost Kick (Hit 6)",
+    "OwnerId": 58,
+    "Owner": "ZeroSuitSamus",
+    "HitboxActive": "24-26",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "1.3",
+    "Angle": "366",
+    "BaseKnockBackSetKnockback": "W: 40",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e71114696590bf023e1f4"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/ZeroSuitSamus"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e71114696590bf023e1f5",
+    "Name": "Boost Kick (Hit 7)",
+    "OwnerId": 58,
+    "Owner": "ZeroSuitSamus",
+    "HitboxActive": "30",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "1.3",
+    "Angle": "290/90",
+    "BaseKnockBackSetKnockback": "W: 16/12",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e71114696590bf023e1f5"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/ZeroSuitSamus"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e71114696590bf023e1f6",
+    "Name": "Boost Kick (Hit 8)",
+    "OwnerId": 58,
+    "Owner": "ZeroSuitSamus",
+    "HitboxActive": "36-37",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "4",
+    "Angle": "48",
+    "BaseKnockBackSetKnockback": "50",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "209",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e71114696590bf023e1f6"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/ZeroSuitSamus"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e71114696590bf023e1f7",
+    "Name": "Flip Kick",
+    "OwnerId": 58,
+    "Owner": "ZeroSuitSamus",
+    "HitboxActive": "Intangible: 3-12",
+    "FirstActionableFrame": "50",
+    "BaseDamage": "-",
+    "Angle": "-",
+    "BaseKnockBackSetKnockback": "-",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "-",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e71114696590bf023e1f7"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/ZeroSuitSamus"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e71114696590bf023e1f8",
+    "Name": "Flip Kick (Attack)",
+    "OwnerId": 58,
+    "Owner": "ZeroSuitSamus",
+    "HitboxActive": "9-14",
+    "FirstActionableFrame": "",
+    "BaseDamage": "14",
+    "Angle": "48/290/48",
+    "BaseKnockBackSetKnockback": "30/30/45",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100/100/102",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e71114696590bf023e1f8"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/ZeroSuitSamus"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e71114696590bf023e1f9",
+    "Name": "Flip Kick (Footstool)",
+    "OwnerId": 58,
+    "Owner": "ZeroSuitSamus",
+    "HitboxActive": "1",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "8",
+    "Angle": "270/361",
+    "BaseKnockBackSetKnockback": "10/60",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "80/100",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e71114696590bf023e1f9"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/ZeroSuitSamus"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e71114696590bf023e1fa",
+    "Name": "Fthrow",
+    "OwnerId": 58,
+    "Owner": "ZeroSuitSamus",
+    "HitboxActive": null,
+    "FirstActionableFrame": null,
+    "BaseDamage": "2, 7",
+    "Angle": "45",
+    "BaseKnockBackSetKnockback": "50",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "75",
+    "MoveType": "throw",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e71114696590bf023e1fa"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/ZeroSuitSamus"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e71114696590bf023e1fb",
+    "Name": "Bthrow",
+    "OwnerId": 58,
+    "Owner": "ZeroSuitSamus",
+    "HitboxActive": null,
+    "FirstActionableFrame": null,
+    "BaseDamage": "2, 6",
+    "Angle": "45",
+    "BaseKnockBackSetKnockback": "72",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "45",
+    "MoveType": "throw",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e71114696590bf023e1fb"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/ZeroSuitSamus"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e71114696590bf023e1fc",
+    "Name": "Uthrow",
+    "OwnerId": 58,
+    "Owner": "ZeroSuitSamus",
+    "HitboxActive": null,
+    "FirstActionableFrame": null,
+    "BaseDamage": "2, 8",
+    "Angle": "73",
+    "BaseKnockBackSetKnockback": "80",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "60",
+    "MoveType": "throw",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e71114696590bf023e1fc"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/ZeroSuitSamus"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e71114696590bf023e1fd",
+    "Name": "Dthrow",
+    "OwnerId": 58,
+    "Owner": "ZeroSuitSamus",
+    "HitboxActive": null,
+    "FirstActionableFrame": null,
+    "BaseDamage": "2, 3",
+    "Angle": "75",
+    "BaseKnockBackSetKnockback": "90",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "60",
+    "MoveType": "throw",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e71114696590bf023e1fd"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/ZeroSuitSamus"
+      }
+    ]
+  }
+]

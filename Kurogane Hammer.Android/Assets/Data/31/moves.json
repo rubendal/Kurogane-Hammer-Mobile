@@ -1,0 +1,990 @@
+﻿[
+  {
+    "InstanceId": "598e70c94696590bf023d826",
+    "Name": "Jab 1",
+    "OwnerId": 31,
+    "Owner": "Mewtwo",
+    "HitboxActive": "6",
+    "FirstActionableFrame": "25",
+    "BaseDamage": "4",
+    "Angle": "76/70",
+    "BaseKnockBackSetKnockback": "50/20",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "20/60",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c94696590bf023d826"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Mewtwo"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c94696590bf023d827",
+    "Name": "Rapid Jab Finisher",
+    "OwnerId": 31,
+    "Owner": "Mewtwo",
+    "HitboxActive": "6",
+    "FirstActionableFrame": "36",
+    "BaseDamage": "2",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "82",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c94696590bf023d827"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Mewtwo"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c94696590bf023d828",
+    "Name": "Dash Attack",
+    "OwnerId": 31,
+    "Owner": "Mewtwo",
+    "HitboxActive": "10-11",
+    "FirstActionableFrame": "39",
+    "BaseDamage": "10/9",
+    "Angle": "60/70",
+    "BaseKnockBackSetKnockback": "80",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "70/60",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c94696590bf023d828"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Mewtwo"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c94696590bf023d829",
+    "Name": "Dash Attack (Late)",
+    "OwnerId": 31,
+    "Owner": "Mewtwo",
+    "HitboxActive": "12-20",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "6/4",
+    "Angle": "70/80",
+    "BaseKnockBackSetKnockback": "80",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "70/60",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c94696590bf023d829"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Mewtwo"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c94696590bf023d82a",
+    "Name": "Ftilt (All Angles)",
+    "OwnerId": 31,
+    "Owner": "Mewtwo",
+    "HitboxActive": "10-11",
+    "FirstActionableFrame": "36",
+    "BaseDamage": "10/9/8",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "20",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c94696590bf023d82a"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Mewtwo"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c94696590bf023d82b",
+    "Name": "Utilt",
+    "OwnerId": 31,
+    "Owner": "Mewtwo",
+    "HitboxActive": "8",
+    "FirstActionableFrame": "30",
+    "BaseDamage": "6/5/4.5/4.5",
+    "Angle": "110/110/361/110",
+    "BaseKnockBackSetKnockback": "70/60/50/50",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "114/114/80/50",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c94696590bf023d82b"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Mewtwo"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c94696590bf023d82c",
+    "Name": "Utilt (Late)",
+    "OwnerId": 31,
+    "Owner": "Mewtwo",
+    "HitboxActive": "9-13",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "5/4/3",
+    "Angle": "78",
+    "BaseKnockBackSetKnockback": "60/50/40",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "114",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c94696590bf023d82c"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Mewtwo"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c94696590bf023d82d",
+    "Name": "Dtilt",
+    "OwnerId": 31,
+    "Owner": "Mewtwo",
+    "HitboxActive": "6-7",
+    "FirstActionableFrame": "21",
+    "BaseDamage": "5/4.5/4",
+    "Angle": "80/70/60",
+    "BaseKnockBackSetKnockback": "60/65/60",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "82/84/70",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c94696590bf023d82d"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Mewtwo"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c94696590bf023d82e",
+    "Name": "Fsmash",
+    "OwnerId": 31,
+    "Owner": "Mewtwo",
+    "HitboxActive": "19-21",
+    "FirstActionableFrame": "53",
+    "BaseDamage": "16/19",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "30/21",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "90/85",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c94696590bf023d82e"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Mewtwo"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c94696590bf023d82f",
+    "Name": "Usmash (Hit 1)",
+    "OwnerId": 31,
+    "Owner": "Mewtwo",
+    "HitboxActive": "9",
+    "FirstActionableFrame": "69",
+    "BaseDamage": "1",
+    "Angle": "100",
+    "BaseKnockBackSetKnockback": "W: 90",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c94696590bf023d82f"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Mewtwo"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c94696590bf023d830",
+    "Name": "Usmash (Hit 1, Late)",
+    "OwnerId": 31,
+    "Owner": "Mewtwo",
+    "HitboxActive": "10-11",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "1",
+    "Angle": "170/170/95/270",
+    "BaseKnockBackSetKnockback": "W: 18/18/40/5",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c94696590bf023d830"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Mewtwo"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c94696590bf023d831",
+    "Name": "Usmash (Hits 2-6)",
+    "OwnerId": 31,
+    "Owner": "Mewtwo",
+    "HitboxActive": "14-15, 18-19, 22-23, 26-27, 30-31",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "1",
+    "Angle": "170/170/95/270",
+    "BaseKnockBackSetKnockback": "W: 18/18/40/5",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c94696590bf023d831"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Mewtwo"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c94696590bf023d832",
+    "Name": "Usmash (Hit 7)",
+    "OwnerId": 31,
+    "Owner": "Mewtwo",
+    "HitboxActive": "34-35",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "10",
+    "Angle": "80/80/90/90",
+    "BaseKnockBackSetKnockback": "60",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "107",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c94696590bf023d832"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Mewtwo"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c94696590bf023d833",
+    "Name": "Dsmash",
+    "OwnerId": 31,
+    "Owner": "Mewtwo",
+    "HitboxActive": "21-22",
+    "FirstActionableFrame": "44",
+    "BaseDamage": "15",
+    "Angle": "55",
+    "BaseKnockBackSetKnockback": "20",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "118",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c94696590bf023d833"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Mewtwo"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c94696590bf023d834",
+    "Name": "Standing Grab",
+    "OwnerId": 31,
+    "Owner": "Mewtwo",
+    "HitboxActive": "7-8",
+    "FirstActionableFrame": "36",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c94696590bf023d834"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Mewtwo"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c94696590bf023d835",
+    "Name": "Dash Grab",
+    "OwnerId": 31,
+    "Owner": "Mewtwo",
+    "HitboxActive": "9-10",
+    "FirstActionableFrame": "43",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c94696590bf023d835"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Mewtwo"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c94696590bf023d836",
+    "Name": "Pivot Grab",
+    "OwnerId": 31,
+    "Owner": "Mewtwo",
+    "HitboxActive": "10-11",
+    "FirstActionableFrame": "41",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c94696590bf023d836"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Mewtwo"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c94696590bf023d837",
+    "Name": "Spotdodge",
+    "OwnerId": 31,
+    "Owner": "Mewtwo",
+    "HitboxActive": "2-14",
+    "FirstActionableFrame": "25",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c94696590bf023d837"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Mewtwo"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c94696590bf023d838",
+    "Name": "Forward Roll",
+    "OwnerId": 31,
+    "Owner": "Mewtwo",
+    "HitboxActive": "4-13",
+    "FirstActionableFrame": "30",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c94696590bf023d838"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Mewtwo"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c94696590bf023d839",
+    "Name": "Back Roll",
+    "OwnerId": 31,
+    "Owner": "Mewtwo",
+    "HitboxActive": "4-13",
+    "FirstActionableFrame": "30",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c94696590bf023d839"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Mewtwo"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c94696590bf023d83a",
+    "Name": "Airdodge",
+    "OwnerId": 31,
+    "Owner": "Mewtwo",
+    "HitboxActive": "2-24",
+    "FirstActionableFrame": "29",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c94696590bf023d83a"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Mewtwo"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c94696590bf023d83b",
+    "Name": "Nair (Hits 1-4)",
+    "OwnerId": 31,
+    "Owner": "Mewtwo",
+    "HitboxActive": "7-8, 11-12, 15-16, 19-20",
+    "FirstActionableFrame": "46",
+    "BaseDamage": "1",
+    "Angle": "185/185/110/110",
+    "BaseKnockBackSetKnockback": "W: 22/22/46/46 B: 20",
+    "LandingLag": "13",
+    "AutoCancel": "46&gt;",
+    "KnockbackGrowth": "100",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c94696590bf023d83b"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Mewtwo"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c94696590bf023d83c",
+    "Name": "Nair (Hits 5-8)",
+    "OwnerId": 31,
+    "Owner": "Mewtwo",
+    "HitboxActive": "23-24, 27-28, 31-32, 35-36",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "1",
+    "Angle": "185/185/110/110",
+    "BaseKnockBackSetKnockback": "W: 22/22/46/46 B: 20",
+    "LandingLag": "-",
+    "AutoCancel": "-",
+    "KnockbackGrowth": "100",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c94696590bf023d83c"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Mewtwo"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c94696590bf023d83d",
+    "Name": "Nair (Hit 9)",
+    "OwnerId": 31,
+    "Owner": "Mewtwo",
+    "HitboxActive": "39-40",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "4",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "40",
+    "LandingLag": "-",
+    "AutoCancel": "-",
+    "KnockbackGrowth": "110",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c94696590bf023d83d"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Mewtwo"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c94696590bf023d83e",
+    "Name": "Fair",
+    "OwnerId": 31,
+    "Owner": "Mewtwo",
+    "HitboxActive": "6-8",
+    "FirstActionableFrame": "38",
+    "BaseDamage": "13",
+    "Angle": "50",
+    "BaseKnockBackSetKnockback": "40",
+    "LandingLag": "14",
+    "AutoCancel": "36&gt;",
+    "KnockbackGrowth": "100",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c94696590bf023d83e"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Mewtwo"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c94696590bf023d83f",
+    "Name": "Bair",
+    "OwnerId": 31,
+    "Owner": "Mewtwo",
+    "HitboxActive": "13-17",
+    "FirstActionableFrame": "40",
+    "BaseDamage": "13/11/9",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "20",
+    "LandingLag": "17",
+    "AutoCancel": "1-2, 38&gt;",
+    "KnockbackGrowth": "90",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c94696590bf023d83f"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Mewtwo"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c94696590bf023d840",
+    "Name": "Uair",
+    "OwnerId": 31,
+    "Owner": "Mewtwo",
+    "HitboxActive": "10-14",
+    "FirstActionableFrame": "40",
+    "BaseDamage": "11/10/9",
+    "Angle": "72/65/55",
+    "BaseKnockBackSetKnockback": "40",
+    "LandingLag": "13",
+    "AutoCancel": "1-2, 36&gt;",
+    "KnockbackGrowth": "97",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c94696590bf023d840"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Mewtwo"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c94696590bf023d841",
+    "Name": "Dair",
+    "OwnerId": 31,
+    "Owner": "Mewtwo",
+    "HitboxActive": "15-18",
+    "FirstActionableFrame": "46",
+    "BaseDamage": "15/14",
+    "Angle": "270/70",
+    "BaseKnockBackSetKnockback": "10/20",
+    "LandingLag": "18",
+    "AutoCancel": "1-3, 42&gt;",
+    "KnockbackGrowth": "100/98",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c94696590bf023d841"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Mewtwo"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c94696590bf023d842",
+    "Name": "Shadow Ball",
+    "OwnerId": 31,
+    "Owner": "Mewtwo",
+    "HitboxActive": "23- (6- From Charge)",
+    "FirstActionableFrame": "49 (32 From Charge)",
+    "BaseDamage": "-",
+    "Angle": "-",
+    "BaseKnockBackSetKnockback": "-",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "-",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c94696590bf023d842"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Mewtwo"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c94696590bf023d843",
+    "Name": "Shadow Ball (Uncharged)",
+    "OwnerId": 31,
+    "Owner": "Mewtwo",
+    "HitboxActive": "-",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "2.5",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "14",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "30",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c94696590bf023d843"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Mewtwo"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c94696590bf023d844",
+    "Name": "Shadow Ball (Charged)",
+    "OwnerId": 31,
+    "Owner": "Mewtwo",
+    "HitboxActive": "-",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "25 (+3)",
+    "Angle": "47",
+    "BaseKnockBackSetKnockback": "30",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "67",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c94696590bf023d844"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Mewtwo"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c94696590bf023d845",
+    "Name": "Confusion",
+    "OwnerId": 31,
+    "Owner": "Mewtwo",
+    "HitboxActive": "12-15 (Reflects on: 12-35)",
+    "FirstActionableFrame": "45",
+    "BaseDamage": "1.15&#37;&#215;7, 1",
+    "Angle": "-",
+    "BaseKnockBackSetKnockback": "-",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "-",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c94696590bf023d845"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Mewtwo"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c94696590bf023d846",
+    "Name": "Teleport",
+    "OwnerId": 31,
+    "Owner": "Mewtwo",
+    "HitboxActive": "Intangible: 9-17",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "-",
+    "Angle": "-",
+    "BaseKnockBackSetKnockback": "-",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "-",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c94696590bf023d846"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Mewtwo"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c94696590bf023d847",
+    "Name": "Disable",
+    "OwnerId": 31,
+    "Owner": "Mewtwo",
+    "HitboxActive": "16-22",
+    "FirstActionableFrame": "48",
+    "BaseDamage": "1",
+    "Angle": "-",
+    "BaseKnockBackSetKnockback": "-",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "-",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c94696590bf023d847"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Mewtwo"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c94696590bf023d848",
+    "Name": "Fthrow",
+    "OwnerId": 31,
+    "Owner": "Mewtwo",
+    "HitboxActive": null,
+    "FirstActionableFrame": null,
+    "BaseDamage": "3, 2&#37;&#215;5",
+    "Angle": "-",
+    "BaseKnockBackSetKnockback": "-",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "-",
+    "MoveType": "throw",
+    "IsWeightDependent": true,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c94696590bf023d848"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Mewtwo"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c94696590bf023d849",
+    "Name": "Bthrow",
+    "OwnerId": 31,
+    "Owner": "Mewtwo",
+    "HitboxActive": null,
+    "FirstActionableFrame": null,
+    "BaseDamage": "10",
+    "Angle": "47",
+    "BaseKnockBackSetKnockback": "70",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "75",
+    "MoveType": "throw",
+    "IsWeightDependent": true,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c94696590bf023d849"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Mewtwo"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c94696590bf023d84a",
+    "Name": "Uthrow",
+    "OwnerId": 31,
+    "Owner": "Mewtwo",
+    "HitboxActive": null,
+    "FirstActionableFrame": null,
+    "BaseDamage": "12",
+    "Angle": "90",
+    "BaseKnockBackSetKnockback": "72",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "65",
+    "MoveType": "throw",
+    "IsWeightDependent": true,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c94696590bf023d84a"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Mewtwo"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c94696590bf023d84b",
+    "Name": "Dthrow",
+    "OwnerId": 31,
+    "Owner": "Mewtwo",
+    "HitboxActive": null,
+    "FirstActionableFrame": null,
+    "BaseDamage": "4, 5",
+    "Angle": "74",
+    "BaseKnockBackSetKnockback": "65",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "50",
+    "MoveType": "throw",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c94696590bf023d84b"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Mewtwo"
+      }
+    ]
+  }
+]

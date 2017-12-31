@@ -1,0 +1,500 @@
+﻿[
+  {
+    "InstanceId": "598e70d64696590bf023da50",
+    "Name": "AerialJump",
+    "OwnerId": 36,
+    "Owner": "Ness",
+    "Values": [
+      {
+        "Value": "34.476265",
+        "Owner": "Ness",
+        "OwnerId": 36,
+        "Name": "HEIGHT"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70d64696590bf023da50"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ness"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70d64696590bf023da51",
+    "Name": "AirAcceleration",
+    "OwnerId": 36,
+    "Owner": "Ness",
+    "Values": [
+      {
+        "Value": "0.09",
+        "Owner": "Ness",
+        "OwnerId": 36,
+        "Name": "MAX ADDITIONAL"
+      },
+      {
+        "Value": "0.01",
+        "Owner": "Ness",
+        "OwnerId": 36,
+        "Name": "BASE VALUE"
+      },
+      {
+        "Value": "0.1",
+        "Owner": "Ness",
+        "OwnerId": 36,
+        "Name": "TOTAL"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70d64696590bf023da51"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ness"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70d64696590bf023da52",
+    "Name": "AirFriction",
+    "OwnerId": 36,
+    "Owner": "Ness",
+    "Values": [
+      {
+        "Value": "0.0225",
+        "Owner": "Ness",
+        "OwnerId": 36,
+        "Name": "VALUE"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70d64696590bf023da52"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ness"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70d64696590bf023da53",
+    "Name": "DashLength",
+    "OwnerId": 36,
+    "Owner": "Ness",
+    "Values": [
+      {
+        "Value": "14",
+        "Owner": "Ness",
+        "OwnerId": 36,
+        "Name": "LENGTH IN FRAMES"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70d64696590bf023da53"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ness"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70d64696590bf023da54",
+    "Name": "FallSpeed",
+    "OwnerId": 36,
+    "Owner": "Ness",
+    "Values": [
+      {
+        "Value": "1.31",
+        "Owner": "Ness",
+        "OwnerId": 36,
+        "Name": "MAX FALL SPEED"
+      },
+      {
+        "Value": "2.096",
+        "Owner": "Ness",
+        "OwnerId": 36,
+        "Name": "FAST FALL SPEED"
+      },
+      {
+        "Value": "60%",
+        "Owner": "Ness",
+        "OwnerId": 36,
+        "Name": "SPEED INCREASE"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70d64696590bf023da54"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ness"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70d64696590bf023da55",
+    "Name": "FullHop",
+    "OwnerId": 36,
+    "Owner": "Ness",
+    "Values": [
+      {
+        "Value": "34.476265",
+        "Owner": "Ness",
+        "OwnerId": 36,
+        "Name": "HEIGHT"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70d64696590bf023da55"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ness"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70d64696590bf023da56",
+    "Name": "Gravity",
+    "OwnerId": 36,
+    "Owner": "Ness",
+    "Values": [
+      {
+        "Value": "0.077",
+        "Owner": "Ness",
+        "OwnerId": 36,
+        "Name": "VALUE"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70d64696590bf023da56"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ness"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70d64696590bf023da57",
+    "Name": "JumpSquat",
+    "OwnerId": 36,
+    "Owner": "Ness",
+    "Values": [
+      {
+        "Value": "5",
+        "Owner": "Ness",
+        "OwnerId": 36,
+        "Name": "VALUE"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70d64696590bf023da57"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ness"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70d64696590bf023da58",
+    "Name": "LedgeHop",
+    "OwnerId": 36,
+    "Owner": "Ness",
+    "Values": [
+      {
+        "Value": "37.238132",
+        "Owner": "Ness",
+        "OwnerId": 36,
+        "Name": "HEIGHT"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70d64696590bf023da58"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ness"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70d64696590bf023da59",
+    "Name": "ShortHop",
+    "OwnerId": 36,
+    "Owner": "Ness",
+    "Values": [
+      {
+        "Value": "16.652296",
+        "Owner": "Ness",
+        "OwnerId": 36,
+        "Name": "HEIGHT"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70d64696590bf023da59"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ness"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70d64696590bf023da5a",
+    "Name": "Spotdodge",
+    "OwnerId": 36,
+    "Owner": "Ness",
+    "Values": [
+      {
+        "Value": "3-18",
+        "Owner": "Ness",
+        "OwnerId": 36,
+        "Name": "INTANGIBLE"
+      },
+      {
+        "Value": "28",
+        "Owner": "Ness",
+        "OwnerId": 36,
+        "Name": "FAF"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70d64696590bf023da5a"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ness"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70d64696590bf023da5b",
+    "Name": "Traction",
+    "OwnerId": 36,
+    "Owner": "Ness",
+    "Values": [
+      {
+        "Value": "0.0546",
+        "Owner": "Ness",
+        "OwnerId": 36,
+        "Name": "VALUE"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70d64696590bf023da5b"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ness"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70d64696590bf023da5c",
+    "Name": "WalkSpeed",
+    "OwnerId": 36,
+    "Owner": "Ness",
+    "Values": [
+      {
+        "Value": "0.8635",
+        "Owner": "Ness",
+        "OwnerId": 36,
+        "Name": "MAX WALK SPEED VALUE"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70d64696590bf023da5c"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ness"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70d64696590bf023da5d",
+    "Name": "AirSpeed",
+    "OwnerId": 36,
+    "Owner": "Ness",
+    "Values": [
+      {
+        "Value": "0.9588",
+        "Owner": "Ness",
+        "OwnerId": 36,
+        "Name": "MAX AIR SPEED VALUE"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70d64696590bf023da5d"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ness"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70d64696590bf023da5e",
+    "Name": "AirDodge",
+    "OwnerId": 36,
+    "Owner": "Ness",
+    "Values": [
+      {
+        "Value": "3-28",
+        "Owner": "Ness",
+        "OwnerId": 36,
+        "Name": "INTANGIBLE"
+      },
+      {
+        "Value": "34",
+        "Owner": "Ness",
+        "OwnerId": 36,
+        "Name": "FAF"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70d64696590bf023da5e"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ness"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70d64696590bf023da5f",
+    "Name": "Rolls",
+    "OwnerId": 36,
+    "Owner": "Ness",
+    "Values": [
+      {
+        "Value": "4-17",
+        "Owner": "Ness",
+        "OwnerId": 36,
+        "Name": "INTANGIBLE"
+      },
+      {
+        "Value": "31",
+        "Owner": "Ness",
+        "OwnerId": 36,
+        "Name": "FAF"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70d64696590bf023da5f"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ness"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70d64696590bf023da60",
+    "Name": "ShieldSize",
+    "OwnerId": 36,
+    "Owner": "Ness",
+    "Values": [
+      {
+        "Value": "8.715",
+        "Owner": "Ness",
+        "OwnerId": 36,
+        "Name": "SIZE"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70d64696590bf023da60"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ness"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70d64696590bf023da61",
+    "Name": "Reflectors",
+    "OwnerId": 36,
+    "Owner": "Ness",
+    "Values": [
+      {
+        "Value": "19-31",
+        "Owner": "Ness",
+        "OwnerId": 36,
+        "Name": "REFLECTS ON"
+      },
+      {
+        "Value": "21-",
+        "Owner": "Ness",
+        "OwnerId": 36,
+        "Name": "HITBOX ON"
+      },
+      {
+        "Value": "2x",
+        "Owner": "Ness",
+        "OwnerId": 36,
+        "Name": "DAMAGE MULTIPLIER"
+      },
+      {
+        "Value": "2.5x",
+        "Owner": "Ness",
+        "OwnerId": 36,
+        "Name": "SPEED MULTIPLIER"
+      },
+      {
+        "Value": "80%",
+        "Owner": "Ness",
+        "OwnerId": 36,
+        "Name": "BREAK THRESHOLD"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70d64696590bf023da61"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ness"
+      }
+    ]
+  }
+]

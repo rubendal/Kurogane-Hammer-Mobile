@@ -1,0 +1,308 @@
+﻿[
+  {
+    "InstanceId": "598e709f4696590bf023d287",
+    "Name": "Weight",
+    "OwnerId": 15,
+    "Owner": "Ganondorf",
+    "Value": "113 ",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e709f4696590bf023d287"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ganondorf"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e709f4696590bf023d288",
+    "Name": "Max Jumps",
+    "OwnerId": 15,
+    "Owner": "Ganondorf",
+    "Value": "2",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e709f4696590bf023d288"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ganondorf"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e709f4696590bf023d289",
+    "Name": "Run Speed",
+    "OwnerId": 15,
+    "Owner": "Ganondorf",
+    "Value": "1.218 ",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e709f4696590bf023d289"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ganondorf"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e709f4696590bf023d28a",
+    "Name": "Wall Jump",
+    "OwnerId": 15,
+    "Owner": "Ganondorf",
+    "Value": "No",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e709f4696590bf023d28a"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ganondorf"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e709f4696590bf023d28b",
+    "Name": "Walk Speed",
+    "OwnerId": 15,
+    "Owner": "Ganondorf",
+    "Value": "0.73 ",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e709f4696590bf023d28b"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ganondorf"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e709f4696590bf023d28c",
+    "Name": "Wall Cling",
+    "OwnerId": 15,
+    "Owner": "Ganondorf",
+    "Value": "No",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e709f4696590bf023d28c"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ganondorf"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e709f4696590bf023d28d",
+    "Name": "Air Speed",
+    "OwnerId": 15,
+    "Owner": "Ganondorf",
+    "Value": "0.79 ",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e709f4696590bf023d28d"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ganondorf"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e709f4696590bf023d28e",
+    "Name": "Crawl",
+    "OwnerId": 15,
+    "Owner": "Ganondorf",
+    "Value": "No",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e709f4696590bf023d28e"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ganondorf"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e709f4696590bf023d28f",
+    "Name": "Fall Speed",
+    "OwnerId": 15,
+    "Owner": "Ganondorf",
+    "Value": "1.65 ",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e709f4696590bf023d28f"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ganondorf"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e709f4696590bf023d290",
+    "Name": "Tether",
+    "OwnerId": 15,
+    "Owner": "Ganondorf",
+    "Value": "No",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e709f4696590bf023d290"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ganondorf"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e709f4696590bf023d291",
+    "Name": "Fast Fall Speed",
+    "OwnerId": 15,
+    "Owner": "Ganondorf",
+    "Value": "2.64 ",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e709f4696590bf023d291"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ganondorf"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e709f4696590bf023d292",
+    "Name": "Jumpsquat",
+    "OwnerId": 15,
+    "Owner": "Ganondorf",
+    "Value": "7 frames",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e709f4696590bf023d292"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ganondorf"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e709f4696590bf023d293",
+    "Name": "Air Acceleration",
+    "OwnerId": 15,
+    "Owner": "Ganondorf",
+    "Value": "0.03",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e709f4696590bf023d293"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ganondorf"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e709f4696590bf023d294",
+    "Name": "Soft Landing Lag",
+    "OwnerId": 15,
+    "Owner": "Ganondorf",
+    "Value": "2 frames",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e709f4696590bf023d294"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ganondorf"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e709f4696590bf023d295",
+    "Name": "Gravity",
+    "OwnerId": 15,
+    "Owner": "Ganondorf",
+    "Value": "0.10784",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e709f4696590bf023d295"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ganondorf"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e709f4696590bf023d296",
+    "Name": "Hard Landing Lag",
+    "OwnerId": 15,
+    "Owner": "Ganondorf",
+    "Value": "5 frames",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e709f4696590bf023d296"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ganondorf"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e709f4696590bf023d297",
+    "Name": "SH Air Time",
+    "OwnerId": 15,
+    "Owner": "Ganondorf",
+    "Value": "30 frames",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e709f4696590bf023d297"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ganondorf"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e709f4696590bf023d298",
+    "Name": "FH Air Time",
+    "OwnerId": 15,
+    "Owner": "Ganondorf",
+    "Value": "44 frames",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e709f4696590bf023d298"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ganondorf"
+      }
+    ]
+  }
+]

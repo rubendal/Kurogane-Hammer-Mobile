@@ -1,0 +1,1250 @@
+﻿[
+  {
+    "InstanceId": "598e70c74696590bf023d7d1",
+    "Name": "Rapid Jab",
+    "OwnerId": 30,
+    "Owner": "MetaKnight",
+    "HitboxActive": "7, 11, 15, 20, 24...",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "1.2 (+1)",
+    "Angle": "60",
+    "BaseKnockBackSetKnockback": "8",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "30",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c74696590bf023d7d1"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MetaKnight"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c74696590bf023d7d2",
+    "Name": "Rapid Jab Finisher",
+    "OwnerId": 30,
+    "Owner": "MetaKnight",
+    "HitboxActive": "3",
+    "FirstActionableFrame": "35",
+    "BaseDamage": "2",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "60",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "140",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c74696590bf023d7d2"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MetaKnight"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c74696590bf023d7d3",
+    "Name": "Dash Attack",
+    "OwnerId": 30,
+    "Owner": "MetaKnight",
+    "HitboxActive": "7-11",
+    "FirstActionableFrame": "32",
+    "BaseDamage": "6/6/5",
+    "Angle": "60/70/80",
+    "BaseKnockBackSetKnockback": "70",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "90",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c74696590bf023d7d3"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MetaKnight"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c74696590bf023d7d4",
+    "Name": "Ftilt 1",
+    "OwnerId": 30,
+    "Owner": "MetaKnight",
+    "HitboxActive": "6",
+    "FirstActionableFrame": "26",
+    "BaseDamage": "2",
+    "Angle": "68/85",
+    "BaseKnockBackSetKnockback": "8",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "88",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c74696590bf023d7d4"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MetaKnight"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c74696590bf023d7d5",
+    "Name": "Ftilt 2",
+    "OwnerId": 30,
+    "Owner": "MetaKnight",
+    "HitboxActive": "2",
+    "FirstActionableFrame": "28",
+    "BaseDamage": "2",
+    "Angle": "60/80",
+    "BaseKnockBackSetKnockback": "8",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "88",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c74696590bf023d7d5"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MetaKnight"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c74696590bf023d7d6",
+    "Name": "Ftilt 3",
+    "OwnerId": 30,
+    "Owner": "MetaKnight",
+    "HitboxActive": "2",
+    "FirstActionableFrame": "31",
+    "BaseDamage": "4",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "80",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "107",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c74696590bf023d7d6"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MetaKnight"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c74696590bf023d7d7",
+    "Name": "Utilt",
+    "OwnerId": 30,
+    "Owner": "MetaKnight",
+    "HitboxActive": "8-10",
+    "FirstActionableFrame": "35",
+    "BaseDamage": "7/5",
+    "Angle": "95",
+    "BaseKnockBackSetKnockback": "60",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "90",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c74696590bf023d7d7"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MetaKnight"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c74696590bf023d7d8",
+    "Name": "Utilt (Late)",
+    "OwnerId": 30,
+    "Owner": "MetaKnight",
+    "HitboxActive": "11-14",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "7/6",
+    "Angle": "95/85",
+    "BaseKnockBackSetKnockback": "60/35",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "90/120",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c74696590bf023d7d8"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MetaKnight"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c74696590bf023d7d9",
+    "Name": "Dtilt",
+    "OwnerId": 30,
+    "Owner": "MetaKnight",
+    "HitboxActive": "3-4",
+    "FirstActionableFrame": "19",
+    "BaseDamage": "5",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "15",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "88",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c74696590bf023d7d9"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MetaKnight"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c74696590bf023d7da",
+    "Name": "Fsmash",
+    "OwnerId": 30,
+    "Owner": "MetaKnight",
+    "HitboxActive": "24",
+    "FirstActionableFrame": "42",
+    "BaseDamage": "16",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "30",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "108/98",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c74696590bf023d7da"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MetaKnight"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c74696590bf023d7db",
+    "Name": "Usmash (Hit 1)",
+    "OwnerId": 30,
+    "Owner": "MetaKnight",
+    "HitboxActive": "8",
+    "FirstActionableFrame": "50",
+    "BaseDamage": "3",
+    "Angle": "366/135/135",
+    "BaseKnockBackSetKnockback": "W: 20/25/25 B: 30",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c74696590bf023d7db"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MetaKnight"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c74696590bf023d7dc",
+    "Name": "Usmash (Hit 2)",
+    "OwnerId": 30,
+    "Owner": "MetaKnight",
+    "HitboxActive": "12",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "2",
+    "Angle": "366/135/135",
+    "BaseKnockBackSetKnockback": "W: 20/25/25 B: 30/20/20",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c74696590bf023d7dc"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MetaKnight"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c74696590bf023d7dd",
+    "Name": "Usmash (Hit 3)",
+    "OwnerId": 30,
+    "Owner": "MetaKnight",
+    "HitboxActive": "17",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "4",
+    "Angle": "85/85/90",
+    "BaseKnockBackSetKnockback": "65",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "166",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c74696590bf023d7dd"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MetaKnight"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c74696590bf023d7de",
+    "Name": "Dsmash (Not Buffered, Hit 1)",
+    "OwnerId": 30,
+    "Owner": "MetaKnight",
+    "HitboxActive": "5",
+    "FirstActionableFrame": "39",
+    "BaseDamage": "7",
+    "Angle": "35",
+    "BaseKnockBackSetKnockback": "32",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "93",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c74696590bf023d7de"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MetaKnight"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c74696590bf023d7df",
+    "Name": "Dsmash (Not Buffered, Hit 2)",
+    "OwnerId": 30,
+    "Owner": "MetaKnight",
+    "HitboxActive": "10",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "10",
+    "Angle": "35",
+    "BaseKnockBackSetKnockback": "32",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "93",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c74696590bf023d7df"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MetaKnight"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c74696590bf023d7e0",
+    "Name": "Dsmash (Buffered, Hit 1)",
+    "OwnerId": 30,
+    "Owner": "MetaKnight",
+    "HitboxActive": "4",
+    "FirstActionableFrame": "38",
+    "BaseDamage": "7",
+    "Angle": "35",
+    "BaseKnockBackSetKnockback": "32",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "93",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c74696590bf023d7e0"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MetaKnight"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c74696590bf023d7e1",
+    "Name": "Dsmash (Buffered, Hit 2)",
+    "OwnerId": 30,
+    "Owner": "MetaKnight",
+    "HitboxActive": "9",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "10",
+    "Angle": "35",
+    "BaseKnockBackSetKnockback": "32",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "93",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c74696590bf023d7e1"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MetaKnight"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c74696590bf023d7e2",
+    "Name": "Standing Grab",
+    "OwnerId": 30,
+    "Owner": "MetaKnight",
+    "HitboxActive": "7-8",
+    "FirstActionableFrame": "32",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c74696590bf023d7e2"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MetaKnight"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c74696590bf023d7e3",
+    "Name": "Dash Grab",
+    "OwnerId": 30,
+    "Owner": "MetaKnight",
+    "HitboxActive": "9-10",
+    "FirstActionableFrame": "40",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c74696590bf023d7e3"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MetaKnight"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c74696590bf023d7e4",
+    "Name": "Pivot Grab",
+    "OwnerId": 30,
+    "Owner": "MetaKnight",
+    "HitboxActive": "9-10",
+    "FirstActionableFrame": "38",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c74696590bf023d7e4"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MetaKnight"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c74696590bf023d7e5",
+    "Name": "Spotdodge",
+    "OwnerId": 30,
+    "Owner": "MetaKnight",
+    "HitboxActive": "2-15",
+    "FirstActionableFrame": "25",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c74696590bf023d7e5"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MetaKnight"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c74696590bf023d7e6",
+    "Name": "Forward Roll",
+    "OwnerId": 30,
+    "Owner": "MetaKnight",
+    "HitboxActive": "4-15",
+    "FirstActionableFrame": "28",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c74696590bf023d7e6"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MetaKnight"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c74696590bf023d7e7",
+    "Name": "Back Roll",
+    "OwnerId": 30,
+    "Owner": "MetaKnight",
+    "HitboxActive": "4-15",
+    "FirstActionableFrame": "28",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c74696590bf023d7e7"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MetaKnight"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c74696590bf023d7e8",
+    "Name": "Airdodge",
+    "OwnerId": 30,
+    "Owner": "MetaKnight",
+    "HitboxActive": "2-25",
+    "FirstActionableFrame": "31",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c74696590bf023d7e8"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MetaKnight"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c74696590bf023d7e9",
+    "Name": "Nair",
+    "OwnerId": 30,
+    "Owner": "MetaKnight",
+    "HitboxActive": "6-7",
+    "FirstActionableFrame": "44",
+    "BaseDamage": "10",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "40",
+    "LandingLag": "16",
+    "AutoCancel": "1-5, 40&gt;",
+    "KnockbackGrowth": "100",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c74696590bf023d7e9"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MetaKnight"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c74696590bf023d7ea",
+    "Name": "Nair (Late)",
+    "OwnerId": 30,
+    "Owner": "MetaKnight",
+    "HitboxActive": "8-20",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "7.5",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "40",
+    "LandingLag": "-",
+    "AutoCancel": "-",
+    "KnockbackGrowth": "100",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c74696590bf023d7ea"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MetaKnight"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c74696590bf023d7eb",
+    "Name": "Fair (Hits 1-2)",
+    "OwnerId": 30,
+    "Owner": "MetaKnight",
+    "HitboxActive": "9, 12",
+    "FirstActionableFrame": "46",
+    "BaseDamage": "1.5/1.5/2.2/2.2",
+    "Angle": "85/85/361/361",
+    "BaseKnockBackSetKnockback": "W: 40/40/B: 30/30",
+    "LandingLag": "16",
+    "AutoCancel": "44&gt;",
+    "KnockbackGrowth": "100/100/130/130",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c74696590bf023d7eb"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MetaKnight"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c74696590bf023d7ec",
+    "Name": "Fair (Hit 3)",
+    "OwnerId": 30,
+    "Owner": "MetaKnight",
+    "HitboxActive": "15",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "3",
+    "Angle": "48",
+    "BaseKnockBackSetKnockback": "60",
+    "LandingLag": "-",
+    "AutoCancel": "-",
+    "KnockbackGrowth": "140",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c74696590bf023d7ec"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MetaKnight"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c74696590bf023d7ed",
+    "Name": "Bair (Hits 1-2)",
+    "OwnerId": 30,
+    "Owner": "MetaKnight",
+    "HitboxActive": "7-8, 13-14",
+    "FirstActionableFrame": "52",
+    "BaseDamage": "1.5/1.5/2.2/2.2",
+    "Angle": "366/366/45/45",
+    "BaseKnockBackSetKnockback": "W: 90/90/B: 40/40",
+    "LandingLag": "18",
+    "AutoCancel": "1-6, 40&gt;",
+    "KnockbackGrowth": "100/100/130/130",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c74696590bf023d7ed"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MetaKnight"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c74696590bf023d7ee",
+    "Name": "Bair (Hit 3)",
+    "OwnerId": 30,
+    "Owner": "MetaKnight",
+    "HitboxActive": "20-21",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "4",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "30",
+    "LandingLag": "-",
+    "AutoCancel": "-",
+    "KnockbackGrowth": "212",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c74696590bf023d7ee"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MetaKnight"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c74696590bf023d7ef",
+    "Name": "Uair",
+    "OwnerId": 30,
+    "Owner": "MetaKnight",
+    "HitboxActive": "6",
+    "FirstActionableFrame": "27",
+    "BaseDamage": "4",
+    "Angle": "69/69/52",
+    "BaseKnockBackSetKnockback": "30",
+    "LandingLag": "18",
+    "AutoCancel": "1-5, 24&gt;",
+    "KnockbackGrowth": "128",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c74696590bf023d7ef"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MetaKnight"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c74696590bf023d7f0",
+    "Name": "Dair",
+    "OwnerId": 30,
+    "Owner": "MetaKnight",
+    "HitboxActive": "4",
+    "FirstActionableFrame": "28",
+    "BaseDamage": "6",
+    "Angle": "35/50/50",
+    "BaseKnockBackSetKnockback": "30",
+    "LandingLag": "22",
+    "AutoCancel": "1-3, 26&gt;",
+    "KnockbackGrowth": "108",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c74696590bf023d7f0"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MetaKnight"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c74696590bf023d7f1",
+    "Name": "Mach Tornado",
+    "OwnerId": 30,
+    "Owner": "MetaKnight",
+    "HitboxActive": "12- (Rehit rate: 6)",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "1",
+    "Angle": "90/366",
+    "BaseKnockBackSetKnockback": "10",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c74696590bf023d7f1"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MetaKnight"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c74696590bf023d7f2",
+    "Name": "Mach Tornado (Final Hit)",
+    "OwnerId": 30,
+    "Owner": "MetaKnight",
+    "HitboxActive": "42-44",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "3",
+    "Angle": "70",
+    "BaseKnockBackSetKnockback": "55",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "170",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c74696590bf023d7f2"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MetaKnight"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c74696590bf023d7f3",
+    "Name": "Drill Rush",
+    "OwnerId": 30,
+    "Owner": "MetaKnight",
+    "HitboxActive": "26-32 (Rehit rate: 6)",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "1",
+    "Angle": "0/30/361/366",
+    "BaseKnockBackSetKnockback": "W: 30/30 B: 60/100/70/70",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "50",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c74696590bf023d7f3"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MetaKnight"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c74696590bf023d7f4",
+    "Name": "Drill Rush",
+    "OwnerId": 30,
+    "Owner": "MetaKnight",
+    "HitboxActive": "33-69 (Rehit rate: 6)",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "1",
+    "Angle": "50/366/366",
+    "BaseKnockBackSetKnockback": "40/70/70",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "45/50/50",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c74696590bf023d7f4"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MetaKnight"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c74696590bf023d7f5",
+    "Name": "Drill Rush (Final Hit)",
+    "OwnerId": 30,
+    "Owner": "MetaKnight",
+    "HitboxActive": "70",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "3",
+    "Angle": "60",
+    "BaseKnockBackSetKnockback": "40",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "200",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c74696590bf023d7f5"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MetaKnight"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c74696590bf023d7f6",
+    "Name": "Shuttle Loop (Grounded, Hit 1)",
+    "OwnerId": 30,
+    "Owner": "MetaKnight",
+    "HitboxActive": "8",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "9",
+    "Angle": "86/88/86/88",
+    "BaseKnockBackSetKnockback": "130/127/98/98",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "10",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c74696590bf023d7f6"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MetaKnight"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c74696590bf023d7f7",
+    "Name": "Shuttle Loop (Grounded, Hit 1, Late)",
+    "OwnerId": 30,
+    "Owner": "MetaKnight",
+    "HitboxActive": "9-12",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "6",
+    "Angle": "86",
+    "BaseKnockBackSetKnockback": "90",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "10",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c74696590bf023d7f7"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MetaKnight"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c74696590bf023d7f8",
+    "Name": "Shuttle Loop (Grounded, Hit 2)",
+    "OwnerId": 30,
+    "Owner": "MetaKnight",
+    "HitboxActive": "22-27",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "6",
+    "Angle": "80",
+    "BaseKnockBackSetKnockback": "55",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "130",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c74696590bf023d7f8"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MetaKnight"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c74696590bf023d7f9",
+    "Name": "Shuttle Loop (Aerial, Hit 1)",
+    "OwnerId": 30,
+    "Owner": "MetaKnight",
+    "HitboxActive": "7-10",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "6",
+    "Angle": "86",
+    "BaseKnockBackSetKnockback": "120/70",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "10",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c74696590bf023d7f9"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MetaKnight"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c74696590bf023d7fa",
+    "Name": "Shuttle Loop (Aerial, Hit 2)",
+    "OwnerId": 30,
+    "Owner": "MetaKnight",
+    "HitboxActive": "20-26",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "6",
+    "Angle": "80",
+    "BaseKnockBackSetKnockback": "55",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "118",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c74696590bf023d7fa"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MetaKnight"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c74696590bf023d7fb",
+    "Name": "Dimensional Cape",
+    "OwnerId": 30,
+    "Owner": "MetaKnight",
+    "HitboxActive": "(Intangible: 12-39)",
+    "FirstActionableFrame": "64",
+    "BaseDamage": "-",
+    "Angle": "-",
+    "BaseKnockBackSetKnockback": "-",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "-",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c74696590bf023d7fb"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MetaKnight"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c74696590bf023d7fc",
+    "Name": "Dimensional Cape (Attack)",
+    "OwnerId": 30,
+    "Owner": "MetaKnight",
+    "HitboxActive": "34- (Intangible: 12-28)",
+    "FirstActionableFrame": "93",
+    "BaseDamage": "16/15/14",
+    "Angle": "-",
+    "BaseKnockBackSetKnockback": "-",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "-",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c74696590bf023d7fc"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MetaKnight"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c74696590bf023d7fd",
+    "Name": "Fthrow",
+    "OwnerId": 30,
+    "Owner": "MetaKnight",
+    "HitboxActive": null,
+    "FirstActionableFrame": null,
+    "BaseDamage": "6, 3",
+    "Angle": "65",
+    "BaseKnockBackSetKnockback": "50",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "140",
+    "MoveType": "throw",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c74696590bf023d7fd"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MetaKnight"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c74696590bf023d7fe",
+    "Name": "Bthrow",
+    "OwnerId": 30,
+    "Owner": "MetaKnight",
+    "HitboxActive": null,
+    "FirstActionableFrame": null,
+    "BaseDamage": "7, 3",
+    "Angle": "45",
+    "BaseKnockBackSetKnockback": "60",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "140",
+    "MoveType": "throw",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c74696590bf023d7fe"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MetaKnight"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c74696590bf023d7ff",
+    "Name": "Uthrow",
+    "OwnerId": 30,
+    "Owner": "MetaKnight",
+    "HitboxActive": null,
+    "FirstActionableFrame": null,
+    "BaseDamage": "10",
+    "Angle": "77",
+    "BaseKnockBackSetKnockback": "70",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "70",
+    "MoveType": "throw",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c74696590bf023d7ff"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MetaKnight"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70c74696590bf023d800",
+    "Name": "Dthrow",
+    "OwnerId": 30,
+    "Owner": "MetaKnight",
+    "HitboxActive": null,
+    "FirstActionableFrame": null,
+    "BaseDamage": "0.5&#37;&#215;9, 1, 2",
+    "Angle": "60",
+    "BaseKnockBackSetKnockback": "50",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "170",
+    "MoveType": "throw",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70c74696590bf023d800"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MetaKnight"
+      }
+    ]
+  }
+]

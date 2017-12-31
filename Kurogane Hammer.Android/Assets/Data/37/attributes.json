@@ -1,0 +1,476 @@
+﻿[
+  {
+    "InstanceId": "598e70d94696590bf023daa0",
+    "Name": "AerialJump",
+    "OwnerId": 37,
+    "Owner": "Olimar",
+    "Values": [
+      {
+        "Value": "33.5",
+        "Owner": "Olimar",
+        "OwnerId": 37,
+        "Name": "HEIGHT"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70d94696590bf023daa0"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Olimar"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70d94696590bf023daa1",
+    "Name": "AirAcceleration",
+    "OwnerId": 37,
+    "Owner": "Olimar",
+    "Values": [
+      {
+        "Value": "0.07",
+        "Owner": "Olimar",
+        "OwnerId": 37,
+        "Name": "MAX ADDITIONAL"
+      },
+      {
+        "Value": "0.01",
+        "Owner": "Olimar",
+        "OwnerId": 37,
+        "Name": "BASE VALUE"
+      },
+      {
+        "Value": "0.08",
+        "Owner": "Olimar",
+        "OwnerId": 37,
+        "Name": "TOTAL"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70d94696590bf023daa1"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Olimar"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70d94696590bf023daa2",
+    "Name": "AirFriction",
+    "OwnerId": 37,
+    "Owner": "Olimar",
+    "Values": [
+      {
+        "Value": "0.015",
+        "Owner": "Olimar",
+        "OwnerId": 37,
+        "Name": "VALUE"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70d94696590bf023daa2"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Olimar"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70d94696590bf023daa3",
+    "Name": "DashLength",
+    "OwnerId": 37,
+    "Owner": "Olimar",
+    "Values": [
+      {
+        "Value": "11",
+        "Owner": "Olimar",
+        "OwnerId": 37,
+        "Name": "LENGTH IN FRAMES"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70d94696590bf023daa3"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Olimar"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70d94696590bf023daa4",
+    "Name": "FallSpeed",
+    "OwnerId": 37,
+    "Owner": "Olimar",
+    "Values": [
+      {
+        "Value": "1.35",
+        "Owner": "Olimar",
+        "OwnerId": 37,
+        "Name": "MAX FALL SPEED"
+      },
+      {
+        "Value": "2.16",
+        "Owner": "Olimar",
+        "OwnerId": 37,
+        "Name": "FAST FALL SPEED"
+      },
+      {
+        "Value": "60%",
+        "Owner": "Olimar",
+        "OwnerId": 37,
+        "Name": "SPEED INCREASE"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70d94696590bf023daa4"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Olimar"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70d94696590bf023daa5",
+    "Name": "FullHop",
+    "OwnerId": 37,
+    "Owner": "Olimar",
+    "Values": [
+      {
+        "Value": "33.5",
+        "Owner": "Olimar",
+        "OwnerId": 37,
+        "Name": "HEIGHT"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70d94696590bf023daa5"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Olimar"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70d94696590bf023daa6",
+    "Name": "Gravity",
+    "OwnerId": 37,
+    "Owner": "Olimar",
+    "Values": [
+      {
+        "Value": "0.068",
+        "Owner": "Olimar",
+        "OwnerId": 37,
+        "Name": "VALUE"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70d94696590bf023daa6"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Olimar"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70d94696590bf023daa7",
+    "Name": "JumpSquat",
+    "OwnerId": 37,
+    "Owner": "Olimar",
+    "Values": [
+      {
+        "Value": "5",
+        "Owner": "Olimar",
+        "OwnerId": 37,
+        "Name": "VALUE"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70d94696590bf023daa7"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Olimar"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70d94696590bf023daa8",
+    "Name": "LedgeHop",
+    "OwnerId": 37,
+    "Owner": "Olimar",
+    "Values": [
+      {
+        "Value": "36.75",
+        "Owner": "Olimar",
+        "OwnerId": 37,
+        "Name": "HEIGHT"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70d94696590bf023daa8"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Olimar"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70d94696590bf023daa9",
+    "Name": "ShortHop",
+    "OwnerId": 37,
+    "Owner": "Olimar",
+    "Values": [
+      {
+        "Value": "16.191645",
+        "Owner": "Olimar",
+        "OwnerId": 37,
+        "Name": "HEIGHT"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70d94696590bf023daa9"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Olimar"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70d94696590bf023daaa",
+    "Name": "Spotdodge",
+    "OwnerId": 37,
+    "Owner": "Olimar",
+    "Values": [
+      {
+        "Value": "2-17",
+        "Owner": "Olimar",
+        "OwnerId": 37,
+        "Name": "INTANGIBLE"
+      },
+      {
+        "Value": "27",
+        "Owner": "Olimar",
+        "OwnerId": 37,
+        "Name": "FAF"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70d94696590bf023daaa"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Olimar"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70d94696590bf023daab",
+    "Name": "Traction",
+    "OwnerId": 37,
+    "Owner": "Olimar",
+    "Values": [
+      {
+        "Value": "0.06",
+        "Owner": "Olimar",
+        "OwnerId": 37,
+        "Name": "VALUE"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70d94696590bf023daab"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Olimar"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70d94696590bf023daac",
+    "Name": "WalkSpeed",
+    "OwnerId": 37,
+    "Owner": "Olimar",
+    "Values": [
+      {
+        "Value": "0.9",
+        "Owner": "Olimar",
+        "OwnerId": 37,
+        "Name": "MAX WALK SPEED VALUE"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70d94696590bf023daac"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Olimar"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70d94696590bf023daad",
+    "Name": "AirSpeed",
+    "OwnerId": 37,
+    "Owner": "Olimar",
+    "Values": [
+      {
+        "Value": "0.82",
+        "Owner": "Olimar",
+        "OwnerId": 37,
+        "Name": "MAX AIR SPEED VALUE"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70d94696590bf023daad"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Olimar"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70d94696590bf023daae",
+    "Name": "AirDodge",
+    "OwnerId": 37,
+    "Owner": "Olimar",
+    "Values": [
+      {
+        "Value": "3-27",
+        "Owner": "Olimar",
+        "OwnerId": 37,
+        "Name": "INTANGIBLE"
+      },
+      {
+        "Value": "33",
+        "Owner": "Olimar",
+        "OwnerId": 37,
+        "Name": "FAF"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70d94696590bf023daae"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Olimar"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70d94696590bf023daaf",
+    "Name": "Rolls",
+    "OwnerId": 37,
+    "Owner": "Olimar",
+    "Values": [
+      {
+        "Value": "4-16",
+        "Owner": "Olimar",
+        "OwnerId": 37,
+        "Name": "INTANGIBLE"
+      },
+      {
+        "Value": "30",
+        "Owner": "Olimar",
+        "OwnerId": 37,
+        "Name": "FAF"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70d94696590bf023daaf"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Olimar"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70d94696590bf023dab0",
+    "Name": "RunSpeed",
+    "OwnerId": 37,
+    "Owner": "Olimar",
+    "Values": [
+      {
+        "Value": "1.47",
+        "Owner": "Olimar",
+        "OwnerId": 37,
+        "Name": "MAX RUN SPEED VALUE"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70d94696590bf023dab0"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Olimar"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70d94696590bf023dab1",
+    "Name": "ShieldSize",
+    "OwnerId": 37,
+    "Owner": "Olimar",
+    "Values": [
+      {
+        "Value": "8.19",
+        "Owner": "Olimar",
+        "OwnerId": 37,
+        "Name": "SIZE"
+      }
+    ],
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characterattributes/598e70d94696590bf023dab1"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Olimar"
+      }
+    ]
+  }
+]

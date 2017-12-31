@@ -1,0 +1,1692 @@
+﻿[
+  {
+    "InstanceId": "598e70ee4696590bf023dd33",
+    "Name": "Jab 1 (Rosalina)",
+    "OwnerId": 45,
+    "Owner": "RosalinaLuma",
+    "HitboxActive": "8-10",
+    "FirstActionableFrame": "23",
+    "BaseDamage": "2",
+    "Angle": "70/82",
+    "BaseKnockBackSetKnockback": "W: 40/30",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ee4696590bf023dd33"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/RosalinaLuma"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ee4696590bf023dd34",
+    "Name": "Jab 1 (Luma)",
+    "OwnerId": 45,
+    "Owner": "RosalinaLuma",
+    "HitboxActive": "4-5",
+    "FirstActionableFrame": "23",
+    "BaseDamage": "2",
+    "Angle": "70",
+    "BaseKnockBackSetKnockback": "W: 50",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ee4696590bf023dd34"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/RosalinaLuma"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ee4696590bf023dd35",
+    "Name": "Jab 2 (Rosalina)",
+    "OwnerId": 45,
+    "Owner": "RosalinaLuma",
+    "HitboxActive": "6-8",
+    "FirstActionableFrame": "25",
+    "BaseDamage": "1",
+    "Angle": "74/82",
+    "BaseKnockBackSetKnockback": "W: 40/30",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ee4696590bf023dd35"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/RosalinaLuma"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ee4696590bf023dd36",
+    "Name": "Jab 2 (Luma)",
+    "OwnerId": 45,
+    "Owner": "RosalinaLuma",
+    "HitboxActive": "6-7",
+    "FirstActionableFrame": "25",
+    "BaseDamage": "2",
+    "Angle": "90",
+    "BaseKnockBackSetKnockback": "W: 50",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ee4696590bf023dd36"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/RosalinaLuma"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ee4696590bf023dd37",
+    "Name": "Jab 3 (Rosalina)",
+    "OwnerId": 45,
+    "Owner": "RosalinaLuma",
+    "HitboxActive": "9-11",
+    "FirstActionableFrame": "36",
+    "BaseDamage": "3",
+    "Angle": "74",
+    "BaseKnockBackSetKnockback": "48",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "80",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ee4696590bf023dd37"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/RosalinaLuma"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ee4696590bf023dd38",
+    "Name": "Jab 3 (Luma)",
+    "OwnerId": 45,
+    "Owner": "RosalinaLuma",
+    "HitboxActive": "9-13",
+    "FirstActionableFrame": "36",
+    "BaseDamage": "4",
+    "Angle": "80",
+    "BaseKnockBackSetKnockback": "60",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "150",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ee4696590bf023dd38"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/RosalinaLuma"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ee4696590bf023dd39",
+    "Name": "Rapid Jab (Rosalina)",
+    "OwnerId": 45,
+    "Owner": "RosalinaLuma",
+    "HitboxActive": "?",
+    "FirstActionableFrame": "?",
+    "BaseDamage": "?",
+    "Angle": "?",
+    "BaseKnockBackSetKnockback": "?",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "?",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ee4696590bf023dd39"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/RosalinaLuma"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ee4696590bf023dd3a",
+    "Name": "Rapid Jab (Luma)",
+    "OwnerId": 45,
+    "Owner": "RosalinaLuma",
+    "HitboxActive": "?",
+    "FirstActionableFrame": "?",
+    "BaseDamage": "1.2",
+    "Angle": "50",
+    "BaseKnockBackSetKnockback": "15",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ee4696590bf023dd3a"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/RosalinaLuma"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ee4696590bf023dd3b",
+    "Name": "Rapid Jab Finisher (Rosalina)",
+    "OwnerId": 45,
+    "Owner": "RosalinaLuma",
+    "HitboxActive": "9-11",
+    "FirstActionableFrame": "40",
+    "BaseDamage": "3",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "60",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "150",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ee4696590bf023dd3b"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/RosalinaLuma"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ee4696590bf023dd3c",
+    "Name": "Rapid Jab Finisher (Luma)",
+    "OwnerId": 45,
+    "Owner": "RosalinaLuma",
+    "HitboxActive": "8-12",
+    "FirstActionableFrame": "40",
+    "BaseDamage": "3",
+    "Angle": "80",
+    "BaseKnockBackSetKnockback": "60",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "130",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ee4696590bf023dd3c"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/RosalinaLuma"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ee4696590bf023dd3d",
+    "Name": "Dash Attack (Hit 1, Rosalina)",
+    "OwnerId": 45,
+    "Owner": "RosalinaLuma",
+    "HitboxActive": "6-9",
+    "FirstActionableFrame": "48",
+    "BaseDamage": "3",
+    "Angle": "45",
+    "BaseKnockBackSetKnockback": "40",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "50",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ee4696590bf023dd3d"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/RosalinaLuma"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ee4696590bf023dd3e",
+    "Name": "Dash Attack (Hit 2, Rosalina)",
+    "OwnerId": 45,
+    "Owner": "RosalinaLuma",
+    "HitboxActive": "17-19",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "4",
+    "Angle": "65",
+    "BaseKnockBackSetKnockback": "70",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "130",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ee4696590bf023dd3e"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/RosalinaLuma"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ee4696590bf023dd3f",
+    "Name": "Dash Attack (Luma)",
+    "OwnerId": 45,
+    "Owner": "RosalinaLuma",
+    "HitboxActive": "6-8",
+    "FirstActionableFrame": "48",
+    "BaseDamage": "3",
+    "Angle": "45",
+    "BaseKnockBackSetKnockback": "45",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "50",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ee4696590bf023dd3f"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/RosalinaLuma"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ee4696590bf023dd40",
+    "Name": "Ftilt (Rosalina)",
+    "OwnerId": 45,
+    "Owner": "RosalinaLuma",
+    "HitboxActive": "7-9",
+    "FirstActionableFrame": "38",
+    "BaseDamage": "6/6/5",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "35",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "90",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ee4696590bf023dd40"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/RosalinaLuma"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ee4696590bf023dd41",
+    "Name": "Ftilt (Luma)",
+    "OwnerId": 45,
+    "Owner": "RosalinaLuma",
+    "HitboxActive": "8-11",
+    "FirstActionableFrame": "39",
+    "BaseDamage": "4.3",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "40",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "125",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ee4696590bf023dd41"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/RosalinaLuma"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ee4696590bf023dd42",
+    "Name": "Utilt (Rosalina)",
+    "OwnerId": 45,
+    "Owner": "RosalinaLuma",
+    "HitboxActive": "9-17 (Head Intangible: 4-11)",
+    "FirstActionableFrame": "41",
+    "BaseDamage": "8",
+    "Angle": "88",
+    "BaseKnockBackSetKnockback": "80",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "70",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ee4696590bf023dd42"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/RosalinaLuma"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ee4696590bf023dd43",
+    "Name": "Utilt (Early, Luma)",
+    "OwnerId": 45,
+    "Owner": "RosalinaLuma",
+    "HitboxActive": "3 (Ground Only)",
+    "FirstActionableFrame": "31",
+    "BaseDamage": "8",
+    "Angle": "88",
+    "BaseKnockBackSetKnockback": "120",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "60",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ee4696590bf023dd43"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/RosalinaLuma"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ee4696590bf023dd44",
+    "Name": "Utilt (Luma)",
+    "OwnerId": 45,
+    "Owner": "RosalinaLuma",
+    "HitboxActive": "4-5",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "4",
+    "Angle": "98/93",
+    "BaseKnockBackSetKnockback": "85/80",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "60",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ee4696590bf023dd44"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/RosalinaLuma"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ee4696590bf023dd45",
+    "Name": "Utilt (Late, Luma)",
+    "OwnerId": 45,
+    "Owner": "RosalinaLuma",
+    "HitboxActive": "6-10",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "3",
+    "Angle": "90",
+    "BaseKnockBackSetKnockback": "80",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "60",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ee4696590bf023dd45"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/RosalinaLuma"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ee4696590bf023dd46",
+    "Name": "Dtilt (Rosalina)",
+    "OwnerId": 45,
+    "Owner": "RosalinaLuma",
+    "HitboxActive": "5-8",
+    "FirstActionableFrame": "33",
+    "BaseDamage": "4.5",
+    "Angle": "30",
+    "BaseKnockBackSetKnockback": "35",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "98",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ee4696590bf023dd46"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/RosalinaLuma"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ee4696590bf023dd47",
+    "Name": "Dtilt (Luma)",
+    "OwnerId": 45,
+    "Owner": "RosalinaLuma",
+    "HitboxActive": "8-13",
+    "FirstActionableFrame": "32",
+    "BaseDamage": "3.5",
+    "Angle": "30",
+    "BaseKnockBackSetKnockback": "35",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "120",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ee4696590bf023dd47"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/RosalinaLuma"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ee4696590bf023dd48",
+    "Name": "Fsmash (Rosalina)",
+    "OwnerId": 45,
+    "Owner": "RosalinaLuma",
+    "HitboxActive": "16-18",
+    "FirstActionableFrame": "52",
+    "BaseDamage": "12",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "30",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "111",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ee4696590bf023dd48"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/RosalinaLuma"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ee4696590bf023dd49",
+    "Name": "Fsmash (Luma)",
+    "OwnerId": 45,
+    "Owner": "RosalinaLuma",
+    "HitboxActive": "17-18",
+    "FirstActionableFrame": "52",
+    "BaseDamage": "7/5",
+    "Angle": "361/70",
+    "BaseKnockBackSetKnockback": "43",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "165",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ee4696590bf023dd49"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/RosalinaLuma"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ee4696590bf023dd4a",
+    "Name": "Usmash (Rosalina)",
+    "OwnerId": 45,
+    "Owner": "RosalinaLuma",
+    "HitboxActive": "8-16 (Head Intangible: 7-16)",
+    "FirstActionableFrame": "48",
+    "BaseDamage": "12",
+    "Angle": "86",
+    "BaseKnockBackSetKnockback": "45",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "90",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ee4696590bf023dd4a"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/RosalinaLuma"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ee4696590bf023dd4b",
+    "Name": "Usmash (Luma)",
+    "OwnerId": 45,
+    "Owner": "RosalinaLuma",
+    "HitboxActive": "10-12",
+    "FirstActionableFrame": "48",
+    "BaseDamage": "6",
+    "Angle": "85",
+    "BaseKnockBackSetKnockback": "60",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "142",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ee4696590bf023dd4b"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/RosalinaLuma"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ee4696590bf023dd4c",
+    "Name": "Usmash (Late, Luma)",
+    "OwnerId": 45,
+    "Owner": "RosalinaLuma",
+    "HitboxActive": "13-17",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "5",
+    "Angle": "85",
+    "BaseKnockBackSetKnockback": "60",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "142",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ee4696590bf023dd4c"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/RosalinaLuma"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ee4696590bf023dd4d",
+    "Name": "Dsmash (Hit 1, Rosalina)",
+    "OwnerId": 45,
+    "Owner": "RosalinaLuma",
+    "HitboxActive": "6-7",
+    "FirstActionableFrame": "42",
+    "BaseDamage": "7",
+    "Angle": "32",
+    "BaseKnockBackSetKnockback": "40",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "102",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ee4696590bf023dd4d"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/RosalinaLuma"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ee4696590bf023dd4e",
+    "Name": "Dsmash (Hit 2, Rosalina)",
+    "OwnerId": 45,
+    "Owner": "RosalinaLuma",
+    "HitboxActive": "17-18",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "9",
+    "Angle": "32",
+    "BaseKnockBackSetKnockback": "36",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "105",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ee4696590bf023dd4e"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/RosalinaLuma"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ee4696590bf023dd4f",
+    "Name": "Dsmash (Hit 1, Luma)",
+    "OwnerId": 45,
+    "Owner": "RosalinaLuma",
+    "HitboxActive": "7-8",
+    "FirstActionableFrame": "36",
+    "BaseDamage": "4",
+    "Angle": "33",
+    "BaseKnockBackSetKnockback": "40",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "155",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ee4696590bf023dd4f"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/RosalinaLuma"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ee4696590bf023dd50",
+    "Name": "Dsmash (Hit 2, Luma)",
+    "OwnerId": 45,
+    "Owner": "RosalinaLuma",
+    "HitboxActive": "19-20",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "5",
+    "Angle": "33",
+    "BaseKnockBackSetKnockback": "40",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "155",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ee4696590bf023dd50"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/RosalinaLuma"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ee4696590bf023dd51",
+    "Name": "Standing Grab",
+    "OwnerId": 45,
+    "Owner": "RosalinaLuma",
+    "HitboxActive": "6-7",
+    "FirstActionableFrame": "36",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ee4696590bf023dd51"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/RosalinaLuma"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ee4696590bf023dd52",
+    "Name": "Dash Grab",
+    "OwnerId": 45,
+    "Owner": "RosalinaLuma",
+    "HitboxActive": "8-9",
+    "FirstActionableFrame": "43",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ee4696590bf023dd52"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/RosalinaLuma"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ee4696590bf023dd53",
+    "Name": "Pivot Grab",
+    "OwnerId": 45,
+    "Owner": "RosalinaLuma",
+    "HitboxActive": "9-10",
+    "FirstActionableFrame": "42",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ee4696590bf023dd53"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/RosalinaLuma"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ee4696590bf023dd54",
+    "Name": "Spotdodge",
+    "OwnerId": 45,
+    "Owner": "RosalinaLuma",
+    "HitboxActive": "3-17",
+    "FirstActionableFrame": "27",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ee4696590bf023dd54"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/RosalinaLuma"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ee4696590bf023dd55",
+    "Name": "Forward Roll",
+    "OwnerId": 45,
+    "Owner": "RosalinaLuma",
+    "HitboxActive": "4-17",
+    "FirstActionableFrame": "31",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ee4696590bf023dd55"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/RosalinaLuma"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ee4696590bf023dd56",
+    "Name": "Back Roll",
+    "OwnerId": 45,
+    "Owner": "RosalinaLuma",
+    "HitboxActive": "4-17",
+    "FirstActionableFrame": "31",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ee4696590bf023dd56"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/RosalinaLuma"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ee4696590bf023dd57",
+    "Name": "Airdodge",
+    "OwnerId": 45,
+    "Owner": "RosalinaLuma",
+    "HitboxActive": "3-27",
+    "FirstActionableFrame": "33",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ee4696590bf023dd57"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/RosalinaLuma"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ee4696590bf023dd58",
+    "Name": "Nair (Rosalina)",
+    "OwnerId": 45,
+    "Owner": "RosalinaLuma",
+    "HitboxActive": "9-34",
+    "FirstActionableFrame": "66",
+    "BaseDamage": "5",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "30",
+    "LandingLag": "11",
+    "AutoCancel": "1-2, 60&gt;",
+    "KnockbackGrowth": "108",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ee4696590bf023dd58"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/RosalinaLuma"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ee4696590bf023dd59",
+    "Name": "Nair (Late, Rosalina)",
+    "OwnerId": 45,
+    "Owner": "RosalinaLuma",
+    "HitboxActive": "35-46",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "7.5",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "25",
+    "LandingLag": "-",
+    "AutoCancel": "-",
+    "KnockbackGrowth": "108",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ee4696590bf023dd59"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/RosalinaLuma"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ee4696590bf023dd5a",
+    "Name": "Nair (Hit 1, Luma)",
+    "OwnerId": 45,
+    "Owner": "RosalinaLuma",
+    "HitboxActive": "3-6",
+    "FirstActionableFrame": "57?",
+    "BaseDamage": "4",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "40",
+    "LandingLag": "-",
+    "AutoCancel": "-",
+    "KnockbackGrowth": "170",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ee4696590bf023dd5a"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/RosalinaLuma"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ee4696590bf023dd5b",
+    "Name": "Nair (Hit 2, Luma)",
+    "OwnerId": 45,
+    "Owner": "RosalinaLuma",
+    "HitboxActive": "26-29",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "3",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "40",
+    "LandingLag": "-",
+    "AutoCancel": "-",
+    "KnockbackGrowth": "170",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ee4696590bf023dd5b"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/RosalinaLuma"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ee4696590bf023dd5c",
+    "Name": "Fair (Rosalina)",
+    "OwnerId": 45,
+    "Owner": "RosalinaLuma",
+    "HitboxActive": "11-25 (Rehit rate: 5)",
+    "FirstActionableFrame": "76",
+    "BaseDamage": "1",
+    "Angle": "366/30",
+    "BaseKnockBackSetKnockback": "55",
+    "LandingLag": "20",
+    "AutoCancel": "1-5, 67&gt;",
+    "KnockbackGrowth": "100",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ee4696590bf023dd5c"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/RosalinaLuma"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ee4696590bf023dd5d",
+    "Name": "Fair (Final Hit, Rosalina)",
+    "OwnerId": 45,
+    "Owner": "RosalinaLuma",
+    "HitboxActive": "27-28",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "4",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "50",
+    "LandingLag": "-",
+    "AutoCancel": "-",
+    "KnockbackGrowth": "138",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ee4696590bf023dd5d"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/RosalinaLuma"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ee4696590bf023dd5e",
+    "Name": "Fair (Luma)",
+    "OwnerId": 45,
+    "Owner": "RosalinaLuma",
+    "HitboxActive": "11-14",
+    "FirstActionableFrame": "58",
+    "BaseDamage": "5",
+    "Angle": "80",
+    "BaseKnockBackSetKnockback": "30",
+    "LandingLag": "-",
+    "AutoCancel": "-",
+    "KnockbackGrowth": "150",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ee4696590bf023dd5e"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/RosalinaLuma"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ee4696590bf023dd5f",
+    "Name": "Bair (Rosalina)",
+    "OwnerId": 45,
+    "Owner": "RosalinaLuma",
+    "HitboxActive": "9-11",
+    "FirstActionableFrame": "55",
+    "BaseDamage": "11",
+    "Angle": "30",
+    "BaseKnockBackSetKnockback": "38",
+    "LandingLag": "16",
+    "AutoCancel": "1-4, 46&gt;",
+    "KnockbackGrowth": "65",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ee4696590bf023dd5f"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/RosalinaLuma"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ee4696590bf023dd60",
+    "Name": "Bair (Luma)",
+    "OwnerId": 45,
+    "Owner": "RosalinaLuma",
+    "HitboxActive": "10-15",
+    "FirstActionableFrame": "55",
+    "BaseDamage": "4",
+    "Angle": "28",
+    "BaseKnockBackSetKnockback": "30",
+    "LandingLag": "-",
+    "AutoCancel": "-",
+    "KnockbackGrowth": "150",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ee4696590bf023dd60"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/RosalinaLuma"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ee4696590bf023dd61",
+    "Name": "Uair (Early, Rosalina)",
+    "OwnerId": 45,
+    "Owner": "RosalinaLuma",
+    "HitboxActive": "8-10",
+    "FirstActionableFrame": "42",
+    "BaseDamage": "10",
+    "Angle": "88",
+    "BaseKnockBackSetKnockback": "40",
+    "LandingLag": "18",
+    "AutoCancel": "42&gt;",
+    "KnockbackGrowth": "98",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ee4696590bf023dd61"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/RosalinaLuma"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ee4696590bf023dd62",
+    "Name": "Uair (Rosalina)",
+    "OwnerId": 45,
+    "Owner": "RosalinaLuma",
+    "HitboxActive": "11-21",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "5",
+    "Angle": "88",
+    "BaseKnockBackSetKnockback": "40",
+    "LandingLag": "-",
+    "AutoCancel": "-",
+    "KnockbackGrowth": "98",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ee4696590bf023dd62"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/RosalinaLuma"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ee4696590bf023dd63",
+    "Name": "Uair (Late, Rosalina)",
+    "OwnerId": 45,
+    "Owner": "RosalinaLuma",
+    "HitboxActive": "22-29",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "2",
+    "Angle": "88",
+    "BaseKnockBackSetKnockback": "20",
+    "LandingLag": "-",
+    "AutoCancel": "-",
+    "KnockbackGrowth": "30",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ee4696590bf023dd63"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/RosalinaLuma"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ee4696590bf023dd64",
+    "Name": "Uair (Luma)",
+    "OwnerId": 45,
+    "Owner": "RosalinaLuma",
+    "HitboxActive": "3-10",
+    "FirstActionableFrame": "42",
+    "BaseDamage": "4",
+    "Angle": "108/92",
+    "BaseKnockBackSetKnockback": "110",
+    "LandingLag": "-",
+    "AutoCancel": "-",
+    "KnockbackGrowth": "60",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ee4696590bf023dd64"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/RosalinaLuma"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ee4696590bf023dd65",
+    "Name": "Dair (Early, Rosalina)",
+    "OwnerId": 45,
+    "Owner": "RosalinaLuma",
+    "HitboxActive": "17",
+    "FirstActionableFrame": "50",
+    "BaseDamage": "8",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "40",
+    "LandingLag": "20",
+    "AutoCancel": "1-2, 49&gt;",
+    "KnockbackGrowth": "80",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ee4696590bf023dd65"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/RosalinaLuma"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ee4696590bf023dd66",
+    "Name": "Dair (Meteor, Rosalina)",
+    "OwnerId": 45,
+    "Owner": "RosalinaLuma",
+    "HitboxActive": "18-22",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "7",
+    "Angle": "270",
+    "BaseKnockBackSetKnockback": "20",
+    "LandingLag": "-",
+    "AutoCancel": "-",
+    "KnockbackGrowth": "67",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ee4696590bf023dd66"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/RosalinaLuma"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ee4696590bf023dd67",
+    "Name": "Dair (Rosalina)",
+    "OwnerId": 45,
+    "Owner": "RosalinaLuma",
+    "HitboxActive": "23-25",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "6",
+    "Angle": "45",
+    "BaseKnockBackSetKnockback": "35",
+    "LandingLag": "-",
+    "AutoCancel": "-",
+    "KnockbackGrowth": "100",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ee4696590bf023dd67"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/RosalinaLuma"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ee4696590bf023dd68",
+    "Name": "Dair (Late, Rosalina)",
+    "OwnerId": 45,
+    "Owner": "RosalinaLuma",
+    "HitboxActive": "26-32",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "2",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "20",
+    "LandingLag": "-",
+    "AutoCancel": "-",
+    "KnockbackGrowth": "30",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ee4696590bf023dd68"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/RosalinaLuma"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ee4696590bf023dd69",
+    "Name": "Dair (Luma)",
+    "OwnerId": 45,
+    "Owner": "RosalinaLuma",
+    "HitboxActive": "8-12",
+    "FirstActionableFrame": "42",
+    "BaseDamage": "5",
+    "Angle": "45",
+    "BaseKnockBackSetKnockback": "90",
+    "LandingLag": "-",
+    "AutoCancel": "-",
+    "KnockbackGrowth": "110",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ee4696590bf023dd69"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/RosalinaLuma"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ee4696590bf023dd6a",
+    "Name": "Luma Shot (No Charge)",
+    "OwnerId": 45,
+    "Owner": "RosalinaLuma",
+    "HitboxActive": "10-25",
+    "FirstActionableFrame": "44",
+    "BaseDamage": "1",
+    "Angle": "52",
+    "BaseKnockBackSetKnockback": "50",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "104",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ee4696590bf023dd6a"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/RosalinaLuma"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ee4696590bf023dd6b",
+    "Name": "Luma Shot (Full Charge Release)",
+    "OwnerId": 45,
+    "Owner": "RosalinaLuma",
+    "HitboxActive": "4-32 (80 Frames to Fully Charge)",
+    "FirstActionableFrame": "38",
+    "BaseDamage": "16",
+    "Angle": "52",
+    "BaseKnockBackSetKnockback": "50",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "104",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ee4696590bf023dd6b"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/RosalinaLuma"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ee4696590bf023dd6c",
+    "Name": "Luma Shot (Wand Wave)",
+    "OwnerId": 45,
+    "Owner": "RosalinaLuma",
+    "HitboxActive": "8-15",
+    "FirstActionableFrame": "38",
+    "BaseDamage": "0",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "W: 30",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ee4696590bf023dd6c"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/RosalinaLuma"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ee4696590bf023dd6d",
+    "Name": "Star Bits",
+    "OwnerId": 45,
+    "Owner": "RosalinaLuma",
+    "HitboxActive": "13-16, 17-20, 21-24",
+    "FirstActionableFrame": "52 (Luma: 40)",
+    "BaseDamage": "2.8",
+    "Angle": "55",
+    "BaseKnockBackSetKnockback": "30",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "50",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ee4696590bf023dd6d"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/RosalinaLuma"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ee4696590bf023dd6e",
+    "Name": "Launch Star",
+    "OwnerId": 45,
+    "Owner": "RosalinaLuma",
+    "HitboxActive": "-",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "-",
+    "Angle": "-",
+    "BaseKnockBackSetKnockback": "-",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "-",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ee4696590bf023dd6e"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/RosalinaLuma"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ee4696590bf023dd6f",
+    "Name": "Gravitational Pull",
+    "OwnerId": 45,
+    "Owner": "RosalinaLuma",
+    "HitboxActive": "Pulls on: 2-Forever",
+    "FirstActionableFrame": "45 (Luma: 55)",
+    "BaseDamage": "-",
+    "Angle": "-",
+    "BaseKnockBackSetKnockback": "-",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "-",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ee4696590bf023dd6f"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/RosalinaLuma"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ee4696590bf023dd70",
+    "Name": "Fthrow",
+    "OwnerId": 45,
+    "Owner": "RosalinaLuma",
+    "HitboxActive": null,
+    "FirstActionableFrame": null,
+    "BaseDamage": "9",
+    "Angle": "45",
+    "BaseKnockBackSetKnockback": "45",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "76",
+    "MoveType": "throw",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ee4696590bf023dd70"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/RosalinaLuma"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ee4696590bf023dd71",
+    "Name": "Bthrow",
+    "OwnerId": 45,
+    "Owner": "RosalinaLuma",
+    "HitboxActive": null,
+    "FirstActionableFrame": null,
+    "BaseDamage": "11",
+    "Angle": "50",
+    "BaseKnockBackSetKnockback": "70",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "60",
+    "MoveType": "throw",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ee4696590bf023dd71"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/RosalinaLuma"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ee4696590bf023dd72",
+    "Name": "Uthrow",
+    "OwnerId": 45,
+    "Owner": "RosalinaLuma",
+    "HitboxActive": null,
+    "FirstActionableFrame": null,
+    "BaseDamage": "7",
+    "Angle": "88",
+    "BaseKnockBackSetKnockback": "50",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "90",
+    "MoveType": "throw",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ee4696590bf023dd72"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/RosalinaLuma"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ee4696590bf023dd73",
+    "Name": "Dthrow",
+    "OwnerId": 45,
+    "Owner": "RosalinaLuma",
+    "HitboxActive": null,
+    "FirstActionableFrame": null,
+    "BaseDamage": "9",
+    "Angle": "70",
+    "BaseKnockBackSetKnockback": "90",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "35",
+    "MoveType": "throw",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ee4696590bf023dd73"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/RosalinaLuma"
+      }
+    ]
+  }
+]

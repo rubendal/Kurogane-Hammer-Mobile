@@ -1,0 +1,1302 @@
+﻿[
+  {
+    "InstanceId": "598e708c4696590bf023d031",
+    "Name": "Jab 1",
+    "OwnerId": 8,
+    "Owner": "DarkPit",
+    "HitboxActive": "5-6",
+    "FirstActionableFrame": "27",
+    "BaseDamage": "2",
+    "Angle": "55/90",
+    "BaseKnockBackSetKnockback": "38",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "30",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e708c4696590bf023d031"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DarkPit"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e708c4696590bf023d032",
+    "Name": "Jab 2",
+    "OwnerId": 8,
+    "Owner": "DarkPit",
+    "HitboxActive": "5-6",
+    "FirstActionableFrame": "30",
+    "BaseDamage": "2",
+    "Angle": "60/90/120",
+    "BaseKnockBackSetKnockback": "30",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "30",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e708c4696590bf023d032"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DarkPit"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e708c4696590bf023d033",
+    "Name": "Jab 3",
+    "OwnerId": 8,
+    "Owner": "DarkPit",
+    "HitboxActive": "3-4",
+    "FirstActionableFrame": "32",
+    "BaseDamage": "5",
+    "Angle": "70",
+    "BaseKnockBackSetKnockback": "60",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e708c4696590bf023d033"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DarkPit"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e708c4696590bf023d034",
+    "Name": "Rapid Jab",
+    "OwnerId": 8,
+    "Owner": "DarkPit",
+    "HitboxActive": "-",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "0.8",
+    "Angle": "25/120",
+    "BaseKnockBackSetKnockback": "W: 18/4",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e708c4696590bf023d034"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DarkPit"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e708c4696590bf023d035",
+    "Name": "Rapid Jab Finisher",
+    "OwnerId": 8,
+    "Owner": "DarkPit",
+    "HitboxActive": "5",
+    "FirstActionableFrame": "40",
+    "BaseDamage": "2",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "45",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "170",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e708c4696590bf023d035"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DarkPit"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e708c4696590bf023d036",
+    "Name": "Dash Attack",
+    "OwnerId": 8,
+    "Owner": "DarkPit",
+    "HitboxActive": "7-9",
+    "FirstActionableFrame": "39",
+    "BaseDamage": "11",
+    "Angle": "60",
+    "BaseKnockBackSetKnockback": "80",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "50",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e708c4696590bf023d036"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DarkPit"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e708c4696590bf023d037",
+    "Name": "Ftilt",
+    "OwnerId": 8,
+    "Owner": "DarkPit",
+    "HitboxActive": "10-14",
+    "FirstActionableFrame": "40",
+    "BaseDamage": "7/10",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "15",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e708c4696590bf023d037"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DarkPit"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e708c4696590bf023d038",
+    "Name": "Utilt (Hit 1)",
+    "OwnerId": 8,
+    "Owner": "DarkPit",
+    "HitboxActive": "6",
+    "FirstActionableFrame": "43",
+    "BaseDamage": "2",
+    "Angle": "100",
+    "BaseKnockBackSetKnockback": "W: 110",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e708c4696590bf023d038"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DarkPit"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e708c4696590bf023d039",
+    "Name": "Utilt (Hit 2)",
+    "OwnerId": 8,
+    "Owner": "DarkPit",
+    "HitboxActive": "8-10",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "3",
+    "Angle": "365/90",
+    "BaseKnockBackSetKnockback": "W: 60/80",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e708c4696590bf023d039"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DarkPit"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e708c4696590bf023d03a",
+    "Name": "Utilt (Hit 3)",
+    "OwnerId": 8,
+    "Owner": "DarkPit",
+    "HitboxActive": "15-16",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "5",
+    "Angle": "83",
+    "BaseKnockBackSetKnockback": "50",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "120",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e708c4696590bf023d03a"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DarkPit"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e708c4696590bf023d03b",
+    "Name": "Dtilt",
+    "OwnerId": 8,
+    "Owner": "DarkPit",
+    "HitboxActive": "6-7",
+    "FirstActionableFrame": "32",
+    "BaseDamage": "6",
+    "Angle": "55",
+    "BaseKnockBackSetKnockback": "70",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "50",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e708c4696590bf023d03b"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DarkPit"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e708c4696590bf023d03c",
+    "Name": "Fsmash (Hit 1)",
+    "OwnerId": 8,
+    "Owner": "DarkPit",
+    "HitboxActive": "10",
+    "FirstActionableFrame": "59",
+    "BaseDamage": "5",
+    "Angle": "70/35/70/0",
+    "BaseKnockBackSetKnockback": "W: 43/53/5/15",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e708c4696590bf023d03c"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DarkPit"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e708c4696590bf023d03d",
+    "Name": "Fsmash (Hit 2)",
+    "OwnerId": 8,
+    "Owner": "DarkPit",
+    "HitboxActive": "21",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "10",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "42",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "122",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e708c4696590bf023d03d"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DarkPit"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e708c4696590bf023d03e",
+    "Name": "Usmash (Hit 1)",
+    "OwnerId": 8,
+    "Owner": "DarkPit",
+    "HitboxActive": "6",
+    "FirstActionableFrame": "52",
+    "BaseDamage": "3",
+    "Angle": "365/365/105",
+    "BaseKnockBackSetKnockback": "W: 20/33/33, B: 40",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e708c4696590bf023d03e"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DarkPit"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e708c4696590bf023d03f",
+    "Name": "Usmash (Hit 1, Late)",
+    "OwnerId": 8,
+    "Owner": "DarkPit",
+    "HitboxActive": "7",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "3",
+    "Angle": "110",
+    "BaseKnockBackSetKnockback": "W: 140",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e708c4696590bf023d03f"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DarkPit"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e708c4696590bf023d040",
+    "Name": "Usmash (Hit 2)",
+    "OwnerId": 8,
+    "Owner": "DarkPit",
+    "HitboxActive": "10",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "2",
+    "Angle": "98/120/120",
+    "BaseKnockBackSetKnockback": "W: 20/50/50",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e708c4696590bf023d040"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DarkPit"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e708c4696590bf023d041",
+    "Name": "Usmash (Hit 3)",
+    "OwnerId": 8,
+    "Owner": "DarkPit",
+    "HitboxActive": "18",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "8",
+    "Angle": "89",
+    "BaseKnockBackSetKnockback": "66",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "102",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e708c4696590bf023d041"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DarkPit"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e708c4696590bf023d042",
+    "Name": "Dsmash (Hit 1)",
+    "OwnerId": 8,
+    "Owner": "DarkPit",
+    "HitboxActive": "5-6",
+    "FirstActionableFrame": "41",
+    "BaseDamage": "12/12/10",
+    "Angle": "55",
+    "BaseKnockBackSetKnockback": "35",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "93",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e708c4696590bf023d042"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DarkPit"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e708c4696590bf023d043",
+    "Name": "Dsmash (Hit 2)",
+    "OwnerId": 8,
+    "Owner": "DarkPit",
+    "HitboxActive": "18-20",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "12/12/10",
+    "Angle": "30",
+    "BaseKnockBackSetKnockback": "25",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "93",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e708c4696590bf023d043"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DarkPit"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e708c4696590bf023d044",
+    "Name": "Standing Grab",
+    "OwnerId": 8,
+    "Owner": "DarkPit",
+    "HitboxActive": "6-7",
+    "FirstActionableFrame": "30",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e708c4696590bf023d044"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DarkPit"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e708c4696590bf023d045",
+    "Name": "Dash Grab",
+    "OwnerId": 8,
+    "Owner": "DarkPit",
+    "HitboxActive": "8-9",
+    "FirstActionableFrame": "37",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e708c4696590bf023d045"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DarkPit"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e708c4696590bf023d046",
+    "Name": "Pivot Grab",
+    "OwnerId": 8,
+    "Owner": "DarkPit",
+    "HitboxActive": "9-10",
+    "FirstActionableFrame": "35",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e708c4696590bf023d046"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DarkPit"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e708c4696590bf023d047",
+    "Name": "Spotdodge",
+    "OwnerId": 8,
+    "Owner": "DarkPit",
+    "HitboxActive": "2-16",
+    "FirstActionableFrame": "26",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e708c4696590bf023d047"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DarkPit"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e708c4696590bf023d048",
+    "Name": "Forward Roll",
+    "OwnerId": 8,
+    "Owner": "DarkPit",
+    "HitboxActive": "4-15",
+    "FirstActionableFrame": "28",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e708c4696590bf023d048"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DarkPit"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e708c4696590bf023d049",
+    "Name": "Back Roll",
+    "OwnerId": 8,
+    "Owner": "DarkPit",
+    "HitboxActive": "4-15",
+    "FirstActionableFrame": "28",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e708c4696590bf023d049"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DarkPit"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e708c4696590bf023d04a",
+    "Name": "Airdodge",
+    "OwnerId": 8,
+    "Owner": "DarkPit",
+    "HitboxActive": "2-26",
+    "FirstActionableFrame": "32",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e708c4696590bf023d04a"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DarkPit"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e708c4696590bf023d04b",
+    "Name": "Nair (Hit 1-7)",
+    "OwnerId": 8,
+    "Owner": "DarkPit",
+    "HitboxActive": "4, 7, 10, 13, 16, 19, 22",
+    "FirstActionableFrame": "55",
+    "BaseDamage": "0.7",
+    "Angle": "65/125/25/160",
+    "BaseKnockBackSetKnockback": "W: 70/70/20/20",
+    "LandingLag": "24",
+    "AutoCancel": "1-3, 30&gt;",
+    "KnockbackGrowth": "100",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e708c4696590bf023d04b"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DarkPit"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e708c4696590bf023d04c",
+    "Name": "Nair (Hit 8)",
+    "OwnerId": 8,
+    "Owner": "DarkPit",
+    "HitboxActive": "25",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "4",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "60",
+    "LandingLag": "-",
+    "AutoCancel": "-",
+    "KnockbackGrowth": "100",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e708c4696590bf023d04c"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DarkPit"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e708c4696590bf023d04d",
+    "Name": "Fair (Hits 1-2)",
+    "OwnerId": 8,
+    "Owner": "DarkPit",
+    "HitboxActive": "11-12, 14-15",
+    "FirstActionableFrame": "47",
+    "BaseDamage": "1.5",
+    "Angle": "366",
+    "BaseKnockBackSetKnockback": "20",
+    "LandingLag": "20",
+    "AutoCancel": "28&gt;",
+    "KnockbackGrowth": "48",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e708c4696590bf023d04d"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DarkPit"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e708c4696590bf023d04e",
+    "Name": "Fair (Hit 3)",
+    "OwnerId": 8,
+    "Owner": "DarkPit",
+    "HitboxActive": "18-19",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "4",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "20",
+    "LandingLag": "-",
+    "AutoCancel": "-",
+    "KnockbackGrowth": "180",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e708c4696590bf023d04e"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DarkPit"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e708c4696590bf023d04f",
+    "Name": "Bair",
+    "OwnerId": 8,
+    "Owner": "DarkPit",
+    "HitboxActive": "10-12",
+    "FirstActionableFrame": "41",
+    "BaseDamage": "12/8",
+    "Angle": "46/66",
+    "BaseKnockBackSetKnockback": "30",
+    "LandingLag": "20",
+    "AutoCancel": "28&gt;",
+    "KnockbackGrowth": "96",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e708c4696590bf023d04f"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DarkPit"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e708c4696590bf023d050",
+    "Name": "Uair (Hits 1-4)",
+    "OwnerId": 8,
+    "Owner": "DarkPit",
+    "HitboxActive": "12-13, 15-16, 18-19, 21-22",
+    "FirstActionableFrame": "50",
+    "BaseDamage": "2",
+    "Angle": "90/270/165/165",
+    "BaseKnockBackSetKnockback": "W: 80/20/60/60",
+    "LandingLag": "24",
+    "AutoCancel": "1-4, 37&gt;",
+    "KnockbackGrowth": "100",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e708c4696590bf023d050"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DarkPit"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e708c4696590bf023d051",
+    "Name": "Uair (Hit 5)",
+    "OwnerId": 8,
+    "Owner": "DarkPit",
+    "HitboxActive": "24-25",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "2",
+    "Angle": "68",
+    "BaseKnockBackSetKnockback": "5",
+    "LandingLag": "-",
+    "AutoCancel": "-",
+    "KnockbackGrowth": "270",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e708c4696590bf023d051"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DarkPit"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e708c4696590bf023d052",
+    "Name": "Dair",
+    "OwnerId": 8,
+    "Owner": "DarkPit",
+    "HitboxActive": "10",
+    "FirstActionableFrame": "37",
+    "BaseDamage": "10",
+    "Angle": "270/60",
+    "BaseKnockBackSetKnockback": "0/40",
+    "LandingLag": "24",
+    "AutoCancel": "1-6, 36&gt;",
+    "KnockbackGrowth": "80",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e708c4696590bf023d052"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DarkPit"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e708c4696590bf023d053",
+    "Name": "Dair (Late)",
+    "OwnerId": 8,
+    "Owner": "DarkPit",
+    "HitboxActive": "11-12",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "10",
+    "Angle": "80/70",
+    "BaseKnockBackSetKnockback": "50/40",
+    "LandingLag": "-",
+    "AutoCancel": "-",
+    "KnockbackGrowth": "80",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e708c4696590bf023d053"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DarkPit"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e708c4696590bf023d054",
+    "Name": "Silver Bow (No Charge)",
+    "OwnerId": 8,
+    "Owner": "DarkPit",
+    "HitboxActive": "20-58",
+    "FirstActionableFrame": "59",
+    "BaseDamage": "4.3125",
+    "Angle": "60",
+    "BaseKnockBackSetKnockback": "4",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "88",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e708c4696590bf023d054"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DarkPit"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e708c4696590bf023d055",
+    "Name": "Silver Bow (No Charge, Aerial)",
+    "OwnerId": 8,
+    "Owner": "DarkPit",
+    "HitboxActive": "22-60",
+    "FirstActionableFrame": "43",
+    "BaseDamage": "-",
+    "Angle": "-",
+    "BaseKnockBackSetKnockback": "-",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "-",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e708c4696590bf023d055"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DarkPit"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e708c4696590bf023d056",
+    "Name": "Silver Bow (Full Charge)",
+    "OwnerId": 8,
+    "Owner": "DarkPit",
+    "HitboxActive": "79-117",
+    "FirstActionableFrame": "118",
+    "BaseDamage": "10.95",
+    "Angle": "-",
+    "BaseKnockBackSetKnockback": "-",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "-",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e708c4696590bf023d056"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DarkPit"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e708c4696590bf023d057",
+    "Name": "Electroshock Arm (Ground)",
+    "OwnerId": 8,
+    "Owner": "DarkPit",
+    "HitboxActive": "Inert Detector: 16-35 (Super Armor: 11-26)",
+    "FirstActionableFrame": "83",
+    "BaseDamage": "-",
+    "Angle": "-",
+    "BaseKnockBackSetKnockback": "-",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "-",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e708c4696590bf023d057"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DarkPit"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e708c4696590bf023d058",
+    "Name": "Electroshock Arm (Ground, Attack)",
+    "OwnerId": 8,
+    "Owner": "DarkPit",
+    "HitboxActive": "2-4",
+    "FirstActionableFrame": "50",
+    "BaseDamage": "12",
+    "Angle": "43",
+    "BaseKnockBackSetKnockback": "99",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "67",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e708c4696590bf023d058"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DarkPit"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e708c4696590bf023d059",
+    "Name": "Electroshock Arm (Aerial)",
+    "OwnerId": 8,
+    "Owner": "DarkPit",
+    "HitboxActive": "Inert Detector: 19-35 (Super Armor: 11-26)",
+    "FirstActionableFrame": "121",
+    "BaseDamage": "-",
+    "Angle": "-",
+    "BaseKnockBackSetKnockback": "-",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "-",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e708c4696590bf023d059"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DarkPit"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e708c4696590bf023d05a",
+    "Name": "Electroshock Arm (Aerial, Attack)",
+    "OwnerId": 8,
+    "Owner": "DarkPit",
+    "HitboxActive": "2-5",
+    "FirstActionableFrame": "58",
+    "BaseDamage": "9.5",
+    "Angle": "43",
+    "BaseKnockBackSetKnockback": "90",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "58",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e708c4696590bf023d05a"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DarkPit"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e708c4696590bf023d05b",
+    "Name": "Power of Flight (Grounded)",
+    "OwnerId": 8,
+    "Owner": "DarkPit",
+    "HitboxActive": "Intangible: 9-19",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "-",
+    "Angle": "-",
+    "BaseKnockBackSetKnockback": "-",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "-",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e708c4696590bf023d05b"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DarkPit"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e708c4696590bf023d05c",
+    "Name": "Power of Flight (Aerial)",
+    "OwnerId": 8,
+    "Owner": "DarkPit",
+    "HitboxActive": "Intangible: 15-19",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "-",
+    "Angle": "-",
+    "BaseKnockBackSetKnockback": "-",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "-",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e708c4696590bf023d05c"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DarkPit"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e708c4696590bf023d05d",
+    "Name": "Guardian Orbitars (Minimum Duration)",
+    "OwnerId": 8,
+    "Owner": "DarkPit",
+    "HitboxActive": "Shield Appears: 9-29 (1.5&#215;, 50% Break Threshold)",
+    "FirstActionableFrame": "64",
+    "BaseDamage": "HP: 18.00001",
+    "Angle": "HP Regen per/f: 0.07",
+    "BaseKnockBackSetKnockback": "Recharge: 600 frames",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "-",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e708c4696590bf023d05d"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DarkPit"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e708c4696590bf023d05e",
+    "Name": "Guardian Orbitars (Maximum Duration)",
+    "OwnerId": 8,
+    "Owner": "DarkPit",
+    "HitboxActive": "Shield Appears: 9-89 (1.5&#215;, 50% Break Threshold)",
+    "FirstActionableFrame": "124",
+    "BaseDamage": "-",
+    "Angle": "-",
+    "BaseKnockBackSetKnockback": "-",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "-",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e708c4696590bf023d05e"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DarkPit"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e708c4696590bf023d05f",
+    "Name": "Fthrow",
+    "OwnerId": 8,
+    "Owner": "DarkPit",
+    "HitboxActive": null,
+    "FirstActionableFrame": null,
+    "BaseDamage": "6, 4",
+    "Angle": "45",
+    "BaseKnockBackSetKnockback": "50",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "150",
+    "MoveType": "throw",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e708c4696590bf023d05f"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DarkPit"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e708c4696590bf023d060",
+    "Name": "Bthrow",
+    "OwnerId": 8,
+    "Owner": "DarkPit",
+    "HitboxActive": null,
+    "FirstActionableFrame": null,
+    "BaseDamage": "8",
+    "Angle": "45",
+    "BaseKnockBackSetKnockback": "65",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "60",
+    "MoveType": "throw",
+    "IsWeightDependent": true,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e708c4696590bf023d060"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DarkPit"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e708c4696590bf023d061",
+    "Name": "Uthrow",
+    "OwnerId": 8,
+    "Owner": "DarkPit",
+    "HitboxActive": null,
+    "FirstActionableFrame": null,
+    "BaseDamage": "4, 7",
+    "Angle": "90",
+    "BaseKnockBackSetKnockback": "70",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "72",
+    "MoveType": "throw",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e708c4696590bf023d061"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DarkPit"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e708c4696590bf023d062",
+    "Name": "Dthrow",
+    "OwnerId": 8,
+    "Owner": "DarkPit",
+    "HitboxActive": null,
+    "FirstActionableFrame": null,
+    "BaseDamage": "2, 4",
+    "Angle": "70",
+    "BaseKnockBackSetKnockback": "80",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "60",
+    "MoveType": "throw",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e708c4696590bf023d062"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DarkPit"
+      }
+    ]
+  }
+]

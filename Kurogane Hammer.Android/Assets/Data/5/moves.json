@@ -1,0 +1,1068 @@
+﻿[
+  {
+    "InstanceId": "598e70844696590bf023cf0a",
+    "Name": "Jab 1",
+    "OwnerId": 5,
+    "Owner": "Charizard",
+    "HitboxActive": "4-5",
+    "FirstActionableFrame": "23",
+    "BaseDamage": "3",
+    "Angle": "120/361/361",
+    "BaseKnockBackSetKnockback": "W: 26/22/22",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70844696590bf023cf0a"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Charizard"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70844696590bf023cf0b",
+    "Name": "Jab 2",
+    "OwnerId": 5,
+    "Owner": "Charizard",
+    "HitboxActive": "5-6",
+    "FirstActionableFrame": "26",
+    "BaseDamage": "4",
+    "Angle": "80/55/30",
+    "BaseKnockBackSetKnockback": "25/25/40",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "50",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70844696590bf023cf0b"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Charizard"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70844696590bf023cf0c",
+    "Name": "Jab 3",
+    "OwnerId": 5,
+    "Owner": "Charizard",
+    "HitboxActive": "7-9",
+    "FirstActionableFrame": "34",
+    "BaseDamage": "5",
+    "Angle": "70/60/50/45",
+    "BaseKnockBackSetKnockback": "60",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "130",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70844696590bf023cf0c"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Charizard"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70844696590bf023cf0d",
+    "Name": "Dash Attack",
+    "OwnerId": 5,
+    "Owner": "Charizard",
+    "HitboxActive": "10-12",
+    "FirstActionableFrame": "40",
+    "BaseDamage": "11 (+1)",
+    "Angle": "50/60",
+    "BaseKnockBackSetKnockback": "100",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "45",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70844696590bf023cf0d"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Charizard"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70844696590bf023cf0e",
+    "Name": "Dash Attack (Late)",
+    "OwnerId": 5,
+    "Owner": "Charizard",
+    "HitboxActive": "13-20",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "8 (+1)",
+    "Angle": "50/60",
+    "BaseKnockBackSetKnockback": "100",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "30",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70844696590bf023cf0e"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Charizard"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70844696590bf023cf0f",
+    "Name": "Ftilt (All Angles)",
+    "OwnerId": 5,
+    "Owner": "Charizard",
+    "HitboxActive": "11-13",
+    "FirstActionableFrame": "43",
+    "BaseDamage": "11/7/11/7",
+    "Angle": "40/361/40/361",
+    "BaseKnockBackSetKnockback": "40",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70844696590bf023cf0f"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Charizard"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70844696590bf023cf10",
+    "Name": "Utilt",
+    "OwnerId": 5,
+    "Owner": "Charizard",
+    "HitboxActive": "9-13",
+    "FirstActionableFrame": "34",
+    "BaseDamage": "8",
+    "Angle": "96",
+    "BaseKnockBackSetKnockback": "40",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "130",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70844696590bf023cf10"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Charizard"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70844696590bf023cf11",
+    "Name": "Dtilt (Windbox)",
+    "OwnerId": 5,
+    "Owner": "Charizard",
+    "HitboxActive": "7-8",
+    "FirstActionableFrame": "31",
+    "BaseDamage": "0",
+    "Angle": "30",
+    "BaseKnockBackSetKnockback": "W: 72",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "60",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70844696590bf023cf11"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Charizard"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70844696590bf023cf12",
+    "Name": "Dtilt",
+    "OwnerId": 5,
+    "Owner": "Charizard",
+    "HitboxActive": "9-10",
+    "FirstActionableFrame": "31",
+    "BaseDamage": "10",
+    "Angle": "30",
+    "BaseKnockBackSetKnockback": "60",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "60",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70844696590bf023cf12"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Charizard"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70844696590bf023cf13",
+    "Name": "Fsmash",
+    "OwnerId": 5,
+    "Owner": "Charizard",
+    "HitboxActive": "22 (Intangible: 22-25)",
+    "FirstActionableFrame": "70",
+    "BaseDamage": "17",
+    "Angle": "45",
+    "BaseKnockBackSetKnockback": "60",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "94",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70844696590bf023cf13"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Charizard"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70844696590bf023cf14",
+    "Name": "Fsmash (Late)",
+    "OwnerId": 5,
+    "Owner": "Charizard",
+    "HitboxActive": "23-24",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "17/14",
+    "Angle": "45",
+    "BaseKnockBackSetKnockback": "60",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "94",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70844696590bf023cf14"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Charizard"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70844696590bf023cf15",
+    "Name": "Usmash (Hit 1)",
+    "OwnerId": 5,
+    "Owner": "Charizard",
+    "HitboxActive": "6",
+    "FirstActionableFrame": "49",
+    "BaseDamage": "5 (Ground Only)",
+    "Angle": "110",
+    "BaseKnockBackSetKnockback": "W: 100",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70844696590bf023cf15"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Charizard"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70844696590bf023cf16",
+    "Name": "Usmash (Hit 1)",
+    "OwnerId": 5,
+    "Owner": "Charizard",
+    "HitboxActive": "7-11",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "5",
+    "Angle": "140/100/280",
+    "BaseKnockBackSetKnockback": "W: 30/60/10",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70844696590bf023cf16"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Charizard"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70844696590bf023cf17",
+    "Name": "Usmash (Hit 2)",
+    "OwnerId": 5,
+    "Owner": "Charizard",
+    "HitboxActive": "17-21",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "11",
+    "Angle": "83",
+    "BaseKnockBackSetKnockback": "40",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "107",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70844696590bf023cf17"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Charizard"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70844696590bf023cf18",
+    "Name": "Dsmash",
+    "OwnerId": 5,
+    "Owner": "Charizard",
+    "HitboxActive": "14-16",
+    "FirstActionableFrame": "61",
+    "BaseDamage": "16",
+    "Angle": "33/33/46/46",
+    "BaseKnockBackSetKnockback": "40",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "79/79/85/85",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70844696590bf023cf18"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Charizard"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70844696590bf023cf19",
+    "Name": "Standing Grab",
+    "OwnerId": 5,
+    "Owner": "Charizard",
+    "HitboxActive": "8-9",
+    "FirstActionableFrame": "34",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70844696590bf023cf19"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Charizard"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70844696590bf023cf1a",
+    "Name": "Dash Grab",
+    "OwnerId": 5,
+    "Owner": "Charizard",
+    "HitboxActive": "10-11",
+    "FirstActionableFrame": "42",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70844696590bf023cf1a"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Charizard"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70844696590bf023cf1b",
+    "Name": "Pivot Grab",
+    "OwnerId": 5,
+    "Owner": "Charizard",
+    "HitboxActive": "11-12",
+    "FirstActionableFrame": "40",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70844696590bf023cf1b"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Charizard"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70844696590bf023cf1c",
+    "Name": "Spotdodge",
+    "OwnerId": 5,
+    "Owner": "Charizard",
+    "HitboxActive": "3-18",
+    "FirstActionableFrame": "28",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70844696590bf023cf1c"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Charizard"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70844696590bf023cf1d",
+    "Name": "Forward Roll",
+    "OwnerId": 5,
+    "Owner": "Charizard",
+    "HitboxActive": "4-18",
+    "FirstActionableFrame": "33",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70844696590bf023cf1d"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Charizard"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70844696590bf023cf1e",
+    "Name": "Back Roll",
+    "OwnerId": 5,
+    "Owner": "Charizard",
+    "HitboxActive": "4-18",
+    "FirstActionableFrame": "33",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70844696590bf023cf1e"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Charizard"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70844696590bf023cf1f",
+    "Name": "Airdodge",
+    "OwnerId": 5,
+    "Owner": "Charizard",
+    "HitboxActive": "3-28",
+    "FirstActionableFrame": "34",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70844696590bf023cf1f"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Charizard"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70844696590bf023cf20",
+    "Name": "Nair",
+    "OwnerId": 5,
+    "Owner": "Charizard",
+    "HitboxActive": "9-25",
+    "FirstActionableFrame": "60",
+    "BaseDamage": "12/9/9/9",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "30",
+    "LandingLag": "20",
+    "AutoCancel": "1-3, 31&gt;",
+    "KnockbackGrowth": "78",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70844696590bf023cf20"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Charizard"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70844696590bf023cf21",
+    "Name": "Fair",
+    "OwnerId": 5,
+    "Owner": "Charizard",
+    "HitboxActive": "8-9",
+    "FirstActionableFrame": "47",
+    "BaseDamage": "12",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "35",
+    "LandingLag": "22",
+    "AutoCancel": "1-4, 35&gt;",
+    "KnockbackGrowth": "92",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70844696590bf023cf21"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Charizard"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70844696590bf023cf22",
+    "Name": "Fair (Late)",
+    "OwnerId": 5,
+    "Owner": "Charizard",
+    "HitboxActive": "10-11",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "13",
+    "Angle": "34",
+    "BaseKnockBackSetKnockback": "32",
+    "LandingLag": "-",
+    "AutoCancel": "-",
+    "KnockbackGrowth": "97",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70844696590bf023cf22"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Charizard"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70844696590bf023cf23",
+    "Name": "Bair",
+    "OwnerId": 5,
+    "Owner": "Charizard",
+    "HitboxActive": "14-16",
+    "FirstActionableFrame": "46",
+    "BaseDamage": "16/14/11/11",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "50",
+    "LandingLag": "24",
+    "AutoCancel": "1-3, 44&gt;",
+    "KnockbackGrowth": "90",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70844696590bf023cf23"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Charizard"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70844696590bf023cf24",
+    "Name": "Uair",
+    "OwnerId": 5,
+    "Owner": "Charizard",
+    "HitboxActive": "12-15 (Head Intangible: 11-15)",
+    "FirstActionableFrame": "46",
+    "BaseDamage": "13",
+    "Angle": "85",
+    "BaseKnockBackSetKnockback": "30",
+    "LandingLag": "20",
+    "AutoCancel": "1-4, 41&gt;",
+    "KnockbackGrowth": "105",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70844696590bf023cf24"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Charizard"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70844696590bf023cf25",
+    "Name": "Dair",
+    "OwnerId": 5,
+    "Owner": "Charizard",
+    "HitboxActive": "18-20",
+    "FirstActionableFrame": "52",
+    "BaseDamage": "14",
+    "Angle": "270",
+    "BaseKnockBackSetKnockback": "20",
+    "LandingLag": "33",
+    "AutoCancel": "1-4, 41&gt;",
+    "KnockbackGrowth": "100",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70844696590bf023cf25"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Charizard"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70844696590bf023cf26",
+    "Name": "Dair (Late)",
+    "OwnerId": 5,
+    "Owner": "Charizard",
+    "HitboxActive": "21-26",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "8",
+    "Angle": "55/361",
+    "BaseKnockBackSetKnockback": "20",
+    "LandingLag": "-",
+    "AutoCancel": "-",
+    "KnockbackGrowth": "100",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70844696590bf023cf26"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Charizard"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70844696590bf023cf27",
+    "Name": "Flamethrower",
+    "OwnerId": 5,
+    "Owner": "Charizard",
+    "HitboxActive": "20, 27, 34, 41...",
+    "FirstActionableFrame": "71",
+    "BaseDamage": "2/1",
+    "Angle": "45/58",
+    "BaseKnockBackSetKnockback": "30/15",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "50/30",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70844696590bf023cf27"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Charizard"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70844696590bf023cf28",
+    "Name": "Flare Blitz (Hit 1)",
+    "OwnerId": 5,
+    "Owner": "Charizard",
+    "HitboxActive": "23- (Damage Based Armor: 15%, Frames 23-53)",
+    "FirstActionableFrame": "102",
+    "BaseDamage": "4",
+    "Angle": "60",
+    "BaseKnockBackSetKnockback": "60",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "80",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70844696590bf023cf28"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Charizard"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70844696590bf023cf29",
+    "Name": "Flare Blitz (Hit 2)",
+    "OwnerId": 5,
+    "Owner": "Charizard",
+    "HitboxActive": "?",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "15",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "70",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "84",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70844696590bf023cf29"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Charizard"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70844696590bf023cf2a",
+    "Name": "Fly (Hit 1)",
+    "OwnerId": 5,
+    "Owner": "Charizard",
+    "HitboxActive": "9-10 (Super Armor: 4-15)",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "5",
+    "Angle": "70/95/80",
+    "BaseKnockBackSetKnockback": "W: 130/140/140",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70844696590bf023cf2a"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Charizard"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70844696590bf023cf2b",
+    "Name": "Fly",
+    "OwnerId": 5,
+    "Owner": "Charizard",
+    "HitboxActive": "16-26 (Rehit rate: 3)",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "2",
+    "Angle": "72/90/90",
+    "BaseKnockBackSetKnockback": "W: 90/100/100",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70844696590bf023cf2b"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Charizard"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70844696590bf023cf2c",
+    "Name": "Fly (Final Hit)",
+    "OwnerId": 5,
+    "Owner": "Charizard",
+    "HitboxActive": "27-28",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "4",
+    "Angle": "75",
+    "BaseKnockBackSetKnockback": "70",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "150",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70844696590bf023cf2c"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Charizard"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70844696590bf023cf2d",
+    "Name": "Rock Smash (Hit 1)",
+    "OwnerId": 5,
+    "Owner": "Charizard",
+    "HitboxActive": "24-26 (Super Armor: 5-23)",
+    "FirstActionableFrame": "72",
+    "BaseDamage": "14",
+    "Angle": "60",
+    "BaseKnockBackSetKnockback": "60",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "80",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70844696590bf023cf2d"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Charizard"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70844696590bf023cf2e",
+    "Name": "Rock Smash (Hits 2-6)",
+    "OwnerId": 5,
+    "Owner": "Charizard",
+    "HitboxActive": "27-46",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "3",
+    "Angle": "70",
+    "BaseKnockBackSetKnockback": "50",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "70",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70844696590bf023cf2e"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Charizard"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70844696590bf023cf2f",
+    "Name": "Fthrow",
+    "OwnerId": 5,
+    "Owner": "Charizard",
+    "HitboxActive": null,
+    "FirstActionableFrame": null,
+    "BaseDamage": "10",
+    "Angle": "40",
+    "BaseKnockBackSetKnockback": "60",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "65",
+    "MoveType": "throw",
+    "IsWeightDependent": true,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70844696590bf023cf2f"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Charizard"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70844696590bf023cf30",
+    "Name": "Bthrow",
+    "OwnerId": 5,
+    "Owner": "Charizard",
+    "HitboxActive": null,
+    "FirstActionableFrame": null,
+    "BaseDamage": "10",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "60",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "65",
+    "MoveType": "throw",
+    "IsWeightDependent": true,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70844696590bf023cf30"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Charizard"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70844696590bf023cf31",
+    "Name": "Uthrow",
+    "OwnerId": 5,
+    "Owner": "Charizard",
+    "HitboxActive": null,
+    "FirstActionableFrame": null,
+    "BaseDamage": "8, 3",
+    "Angle": "70",
+    "BaseKnockBackSetKnockback": "50",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "220",
+    "MoveType": "throw",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70844696590bf023cf31"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Charizard"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70844696590bf023cf32",
+    "Name": "Dthrow",
+    "OwnerId": 5,
+    "Owner": "Charizard",
+    "HitboxActive": null,
+    "FirstActionableFrame": null,
+    "BaseDamage": "1&#37;&#215;5, 1",
+    "Angle": "70",
+    "BaseKnockBackSetKnockback": "70",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "130",
+    "MoveType": "throw",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70844696590bf023cf32"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Charizard"
+      }
+    ]
+  }
+]

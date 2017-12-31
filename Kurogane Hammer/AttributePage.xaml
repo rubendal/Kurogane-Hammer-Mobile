@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:Kurogane_Hammer"
+             x:Class="Kurogane_Hammer.AttributePage"
+             Title="Kurogane Hammer/Attributes">
+    <ScrollView>
+        <StackLayout
+            x:Name="Layout"
+            Padding="10,10,10,10">
+
+        </StackLayout>
+    </ScrollView>
+</ContentPage>

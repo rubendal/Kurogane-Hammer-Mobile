@@ -1,0 +1,1198 @@
+﻿[
+  {
+    "InstanceId": "598e70954696590bf023d13c",
+    "Name": "Jab 1",
+    "OwnerId": 11,
+    "Owner": "DrMario",
+    "HitboxActive": "2-3",
+    "FirstActionableFrame": "23",
+    "BaseDamage": "2.8",
+    "Angle": "60/70/80",
+    "BaseKnockBackSetKnockback": "W: 30",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70954696590bf023d13c"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DrMario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70954696590bf023d13d",
+    "Name": "Jab 2",
+    "OwnerId": 11,
+    "Owner": "DrMario",
+    "HitboxActive": "2-3",
+    "FirstActionableFrame": "25",
+    "BaseDamage": "1.68",
+    "Angle": "70/78/88",
+    "BaseKnockBackSetKnockback": "W: 30",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70954696590bf023d13d"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DrMario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70954696590bf023d13e",
+    "Name": "Jab 3",
+    "OwnerId": 11,
+    "Owner": "DrMario",
+    "HitboxActive": "7-8",
+    "FirstActionableFrame": "36",
+    "BaseDamage": "4.48",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "45",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "80",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70954696590bf023d13e"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DrMario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70954696590bf023d13f",
+    "Name": "Dash Attack",
+    "OwnerId": 11,
+    "Owner": "DrMario",
+    "HitboxActive": "6-9",
+    "FirstActionableFrame": "38",
+    "BaseDamage": "8.96",
+    "Angle": "90",
+    "BaseKnockBackSetKnockback": "90",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "42",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70954696590bf023d13f"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DrMario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70954696590bf023d140",
+    "Name": "Dash Attack (Late)",
+    "OwnerId": 11,
+    "Owner": "DrMario",
+    "HitboxActive": "10-25",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "6.72",
+    "Angle": "90",
+    "BaseKnockBackSetKnockback": "90",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "42",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70954696590bf023d140"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DrMario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70954696590bf023d141",
+    "Name": "Ftilt (All Angles)",
+    "OwnerId": 11,
+    "Owner": "DrMario",
+    "HitboxActive": "5-7",
+    "FirstActionableFrame": "31",
+    "BaseDamage": "7.84",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "8",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70954696590bf023d141"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DrMario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70954696590bf023d142",
+    "Name": "Utilt",
+    "OwnerId": 11,
+    "Owner": "DrMario",
+    "HitboxActive": "5-11",
+    "FirstActionableFrame": "30",
+    "BaseDamage": "7.056",
+    "Angle": "96",
+    "BaseKnockBackSetKnockback": "28",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "130",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70954696590bf023d142"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DrMario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70954696590bf023d143",
+    "Name": "Dtilt",
+    "OwnerId": 11,
+    "Owner": "DrMario",
+    "HitboxActive": "5-7",
+    "FirstActionableFrame": "28",
+    "BaseDamage": "5.6/7.84",
+    "Angle": "80",
+    "BaseKnockBackSetKnockback": "35",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "80",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70954696590bf023d143"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DrMario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70954696590bf023d144",
+    "Name": "Fsmash (Angled Up)",
+    "OwnerId": 11,
+    "Owner": "DrMario",
+    "HitboxActive": "15-17",
+    "FirstActionableFrame": "48",
+    "BaseDamage": "19.992/19.992/16.464",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "25",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "96/96/100",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70954696590bf023d144"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DrMario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70954696590bf023d145",
+    "Name": "Fsmash",
+    "OwnerId": 11,
+    "Owner": "DrMario",
+    "HitboxActive": "15-17",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "19.04/19.04/15.68",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "25",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "96/96/100",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70954696590bf023d145"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DrMario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70954696590bf023d146",
+    "Name": "Fsmash (Angled Down)",
+    "OwnerId": 11,
+    "Owner": "DrMario",
+    "HitboxActive": "15-17",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "19.6112/19.6112/16.1504",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "25",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "96/96/100",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70954696590bf023d146"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DrMario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70954696590bf023d147",
+    "Name": "Usmash",
+    "OwnerId": 11,
+    "Owner": "DrMario",
+    "HitboxActive": "9-13 (Head Intangible: 9-13)",
+    "FirstActionableFrame": "40",
+    "BaseDamage": "15.68",
+    "Angle": "130",
+    "BaseKnockBackSetKnockback": "0",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "117",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70954696590bf023d147"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DrMario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70954696590bf023d148",
+    "Name": "Dsmash (Hit 1)",
+    "OwnerId": 11,
+    "Owner": "DrMario",
+    "HitboxActive": "5-6",
+    "FirstActionableFrame": "44",
+    "BaseDamage": "11.2",
+    "Angle": "32",
+    "BaseKnockBackSetKnockback": "30",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70954696590bf023d148"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DrMario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70954696590bf023d149",
+    "Name": "Dsmash (Hit 2)",
+    "OwnerId": 11,
+    "Owner": "DrMario",
+    "HitboxActive": "14",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "13.44",
+    "Angle": "30",
+    "BaseKnockBackSetKnockback": "30",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70954696590bf023d149"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DrMario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70954696590bf023d14a",
+    "Name": "Standing Grab",
+    "OwnerId": 11,
+    "Owner": "DrMario",
+    "HitboxActive": "6-7",
+    "FirstActionableFrame": "29",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70954696590bf023d14a"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DrMario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70954696590bf023d14b",
+    "Name": "Dash Grab",
+    "OwnerId": 11,
+    "Owner": "DrMario",
+    "HitboxActive": "8-9",
+    "FirstActionableFrame": "36",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70954696590bf023d14b"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DrMario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70954696590bf023d14c",
+    "Name": "Pivot Grab",
+    "OwnerId": 11,
+    "Owner": "DrMario",
+    "HitboxActive": "9-10",
+    "FirstActionableFrame": "34",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70954696590bf023d14c"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DrMario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70954696590bf023d14d",
+    "Name": "Spotdodge",
+    "OwnerId": 11,
+    "Owner": "DrMario",
+    "HitboxActive": "3-17",
+    "FirstActionableFrame": "27",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70954696590bf023d14d"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DrMario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70954696590bf023d14e",
+    "Name": "Forward Roll",
+    "OwnerId": 11,
+    "Owner": "DrMario",
+    "HitboxActive": "4-16",
+    "FirstActionableFrame": "30",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70954696590bf023d14e"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DrMario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70954696590bf023d14f",
+    "Name": "Back Roll",
+    "OwnerId": 11,
+    "Owner": "DrMario",
+    "HitboxActive": "4-16",
+    "FirstActionableFrame": "30",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70954696590bf023d14f"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DrMario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70954696590bf023d150",
+    "Name": "Airdodge",
+    "OwnerId": 11,
+    "Owner": "DrMario",
+    "HitboxActive": "3-27",
+    "FirstActionableFrame": "33",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70954696590bf023d150"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DrMario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70954696590bf023d151",
+    "Name": "Nair",
+    "OwnerId": 11,
+    "Owner": "DrMario",
+    "HitboxActive": "3-7",
+    "FirstActionableFrame": "46",
+    "BaseDamage": "5.6",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "20",
+    "LandingLag": "12",
+    "AutoCancel": "1-2, 34&gt;",
+    "KnockbackGrowth": "100",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70954696590bf023d151"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DrMario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70954696590bf023d152",
+    "Name": "Nair (Late)",
+    "OwnerId": 11,
+    "Owner": "DrMario",
+    "HitboxActive": "8-27",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "8.96",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "13",
+    "LandingLag": "-",
+    "AutoCancel": "-",
+    "KnockbackGrowth": "90",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70954696590bf023d152"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DrMario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70954696590bf023d153",
+    "Name": "Fair (Early)",
+    "OwnerId": 11,
+    "Owner": "DrMario",
+    "HitboxActive": "16",
+    "FirstActionableFrame": "60",
+    "BaseDamage": "11.2",
+    "Angle": "50",
+    "BaseKnockBackSetKnockback": "30",
+    "LandingLag": "28",
+    "AutoCancel": "1-2, 43&gt;",
+    "KnockbackGrowth": "95",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70954696590bf023d153"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DrMario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70954696590bf023d154",
+    "Name": "Fair",
+    "OwnerId": 11,
+    "Owner": "DrMario",
+    "HitboxActive": "17-19",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "16.8",
+    "Angle": "50",
+    "BaseKnockBackSetKnockback": "30",
+    "LandingLag": "-",
+    "AutoCancel": "-",
+    "KnockbackGrowth": "102",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70954696590bf023d154"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DrMario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70954696590bf023d155",
+    "Name": "Fair (Late)",
+    "OwnerId": 11,
+    "Owner": "DrMario",
+    "HitboxActive": "20-22",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "10.08",
+    "Angle": "50",
+    "BaseKnockBackSetKnockback": "20",
+    "LandingLag": "-",
+    "AutoCancel": "-",
+    "KnockbackGrowth": "95",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70954696590bf023d155"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DrMario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70954696590bf023d156",
+    "Name": "Bair",
+    "OwnerId": 11,
+    "Owner": "DrMario",
+    "HitboxActive": "6-8",
+    "FirstActionableFrame": "34",
+    "BaseDamage": "13.44",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "10",
+    "LandingLag": "16",
+    "AutoCancel": "1-5, 19&gt;",
+    "KnockbackGrowth": "95",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70954696590bf023d156"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DrMario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70954696590bf023d157",
+    "Name": "Bair (Late)",
+    "OwnerId": 11,
+    "Owner": "DrMario",
+    "HitboxActive": "9-13",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "7.84",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "7",
+    "LandingLag": "-",
+    "AutoCancel": "-",
+    "KnockbackGrowth": "90",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70954696590bf023d157"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DrMario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70954696590bf023d158",
+    "Name": "Uair",
+    "OwnerId": 11,
+    "Owner": "DrMario",
+    "HitboxActive": "4-12",
+    "FirstActionableFrame": "32",
+    "BaseDamage": "7.84",
+    "Angle": "45",
+    "BaseKnockBackSetKnockback": "9",
+    "LandingLag": "14",
+    "AutoCancel": "18&gt;",
+    "KnockbackGrowth": "100",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70954696590bf023d158"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DrMario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70954696590bf023d159",
+    "Name": "Dair",
+    "OwnerId": 11,
+    "Owner": "DrMario",
+    "HitboxActive": "11-26 (Rehit rate: 4)",
+    "FirstActionableFrame": "52",
+    "BaseDamage": "1.904",
+    "Angle": "366/366/95/95",
+    "BaseKnockBackSetKnockback": "30",
+    "LandingLag": "21",
+    "AutoCancel": "1-5, 45&gt;",
+    "KnockbackGrowth": "10",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70954696590bf023d159"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DrMario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70954696590bf023d15a",
+    "Name": "Dair (Final Hit)",
+    "OwnerId": 11,
+    "Owner": "DrMario",
+    "HitboxActive": "27",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "3.36",
+    "Angle": "45",
+    "BaseKnockBackSetKnockback": "50",
+    "LandingLag": "-",
+    "AutoCancel": "-",
+    "KnockbackGrowth": "120",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70954696590bf023d15a"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DrMario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70954696590bf023d15b",
+    "Name": "Dair (Landing)",
+    "OwnerId": 11,
+    "Owner": "DrMario",
+    "HitboxActive": "1-2",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "2.24",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "50",
+    "LandingLag": "-",
+    "AutoCancel": "-",
+    "KnockbackGrowth": "160",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70954696590bf023d15b"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DrMario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70954696590bf023d15c",
+    "Name": "Megavitamins (Early)",
+    "OwnerId": 11,
+    "Owner": "DrMario",
+    "HitboxActive": "17-20",
+    "FirstActionableFrame": "53",
+    "BaseDamage": "5.6",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "35",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "20",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70954696590bf023d15c"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DrMario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70954696590bf023d15d",
+    "Name": "Megavitamins",
+    "OwnerId": 11,
+    "Owner": "DrMario",
+    "HitboxActive": "21-44",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "5.6",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "28",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "15",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70954696590bf023d15d"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DrMario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70954696590bf023d15e",
+    "Name": "Megavitamins (Late)",
+    "OwnerId": 11,
+    "Owner": "DrMario",
+    "HitboxActive": "45-69",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "4.48",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "22",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "10",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70954696590bf023d15e"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DrMario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70954696590bf023d15f",
+    "Name": "Super Sheet",
+    "OwnerId": 11,
+    "Owner": "DrMario",
+    "HitboxActive": "12-14 (Reflects 6-22, 1.5&#215; 50% Break Threshold)",
+    "FirstActionableFrame": "36",
+    "BaseDamage": "7.84",
+    "Angle": "110",
+    "BaseKnockBackSetKnockback": "0",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "0",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70954696590bf023d15f"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DrMario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70954696590bf023d160",
+    "Name": "Super Jump Punch",
+    "OwnerId": 11,
+    "Owner": "DrMario",
+    "HitboxActive": "3-5",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "13.44",
+    "Angle": "50",
+    "BaseKnockBackSetKnockback": "30",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70954696590bf023d160"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DrMario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70954696590bf023d161",
+    "Name": "Super Jump Punch (Late)",
+    "OwnerId": 11,
+    "Owner": "DrMario",
+    "HitboxActive": "6-19",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "6.72",
+    "Angle": "74",
+    "BaseKnockBackSetKnockback": "64",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "66",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70954696590bf023d161"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DrMario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70954696590bf023d162",
+    "Name": "Dr. Tornado (Ground)",
+    "OwnerId": 11,
+    "Owner": "DrMario",
+    "HitboxActive": "10-33 (Rehit rate: 6)",
+    "FirstActionableFrame": "75",
+    "BaseDamage": "1.344",
+    "Angle": "90/90/180/180",
+    "BaseKnockBackSetKnockback": "W: 30/70 B: 45/45",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "60/60/20/20",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70954696590bf023d162"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DrMario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70954696590bf023d163",
+    "Name": "Dr. Tornado (Ground)",
+    "OwnerId": 11,
+    "Owner": "DrMario",
+    "HitboxActive": "40",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "3.36",
+    "Angle": "45",
+    "BaseKnockBackSetKnockback": "80",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "130",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70954696590bf023d163"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DrMario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70954696590bf023d164",
+    "Name": "Dr. Tornado (Aerial)",
+    "OwnerId": 11,
+    "Owner": "DrMario",
+    "HitboxActive": "10-33 (Rehit rate: 6)",
+    "FirstActionableFrame": "75",
+    "BaseDamage": "1.344",
+    "Angle": "90/90/366/366",
+    "BaseKnockBackSetKnockback": "W: 50/50 B: 60/60",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100/100/120/120",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70954696590bf023d164"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DrMario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70954696590bf023d165",
+    "Name": "Dr. Tornado (Aerial)",
+    "OwnerId": 11,
+    "Owner": "DrMario",
+    "HitboxActive": "40",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "3.36",
+    "Angle": "45",
+    "BaseKnockBackSetKnockback": "80",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "130",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70954696590bf023d165"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DrMario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70954696590bf023d166",
+    "Name": "Fthrow",
+    "OwnerId": 11,
+    "Owner": "DrMario",
+    "HitboxActive": null,
+    "FirstActionableFrame": null,
+    "BaseDamage": "8.96",
+    "Angle": "45",
+    "BaseKnockBackSetKnockback": "60",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "60",
+    "MoveType": "throw",
+    "IsWeightDependent": true,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70954696590bf023d166"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DrMario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70954696590bf023d167",
+    "Name": "Bthrow",
+    "OwnerId": 11,
+    "Owner": "DrMario",
+    "HitboxActive": null,
+    "FirstActionableFrame": null,
+    "BaseDamage": "12.32",
+    "Angle": "45",
+    "BaseKnockBackSetKnockback": "70",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "60",
+    "MoveType": "throw",
+    "IsWeightDependent": true,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70954696590bf023d167"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DrMario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70954696590bf023d168",
+    "Name": "Uthrow",
+    "OwnerId": 11,
+    "Owner": "DrMario",
+    "HitboxActive": null,
+    "FirstActionableFrame": null,
+    "BaseDamage": "7.84",
+    "Angle": "90",
+    "BaseKnockBackSetKnockback": "65",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "70",
+    "MoveType": "throw",
+    "IsWeightDependent": true,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70954696590bf023d168"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DrMario"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70954696590bf023d169",
+    "Name": "Dthrow",
+    "OwnerId": 11,
+    "Owner": "DrMario",
+    "HitboxActive": null,
+    "FirstActionableFrame": null,
+    "BaseDamage": "5.6",
+    "Angle": "80",
+    "BaseKnockBackSetKnockback": "75",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "45",
+    "MoveType": "throw",
+    "IsWeightDependent": true,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70954696590bf023d169"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/DrMario"
+      }
+    ]
+  }
+]

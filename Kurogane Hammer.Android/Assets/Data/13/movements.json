@@ -1,0 +1,308 @@
+﻿[
+  {
+    "InstanceId": "598e709a4696590bf023d1d8",
+    "Name": "Weight",
+    "OwnerId": 13,
+    "Owner": "Falco",
+    "Value": "82 ",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e709a4696590bf023d1d8"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Falco"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e709a4696590bf023d1d9",
+    "Name": "Max Jumps",
+    "OwnerId": 13,
+    "Owner": "Falco",
+    "Value": "2",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e709a4696590bf023d1d9"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Falco"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e709a4696590bf023d1da",
+    "Name": "Run Speed",
+    "OwnerId": 13,
+    "Owner": "Falco",
+    "Value": "1.472 ",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e709a4696590bf023d1da"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Falco"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e709a4696590bf023d1db",
+    "Name": "Wall Jump",
+    "OwnerId": 13,
+    "Owner": "Falco",
+    "Value": "Yes",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e709a4696590bf023d1db"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Falco"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e709a4696590bf023d1dc",
+    "Name": "Walk Speed",
+    "OwnerId": 13,
+    "Owner": "Falco",
+    "Value": "1.28 ",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e709a4696590bf023d1dc"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Falco"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e709a4696590bf023d1dd",
+    "Name": "Wall Cling",
+    "OwnerId": 13,
+    "Owner": "Falco",
+    "Value": "No",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e709a4696590bf023d1dd"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Falco"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e709a4696590bf023d1de",
+    "Name": "Air Speed",
+    "OwnerId": 13,
+    "Owner": "Falco",
+    "Value": "0.93 ",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e709a4696590bf023d1de"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Falco"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e709a4696590bf023d1df",
+    "Name": "Crawl",
+    "OwnerId": 13,
+    "Owner": "Falco",
+    "Value": "No",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e709a4696590bf023d1df"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Falco"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e709a4696590bf023d1e0",
+    "Name": "Fall Speed",
+    "OwnerId": 13,
+    "Owner": "Falco",
+    "Value": "1.8 ",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e709a4696590bf023d1e0"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Falco"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e709a4696590bf023d1e1",
+    "Name": "Tether",
+    "OwnerId": 13,
+    "Owner": "Falco",
+    "Value": "No",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e709a4696590bf023d1e1"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Falco"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e709a4696590bf023d1e2",
+    "Name": "Fast Fall Speed",
+    "OwnerId": 13,
+    "Owner": "Falco",
+    "Value": "2.88 ",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e709a4696590bf023d1e2"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Falco"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e709a4696590bf023d1e3",
+    "Name": "Jumpsquat",
+    "OwnerId": 13,
+    "Owner": "Falco",
+    "Value": "6 frames",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e709a4696590bf023d1e3"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Falco"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e709a4696590bf023d1e4",
+    "Name": "Air Acceleration",
+    "OwnerId": 13,
+    "Owner": "Falco",
+    "Value": "0.09",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e709a4696590bf023d1e4"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Falco"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e709a4696590bf023d1e5",
+    "Name": "Soft Landing Lag",
+    "OwnerId": 13,
+    "Owner": "Falco",
+    "Value": "2 frames",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e709a4696590bf023d1e5"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Falco"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e709a4696590bf023d1e6",
+    "Name": "Gravity",
+    "OwnerId": 13,
+    "Owner": "Falco",
+    "Value": "0.13",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e709a4696590bf023d1e6"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Falco"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e709a4696590bf023d1e7",
+    "Name": "Hard Landing Lag",
+    "OwnerId": 13,
+    "Owner": "Falco",
+    "Value": "4 frames",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e709a4696590bf023d1e7"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Falco"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e709a4696590bf023d1e8",
+    "Name": "SH Air Time",
+    "OwnerId": 13,
+    "Owner": "Falco",
+    "Value": "32 frames",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e709a4696590bf023d1e8"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Falco"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e709a4696590bf023d1e9",
+    "Name": "FH Air Time",
+    "OwnerId": 13,
+    "Owner": "Falco",
+    "Value": "62 frames",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e709a4696590bf023d1e9"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Falco"
+      }
+    ]
+  }
+]

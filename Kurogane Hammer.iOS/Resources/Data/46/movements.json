@@ -1,0 +1,308 @@
+﻿[
+  {
+    "InstanceId": "598e70f14696590bf023dd87",
+    "Name": "Weight",
+    "OwnerId": 46,
+    "Owner": "Roy",
+    "Value": "95 ",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e70f14696590bf023dd87"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Roy"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70f14696590bf023dd88",
+    "Name": "Max Jumps",
+    "OwnerId": 46,
+    "Owner": "Roy",
+    "Value": "2",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e70f14696590bf023dd88"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Roy"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70f14696590bf023dd89",
+    "Name": "Run Speed",
+    "OwnerId": 46,
+    "Owner": "Roy",
+    "Value": "1.95 ",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e70f14696590bf023dd89"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Roy"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70f14696590bf023dd8a",
+    "Name": "Wall Jump",
+    "OwnerId": 46,
+    "Owner": "Roy",
+    "Value": "No",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e70f14696590bf023dd8a"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Roy"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70f14696590bf023dd8b",
+    "Name": "Walk Speed",
+    "OwnerId": 46,
+    "Owner": "Roy",
+    "Value": "1.15 ",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e70f14696590bf023dd8b"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Roy"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70f14696590bf023dd8c",
+    "Name": "Wall Cling",
+    "OwnerId": 46,
+    "Owner": "Roy",
+    "Value": "No",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e70f14696590bf023dd8c"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Roy"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70f14696590bf023dd8d",
+    "Name": "Air Speed",
+    "OwnerId": 46,
+    "Owner": "Roy",
+    "Value": "1.24 ",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e70f14696590bf023dd8d"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Roy"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70f14696590bf023dd8e",
+    "Name": "Crawl",
+    "OwnerId": 46,
+    "Owner": "Roy",
+    "Value": "No",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e70f14696590bf023dd8e"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Roy"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70f14696590bf023dd8f",
+    "Name": "Fall Speed",
+    "OwnerId": 46,
+    "Owner": "Roy",
+    "Value": "1.8 ",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e70f14696590bf023dd8f"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Roy"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70f14696590bf023dd90",
+    "Name": "Tether",
+    "OwnerId": 46,
+    "Owner": "Roy",
+    "Value": "No",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e70f14696590bf023dd90"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Roy"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70f14696590bf023dd91",
+    "Name": "Fast Fall Speed",
+    "OwnerId": 46,
+    "Owner": "Roy",
+    "Value": "2.9 ",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e70f14696590bf023dd91"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Roy"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70f14696590bf023dd92",
+    "Name": "Jumpsquat",
+    "OwnerId": 46,
+    "Owner": "Roy",
+    "Value": "5 frames",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e70f14696590bf023dd92"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Roy"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70f14696590bf023dd93",
+    "Name": "Air Acceleration",
+    "OwnerId": 46,
+    "Owner": "Roy",
+    "Value": "0.03",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e70f14696590bf023dd93"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Roy"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70f14696590bf023dd94",
+    "Name": "Soft Landing Lag",
+    "OwnerId": 46,
+    "Owner": "Roy",
+    "Value": "2 frames",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e70f14696590bf023dd94"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Roy"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70f14696590bf023dd95",
+    "Name": "Gravity",
+    "OwnerId": 46,
+    "Owner": "Roy",
+    "Value": "0.114",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e70f14696590bf023dd95"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Roy"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70f14696590bf023dd96",
+    "Name": "Hard Landing Lag",
+    "OwnerId": 46,
+    "Owner": "Roy",
+    "Value": "5 frames",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e70f14696590bf023dd96"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Roy"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70f14696590bf023dd97",
+    "Name": "SH Air Time",
+    "OwnerId": 46,
+    "Owner": "Roy",
+    "Value": "30 frames",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e70f14696590bf023dd97"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Roy"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70f14696590bf023dd98",
+    "Name": "FH Air Time",
+    "OwnerId": 46,
+    "Owner": "Roy",
+    "Value": "48 frames",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e70f14696590bf023dd98"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Roy"
+      }
+    ]
+  }
+]

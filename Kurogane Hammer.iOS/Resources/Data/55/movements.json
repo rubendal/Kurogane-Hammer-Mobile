@@ -1,0 +1,308 @@
+﻿[
+  {
+    "InstanceId": "598e71094696590bf023e0c5",
+    "Name": "Weight",
+    "OwnerId": 55,
+    "Owner": "WiiFitTrainer",
+    "Value": "96 ",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e71094696590bf023e0c5"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/WiiFitTrainer"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e71094696590bf023e0c6",
+    "Name": "Max Jumps",
+    "OwnerId": 55,
+    "Owner": "WiiFitTrainer",
+    "Value": "2",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e71094696590bf023e0c6"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/WiiFitTrainer"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e71094696590bf023e0c7",
+    "Name": "Run Speed",
+    "OwnerId": 55,
+    "Owner": "WiiFitTrainer",
+    "Value": "1.696 ",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e71094696590bf023e0c7"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/WiiFitTrainer"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e71094696590bf023e0c8",
+    "Name": "Wall Jump",
+    "OwnerId": 55,
+    "Owner": "WiiFitTrainer",
+    "Value": "Yes",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e71094696590bf023e0c8"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/WiiFitTrainer"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e71094696590bf023e0c9",
+    "Name": "Walk Speed",
+    "OwnerId": 55,
+    "Owner": "WiiFitTrainer",
+    "Value": "1.166 ",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e71094696590bf023e0c9"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/WiiFitTrainer"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e71094696590bf023e0ca",
+    "Name": "Wall Cling",
+    "OwnerId": 55,
+    "Owner": "WiiFitTrainer",
+    "Value": "No",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e71094696590bf023e0ca"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/WiiFitTrainer"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e71094696590bf023e0cb",
+    "Name": "Air Speed",
+    "OwnerId": 55,
+    "Owner": "WiiFitTrainer",
+    "Value": "0.97 ",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e71094696590bf023e0cb"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/WiiFitTrainer"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e71094696590bf023e0cc",
+    "Name": "Crawl",
+    "OwnerId": 55,
+    "Owner": "WiiFitTrainer",
+    "Value": "Yes",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e71094696590bf023e0cc"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/WiiFitTrainer"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e71094696590bf023e0cd",
+    "Name": "Fall Speed",
+    "OwnerId": 55,
+    "Owner": "WiiFitTrainer",
+    "Value": "1.3 ",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e71094696590bf023e0cd"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/WiiFitTrainer"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e71094696590bf023e0ce",
+    "Name": "Tether",
+    "OwnerId": 55,
+    "Owner": "WiiFitTrainer",
+    "Value": "No",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e71094696590bf023e0ce"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/WiiFitTrainer"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e71094696590bf023e0cf",
+    "Name": "Fast Fall Speed",
+    "OwnerId": 55,
+    "Owner": "WiiFitTrainer",
+    "Value": "2.08 ",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e71094696590bf023e0cf"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/WiiFitTrainer"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e71094696590bf023e0d0",
+    "Name": "Jumpsquat",
+    "OwnerId": 55,
+    "Owner": "WiiFitTrainer",
+    "Value": "5 frames",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e71094696590bf023e0d0"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/WiiFitTrainer"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e71094696590bf023e0d1",
+    "Name": "Air Acceleration",
+    "OwnerId": 55,
+    "Owner": "WiiFitTrainer",
+    "Value": "0.08",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e71094696590bf023e0d1"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/WiiFitTrainer"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e71094696590bf023e0d2",
+    "Name": "Soft Landing Lag",
+    "OwnerId": 55,
+    "Owner": "WiiFitTrainer",
+    "Value": "2 frames",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e71094696590bf023e0d2"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/WiiFitTrainer"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e71094696590bf023e0d3",
+    "Name": "Gravity",
+    "OwnerId": 55,
+    "Owner": "WiiFitTrainer",
+    "Value": "0.09",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e71094696590bf023e0d3"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/WiiFitTrainer"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e71094696590bf023e0d4",
+    "Name": "Hard Landing Lag",
+    "OwnerId": 55,
+    "Owner": "WiiFitTrainer",
+    "Value": "4 frames",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e71094696590bf023e0d4"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/WiiFitTrainer"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e71094696590bf023e0d5",
+    "Name": "SH Air Time",
+    "OwnerId": 55,
+    "Owner": "WiiFitTrainer",
+    "Value": "39 frames",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e71094696590bf023e0d5"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/WiiFitTrainer"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e71094696590bf023e0d6",
+    "Name": "FH Air Time",
+    "OwnerId": 55,
+    "Owner": "WiiFitTrainer",
+    "Value": "62 frames",
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/movements/598e71094696590bf023e0d6"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/WiiFitTrainer"
+      }
+    ]
+  }
+]

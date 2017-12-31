@@ -1,0 +1,1718 @@
+﻿[
+  {
+    "InstanceId": "598e70f44696590bf023ddf4",
+    "Name": "Light Jab 1",
+    "OwnerId": 47,
+    "Owner": "Ryu",
+    "HitboxActive": "2-3",
+    "FirstActionableFrame": "16",
+    "BaseDamage": "2",
+    "Angle": "70/85",
+    "BaseKnockBackSetKnockback": "W: 15",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70f44696590bf023ddf4"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ryu"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70f44696590bf023ddf5",
+    "Name": "Medium Jab 1",
+    "OwnerId": 47,
+    "Owner": "Ryu",
+    "HitboxActive": "9-10",
+    "FirstActionableFrame": "33",
+    "BaseDamage": "10",
+    "Angle": "50",
+    "BaseKnockBackSetKnockback": "40",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "110",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70f44696590bf023ddf5"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ryu"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70f44696590bf023ddf6",
+    "Name": "Jab 2",
+    "OwnerId": 47,
+    "Owner": "Ryu",
+    "HitboxActive": "3-5",
+    "FirstActionableFrame": "28",
+    "BaseDamage": "3",
+    "Angle": "75/82",
+    "BaseKnockBackSetKnockback": "W: 24",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70f44696590bf023ddf6"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ryu"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70f44696590bf023ddf7",
+    "Name": "Jab 3",
+    "OwnerId": 47,
+    "Owner": "Ryu",
+    "HitboxActive": "8-10",
+    "FirstActionableFrame": "36",
+    "BaseDamage": "5",
+    "Angle": "45",
+    "BaseKnockBackSetKnockback": "70",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "50",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70f44696590bf023ddf7"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ryu"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70f44696590bf023ddf8",
+    "Name": "Dash Attack",
+    "OwnerId": 47,
+    "Owner": "Ryu",
+    "HitboxActive": "7-9",
+    "FirstActionableFrame": "41",
+    "BaseDamage": "12 (+2)",
+    "Angle": "50",
+    "BaseKnockBackSetKnockback": "80",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "65",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70f44696590bf023ddf8"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ryu"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70f44696590bf023ddf9",
+    "Name": "Dash Attack (Late)",
+    "OwnerId": 47,
+    "Owner": "Ryu",
+    "HitboxActive": "10-15",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "8 (+2)",
+    "Angle": "80",
+    "BaseKnockBackSetKnockback": "80",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "60",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70f44696590bf023ddf9"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ryu"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70f44696590bf023ddfa",
+    "Name": "Light Ftilt",
+    "OwnerId": 47,
+    "Owner": "Ryu",
+    "HitboxActive": "8-11 (Foot Intangible: 6-11)",
+    "FirstActionableFrame": "28",
+    "BaseDamage": "6.8",
+    "Angle": "55/72",
+    "BaseKnockBackSetKnockback": "66",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "46",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70f44696590bf023ddfa"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ryu"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70f44696590bf023ddfb",
+    "Name": "Medium Ftilt (Hit 1)",
+    "OwnerId": 47,
+    "Owner": "Ryu",
+    "HitboxActive": "13",
+    "FirstActionableFrame": "35",
+    "BaseDamage": "3 (+8)",
+    "Angle": "270",
+    "BaseKnockBackSetKnockback": "W: 15",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70f44696590bf023ddfb"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ryu"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70f44696590bf023ddfc",
+    "Name": "Medium Ftilt (Hit 2)",
+    "OwnerId": 47,
+    "Owner": "Ryu",
+    "HitboxActive": "15-16",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "6 (+20)",
+    "Angle": "46",
+    "BaseKnockBackSetKnockback": "60",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "90",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70f44696590bf023ddfc"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ryu"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70f44696590bf023ddfd",
+    "Name": "Light Utilt",
+    "OwnerId": 47,
+    "Owner": "Ryu",
+    "HitboxActive": "3-6",
+    "FirstActionableFrame": "15",
+    "BaseDamage": "2",
+    "Angle": "84/105",
+    "BaseKnockBackSetKnockback": "19",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "94",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70f44696590bf023ddfd"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ryu"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70f44696590bf023ddfe",
+    "Name": "Medium Utilt",
+    "OwnerId": 47,
+    "Owner": "Ryu",
+    "HitboxActive": "7 (Upper Body Intangible: 4-10)",
+    "FirstActionableFrame": "38",
+    "BaseDamage": "12/12/12/8",
+    "Angle": "80",
+    "BaseKnockBackSetKnockback": "70",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "70",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70f44696590bf023ddfe"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ryu"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70f44696590bf023ddff",
+    "Name": "Medium Utilt (Late)",
+    "OwnerId": 47,
+    "Owner": "Ryu",
+    "HitboxActive": "8-11",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "12",
+    "Angle": "80",
+    "BaseKnockBackSetKnockback": "70",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "70",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70f44696590bf023ddff"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ryu"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70f44696590bf023de00",
+    "Name": "Light Dtilt",
+    "OwnerId": 47,
+    "Owner": "Ryu",
+    "HitboxActive": "2-3",
+    "FirstActionableFrame": "16",
+    "BaseDamage": "1.6",
+    "Angle": "50",
+    "BaseKnockBackSetKnockback": "W: 9/11/5",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70f44696590bf023de00"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ryu"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70f44696590bf023de01",
+    "Name": "Medium Dtilt",
+    "OwnerId": 47,
+    "Owner": "Ryu",
+    "HitboxActive": "7-8",
+    "FirstActionableFrame": "29",
+    "BaseDamage": "7/5.5",
+    "Angle": "64",
+    "BaseKnockBackSetKnockback": "70",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "23",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70f44696590bf023de01"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ryu"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70f44696590bf023de02",
+    "Name": "Fsmash",
+    "OwnerId": 47,
+    "Owner": "Ryu",
+    "HitboxActive": "15-17",
+    "FirstActionableFrame": "46",
+    "BaseDamage": "16/16/17.5",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "25",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "94",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70f44696590bf023de02"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ryu"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70f44696590bf023de03",
+    "Name": "Usmash",
+    "OwnerId": 47,
+    "Owner": "Ryu",
+    "HitboxActive": "9-10",
+    "FirstActionableFrame": "45",
+    "BaseDamage": "17",
+    "Angle": "83",
+    "BaseKnockBackSetKnockback": "32",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "76",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70f44696590bf023de03"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ryu"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70f44696590bf023de04",
+    "Name": "Usmash (Late)",
+    "OwnerId": 47,
+    "Owner": "Ryu",
+    "HitboxActive": "11-12",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "13.5",
+    "Angle": "83",
+    "BaseKnockBackSetKnockback": "32",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "81",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70f44696590bf023de04"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ryu"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70f44696590bf023de05",
+    "Name": "Dsmash",
+    "OwnerId": 47,
+    "Owner": "Ryu",
+    "HitboxActive": "5-6",
+    "FirstActionableFrame": "42",
+    "BaseDamage": "16/15/12/12",
+    "Angle": "45/45/80/80",
+    "BaseKnockBackSetKnockback": "50",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "50",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70f44696590bf023de05"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ryu"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70f44696590bf023de06",
+    "Name": "Standing Grab",
+    "OwnerId": 47,
+    "Owner": "Ryu",
+    "HitboxActive": "6-7",
+    "FirstActionableFrame": "30",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70f44696590bf023de06"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ryu"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70f44696590bf023de07",
+    "Name": "Dash Grab",
+    "OwnerId": 47,
+    "Owner": "Ryu",
+    "HitboxActive": "8-9",
+    "FirstActionableFrame": "37",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70f44696590bf023de07"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ryu"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70f44696590bf023de08",
+    "Name": "Pivot Grab",
+    "OwnerId": 47,
+    "Owner": "Ryu",
+    "HitboxActive": "9-10",
+    "FirstActionableFrame": "35",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70f44696590bf023de08"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ryu"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70f44696590bf023de09",
+    "Name": "Spotdodge",
+    "OwnerId": 47,
+    "Owner": "Ryu",
+    "HitboxActive": "3-17",
+    "FirstActionableFrame": "28",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70f44696590bf023de09"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ryu"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70f44696590bf023de0a",
+    "Name": "Forward Roll",
+    "OwnerId": 47,
+    "Owner": "Ryu",
+    "HitboxActive": "4-17",
+    "FirstActionableFrame": "31",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70f44696590bf023de0a"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ryu"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70f44696590bf023de0b",
+    "Name": "Back Roll",
+    "OwnerId": 47,
+    "Owner": "Ryu",
+    "HitboxActive": "4-17",
+    "FirstActionableFrame": "31",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70f44696590bf023de0b"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ryu"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70f44696590bf023de0c",
+    "Name": "Airdodge",
+    "OwnerId": 47,
+    "Owner": "Ryu",
+    "HitboxActive": "4-25",
+    "FirstActionableFrame": "34",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70f44696590bf023de0c"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ryu"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70f44696590bf023de0d",
+    "Name": "Nair",
+    "OwnerId": 47,
+    "Owner": "Ryu",
+    "HitboxActive": "4-6",
+    "FirstActionableFrame": "28",
+    "BaseDamage": "8",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "20",
+    "LandingLag": "6",
+    "AutoCancel": "34&gt;",
+    "KnockbackGrowth": "100",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70f44696590bf023de0d"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ryu"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70f44696590bf023de0e",
+    "Name": "Nair (Late)",
+    "OwnerId": 47,
+    "Owner": "Ryu",
+    "HitboxActive": "7-21",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "4.5",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "13",
+    "LandingLag": "-",
+    "AutoCancel": "-",
+    "KnockbackGrowth": "90",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70f44696590bf023de0e"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ryu"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70f44696590bf023de0f",
+    "Name": "Fair",
+    "OwnerId": 47,
+    "Owner": "Ryu",
+    "HitboxActive": "6-7",
+    "FirstActionableFrame": "38",
+    "BaseDamage": "15/9 (+15)",
+    "Angle": "61/70",
+    "BaseKnockBackSetKnockback": "80/65",
+    "LandingLag": "14",
+    "AutoCancel": "41&gt;",
+    "KnockbackGrowth": "49/25",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70f44696590bf023de0f"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ryu"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70f44696590bf023de10",
+    "Name": "Fair (Late)",
+    "OwnerId": 47,
+    "Owner": "Ryu",
+    "HitboxActive": "8-14",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "13/8 (+15)",
+    "Angle": "61/70",
+    "BaseKnockBackSetKnockback": "80/65",
+    "LandingLag": "-",
+    "AutoCancel": "-",
+    "KnockbackGrowth": "49/25",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70f44696590bf023de10"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ryu"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70f44696590bf023de11",
+    "Name": "Bair",
+    "OwnerId": 47,
+    "Owner": "Ryu",
+    "HitboxActive": "8-9",
+    "FirstActionableFrame": "42",
+    "BaseDamage": "16/13",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "12",
+    "LandingLag": "12",
+    "AutoCancel": "25&gt;",
+    "KnockbackGrowth": "90",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70f44696590bf023de11"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ryu"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70f44696590bf023de12",
+    "Name": "Uair (Hit 1)",
+    "OwnerId": 47,
+    "Owner": "Ryu",
+    "HitboxActive": "6",
+    "FirstActionableFrame": "36",
+    "BaseDamage": "5",
+    "Angle": "367",
+    "BaseKnockBackSetKnockback": "W: 20",
+    "LandingLag": "14",
+    "AutoCancel": "18&gt;",
+    "KnockbackGrowth": "100",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70f44696590bf023de12"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ryu"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70f44696590bf023de13",
+    "Name": "Uair",
+    "OwnerId": 47,
+    "Owner": "Ryu",
+    "HitboxActive": "10",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "6",
+    "Angle": "75",
+    "BaseKnockBackSetKnockback": "0",
+    "LandingLag": "-",
+    "AutoCancel": "-",
+    "KnockbackGrowth": "172",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70f44696590bf023de13"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ryu"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70f44696590bf023de14",
+    "Name": "Dair",
+    "OwnerId": 47,
+    "Owner": "Ryu",
+    "HitboxActive": "8-12",
+    "FirstActionableFrame": "46",
+    "BaseDamage": "15/12/11",
+    "Angle": "300/84/48",
+    "BaseKnockBackSetKnockback": "10/14/20",
+    "LandingLag": "18",
+    "AutoCancel": "1-2, 33&gt;",
+    "KnockbackGrowth": "80/60/80",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70f44696590bf023de14"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ryu"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70f44696590bf023de15",
+    "Name": "Light Hadouken",
+    "OwnerId": 47,
+    "Owner": "Ryu",
+    "HitboxActive": "13-70",
+    "FirstActionableFrame": "58",
+    "BaseDamage": "5 (True: 6.25)",
+    "Angle": "0/60",
+    "BaseKnockBackSetKnockback": "45",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "10",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70f44696590bf023de15"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ryu"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70f44696590bf023de16",
+    "Name": "Medium Hadouken",
+    "OwnerId": 47,
+    "Owner": "Ryu",
+    "HitboxActive": "-",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "5.5 (True: 6.875)",
+    "Angle": "0/60",
+    "BaseKnockBackSetKnockback": "45",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "10",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70f44696590bf023de16"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ryu"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70f44696590bf023de17",
+    "Name": "Heavy Hadouken",
+    "OwnerId": 47,
+    "Owner": "Ryu",
+    "HitboxActive": "-",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "6 (True: 7.5)",
+    "Angle": "0/60",
+    "BaseKnockBackSetKnockback": "45",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "10",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70f44696590bf023de17"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ryu"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70f44696590bf023de18",
+    "Name": "Light Shakunetsu Hadouken",
+    "OwnerId": 47,
+    "Owner": "Ryu",
+    "HitboxActive": "13-70 (Rehit rate: 3)",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "1.1",
+    "Angle": "0",
+    "BaseKnockBackSetKnockback": "8",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "10",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70f44696590bf023de18"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ryu"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70f44696590bf023de19",
+    "Name": "Medium Shakunetsu Hadouken",
+    "OwnerId": 47,
+    "Owner": "Ryu",
+    "HitboxActive": "- (Rehit rate: 3)",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "1.1",
+    "Angle": "0",
+    "BaseKnockBackSetKnockback": "11",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "10",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70f44696590bf023de19"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ryu"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70f44696590bf023de1a",
+    "Name": "Heavy Shakunetsu Hadouken",
+    "OwnerId": 47,
+    "Owner": "Ryu",
+    "HitboxActive": "- (Rehit rate: 3)",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "1.1",
+    "Angle": "0",
+    "BaseKnockBackSetKnockback": "14",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "10",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70f44696590bf023de1a"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ryu"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70f44696590bf023de1b",
+    "Name": "Shakunetsu Hadouken (Final Hit)",
+    "OwnerId": 47,
+    "Owner": "Ryu",
+    "HitboxActive": "-",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "4",
+    "Angle": "55",
+    "BaseKnockBackSetKnockback": "60",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "60",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70f44696590bf023de1b"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ryu"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70f44696590bf023de1c",
+    "Name": "Tatsumaki Senpukyaku (Early)",
+    "OwnerId": 47,
+    "Owner": "Ryu",
+    "HitboxActive": "8-9",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "8 (True: 9.28)",
+    "Angle": "80",
+    "BaseKnockBackSetKnockback": "105",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "30",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70f44696590bf023de1c"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ryu"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70f44696590bf023de1d",
+    "Name": "Light Tatsumaki Senpukyaku (Grounded)",
+    "OwnerId": 47,
+    "Owner": "Ryu",
+    "HitboxActive": "10-",
+    "FirstActionableFrame": "64",
+    "BaseDamage": "9 (True: 10.44)",
+    "Angle": "55",
+    "BaseKnockBackSetKnockback": "80",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "50",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70f44696590bf023de1d"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ryu"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70f44696590bf023de1e",
+    "Name": "Medium Tatsumaki Senpukyaku (Grounded)",
+    "OwnerId": 47,
+    "Owner": "Ryu",
+    "HitboxActive": "-",
+    "FirstActionableFrame": "96",
+    "BaseDamage": "10.5 (True: 12.18)",
+    "Angle": "62",
+    "BaseKnockBackSetKnockback": "80",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "57",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70f44696590bf023de1e"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ryu"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70f44696590bf023de1f",
+    "Name": "Heavy Tatsumaki Senpukyaku (Grounded)",
+    "OwnerId": 47,
+    "Owner": "Ryu",
+    "HitboxActive": "",
+    "FirstActionableFrame": "96",
+    "BaseDamage": "12 (True: 13.92)",
+    "Angle": "70",
+    "BaseKnockBackSetKnockback": "80",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "65",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70f44696590bf023de1f"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ryu"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70f44696590bf023de20",
+    "Name": "Light Tatsumaki Senpukyaku (Aerial)",
+    "OwnerId": 47,
+    "Owner": "Ryu",
+    "HitboxActive": "10-",
+    "FirstActionableFrame": "64",
+    "BaseDamage": "8 (True: 9.28)",
+    "Angle": "50",
+    "BaseKnockBackSetKnockback": "80",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "50",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70f44696590bf023de20"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ryu"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70f44696590bf023de21",
+    "Name": "Medium Tatsumaki Senpukyaku (Aerial)",
+    "OwnerId": 47,
+    "Owner": "Ryu",
+    "HitboxActive": "",
+    "FirstActionableFrame": "96",
+    "BaseDamage": "9.5 (True: 11.02)",
+    "Angle": "50",
+    "BaseKnockBackSetKnockback": "80",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "57",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70f44696590bf023de21"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ryu"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70f44696590bf023de22",
+    "Name": "Heavy Tatsumaki Senpukyaku (Aerial)",
+    "OwnerId": 47,
+    "Owner": "Ryu",
+    "HitboxActive": "-",
+    "FirstActionableFrame": "96",
+    "BaseDamage": "11 (True: 12.76)",
+    "Angle": "50",
+    "BaseKnockBackSetKnockback": "80",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "65",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70f44696590bf023de22"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ryu"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70f44696590bf023de23",
+    "Name": "Shoryuken (All Versions)",
+    "OwnerId": 47,
+    "Owner": "Ryu",
+    "HitboxActive": "Intangible 3-5, True: 1-6",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "-",
+    "Angle": "-",
+    "BaseKnockBackSetKnockback": "-",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "-",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70f44696590bf023de23"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ryu"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70f44696590bf023de24",
+    "Name": "Light Shoryuken (Early, Grounded)",
+    "OwnerId": 47,
+    "Owner": "Ryu",
+    "HitboxActive": "6",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "13 (True: 15.6)",
+    "Angle": "80",
+    "BaseKnockBackSetKnockback": "80",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "58",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70f44696590bf023de24"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ryu"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70f44696590bf023de25",
+    "Name": "Medium Shoryuken (Early, Grounded)",
+    "OwnerId": 47,
+    "Owner": "Ryu",
+    "HitboxActive": "6",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "14 (True: 16.8)",
+    "Angle": "80",
+    "BaseKnockBackSetKnockback": "80",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "64",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70f44696590bf023de25"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ryu"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70f44696590bf023de26",
+    "Name": "Heavy Shoryuken (Early, Grounded)",
+    "OwnerId": 47,
+    "Owner": "Ryu",
+    "HitboxActive": "6",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "15 (True: 18)",
+    "Angle": "80",
+    "BaseKnockBackSetKnockback": "80",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "69",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70f44696590bf023de26"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ryu"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70f44696590bf023de27",
+    "Name": "Shoryuken (Grounded)",
+    "OwnerId": 47,
+    "Owner": "Ryu",
+    "HitboxActive": "7-8",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "12 (True: 14.4)",
+    "Angle": "80",
+    "BaseKnockBackSetKnockback": "80",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "64",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70f44696590bf023de27"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ryu"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70f44696590bf023de28",
+    "Name": "Shoryuken (Late, Grounded)",
+    "OwnerId": 47,
+    "Owner": "Ryu",
+    "HitboxActive": "9-19",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "7 (True: 8.4)",
+    "Angle": "70",
+    "BaseKnockBackSetKnockback": "60",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "90",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70f44696590bf023de28"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ryu"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70f44696590bf023de29",
+    "Name": "Light Shoryuken (Early, Aerial)",
+    "OwnerId": 47,
+    "Owner": "Ryu",
+    "HitboxActive": "6",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "12 (True: 14.4)",
+    "Angle": "80",
+    "BaseKnockBackSetKnockback": "80",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "49",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70f44696590bf023de29"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ryu"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70f44696590bf023de2a",
+    "Name": "Medium Shoryuken (Early, Aerial)",
+    "OwnerId": 47,
+    "Owner": "Ryu",
+    "HitboxActive": "6",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "13 (True: 15.6)",
+    "Angle": "80",
+    "BaseKnockBackSetKnockback": "80",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "54",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70f44696590bf023de2a"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ryu"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70f44696590bf023de2b",
+    "Name": "Heavy Shoryuken (Early, Aerial)",
+    "OwnerId": 47,
+    "Owner": "Ryu",
+    "HitboxActive": "6",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "14 (True: 16.8)",
+    "Angle": "80",
+    "BaseKnockBackSetKnockback": "80",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "60",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70f44696590bf023de2b"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ryu"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70f44696590bf023de2c",
+    "Name": "Shoryuken (Aerial)",
+    "OwnerId": 47,
+    "Owner": "Ryu",
+    "HitboxActive": "7-8",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "10 (True: 12)",
+    "Angle": "80",
+    "BaseKnockBackSetKnockback": "80",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "57",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70f44696590bf023de2c"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ryu"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70f44696590bf023de2d",
+    "Name": "Shoryuken (Late, Aerial)",
+    "OwnerId": 47,
+    "Owner": "Ryu",
+    "HitboxActive": "9-19",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "7 (True: 8.4)",
+    "Angle": "70",
+    "BaseKnockBackSetKnockback": "70",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "60",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70f44696590bf023de2d"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ryu"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70f44696590bf023de2e",
+    "Name": "Focus Attack",
+    "OwnerId": 47,
+    "Owner": "Ryu",
+    "HitboxActive": "(Special Armor: 1-20, Dash Cancelable from 26)",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "-",
+    "Angle": "-",
+    "BaseKnockBackSetKnockback": "-",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "-",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70f44696590bf023de2e"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ryu"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70f44696590bf023de2f",
+    "Name": "Focus Attack (No Charge)",
+    "OwnerId": 47,
+    "Owner": "Ryu",
+    "HitboxActive": "31-32",
+    "FirstActionableFrame": "76",
+    "BaseDamage": "12 (+15)",
+    "Angle": "60",
+    "BaseKnockBackSetKnockback": "100",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "10",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70f44696590bf023de2f"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ryu"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70f44696590bf023de30",
+    "Name": "Focus Attack (Stage 2)",
+    "OwnerId": 47,
+    "Owner": "Ryu",
+    "HitboxActive": "- (Causes Crumple)",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "10 (+22)",
+    "Angle": "60",
+    "BaseKnockBackSetKnockback": "0",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70f44696590bf023de30"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ryu"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70f44696590bf023de31",
+    "Name": "Focus Attack (Stage 3)",
+    "OwnerId": 47,
+    "Owner": "Ryu",
+    "HitboxActive": "70-71 (Special Armor: 1-59, Unblockable)",
+    "FirstActionableFrame": "115",
+    "BaseDamage": "17 (+30)",
+    "Angle": "60",
+    "BaseKnockBackSetKnockback": "0",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70f44696590bf023de31"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ryu"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70f44696590bf023de32",
+    "Name": "Fthrow",
+    "OwnerId": 47,
+    "Owner": "Ryu",
+    "HitboxActive": null,
+    "FirstActionableFrame": null,
+    "BaseDamage": "9",
+    "Angle": "50",
+    "BaseKnockBackSetKnockback": "75",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "45",
+    "MoveType": "throw",
+    "IsWeightDependent": true,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70f44696590bf023de32"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ryu"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70f44696590bf023de33",
+    "Name": "Bthrow",
+    "OwnerId": 47,
+    "Owner": "Ryu",
+    "HitboxActive": null,
+    "FirstActionableFrame": null,
+    "BaseDamage": "12",
+    "Angle": "52",
+    "BaseKnockBackSetKnockback": "75",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "45",
+    "MoveType": "throw",
+    "IsWeightDependent": true,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70f44696590bf023de33"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ryu"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70f44696590bf023de34",
+    "Name": "Uthrow",
+    "OwnerId": 47,
+    "Owner": "Ryu",
+    "HitboxActive": null,
+    "FirstActionableFrame": null,
+    "BaseDamage": "8",
+    "Angle": "88",
+    "BaseKnockBackSetKnockback": "55",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "75",
+    "MoveType": "throw",
+    "IsWeightDependent": true,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70f44696590bf023de34"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ryu"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70f44696590bf023de35",
+    "Name": "Dthrow",
+    "OwnerId": 47,
+    "Owner": "Ryu",
+    "HitboxActive": null,
+    "FirstActionableFrame": null,
+    "BaseDamage": "5 (+50), 4",
+    "Angle": "76",
+    "BaseKnockBackSetKnockback": "50",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "137",
+    "MoveType": "throw",
+    "IsWeightDependent": true,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70f44696590bf023de35"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Ryu"
+      }
+    ]
+  }
+]

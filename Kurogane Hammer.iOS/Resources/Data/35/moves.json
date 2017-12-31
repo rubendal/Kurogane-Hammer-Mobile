@@ -1,0 +1,1406 @@
+﻿[
+  {
+    "InstanceId": "598e70d44696590bf023d9c5",
+    "Name": "Jab 1",
+    "OwnerId": 35,
+    "Owner": "MrGameWatch",
+    "HitboxActive": "4-5",
+    "FirstActionableFrame": "16",
+    "BaseDamage": "3",
+    "Angle": "83",
+    "BaseKnockBackSetKnockback": "W: 5/10/20",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70d44696590bf023d9c5"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MrGameWatch"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70d44696590bf023d9c6",
+    "Name": "Rapid Jab",
+    "OwnerId": 35,
+    "Owner": "MrGameWatch",
+    "HitboxActive": "",
+    "FirstActionableFrame": "",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70d44696590bf023d9c6"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MrGameWatch"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70d44696590bf023d9c7",
+    "Name": "Rapid Jab Finisher",
+    "OwnerId": 35,
+    "Owner": "MrGameWatch",
+    "HitboxActive": "2-3",
+    "FirstActionableFrame": "24",
+    "BaseDamage": "2",
+    "Angle": "50",
+    "BaseKnockBackSetKnockback": "60",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "180",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70d44696590bf023d9c7"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MrGameWatch"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70d44696590bf023d9c8",
+    "Name": "Dash Attack",
+    "OwnerId": 35,
+    "Owner": "MrGameWatch",
+    "HitboxActive": "6-9",
+    "FirstActionableFrame": "38",
+    "BaseDamage": "10 (+1)",
+    "Angle": "50",
+    "BaseKnockBackSetKnockback": "70",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "70",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70d44696590bf023d9c8"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MrGameWatch"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70d44696590bf023d9c9",
+    "Name": "Dash Attack (Late)",
+    "OwnerId": 35,
+    "Owner": "MrGameWatch",
+    "HitboxActive": "10-19",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "6.5 (+1)",
+    "Angle": "50",
+    "BaseKnockBackSetKnockback": "70",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "70",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70d44696590bf023d9c9"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MrGameWatch"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70d44696590bf023d9ca",
+    "Name": "Ftilt",
+    "OwnerId": 35,
+    "Owner": "MrGameWatch",
+    "HitboxActive": "10",
+    "FirstActionableFrame": "38",
+    "BaseDamage": "10/9",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "35",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70d44696590bf023d9ca"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MrGameWatch"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70d44696590bf023d9cb",
+    "Name": "Ftilt (Late)",
+    "OwnerId": 35,
+    "Owner": "MrGameWatch",
+    "HitboxActive": "11-17",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "4",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "35",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70d44696590bf023d9cb"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MrGameWatch"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70d44696590bf023d9cc",
+    "Name": "Utilt (Hit 1)",
+    "OwnerId": 35,
+    "Owner": "MrGameWatch",
+    "HitboxActive": "10-12",
+    "FirstActionableFrame": "36",
+    "BaseDamage": "7",
+    "Angle": "100",
+    "BaseKnockBackSetKnockback": "20",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "127/125",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70d44696590bf023d9cc"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MrGameWatch"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70d44696590bf023d9cd",
+    "Name": "Utilt (Hit 2)",
+    "OwnerId": 35,
+    "Owner": "MrGameWatch",
+    "HitboxActive": "20-22",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "7",
+    "Angle": "115",
+    "BaseKnockBackSetKnockback": "30",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "125/127",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70d44696590bf023d9cd"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MrGameWatch"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70d44696590bf023d9ce",
+    "Name": "Dtilt",
+    "OwnerId": 35,
+    "Owner": "MrGameWatch",
+    "HitboxActive": "6-11 (Ground Only)",
+    "FirstActionableFrame": "40",
+    "BaseDamage": "6",
+    "Angle": "30",
+    "BaseKnockBackSetKnockback": "40",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "125",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70d44696590bf023d9ce"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MrGameWatch"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70d44696590bf023d9cf",
+    "Name": "Dtilt (Windbox)",
+    "OwnerId": 35,
+    "Owner": "MrGameWatch",
+    "HitboxActive": "7-19 (Aerial Only)",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "1",
+    "Angle": "90",
+    "BaseKnockBackSetKnockback": "70",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "120",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70d44696590bf023d9cf"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MrGameWatch"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70d44696590bf023d9d0",
+    "Name": "Fsmash",
+    "OwnerId": 35,
+    "Owner": "MrGameWatch",
+    "HitboxActive": "17-18",
+    "FirstActionableFrame": "43",
+    "BaseDamage": "14/18",
+    "Angle": "53",
+    "BaseKnockBackSetKnockback": "44/48",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100/91",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70d44696590bf023d9d0"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MrGameWatch"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70d44696590bf023d9d1",
+    "Name": "Usmash",
+    "OwnerId": 35,
+    "Owner": "MrGameWatch",
+    "HitboxActive": "24-25 (Partial Invincibility: 4-25)",
+    "FirstActionableFrame": "39",
+    "BaseDamage": "16",
+    "Angle": "83",
+    "BaseKnockBackSetKnockback": "40",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "93",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70d44696590bf023d9d1"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MrGameWatch"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70d44696590bf023d9d2",
+    "Name": "Dsmash",
+    "OwnerId": 35,
+    "Owner": "MrGameWatch",
+    "HitboxActive": "15-19",
+    "FirstActionableFrame": "42",
+    "BaseDamage": "13/15/15",
+    "Angle": "20/80/80",
+    "BaseKnockBackSetKnockback": "30/60/60",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "65/85/85",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70d44696590bf023d9d2"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MrGameWatch"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70d44696590bf023d9d3",
+    "Name": "Standing Grab",
+    "OwnerId": 35,
+    "Owner": "MrGameWatch",
+    "HitboxActive": "6-7",
+    "FirstActionableFrame": "30",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70d44696590bf023d9d3"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MrGameWatch"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70d44696590bf023d9d4",
+    "Name": "Dash Grab",
+    "OwnerId": 35,
+    "Owner": "MrGameWatch",
+    "HitboxActive": "8-9",
+    "FirstActionableFrame": "37",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70d44696590bf023d9d4"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MrGameWatch"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70d44696590bf023d9d5",
+    "Name": "Pivot Grab",
+    "OwnerId": 35,
+    "Owner": "MrGameWatch",
+    "HitboxActive": "9-10",
+    "FirstActionableFrame": "35",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70d44696590bf023d9d5"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MrGameWatch"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70d44696590bf023d9d6",
+    "Name": "Spotdodge",
+    "OwnerId": 35,
+    "Owner": "MrGameWatch",
+    "HitboxActive": "2-16",
+    "FirstActionableFrame": "26",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70d44696590bf023d9d6"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MrGameWatch"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70d44696590bf023d9d7",
+    "Name": "Forward Roll",
+    "OwnerId": 35,
+    "Owner": "MrGameWatch",
+    "HitboxActive": "4-16",
+    "FirstActionableFrame": "30",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70d44696590bf023d9d7"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MrGameWatch"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70d44696590bf023d9d8",
+    "Name": "Back Roll",
+    "OwnerId": 35,
+    "Owner": "MrGameWatch",
+    "HitboxActive": "4-16",
+    "FirstActionableFrame": "30",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70d44696590bf023d9d8"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MrGameWatch"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70d44696590bf023d9d9",
+    "Name": "Airdodge",
+    "OwnerId": 35,
+    "Owner": "MrGameWatch",
+    "HitboxActive": "2-26",
+    "FirstActionableFrame": "32",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70d44696590bf023d9d9"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MrGameWatch"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70d44696590bf023d9da",
+    "Name": "Nair (Hit 1)",
+    "OwnerId": 35,
+    "Owner": "MrGameWatch",
+    "HitboxActive": "7",
+    "FirstActionableFrame": "43",
+    "BaseDamage": "5",
+    "Angle": "160/160/90",
+    "BaseKnockBackSetKnockback": "W: 30/30/B: 20",
+    "LandingLag": "12",
+    "AutoCancel": "1-2, 44&gt;",
+    "KnockbackGrowth": "100/100/70",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70d44696590bf023d9da"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MrGameWatch"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70d44696590bf023d9db",
+    "Name": "Nair (Hit 2)",
+    "OwnerId": 35,
+    "Owner": "MrGameWatch",
+    "HitboxActive": "12",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "4",
+    "Angle": "160/160/90",
+    "BaseKnockBackSetKnockback": "W: 30/30/B: 20",
+    "LandingLag": "-",
+    "AutoCancel": "-",
+    "KnockbackGrowth": "100/100/70",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70d44696590bf023d9db"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MrGameWatch"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70d44696590bf023d9dc",
+    "Name": "Nair (Hit 3)",
+    "OwnerId": 35,
+    "Owner": "MrGameWatch",
+    "HitboxActive": "17",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "4",
+    "Angle": "160/160/90",
+    "BaseKnockBackSetKnockback": "W: 30/30/0 B: 20/20/20",
+    "LandingLag": "-",
+    "AutoCancel": "-",
+    "KnockbackGrowth": "100/100/70",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70d44696590bf023d9dc"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MrGameWatch"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70d44696590bf023d9dd",
+    "Name": "Nair (Hit 4)",
+    "OwnerId": 35,
+    "Owner": "MrGameWatch",
+    "HitboxActive": "22",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "4",
+    "Angle": "70",
+    "BaseKnockBackSetKnockback": "40",
+    "LandingLag": "-",
+    "AutoCancel": "-",
+    "KnockbackGrowth": "150",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70d44696590bf023d9dd"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MrGameWatch"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70d44696590bf023d9de",
+    "Name": "Fair",
+    "OwnerId": 35,
+    "Owner": "MrGameWatch",
+    "HitboxActive": "10-11",
+    "FirstActionableFrame": "45",
+    "BaseDamage": "11.5",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "30",
+    "LandingLag": "15",
+    "AutoCancel": "1-2, 42&gt;",
+    "KnockbackGrowth": "86",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70d44696590bf023d9de"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MrGameWatch"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70d44696590bf023d9df",
+    "Name": "Fair (Late)",
+    "OwnerId": 35,
+    "Owner": "MrGameWatch",
+    "HitboxActive": "12-25",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "6",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "10",
+    "LandingLag": "-",
+    "AutoCancel": "-",
+    "KnockbackGrowth": "80",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70d44696590bf023d9df"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MrGameWatch"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70d44696590bf023d9e0",
+    "Name": "Bair (Hits 1-3)",
+    "OwnerId": 35,
+    "Owner": "MrGameWatch",
+    "HitboxActive": "10-13, 14-17, 18-21",
+    "FirstActionableFrame": "40",
+    "BaseDamage": "2",
+    "Angle": "366/25",
+    "BaseKnockBackSetKnockback": "30/0",
+    "LandingLag": "19",
+    "AutoCancel": "1-9, 38&gt;",
+    "KnockbackGrowth": "40/100",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70d44696590bf023d9e0"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MrGameWatch"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70d44696590bf023d9e1",
+    "Name": "Bair (Hit 4)",
+    "OwnerId": 35,
+    "Owner": "MrGameWatch",
+    "HitboxActive": "22",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "3",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "30",
+    "LandingLag": "-",
+    "AutoCancel": "-",
+    "KnockbackGrowth": "170",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70d44696590bf023d9e1"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MrGameWatch"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70d44696590bf023d9e2",
+    "Name": "Bair (Landing)",
+    "OwnerId": 35,
+    "Owner": "MrGameWatch",
+    "HitboxActive": "1-2",
+    "FirstActionableFrame": "On Hit: 16",
+    "BaseDamage": "3",
+    "Angle": "68",
+    "BaseKnockBackSetKnockback": "90",
+    "LandingLag": "-",
+    "AutoCancel": "-",
+    "KnockbackGrowth": "120",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70d44696590bf023d9e2"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MrGameWatch"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70d44696590bf023d9e3",
+    "Name": "Uair (Hit 1)",
+    "OwnerId": 35,
+    "Owner": "MrGameWatch",
+    "HitboxActive": "6-12",
+    "FirstActionableFrame": "40",
+    "BaseDamage": "7/7/0/0",
+    "Angle": "94/94/80/80",
+    "BaseKnockBackSetKnockback": "B: 20/20/ W: 120/70",
+    "LandingLag": "12",
+    "AutoCancel": "1-5, 41&gt;",
+    "KnockbackGrowth": "60/60/100/100",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70d44696590bf023d9e3"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MrGameWatch"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70d44696590bf023d9e4",
+    "Name": "Uair (Hit 2)",
+    "OwnerId": 35,
+    "Owner": "MrGameWatch",
+    "HitboxActive": "20-22",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "9/9/0/0",
+    "Angle": "90/90/80/80",
+    "BaseKnockBackSetKnockback": "B: 55/55/ W: 120/70",
+    "LandingLag": "-",
+    "AutoCancel": "-",
+    "KnockbackGrowth": "98/98/100/100",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70d44696590bf023d9e4"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MrGameWatch"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70d44696590bf023d9e5",
+    "Name": "Dair",
+    "OwnerId": 35,
+    "Owner": "MrGameWatch",
+    "HitboxActive": "12-13",
+    "FirstActionableFrame": "50",
+    "BaseDamage": "11",
+    "Angle": "270",
+    "BaseKnockBackSetKnockback": "20",
+    "LandingLag": "28",
+    "AutoCancel": "1-5, 51&gt;",
+    "KnockbackGrowth": "106",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70d44696590bf023d9e5"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MrGameWatch"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70d44696590bf023d9e6",
+    "Name": "Dair (Late)",
+    "OwnerId": 35,
+    "Owner": "MrGameWatch",
+    "HitboxActive": "14-38",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "11",
+    "Angle": "60",
+    "BaseKnockBackSetKnockback": "20",
+    "LandingLag": "-",
+    "AutoCancel": "-",
+    "KnockbackGrowth": "106",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70d44696590bf023d9e6"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MrGameWatch"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70d44696590bf023d9e7",
+    "Name": "Dair (Landing)",
+    "OwnerId": 35,
+    "Owner": "MrGameWatch",
+    "HitboxActive": "1-2",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "3.5",
+    "Angle": "40",
+    "BaseKnockBackSetKnockback": "60",
+    "LandingLag": "-",
+    "AutoCancel": "-",
+    "KnockbackGrowth": "50",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70d44696590bf023d9e7"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MrGameWatch"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70d44696590bf023d9e8",
+    "Name": "Chef (Pan)",
+    "OwnerId": 35,
+    "Owner": "MrGameWatch",
+    "HitboxActive": "18-20",
+    "FirstActionableFrame": "50",
+    "BaseDamage": "5",
+    "Angle": "10",
+    "BaseKnockBackSetKnockback": "60",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "30",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70d44696590bf023d9e8"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MrGameWatch"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70d44696590bf023d9e9",
+    "Name": "Chef (Sausages ( Í¡Â° ÍœÊ– Í¡Â°))",
+    "OwnerId": 35,
+    "Owner": "MrGameWatch",
+    "HitboxActive": "18-96",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "4",
+    "Angle": "70",
+    "BaseKnockBackSetKnockback": "20",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "50",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70d44696590bf023d9e9"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MrGameWatch"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70d44696590bf023d9ea",
+    "Name": "Judge 1",
+    "OwnerId": 35,
+    "Owner": "MrGameWatch",
+    "HitboxActive": "16-24",
+    "FirstActionableFrame": "50",
+    "BaseDamage": "2",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "0",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "0",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70d44696590bf023d9ea"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MrGameWatch"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70d44696590bf023d9eb",
+    "Name": "Judge 2",
+    "OwnerId": 35,
+    "Owner": "MrGameWatch",
+    "HitboxActive": "16-24",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "4",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "10",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "40",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70d44696590bf023d9eb"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MrGameWatch"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70d44696590bf023d9ec",
+    "Name": "Judge 3",
+    "OwnerId": 35,
+    "Owner": "MrGameWatch",
+    "HitboxActive": "16-24",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "6 (+25)",
+    "Angle": "140",
+    "BaseKnockBackSetKnockback": "45",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "50",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70d44696590bf023d9ec"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MrGameWatch"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70d44696590bf023d9ed",
+    "Name": "Judge 4",
+    "OwnerId": 35,
+    "Owner": "MrGameWatch",
+    "HitboxActive": "16-24",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "8",
+    "Angle": "40",
+    "BaseKnockBackSetKnockback": "50",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "40",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70d44696590bf023d9ed"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MrGameWatch"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70d44696590bf023d9ee",
+    "Name": "Judge 5",
+    "OwnerId": 35,
+    "Owner": "MrGameWatch",
+    "HitboxActive": "16-18, 19-21, 22-24, 25-27",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "3",
+    "Angle": "75",
+    "BaseKnockBackSetKnockback": "40",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "80",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70d44696590bf023d9ee"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MrGameWatch"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70d44696590bf023d9ef",
+    "Name": "Judge 6",
+    "OwnerId": 35,
+    "Owner": "MrGameWatch",
+    "HitboxActive": "16-24",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "12",
+    "Angle": "20",
+    "BaseKnockBackSetKnockback": "30",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "80",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70d44696590bf023d9ef"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MrGameWatch"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70d44696590bf023d9f0",
+    "Name": "Judge 7",
+    "OwnerId": 35,
+    "Owner": "MrGameWatch",
+    "HitboxActive": "16-24",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "14",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "30",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "50",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70d44696590bf023d9f0"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MrGameWatch"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70d44696590bf023d9f1",
+    "Name": "Judge 8",
+    "OwnerId": 35,
+    "Owner": "MrGameWatch",
+    "HitboxActive": "16-24",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "9",
+    "Angle": "80",
+    "BaseKnockBackSetKnockback": "W: 70",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70d44696590bf023d9f1"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MrGameWatch"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70d44696590bf023d9f2",
+    "Name": "Judge 9",
+    "OwnerId": 35,
+    "Owner": "MrGameWatch",
+    "HitboxActive": "16-24",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "32",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "100",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "80",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70d44696590bf023d9f2"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MrGameWatch"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70d44696590bf023d9f3",
+    "Name": "Fire (Windbox)",
+    "OwnerId": 35,
+    "Owner": "MrGameWatch",
+    "HitboxActive": "2-8 (Intangible: 5-13)",
+    "FirstActionableFrame": "41",
+    "BaseDamage": "0",
+    "Angle": "75",
+    "BaseKnockBackSetKnockback": "W: 120",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70d44696590bf023d9f3"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MrGameWatch"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70d44696590bf023d9f4",
+    "Name": "Fire",
+    "OwnerId": 35,
+    "Owner": "MrGameWatch",
+    "HitboxActive": "9-29",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "6",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "60",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "80",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70d44696590bf023d9f4"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MrGameWatch"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70d44696590bf023d9f5",
+    "Name": "Oil Panic",
+    "OwnerId": 35,
+    "Owner": "MrGameWatch",
+    "HitboxActive": "Absorbs from: Frame 7",
+    "FirstActionableFrame": "50",
+    "BaseDamage": "-",
+    "Angle": "-",
+    "BaseKnockBackSetKnockback": "-",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "-",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70d44696590bf023d9f5"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MrGameWatch"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70d44696590bf023d9f6",
+    "Name": "Oil Panic (Attack)",
+    "OwnerId": 35,
+    "Owner": "MrGameWatch",
+    "HitboxActive": "2-7",
+    "FirstActionableFrame": "50",
+    "BaseDamage": "1",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "30",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "80",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70d44696590bf023d9f6"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MrGameWatch"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70d44696590bf023d9f7",
+    "Name": "Fthrow",
+    "OwnerId": 35,
+    "Owner": "MrGameWatch",
+    "HitboxActive": null,
+    "FirstActionableFrame": null,
+    "BaseDamage": "8",
+    "Angle": "58",
+    "BaseKnockBackSetKnockback": "100",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "40",
+    "MoveType": "throw",
+    "IsWeightDependent": true,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70d44696590bf023d9f7"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MrGameWatch"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70d44696590bf023d9f8",
+    "Name": "Bthrow",
+    "OwnerId": 35,
+    "Owner": "MrGameWatch",
+    "HitboxActive": null,
+    "FirstActionableFrame": null,
+    "BaseDamage": "8",
+    "Angle": "58",
+    "BaseKnockBackSetKnockback": "100",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "40",
+    "MoveType": "throw",
+    "IsWeightDependent": true,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70d44696590bf023d9f8"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MrGameWatch"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70d44696590bf023d9f9",
+    "Name": "Uthrow",
+    "OwnerId": 35,
+    "Owner": "MrGameWatch",
+    "HitboxActive": null,
+    "FirstActionableFrame": null,
+    "BaseDamage": "8",
+    "Angle": "90",
+    "BaseKnockBackSetKnockback": "100",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "40",
+    "MoveType": "throw",
+    "IsWeightDependent": true,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70d44696590bf023d9f9"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MrGameWatch"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70d44696590bf023d9fa",
+    "Name": "Dthrow",
+    "OwnerId": 35,
+    "Owner": "MrGameWatch",
+    "HitboxActive": null,
+    "FirstActionableFrame": null,
+    "BaseDamage": "4",
+    "Angle": "80",
+    "BaseKnockBackSetKnockback": "35",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "120",
+    "MoveType": "throw",
+    "IsWeightDependent": true,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70d44696590bf023d9fa"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MrGameWatch"
+      }
+    ]
+  }
+]

@@ -1,0 +1,2186 @@
+﻿[
+  {
+    "InstanceId": "598e70cf4696590bf023d8eb",
+    "Name": "Jab 1",
+    "OwnerId": 32,
+    "Owner": "MiiBrawler",
+    "HitboxActive": "2-3",
+    "FirstActionableFrame": "16",
+    "BaseDamage": "3",
+    "Angle": "45/80",
+    "BaseKnockBackSetKnockback": "W: 10/15",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70cf4696590bf023d8eb"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MiiBrawler"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70cf4696590bf023d8ec",
+    "Name": "Jab 2",
+    "OwnerId": 32,
+    "Owner": "MiiBrawler",
+    "HitboxActive": "2-3",
+    "FirstActionableFrame": "19",
+    "BaseDamage": "2",
+    "Angle": "94/45/45",
+    "BaseKnockBackSetKnockback": "W: 25/15/15",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70cf4696590bf023d8ec"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MiiBrawler"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70cf4696590bf023d8ed",
+    "Name": "Rapid Jab",
+    "OwnerId": 32,
+    "Owner": "MiiBrawler",
+    "HitboxActive": "?",
+    "FirstActionableFrame": "?",
+    "BaseDamage": "?",
+    "Angle": "?",
+    "BaseKnockBackSetKnockback": "?",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "?",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70cf4696590bf023d8ed"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MiiBrawler"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70cf4696590bf023d8ee",
+    "Name": "Rapid Jab Finisher",
+    "OwnerId": 32,
+    "Owner": "MiiBrawler",
+    "HitboxActive": "4-5",
+    "FirstActionableFrame": "41",
+    "BaseDamage": "2",
+    "Angle": "45",
+    "BaseKnockBackSetKnockback": "130",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "65",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70cf4696590bf023d8ee"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MiiBrawler"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70cf4696590bf023d8ef",
+    "Name": "Dash Attack",
+    "OwnerId": 32,
+    "Owner": "MiiBrawler",
+    "HitboxActive": "6-9",
+    "FirstActionableFrame": "38",
+    "BaseDamage": "11 (+1)",
+    "Angle": "60",
+    "BaseKnockBackSetKnockback": "100",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "50",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70cf4696590bf023d8ef"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MiiBrawler"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70cf4696590bf023d8f0",
+    "Name": "Dash Attack (Late)",
+    "OwnerId": 32,
+    "Owner": "MiiBrawler",
+    "HitboxActive": "10-17",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "6 (+1)",
+    "Angle": "60",
+    "BaseKnockBackSetKnockback": "100",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "40",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70cf4696590bf023d8f0"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MiiBrawler"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70cf4696590bf023d8f1",
+    "Name": "Ftilt (High)",
+    "OwnerId": 32,
+    "Owner": "MiiBrawler",
+    "HitboxActive": "6-8",
+    "FirstActionableFrame": "28",
+    "BaseDamage": "8.5/7.5",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "12",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70cf4696590bf023d8f1"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MiiBrawler"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70cf4696590bf023d8f2",
+    "Name": "Ftilt",
+    "OwnerId": 32,
+    "Owner": "MiiBrawler",
+    "HitboxActive": "6-8",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "8/7",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "12",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70cf4696590bf023d8f2"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MiiBrawler"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70cf4696590bf023d8f3",
+    "Name": "Ftilt (Low)",
+    "OwnerId": 32,
+    "Owner": "MiiBrawler",
+    "HitboxActive": "6-9",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "8.3/7.3",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "12",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70cf4696590bf023d8f3"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MiiBrawler"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70cf4696590bf023d8f4",
+    "Name": "Utilt",
+    "OwnerId": 32,
+    "Owner": "MiiBrawler",
+    "HitboxActive": "5-12",
+    "FirstActionableFrame": "30",
+    "BaseDamage": "6",
+    "Angle": "96",
+    "BaseKnockBackSetKnockback": "28",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "130",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70cf4696590bf023d8f4"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MiiBrawler"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70cf4696590bf023d8f5",
+    "Name": "Dtilt",
+    "OwnerId": 32,
+    "Owner": "MiiBrawler",
+    "HitboxActive": "7-8",
+    "FirstActionableFrame": "28",
+    "BaseDamage": "8",
+    "Angle": "80",
+    "BaseKnockBackSetKnockback": "50",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "90",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70cf4696590bf023d8f5"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MiiBrawler"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70cf4696590bf023d8f6",
+    "Name": "Fsmash (All Angles)",
+    "OwnerId": 32,
+    "Owner": "MiiBrawler",
+    "HitboxActive": "17",
+    "FirstActionableFrame": "68",
+    "BaseDamage": "18",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "30",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70cf4696590bf023d8f6"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MiiBrawler"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70cf4696590bf023d8f7",
+    "Name": "Usmash",
+    "OwnerId": 32,
+    "Owner": "MiiBrawler",
+    "HitboxActive": "8-11 (Legs Intangible: 8-12)",
+    "FirstActionableFrame": "48",
+    "BaseDamage": "14",
+    "Angle": "84",
+    "BaseKnockBackSetKnockback": "32",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "93",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70cf4696590bf023d8f7"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MiiBrawler"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70cf4696590bf023d8f8",
+    "Name": "Usmash (Late)",
+    "OwnerId": 32,
+    "Owner": "MiiBrawler",
+    "HitboxActive": "12-14",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "10",
+    "Angle": "84",
+    "BaseKnockBackSetKnockback": "32",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "93",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70cf4696590bf023d8f8"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MiiBrawler"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70cf4696590bf023d8f9",
+    "Name": "Dsmash",
+    "OwnerId": 32,
+    "Owner": "MiiBrawler",
+    "HitboxActive": "9-10",
+    "FirstActionableFrame": "44",
+    "BaseDamage": "13",
+    "Angle": "32/35",
+    "BaseKnockBackSetKnockback": "38/50",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "80/83",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70cf4696590bf023d8f9"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MiiBrawler"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70cf4696590bf023d8fa",
+    "Name": "Standing Grab",
+    "OwnerId": 32,
+    "Owner": "MiiBrawler",
+    "HitboxActive": "6-7",
+    "FirstActionableFrame": "30",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70cf4696590bf023d8fa"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MiiBrawler"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70cf4696590bf023d8fb",
+    "Name": "Dash Grab",
+    "OwnerId": 32,
+    "Owner": "MiiBrawler",
+    "HitboxActive": "8-9",
+    "FirstActionableFrame": "37",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70cf4696590bf023d8fb"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MiiBrawler"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70cf4696590bf023d8fc",
+    "Name": "Pivot Grab",
+    "OwnerId": 32,
+    "Owner": "MiiBrawler",
+    "HitboxActive": "9-10",
+    "FirstActionableFrame": "35",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70cf4696590bf023d8fc"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MiiBrawler"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70cf4696590bf023d8fd",
+    "Name": "Spotdodge",
+    "OwnerId": 32,
+    "Owner": "MiiBrawler",
+    "HitboxActive": "3-16",
+    "FirstActionableFrame": "27",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70cf4696590bf023d8fd"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MiiBrawler"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70cf4696590bf023d8fe",
+    "Name": "Forward Roll",
+    "OwnerId": 32,
+    "Owner": "MiiBrawler",
+    "HitboxActive": "4-16",
+    "FirstActionableFrame": "30",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70cf4696590bf023d8fe"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MiiBrawler"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70cf4696590bf023d8ff",
+    "Name": "Back Roll",
+    "OwnerId": 32,
+    "Owner": "MiiBrawler",
+    "HitboxActive": "4-16",
+    "FirstActionableFrame": "30",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70cf4696590bf023d8ff"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MiiBrawler"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70cf4696590bf023d900",
+    "Name": "Airdodge",
+    "OwnerId": 32,
+    "Owner": "MiiBrawler",
+    "HitboxActive": "3-27",
+    "FirstActionableFrame": "33",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70cf4696590bf023d900"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MiiBrawler"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70cf4696590bf023d901",
+    "Name": "Nair",
+    "OwnerId": 32,
+    "Owner": "MiiBrawler",
+    "HitboxActive": "3-5",
+    "FirstActionableFrame": "56",
+    "BaseDamage": "10",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "20",
+    "LandingLag": "10",
+    "AutoCancel": "1-2, 37&gt;",
+    "KnockbackGrowth": "100",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70cf4696590bf023d901"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MiiBrawler"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70cf4696590bf023d902",
+    "Name": "Nair (Late)",
+    "OwnerId": 32,
+    "Owner": "MiiBrawler",
+    "HitboxActive": "6-29",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "5",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "20",
+    "LandingLag": "-",
+    "AutoCancel": "-",
+    "KnockbackGrowth": "90",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70cf4696590bf023d902"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MiiBrawler"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70cf4696590bf023d903",
+    "Name": "Fair (Hit 1)",
+    "OwnerId": 32,
+    "Owner": "MiiBrawler",
+    "HitboxActive": "8-9",
+    "FirstActionableFrame": "45",
+    "BaseDamage": "4",
+    "Angle": "366",
+    "BaseKnockBackSetKnockback": "40",
+    "LandingLag": "14",
+    "AutoCancel": "1-2, 43&gt;",
+    "KnockbackGrowth": "100",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70cf4696590bf023d903"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MiiBrawler"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70cf4696590bf023d904",
+    "Name": "Fair (Hit 2)",
+    "OwnerId": 32,
+    "Owner": "MiiBrawler",
+    "HitboxActive": "18-20",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "5",
+    "Angle": "40",
+    "BaseKnockBackSetKnockback": "35",
+    "LandingLag": "-",
+    "AutoCancel": "-",
+    "KnockbackGrowth": "100",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70cf4696590bf023d904"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MiiBrawler"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70cf4696590bf023d905",
+    "Name": "Bair",
+    "OwnerId": 32,
+    "Owner": "MiiBrawler",
+    "HitboxActive": "7-9",
+    "FirstActionableFrame": "40",
+    "BaseDamage": "10",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "10",
+    "LandingLag": "14",
+    "AutoCancel": "28&gt;",
+    "KnockbackGrowth": "100",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70cf4696590bf023d905"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MiiBrawler"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70cf4696590bf023d906",
+    "Name": "Uair",
+    "OwnerId": 32,
+    "Owner": "MiiBrawler",
+    "HitboxActive": "6-10",
+    "FirstActionableFrame": "36",
+    "BaseDamage": "8",
+    "Angle": "75",
+    "BaseKnockBackSetKnockback": "9",
+    "LandingLag": "14",
+    "AutoCancel": "23&gt;",
+    "KnockbackGrowth": "100",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70cf4696590bf023d906"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MiiBrawler"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70cf4696590bf023d907",
+    "Name": "Dair",
+    "OwnerId": 32,
+    "Owner": "MiiBrawler",
+    "HitboxActive": "16",
+    "FirstActionableFrame": "50",
+    "BaseDamage": "13",
+    "Angle": "270/70",
+    "BaseKnockBackSetKnockback": "10/30",
+    "LandingLag": "18",
+    "AutoCancel": "1-4, 37&gt;",
+    "KnockbackGrowth": "80/100",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70cf4696590bf023d907"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MiiBrawler"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70cf4696590bf023d908",
+    "Name": "Dair (Late)",
+    "OwnerId": 32,
+    "Owner": "MiiBrawler",
+    "HitboxActive": "17-18",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "12",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "30",
+    "LandingLag": "-",
+    "AutoCancel": "-",
+    "KnockbackGrowth": "100",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70cf4696590bf023d908"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MiiBrawler"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70cf4696590bf023d909",
+    "Name": "Neutral 1: Shot Put",
+    "OwnerId": 32,
+    "Owner": "MiiBrawler",
+    "HitboxActive": "28-?",
+    "FirstActionableFrame": "80",
+    "BaseDamage": "15",
+    "Angle": "67",
+    "BaseKnockBackSetKnockback": "50",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "64",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70cf4696590bf023d909"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MiiBrawler"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70cf4696590bf023d90a",
+    "Name": "Neutral 2: Ultimate Uppercut (No Charge, Ground)",
+    "OwnerId": 32,
+    "Owner": "MiiBrawler",
+    "HitboxActive": "19",
+    "FirstActionableFrame": "66",
+    "BaseDamage": "8",
+    "Angle": "80",
+    "BaseKnockBackSetKnockback": "40",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70cf4696590bf023d90a"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MiiBrawler"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70cf4696590bf023d90b",
+    "Name": "Neutral 2: Ultimate Uppercut (No Charge, Ground, Late)",
+    "OwnerId": 32,
+    "Owner": "MiiBrawler",
+    "HitboxActive": "20-21",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "5",
+    "Angle": "80",
+    "BaseKnockBackSetKnockback": "20",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "82",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70cf4696590bf023d90b"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MiiBrawler"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70cf4696590bf023d90c",
+    "Name": "Neutral 2: Ultimate Uppercut (Charging)",
+    "OwnerId": 32,
+    "Owner": "MiiBrawler",
+    "HitboxActive": "Full Charge: 124 Frames",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "-",
+    "Angle": "-",
+    "BaseKnockBackSetKnockback": "-",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "-",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70cf4696590bf023d90c"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MiiBrawler"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70cf4696590bf023d90d",
+    "Name": "Neutral 2: Ultimate Uppercut (Full Charge)",
+    "OwnerId": 32,
+    "Owner": "MiiBrawler",
+    "HitboxActive": "12",
+    "FirstActionableFrame": "69",
+    "BaseDamage": "23 (+3)",
+    "Angle": "85",
+    "BaseKnockBackSetKnockback": "32",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "80",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70cf4696590bf023d90d"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MiiBrawler"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70cf4696590bf023d90e",
+    "Name": "Neutral 2: Ultimate Uppercut (Full Charge, Late)",
+    "OwnerId": 32,
+    "Owner": "MiiBrawler",
+    "HitboxActive": "13-16",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "16",
+    "Angle": "85",
+    "BaseKnockBackSetKnockback": "25",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "83",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70cf4696590bf023d90e"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MiiBrawler"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70cf4696590bf023d90f",
+    "Name": "Neutral 2: Ultimate Uppercut (No Charge, Air)",
+    "OwnerId": 32,
+    "Owner": "MiiBrawler",
+    "HitboxActive": "19",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "6.4",
+    "Angle": "80",
+    "BaseKnockBackSetKnockback": "40",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70cf4696590bf023d90f"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MiiBrawler"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70cf4696590bf023d910",
+    "Name": "Neutral 2: Ultimate Uppercut (No Charge, Air, Late)",
+    "OwnerId": 32,
+    "Owner": "MiiBrawler",
+    "HitboxActive": "20-21",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "4",
+    "Angle": "80",
+    "BaseKnockBackSetKnockback": "20",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "66",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70cf4696590bf023d910"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MiiBrawler"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70cf4696590bf023d911",
+    "Name": "Neutral 2: Ultimate Uppercut (Full Charge, Air)",
+    "OwnerId": 32,
+    "Owner": "MiiBrawler",
+    "HitboxActive": "12",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "16.1 (+3)",
+    "Angle": "85",
+    "BaseKnockBackSetKnockback": "32",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "70",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70cf4696590bf023d911"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MiiBrawler"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70cf4696590bf023d912",
+    "Name": "Neutral 2: Ultimate Uppercut (Full Charge, Air, Late)",
+    "OwnerId": 32,
+    "Owner": "MiiBrawler",
+    "HitboxActive": "12",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "11.2",
+    "Angle": "85",
+    "BaseKnockBackSetKnockback": "25",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "70",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70cf4696590bf023d912"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MiiBrawler"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70cf4696590bf023d913",
+    "Name": "Neutral 3: Exploding Side Kick",
+    "OwnerId": 32,
+    "Owner": "MiiBrawler",
+    "HitboxActive": "50-52 (Super Armor 40-53)",
+    "FirstActionableFrame": "90",
+    "BaseDamage": "25",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "35",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "79",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70cf4696590bf023d913"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MiiBrawler"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70cf4696590bf023d914",
+    "Name": "Neutral 3: Exploding Side Kick (Aerial)",
+    "OwnerId": 32,
+    "Owner": "MiiBrawler",
+    "HitboxActive": "50-52 (Super Armor 40-53)",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "21.25",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "35",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "79",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70cf4696590bf023d914"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MiiBrawler"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70cf4696590bf023d915",
+    "Name": "Neutral 3: Exploding Side Kick (B-Reversed)",
+    "OwnerId": 32,
+    "Owner": "MiiBrawler",
+    "HitboxActive": "58-60 (Super Armor 48-61)",
+    "FirstActionableFrame": "98",
+    "BaseDamage": "27",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "35",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "79",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70cf4696590bf023d915"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MiiBrawler"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70cf4696590bf023d916",
+    "Name": "Neutral 3: Exploding Side Kick (B-Reversed, Aerial)",
+    "OwnerId": 32,
+    "Owner": "MiiBrawler",
+    "HitboxActive": "58-60 (Super Armor 48-61)",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "22.950001",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "35",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "79",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70cf4696590bf023d916"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MiiBrawler"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70cf4696590bf023d917",
+    "Name": "Side 1: Onslaught (Inert Hitbox, Ground)",
+    "OwnerId": 32,
+    "Owner": "MiiBrawler",
+    "HitboxActive": "16-35",
+    "FirstActionableFrame": "74",
+    "BaseDamage": "-",
+    "Angle": "-",
+    "BaseKnockBackSetKnockback": "-",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "-",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70cf4696590bf023d917"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MiiBrawler"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70cf4696590bf023d918",
+    "Name": "Side 1: Onslaught (Attack, Ground)",
+    "OwnerId": 32,
+    "Owner": "MiiBrawler",
+    "HitboxActive": "4-17 (Rehit rate: 5)",
+    "FirstActionableFrame": "70",
+    "BaseDamage": "1.2",
+    "Angle": "95/366",
+    "BaseKnockBackSetKnockback": "W: 10",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70cf4696590bf023d918"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MiiBrawler"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70cf4696590bf023d919",
+    "Name": "Side 1: Onslaught (Attack, Ground)",
+    "OwnerId": 32,
+    "Owner": "MiiBrawler",
+    "HitboxActive": "20-21",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "1.2",
+    "Angle": "75",
+    "BaseKnockBackSetKnockback": "W: 50",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70cf4696590bf023d919"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MiiBrawler"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70cf4696590bf023d91a",
+    "Name": "Side 1: Onslaught (Final Hit, Ground)",
+    "OwnerId": 32,
+    "Owner": "MiiBrawler",
+    "HitboxActive": "28-30",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "4",
+    "Angle": "80",
+    "BaseKnockBackSetKnockback": "60",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "175",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70cf4696590bf023d91a"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MiiBrawler"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70cf4696590bf023d91b",
+    "Name": "Side 1: Onslaught (Inert Hitbox, Aerial)",
+    "OwnerId": 32,
+    "Owner": "MiiBrawler",
+    "HitboxActive": "19-35",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "-",
+    "Angle": "50",
+    "BaseKnockBackSetKnockback": "0",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "0",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70cf4696590bf023d91b"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MiiBrawler"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70cf4696590bf023d91c",
+    "Name": "Side 1: Onslaught (Attack, Aerial)",
+    "OwnerId": 32,
+    "Owner": "MiiBrawler",
+    "HitboxActive": "4-17 (Rehit rate: 5)",
+    "FirstActionableFrame": "70",
+    "BaseDamage": "1",
+    "Angle": "95/366",
+    "BaseKnockBackSetKnockback": "W: 10",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70cf4696590bf023d91c"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MiiBrawler"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70cf4696590bf023d91d",
+    "Name": "Side 1: Onslaught (Attack, Aerial)",
+    "OwnerId": 32,
+    "Owner": "MiiBrawler",
+    "HitboxActive": "20-21",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "1",
+    "Angle": "60",
+    "BaseKnockBackSetKnockback": "W: 70",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70cf4696590bf023d91d"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MiiBrawler"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70cf4696590bf023d91e",
+    "Name": "Side 1: Onslaught (Final Hit, Aerial)",
+    "OwnerId": 32,
+    "Owner": "MiiBrawler",
+    "HitboxActive": "28-30",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "4",
+    "Angle": "80",
+    "BaseKnockBackSetKnockback": "60",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "160",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70cf4696590bf023d91e"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MiiBrawler"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70cf4696590bf023d91f",
+    "Name": "Side 2: Burning Dropkick (No Charge)",
+    "OwnerId": 32,
+    "Owner": "MiiBrawler",
+    "HitboxActive": "19-25",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "7 (+6)",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "60",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "85",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70cf4696590bf023d91f"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MiiBrawler"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70cf4696590bf023d920",
+    "Name": "Side 2: Burning Dropkick (No Charge, Late)",
+    "OwnerId": 32,
+    "Owner": "MiiBrawler",
+    "HitboxActive": "26-53",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "7",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "50",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "78",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70cf4696590bf023d920"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MiiBrawler"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70cf4696590bf023d921",
+    "Name": "Side 2: Burning Dropkick (Full Charge)",
+    "OwnerId": 32,
+    "Owner": "MiiBrawler",
+    "HitboxActive": "63-69",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "7 (+6)",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "50",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "78",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70cf4696590bf023d921"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MiiBrawler"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70cf4696590bf023d922",
+    "Name": "Side 2: Burning Dropkick (Full Charge, Late)",
+    "OwnerId": 32,
+    "Owner": "MiiBrawler",
+    "HitboxActive": "70-97",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "7",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "50",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "78",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70cf4696590bf023d922"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MiiBrawler"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70cf4696590bf023d923",
+    "Name": "Side 3: Headache Maker",
+    "OwnerId": 32,
+    "Owner": "MiiBrawler",
+    "HitboxActive": "18-19",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "13/10/13",
+    "Angle": "45/270/45",
+    "BaseKnockBackSetKnockback": "30",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "120/100/120",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70cf4696590bf023d923"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MiiBrawler"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70cf4696590bf023d924",
+    "Name": "Side 3: Headache Maker (Late)",
+    "OwnerId": 32,
+    "Owner": "MiiBrawler",
+    "HitboxActive": "20-26",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "9",
+    "Angle": "45",
+    "BaseKnockBackSetKnockback": "30",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "110",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70cf4696590bf023d924"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MiiBrawler"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70cf4696590bf023d925",
+    "Name": "Side 3: Headache Maker (Landing)",
+    "OwnerId": 32,
+    "Owner": "MiiBrawler",
+    "HitboxActive": "1-2",
+    "FirstActionableFrame": "39",
+    "BaseDamage": "4",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "60",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70cf4696590bf023d925"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MiiBrawler"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70cf4696590bf023d926",
+    "Name": "Up 1: Soaring Axe Kick",
+    "OwnerId": 32,
+    "Owner": "MiiBrawler",
+    "HitboxActive": "16-",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "?",
+    "Angle": "?",
+    "BaseKnockBackSetKnockback": "?",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "?",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70cf4696590bf023d926"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MiiBrawler"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70cf4696590bf023d927",
+    "Name": "Up 1: Soaring Axe Kick (Fall)",
+    "OwnerId": 32,
+    "Owner": "MiiBrawler",
+    "HitboxActive": "52-",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "?",
+    "Angle": "?",
+    "BaseKnockBackSetKnockback": "?",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "?",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70cf4696590bf023d927"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MiiBrawler"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70cf4696590bf023d928",
+    "Name": "Up 1: Soaring Axe Kick (Landing)",
+    "OwnerId": 32,
+    "Owner": "MiiBrawler",
+    "HitboxActive": "2-3",
+    "FirstActionableFrame": "41",
+    "BaseDamage": "4",
+    "Angle": "45",
+    "BaseKnockBackSetKnockback": "45",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "170",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70cf4696590bf023d928"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MiiBrawler"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70cf4696590bf023d929",
+    "Name": "Up 2: Helicopter Kick (Ground, Hit 1)",
+    "OwnerId": 32,
+    "Owner": "MiiBrawler",
+    "HitboxActive": "8",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "3",
+    "Angle": "75",
+    "BaseKnockBackSetKnockback": "W: 70",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70cf4696590bf023d929"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MiiBrawler"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70cf4696590bf023d92a",
+    "Name": "Up 2: Helicopter Kick (Aerial, Hit 1)",
+    "OwnerId": 32,
+    "Owner": "MiiBrawler",
+    "HitboxActive": "8",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "?",
+    "Angle": "?",
+    "BaseKnockBackSetKnockback": "?",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "?",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70cf4696590bf023d92a"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MiiBrawler"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70cf4696590bf023d92b",
+    "Name": "Up 2: Helicopter Kick (Hits 2-5)",
+    "OwnerId": 32,
+    "Owner": "MiiBrawler",
+    "HitboxActive": "15-, 20-, 26-, 31-",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "?",
+    "Angle": "?",
+    "BaseKnockBackSetKnockback": "?",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "?",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70cf4696590bf023d92b"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MiiBrawler"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70cf4696590bf023d92c",
+    "Name": "Up 2: Helicopter Kick (Ground, Hit 6)",
+    "OwnerId": 32,
+    "Owner": "MiiBrawler",
+    "HitboxActive": "36-37",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "6",
+    "Angle": "55",
+    "BaseKnockBackSetKnockback": "60",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "155",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70cf4696590bf023d92c"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MiiBrawler"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70cf4696590bf023d92d",
+    "Name": "Up 2: Helicopter Kick (Aerial, Hit 6)",
+    "OwnerId": 32,
+    "Owner": "MiiBrawler",
+    "HitboxActive": "36-37",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "6",
+    "Angle": "43",
+    "BaseKnockBackSetKnockback": "60",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "150",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70cf4696590bf023d92d"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MiiBrawler"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70cf4696590bf023d92e",
+    "Name": "Up 3: Piston Punch (Hit 1)",
+    "OwnerId": 32,
+    "Owner": "MiiBrawler",
+    "HitboxActive": "4-5",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "3",
+    "Angle": "110",
+    "BaseKnockBackSetKnockback": "W: 150/30",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70cf4696590bf023d92e"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MiiBrawler"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70cf4696590bf023d92f",
+    "Name": "Up 3: Piston Punch (Hits 2-3)",
+    "OwnerId": 32,
+    "Owner": "MiiBrawler",
+    "HitboxActive": "7-8, 10-11",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "1",
+    "Angle": "366/110",
+    "BaseKnockBackSetKnockback": "W: 120",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70cf4696590bf023d92f"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MiiBrawler"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70cf4696590bf023d930",
+    "Name": "Up 3: Piston Punch (Hits 4-7)",
+    "OwnerId": 32,
+    "Owner": "MiiBrawler",
+    "HitboxActive": "13-14, 16-17, 19-20, 22-23",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "1",
+    "Angle": "366/95",
+    "BaseKnockBackSetKnockback": "W: 150",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70cf4696590bf023d930"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MiiBrawler"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70cf4696590bf023d931",
+    "Name": "Up 3: Piston Punch (Hit 8)",
+    "OwnerId": 32,
+    "Owner": "MiiBrawler",
+    "HitboxActive": "25-26",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "2",
+    "Angle": "89",
+    "BaseKnockBackSetKnockback": "74",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "180",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70cf4696590bf023d931"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MiiBrawler"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70cf4696590bf023d932",
+    "Name": "Down 1: Head-On Assault (Hit 1)",
+    "OwnerId": 32,
+    "Owner": "MiiBrawler",
+    "HitboxActive": "8 (Ground Only)",
+    "FirstActionableFrame": "59",
+    "BaseDamage": "4",
+    "Angle": "0",
+    "BaseKnockBackSetKnockback": "53/43",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "10",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70cf4696590bf023d932"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MiiBrawler"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70cf4696590bf023d933",
+    "Name": "Down 1: Head-On Assault (Falling)",
+    "OwnerId": 32,
+    "Owner": "MiiBrawler",
+    "HitboxActive": "28-",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "8",
+    "Angle": "270/361",
+    "BaseKnockBackSetKnockback": "25/30",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "120/50",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70cf4696590bf023d933"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MiiBrawler"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70cf4696590bf023d934",
+    "Name": "Down 1: Head-On Assault (Landing)",
+    "OwnerId": 32,
+    "Owner": "MiiBrawler",
+    "HitboxActive": "1",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "8",
+    "Angle": "361/60",
+    "BaseKnockBackSetKnockback": "50/40",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "110/113",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70cf4696590bf023d934"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MiiBrawler"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70cf4696590bf023d935",
+    "Name": "Down 2: Feint Jump",
+    "OwnerId": 32,
+    "Owner": "MiiBrawler",
+    "HitboxActive": "-",
+    "FirstActionableFrame": "32",
+    "BaseDamage": "-",
+    "Angle": "-",
+    "BaseKnockBackSetKnockback": "-",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "-",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70cf4696590bf023d935"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MiiBrawler"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70cf4696590bf023d936",
+    "Name": "Down 2: Feint Jump (Attack)",
+    "OwnerId": 32,
+    "Owner": "MiiBrawler",
+    "HitboxActive": "12-25",
+    "FirstActionableFrame": "38",
+    "BaseDamage": "10 (+5)",
+    "Angle": "35/60",
+    "BaseKnockBackSetKnockback": "35",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70cf4696590bf023d936"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MiiBrawler"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70cf4696590bf023d937",
+    "Name": "Down 3: Foot Flurry (Ground, Hits 1-7)",
+    "OwnerId": 32,
+    "Owner": "MiiBrawler",
+    "HitboxActive": "16, 19, 22, 25, 28, 31, 34, 37",
+    "FirstActionableFrame": "88",
+    "BaseDamage": "1",
+    "Angle": "12/12/10",
+    "BaseKnockBackSetKnockback": "W: 70/120/50",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70cf4696590bf023d937"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MiiBrawler"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70cf4696590bf023d938",
+    "Name": "Down 3: Foot Flurry (Ground, Hit 8)",
+    "OwnerId": 32,
+    "Owner": "MiiBrawler",
+    "HitboxActive": "40",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "6",
+    "Angle": "55",
+    "BaseKnockBackSetKnockback": "50",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "150",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70cf4696590bf023d938"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MiiBrawler"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70cf4696590bf023d939",
+    "Name": "Down 3: Foot Flurry (Aerial, Hits 1-6)",
+    "OwnerId": 32,
+    "Owner": "MiiBrawler",
+    "HitboxActive": "16, 19, 22, 25, 28, 31, 34",
+    "FirstActionableFrame": "88",
+    "BaseDamage": "1",
+    "Angle": "130/230",
+    "BaseKnockBackSetKnockback": "W: 40",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70cf4696590bf023d939"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MiiBrawler"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70cf4696590bf023d93a",
+    "Name": "Down 3: Foot Flurry (Final Hit, Air)",
+    "OwnerId": 32,
+    "Owner": "MiiBrawler",
+    "HitboxActive": "40",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "6",
+    "Angle": "55",
+    "BaseKnockBackSetKnockback": "50",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "140",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70cf4696590bf023d93a"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MiiBrawler"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70cf4696590bf023d93b",
+    "Name": "Fthrow",
+    "OwnerId": 32,
+    "Owner": "MiiBrawler",
+    "HitboxActive": null,
+    "FirstActionableFrame": null,
+    "BaseDamage": "9",
+    "Angle": "45",
+    "BaseKnockBackSetKnockback": "60",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "65",
+    "MoveType": "throw",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70cf4696590bf023d93b"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MiiBrawler"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70cf4696590bf023d93c",
+    "Name": "Bthrow",
+    "OwnerId": 32,
+    "Owner": "MiiBrawler",
+    "HitboxActive": null,
+    "FirstActionableFrame": null,
+    "BaseDamage": "2, 5",
+    "Angle": "45",
+    "BaseKnockBackSetKnockback": "70",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "60",
+    "MoveType": "throw",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70cf4696590bf023d93c"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MiiBrawler"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70cf4696590bf023d93d",
+    "Name": "Uthrow",
+    "OwnerId": 32,
+    "Owner": "MiiBrawler",
+    "HitboxActive": null,
+    "FirstActionableFrame": null,
+    "BaseDamage": "8",
+    "Angle": "93",
+    "BaseKnockBackSetKnockback": "100",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "30",
+    "MoveType": "throw",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70cf4696590bf023d93d"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MiiBrawler"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70cf4696590bf023d93e",
+    "Name": "Dthrow",
+    "OwnerId": 32,
+    "Owner": "MiiBrawler",
+    "HitboxActive": null,
+    "FirstActionableFrame": null,
+    "BaseDamage": "2, 4",
+    "Angle": "80",
+    "BaseKnockBackSetKnockback": "65",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "throw",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70cf4696590bf023d93e"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/MiiBrawler"
+      }
+    ]
+  }
+]

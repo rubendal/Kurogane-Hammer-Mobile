@@ -1,0 +1,1770 @@
+﻿[
+  {
+    "InstanceId": "598e70ec4696590bf023dcca",
+    "Name": "Jab 1",
+    "OwnerId": 44,
+    "Owner": "Robin",
+    "HitboxActive": "4-7",
+    "FirstActionableFrame": "32",
+    "BaseDamage": "3",
+    "Angle": "75/60/361",
+    "BaseKnockBackSetKnockback": "40",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "30",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ec4696590bf023dcca"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Robin"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ec4696590bf023dccb",
+    "Name": "Jab 2",
+    "OwnerId": 44,
+    "Owner": "Robin",
+    "HitboxActive": "4-8",
+    "FirstActionableFrame": "35",
+    "BaseDamage": "3",
+    "Angle": "92/80/70",
+    "BaseKnockBackSetKnockback": "45",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "24",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ec4696590bf023dccb"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Robin"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ec4696590bf023dccc",
+    "Name": "Jab 3 (Fire)",
+    "OwnerId": 44,
+    "Owner": "Robin",
+    "HitboxActive": "10-11",
+    "FirstActionableFrame": "36",
+    "BaseDamage": "5",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "70",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "124",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ec4696590bf023dccc"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Robin"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ec4696590bf023dccd",
+    "Name": "Rapid Jab (Wind)",
+    "OwnerId": 44,
+    "Owner": "Robin",
+    "HitboxActive": "9, 11? (1 use every 7 hits)",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "1",
+    "Angle": "?",
+    "BaseKnockBackSetKnockback": "?",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "?",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ec4696590bf023dccd"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Robin"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ec4696590bf023dcce",
+    "Name": "Rapid Jab Finisher (Wind)",
+    "OwnerId": 44,
+    "Owner": "Robin",
+    "HitboxActive": "8",
+    "FirstActionableFrame": "41",
+    "BaseDamage": "2",
+    "Angle": "74",
+    "BaseKnockBackSetKnockback": "80",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "160",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ec4696590bf023dcce"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Robin"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ec4696590bf023dccf",
+    "Name": "Dash Attack",
+    "OwnerId": 44,
+    "Owner": "Robin",
+    "HitboxActive": "8-10",
+    "FirstActionableFrame": "50",
+    "BaseDamage": "10",
+    "Angle": "45",
+    "BaseKnockBackSetKnockback": "80",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "66",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ec4696590bf023dccf"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Robin"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ec4696590bf023dcd0",
+    "Name": "Dash Attack (Late)",
+    "OwnerId": 44,
+    "Owner": "Robin",
+    "HitboxActive": "11-18",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "6",
+    "Angle": "65",
+    "BaseKnockBackSetKnockback": "80",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "60",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ec4696590bf023dcd0"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Robin"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ec4696590bf023dcd1",
+    "Name": "Ftilt",
+    "OwnerId": 44,
+    "Owner": "Robin",
+    "HitboxActive": "9-10",
+    "FirstActionableFrame": "33",
+    "BaseDamage": "7.5",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "50",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "70",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ec4696590bf023dcd1"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Robin"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ec4696590bf023dcd2",
+    "Name": "Utilt",
+    "OwnerId": 44,
+    "Owner": "Robin",
+    "HitboxActive": "6-13",
+    "FirstActionableFrame": "36",
+    "BaseDamage": "6",
+    "Angle": "96",
+    "BaseKnockBackSetKnockback": "50/60/70",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "80",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ec4696590bf023dcd2"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Robin"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ec4696590bf023dcd3",
+    "Name": "Dtilt",
+    "OwnerId": 44,
+    "Owner": "Robin",
+    "HitboxActive": "7-8",
+    "FirstActionableFrame": "22",
+    "BaseDamage": "6",
+    "Angle": "30",
+    "BaseKnockBackSetKnockback": "40",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "40",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ec4696590bf023dcd3"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Robin"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ec4696590bf023dcd4",
+    "Name": "Fsmash (Levin Sword)",
+    "OwnerId": 44,
+    "Owner": "Robin",
+    "HitboxActive": "16-18",
+    "FirstActionableFrame": "58",
+    "BaseDamage": "16",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "50",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "87",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ec4696590bf023dcd4"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Robin"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ec4696590bf023dcd5",
+    "Name": "Fsmash (Levin Sword, Late)",
+    "OwnerId": 44,
+    "Owner": "Robin",
+    "HitboxActive": "19-27",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "5",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "60",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "70",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ec4696590bf023dcd5"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Robin"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ec4696590bf023dcd6",
+    "Name": "Fsmash (Bronze Sword)",
+    "OwnerId": 44,
+    "Owner": "Robin",
+    "HitboxActive": "16-18",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "9",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "50",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "87",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ec4696590bf023dcd6"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Robin"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ec4696590bf023dcd7",
+    "Name": "Usmash (Levin Sword, Early)",
+    "OwnerId": 44,
+    "Owner": "Robin",
+    "HitboxActive": "12",
+    "FirstActionableFrame": "53",
+    "BaseDamage": "15/10",
+    "Angle": "92/70",
+    "BaseKnockBackSetKnockback": "45/70",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "84/79",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ec4696590bf023dcd7"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Robin"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ec4696590bf023dcd8",
+    "Name": "Usmash (Levin Sword)",
+    "OwnerId": 44,
+    "Owner": "Robin",
+    "HitboxActive": "13-16",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "15",
+    "Angle": "92",
+    "BaseKnockBackSetKnockback": "45",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "84",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ec4696590bf023dcd8"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Robin"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ec4696590bf023dcd9",
+    "Name": "Usmash (Levin Sword, Late)",
+    "OwnerId": 44,
+    "Owner": "Robin",
+    "HitboxActive": "17-25",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "5",
+    "Angle": "70",
+    "BaseKnockBackSetKnockback": "60",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "70",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ec4696590bf023dcd9"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Robin"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ec4696590bf023dcda",
+    "Name": "Usmash (Bronze Sword)",
+    "OwnerId": 44,
+    "Owner": "Robin",
+    "HitboxActive": "12-16",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "9",
+    "Angle": "55",
+    "BaseKnockBackSetKnockback": "45",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "84",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ec4696590bf023dcda"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Robin"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ec4696590bf023dcdb",
+    "Name": "Dsmash (Levin Sword)",
+    "OwnerId": 44,
+    "Owner": "Robin",
+    "HitboxActive": "16-17",
+    "FirstActionableFrame": "57",
+    "BaseDamage": "15",
+    "Angle": "55",
+    "BaseKnockBackSetKnockback": "50",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "95",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ec4696590bf023dcdb"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Robin"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ec4696590bf023dcdc",
+    "Name": "Dsmash (Levin Sword, Late)",
+    "OwnerId": 44,
+    "Owner": "Robin",
+    "HitboxActive": "20-23 (Ground only)",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "12",
+    "Angle": "45",
+    "BaseKnockBackSetKnockback": "50",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ec4696590bf023dcdc"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Robin"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ec4696590bf023dcdd",
+    "Name": "Dsmash (Levin Sword, Electricity)",
+    "OwnerId": 44,
+    "Owner": "Robin",
+    "HitboxActive": "24-28",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "8",
+    "Angle": "45",
+    "BaseKnockBackSetKnockback": "50",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "80",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ec4696590bf023dcdd"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Robin"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ec4696590bf023dcde",
+    "Name": "Dsmash (Bronze Sword)",
+    "OwnerId": 44,
+    "Owner": "Robin",
+    "HitboxActive": "16-17",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "8",
+    "Angle": "28",
+    "BaseKnockBackSetKnockback": "50",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "95",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ec4696590bf023dcde"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Robin"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ec4696590bf023dcdf",
+    "Name": "Standing Grab",
+    "OwnerId": 44,
+    "Owner": "Robin",
+    "HitboxActive": "7-8",
+    "FirstActionableFrame": "40",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ec4696590bf023dcdf"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Robin"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ec4696590bf023dce0",
+    "Name": "Dash Grab",
+    "OwnerId": 44,
+    "Owner": "Robin",
+    "HitboxActive": "8-9",
+    "FirstActionableFrame": "50",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ec4696590bf023dce0"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Robin"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ec4696590bf023dce1",
+    "Name": "Pivot Grab",
+    "OwnerId": 44,
+    "Owner": "Robin",
+    "HitboxActive": "9-10",
+    "FirstActionableFrame": "47",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ec4696590bf023dce1"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Robin"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ec4696590bf023dce2",
+    "Name": "Spotdodge",
+    "OwnerId": 44,
+    "Owner": "Robin",
+    "HitboxActive": "3-18",
+    "FirstActionableFrame": "28",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ec4696590bf023dce2"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Robin"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ec4696590bf023dce3",
+    "Name": "Forward Roll",
+    "OwnerId": 44,
+    "Owner": "Robin",
+    "HitboxActive": "4-18",
+    "FirstActionableFrame": "33",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ec4696590bf023dce3"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Robin"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ec4696590bf023dce4",
+    "Name": "Back Roll",
+    "OwnerId": 44,
+    "Owner": "Robin",
+    "HitboxActive": "4-18",
+    "FirstActionableFrame": "33",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ec4696590bf023dce4"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Robin"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ec4696590bf023dce5",
+    "Name": "Airdodge",
+    "OwnerId": 44,
+    "Owner": "Robin",
+    "HitboxActive": "3-28",
+    "FirstActionableFrame": "34",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ec4696590bf023dce5"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Robin"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ec4696590bf023dce6",
+    "Name": "Nair (Hit 1)",
+    "OwnerId": 44,
+    "Owner": "Robin",
+    "HitboxActive": "9-12",
+    "FirstActionableFrame": "50",
+    "BaseDamage": "7",
+    "Angle": "30",
+    "BaseKnockBackSetKnockback": "60",
+    "LandingLag": "18",
+    "AutoCancel": "1-3, 34&gt;",
+    "KnockbackGrowth": "55",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ec4696590bf023dce6"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Robin"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ec4696590bf023dce7",
+    "Name": "Nair (Hit 2)",
+    "OwnerId": 44,
+    "Owner": "Robin",
+    "HitboxActive": "22-25",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "7",
+    "Angle": "30",
+    "BaseKnockBackSetKnockback": "60",
+    "LandingLag": "-",
+    "AutoCancel": "-",
+    "KnockbackGrowth": "55",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ec4696590bf023dce7"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Robin"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ec4696590bf023dce8",
+    "Name": "Fair (Levin Sword)",
+    "OwnerId": 44,
+    "Owner": "Robin",
+    "HitboxActive": "12-15",
+    "FirstActionableFrame": "34",
+    "BaseDamage": "12.5",
+    "Angle": "55",
+    "BaseKnockBackSetKnockback": "50",
+    "LandingLag": "18",
+    "AutoCancel": "1-3, 27&gt;",
+    "KnockbackGrowth": "100",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ec4696590bf023dce8"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Robin"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ec4696590bf023dce9",
+    "Name": "Fair (Levin Sword, Late)",
+    "OwnerId": 44,
+    "Owner": "Robin",
+    "HitboxActive": "16-19",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "5",
+    "Angle": "65",
+    "BaseKnockBackSetKnockback": "45",
+    "LandingLag": "-",
+    "AutoCancel": "-",
+    "KnockbackGrowth": "80",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ec4696590bf023dce9"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Robin"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ec4696590bf023dcea",
+    "Name": "Fair (Bronze Sword)",
+    "OwnerId": 44,
+    "Owner": "Robin",
+    "HitboxActive": "12-15",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "7.5",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "50",
+    "LandingLag": "-",
+    "AutoCancel": "-",
+    "KnockbackGrowth": "100",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ec4696590bf023dcea"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Robin"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ec4696590bf023dceb",
+    "Name": "Bair (Levin Sword)",
+    "OwnerId": 44,
+    "Owner": "Robin",
+    "HitboxActive": "9-10",
+    "FirstActionableFrame": "40",
+    "BaseDamage": "15",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "40",
+    "LandingLag": "19",
+    "AutoCancel": "32&gt;",
+    "KnockbackGrowth": "93",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ec4696590bf023dceb"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Robin"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ec4696590bf023dcec",
+    "Name": "Bair (Levin Sword, Late)",
+    "OwnerId": 44,
+    "Owner": "Robin",
+    "HitboxActive": "11-16",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "5",
+    "Angle": "65",
+    "BaseKnockBackSetKnockback": "45",
+    "LandingLag": "-",
+    "AutoCancel": "-",
+    "KnockbackGrowth": "80",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ec4696590bf023dcec"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Robin"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ec4696590bf023dced",
+    "Name": "Bair (Bronze Sword)",
+    "OwnerId": 44,
+    "Owner": "Robin",
+    "HitboxActive": "9-10",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "9",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "40",
+    "LandingLag": "-",
+    "AutoCancel": "-",
+    "KnockbackGrowth": "93",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ec4696590bf023dced"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Robin"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ec4696590bf023dcee",
+    "Name": "Uair (Levin Sword)",
+    "OwnerId": 44,
+    "Owner": "Robin",
+    "HitboxActive": "10-13",
+    "FirstActionableFrame": "46",
+    "BaseDamage": "13",
+    "Angle": "95",
+    "BaseKnockBackSetKnockback": "48",
+    "LandingLag": "18",
+    "AutoCancel": "1-4, 27&gt;",
+    "KnockbackGrowth": "90",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ec4696590bf023dcee"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Robin"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ec4696590bf023dcef",
+    "Name": "Uair (Levin Sword, Late)",
+    "OwnerId": 44,
+    "Owner": "Robin",
+    "HitboxActive": "14-23",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "5",
+    "Angle": "65",
+    "BaseKnockBackSetKnockback": "45",
+    "LandingLag": "-",
+    "AutoCancel": "-",
+    "KnockbackGrowth": "80",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ec4696590bf023dcef"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Robin"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ec4696590bf023dcf0",
+    "Name": "Uair (Bronze Sword)",
+    "OwnerId": 44,
+    "Owner": "Robin",
+    "HitboxActive": "10-13",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "7.8",
+    "Angle": "95",
+    "BaseKnockBackSetKnockback": "48",
+    "LandingLag": "-",
+    "AutoCancel": "-",
+    "KnockbackGrowth": "90",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ec4696590bf023dcf0"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Robin"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ec4696590bf023dcf1",
+    "Name": "Dair (Levin Sword, Early)",
+    "OwnerId": 44,
+    "Owner": "Robin",
+    "HitboxActive": "13-14",
+    "FirstActionableFrame": "60",
+    "BaseDamage": "11",
+    "Angle": "270/70",
+    "BaseKnockBackSetKnockback": "20",
+    "LandingLag": "26",
+    "AutoCancel": "1, 48&gt;",
+    "KnockbackGrowth": "100",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ec4696590bf023dcf1"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Robin"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ec4696590bf023dcf2",
+    "Name": "Dair (Levin Sword)",
+    "OwnerId": 44,
+    "Owner": "Robin",
+    "HitboxActive": "15-17",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "12/11",
+    "Angle": "40/70",
+    "BaseKnockBackSetKnockback": "55/20",
+    "LandingLag": "-",
+    "AutoCancel": "-",
+    "KnockbackGrowth": "80/100",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ec4696590bf023dcf2"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Robin"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ec4696590bf023dcf3",
+    "Name": "Dair (Levin Sword, Late)",
+    "OwnerId": 44,
+    "Owner": "Robin",
+    "HitboxActive": "18-24",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "8",
+    "Angle": "65",
+    "BaseKnockBackSetKnockback": "45",
+    "LandingLag": "-",
+    "AutoCancel": "-",
+    "KnockbackGrowth": "80",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ec4696590bf023dcf3"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Robin"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ec4696590bf023dcf4",
+    "Name": "Dair (Bronze Sword)",
+    "OwnerId": 44,
+    "Owner": "Robin",
+    "HitboxActive": "13-15",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "7.2",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "55",
+    "LandingLag": "-",
+    "AutoCancel": "-",
+    "KnockbackGrowth": "80",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ec4696590bf023dcf4"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Robin"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ec4696590bf023dcf5",
+    "Name": "Dair (Bronze Sword, Late)",
+    "OwnerId": 44,
+    "Owner": "Robin",
+    "HitboxActive": "16-24",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "6",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "45",
+    "LandingLag": "-",
+    "AutoCancel": "-",
+    "KnockbackGrowth": "80",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ec4696590bf023dcf5"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Robin"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ec4696590bf023dcf6",
+    "Name": "Book",
+    "OwnerId": 44,
+    "Owner": "Robin",
+    "HitboxActive": "-",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "-",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "20",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "85",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ec4696590bf023dcf6"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Robin"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ec4696590bf023dcf7",
+    "Name": "Levin Sword",
+    "OwnerId": 44,
+    "Owner": "Robin",
+    "HitboxActive": "-",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "-",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "10",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ec4696590bf023dcf7"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Robin"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ec4696590bf023dcf8",
+    "Name": "Thunder (Non-Thoron)",
+    "OwnerId": 44,
+    "Owner": "Robin",
+    "HitboxActive": "Startup: 7 frames",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "-",
+    "Angle": "-",
+    "BaseKnockBackSetKnockback": "-",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "-",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ec4696590bf023dcf8"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Robin"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ec4696590bf023dcf9",
+    "Name": "Thunder",
+    "OwnerId": 44,
+    "Owner": "Robin",
+    "HitboxActive": "11-23 (Uses 1 Durability)",
+    "FirstActionableFrame": "39",
+    "BaseDamage": "4.5",
+    "Angle": "50",
+    "BaseKnockBackSetKnockback": "50",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "20",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ec4696590bf023dcf9"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Robin"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ec4696590bf023dcfa",
+    "Name": "Elthunder",
+    "OwnerId": 44,
+    "Owner": "Robin",
+    "HitboxActive": "11-54 (Uses 3 Durability)",
+    "FirstActionableFrame": "48",
+    "BaseDamage": "10.5",
+    "Angle": "50",
+    "BaseKnockBackSetKnockback": "30",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ec4696590bf023dcfa"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Robin"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ec4696590bf023dcfb",
+    "Name": "Arcthunder (Projectile)",
+    "OwnerId": 44,
+    "Owner": "Robin",
+    "HitboxActive": "11-67 (Uses 5 Durability)",
+    "FirstActionableFrame": "48",
+    "BaseDamage": "-",
+    "Angle": "-",
+    "BaseKnockBackSetKnockback": "-",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "-",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ec4696590bf023dcfb"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Robin"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ec4696590bf023dcfc",
+    "Name": "Arcthunder (Hit 1)",
+    "OwnerId": 44,
+    "Owner": "Robin",
+    "HitboxActive": "1-2",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "3",
+    "Angle": "70",
+    "BaseKnockBackSetKnockback": "50",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "75",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ec4696590bf023dcfc"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Robin"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ec4696590bf023dcfd",
+    "Name": "Arcthunder",
+    "OwnerId": 44,
+    "Owner": "Robin",
+    "HitboxActive": "3-33 (Rehit rate: 6)",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "1",
+    "Angle": "110/366/366",
+    "BaseKnockBackSetKnockback": "W: 20/16/16",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ec4696590bf023dcfd"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Robin"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ec4696590bf023dcfe",
+    "Name": "Arcthunder (Final Hit)",
+    "OwnerId": 44,
+    "Owner": "Robin",
+    "HitboxActive": "34",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "1",
+    "Angle": "50",
+    "BaseKnockBackSetKnockback": "60",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "280",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ec4696590bf023dcfe"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Robin"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ec4696590bf023dcff",
+    "Name": "Thoron",
+    "OwnerId": 44,
+    "Owner": "Robin",
+    "HitboxActive": "20-?? (Rehit rate: 4, Uses 8 Durability)",
+    "FirstActionableFrame": "62",
+    "BaseDamage": "2.6",
+    "Angle": "60",
+    "BaseKnockBackSetKnockback": "50",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "230",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ec4696590bf023dcff"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Robin"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ec4696590bf023dd00",
+    "Name": "Super Thoron",
+    "OwnerId": 44,
+    "Owner": "Robin",
+    "HitboxActive": "20-?? (Rehit rate: 4)",
+    "FirstActionableFrame": "71",
+    "BaseDamage": "2.6",
+    "Angle": "60",
+    "BaseKnockBackSetKnockback": "50",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "230",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ec4696590bf023dd00"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Robin"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ec4696590bf023dd01",
+    "Name": "Arcfire (Projectile)",
+    "OwnerId": 44,
+    "Owner": "Robin",
+    "HitboxActive": "17-50",
+    "FirstActionableFrame": "64",
+    "BaseDamage": "-",
+    "Angle": "-",
+    "BaseKnockBackSetKnockback": "-",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "-",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ec4696590bf023dd01"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Robin"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ec4696590bf023dd02",
+    "Name": "Arcfire (Hit 1)",
+    "OwnerId": 44,
+    "Owner": "Robin",
+    "HitboxActive": "1-2",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "1",
+    "Angle": "85",
+    "BaseKnockBackSetKnockback": "W: 22",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ec4696590bf023dd02"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Robin"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ec4696590bf023dd03",
+    "Name": "Arcfire",
+    "OwnerId": 44,
+    "Owner": "Robin",
+    "HitboxActive": "1-48 (Rehit rate: 8)",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "1",
+    "Angle": "78",
+    "BaseKnockBackSetKnockback": "W: 16",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ec4696590bf023dd03"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Robin"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ec4696590bf023dd04",
+    "Name": "Arcfire (Final Hit)",
+    "OwnerId": 44,
+    "Owner": "Robin",
+    "HitboxActive": "49-50",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "4",
+    "Angle": "70",
+    "BaseKnockBackSetKnockback": "80",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "115",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ec4696590bf023dd04"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Robin"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ec4696590bf023dd05",
+    "Name": "Elwind (Hit 1)",
+    "OwnerId": 44,
+    "Owner": "Robin",
+    "HitboxActive": "8-12 (Uses 1 Durability)",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "7",
+    "Angle": "255",
+    "BaseKnockBackSetKnockback": "10",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ec4696590bf023dd05"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Robin"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ec4696590bf023dd06",
+    "Name": "Elwind (Hit 1, Late)",
+    "OwnerId": 44,
+    "Owner": "Robin",
+    "HitboxActive": "13-29",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "5",
+    "Angle": "80",
+    "BaseKnockBackSetKnockback": "100",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "30",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ec4696590bf023dd06"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Robin"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ec4696590bf023dd07",
+    "Name": "Elwind (Hit 2)",
+    "OwnerId": 44,
+    "Owner": "Robin",
+    "HitboxActive": "28-53 (Uses 1 Durability)",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "5",
+    "Angle": "125",
+    "BaseKnockBackSetKnockback": "60",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "70",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ec4696590bf023dd07"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Robin"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ec4696590bf023dd08",
+    "Name": "Nosferatu (Grab)",
+    "OwnerId": 44,
+    "Owner": "Robin",
+    "HitboxActive": "15-16 (Intangible: 15-16)",
+    "FirstActionableFrame": "56",
+    "BaseDamage": "-",
+    "Angle": "-",
+    "BaseKnockBackSetKnockback": "-",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "-",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ec4696590bf023dd08"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Robin"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ec4696590bf023dd09",
+    "Name": "Nosferatu (Attack)",
+    "OwnerId": 44,
+    "Owner": "Robin",
+    "HitboxActive": "23, 31, 39, 47, 55...",
+    "FirstActionableFrame": "39 after grab break",
+    "BaseDamage": "0.8",
+    "Angle": "-",
+    "BaseKnockBackSetKnockback": "-",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "-",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ec4696590bf023dd09"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Robin"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ec4696590bf023dd0a",
+    "Name": "Fthrow",
+    "OwnerId": 44,
+    "Owner": "Robin",
+    "HitboxActive": null,
+    "FirstActionableFrame": null,
+    "BaseDamage": "8",
+    "Angle": "45",
+    "BaseKnockBackSetKnockback": "26",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "25",
+    "MoveType": "throw",
+    "IsWeightDependent": true,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ec4696590bf023dd0a"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Robin"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ec4696590bf023dd0b",
+    "Name": "Bthrow",
+    "OwnerId": 44,
+    "Owner": "Robin",
+    "HitboxActive": null,
+    "FirstActionableFrame": null,
+    "BaseDamage": "11",
+    "Angle": "52",
+    "BaseKnockBackSetKnockback": "85",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "60",
+    "MoveType": "throw",
+    "IsWeightDependent": true,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ec4696590bf023dd0b"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Robin"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ec4696590bf023dd0c",
+    "Name": "Uthrow",
+    "OwnerId": 44,
+    "Owner": "Robin",
+    "HitboxActive": null,
+    "FirstActionableFrame": null,
+    "BaseDamage": "9",
+    "Angle": "93",
+    "BaseKnockBackSetKnockback": "100",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "30",
+    "MoveType": "throw",
+    "IsWeightDependent": true,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ec4696590bf023dd0c"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Robin"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ec4696590bf023dd0d",
+    "Name": "Dthrow",
+    "OwnerId": 44,
+    "Owner": "Robin",
+    "HitboxActive": null,
+    "FirstActionableFrame": null,
+    "BaseDamage": "6",
+    "Angle": "85",
+    "BaseKnockBackSetKnockback": "30",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "88",
+    "MoveType": "throw",
+    "IsWeightDependent": true,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ec4696590bf023dd0d"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Robin"
+      }
+    ]
+  }
+]

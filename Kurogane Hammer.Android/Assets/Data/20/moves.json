@@ -1,0 +1,1536 @@
+﻿[
+  {
+    "InstanceId": "598e70ac4696590bf023d442",
+    "Name": "Jab 1",
+    "OwnerId": 20,
+    "Owner": "Kirby",
+    "HitboxActive": "3",
+    "FirstActionableFrame": "16",
+    "BaseDamage": "2",
+    "Angle": "55",
+    "BaseKnockBackSetKnockback": "8",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "30",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ac4696590bf023d442"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Kirby"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ac4696590bf023d443",
+    "Name": "Jab 2",
+    "OwnerId": 20,
+    "Owner": "Kirby",
+    "HitboxActive": "3-4",
+    "FirstActionableFrame": "16",
+    "BaseDamage": "3",
+    "Angle": "70",
+    "BaseKnockBackSetKnockback": "15",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "30",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ac4696590bf023d443"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Kirby"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ac4696590bf023d444",
+    "Name": "Rapid Jab",
+    "OwnerId": 20,
+    "Owner": "Kirby",
+    "HitboxActive": "-",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "1",
+    "Angle": "55/68/80",
+    "BaseKnockBackSetKnockback": "W: 6/4/2",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ac4696590bf023d444"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Kirby"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ac4696590bf023d445",
+    "Name": "Rapid Jab Finisher",
+    "OwnerId": 20,
+    "Owner": "Kirby",
+    "HitboxActive": "5-6",
+    "FirstActionableFrame": "51",
+    "BaseDamage": "2",
+    "Angle": "45",
+    "BaseKnockBackSetKnockback": "80",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "120",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ac4696590bf023d445"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Kirby"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ac4696590bf023d446",
+    "Name": "Dash Attack (Hits 1-3)",
+    "OwnerId": 20,
+    "Owner": "Kirby",
+    "HitboxActive": "12, 15, 19",
+    "FirstActionableFrame": "54",
+    "BaseDamage": "1",
+    "Angle": "25/25/100",
+    "BaseKnockBackSetKnockback": "W: 50/60/12",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ac4696590bf023d446"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Kirby"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ac4696590bf023d447",
+    "Name": "Dash Attack (Hits 4-5)",
+    "OwnerId": 20,
+    "Owner": "Kirby",
+    "HitboxActive": "24, 30",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "1",
+    "Angle": "80/80/120",
+    "BaseKnockBackSetKnockback": "W: 15/15/10",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ac4696590bf023d447"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Kirby"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ac4696590bf023d448",
+    "Name": "Dash Attack (Hit 6)",
+    "OwnerId": 20,
+    "Owner": "Kirby",
+    "HitboxActive": "35-37",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "4",
+    "Angle": "65",
+    "BaseKnockBackSetKnockback": "100",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "70",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ac4696590bf023d448"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Kirby"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ac4696590bf023d449",
+    "Name": "Ftilt (All Angles)",
+    "OwnerId": 20,
+    "Owner": "Kirby",
+    "HitboxActive": "5-8",
+    "FirstActionableFrame": "28",
+    "BaseDamage": "8/8/7",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "12",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ac4696590bf023d449"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Kirby"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ac4696590bf023d44a",
+    "Name": "Utilt",
+    "OwnerId": 20,
+    "Owner": "Kirby",
+    "HitboxActive": "4-5 (Leg intangibility: 4-9)",
+    "FirstActionableFrame": "21",
+    "BaseDamage": "5",
+    "Angle": "100",
+    "BaseKnockBackSetKnockback": "40",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "116",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ac4696590bf023d44a"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Kirby"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ac4696590bf023d44b",
+    "Name": "Utilt (Late)",
+    "OwnerId": 20,
+    "Owner": "Kirby",
+    "HitboxActive": "6-9",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "4",
+    "Angle": "88",
+    "BaseKnockBackSetKnockback": "40",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "110",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ac4696590bf023d44b"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Kirby"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ac4696590bf023d44c",
+    "Name": "Dtilt",
+    "OwnerId": 20,
+    "Owner": "Kirby",
+    "HitboxActive": "4-6",
+    "FirstActionableFrame": "21",
+    "BaseDamage": "6",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "30",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "30",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ac4696590bf023d44c"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Kirby"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ac4696590bf023d44d",
+    "Name": "Fsmash (Angled Up)",
+    "OwnerId": 20,
+    "Owner": "Kirby",
+    "HitboxActive": "13-15",
+    "FirstActionableFrame": "48",
+    "BaseDamage": "16",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "30",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "102",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ac4696590bf023d44d"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Kirby"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ac4696590bf023d44e",
+    "Name": "Fsmash (Angled Up, Late)",
+    "OwnerId": 20,
+    "Owner": "Kirby",
+    "HitboxActive": "16-19",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "12",
+    "Angle": "60",
+    "BaseKnockBackSetKnockback": "90",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "69",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ac4696590bf023d44e"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Kirby"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ac4696590bf023d44f",
+    "Name": "Fsmash",
+    "OwnerId": 20,
+    "Owner": "Kirby",
+    "HitboxActive": "13-15",
+    "FirstActionableFrame": "48",
+    "BaseDamage": "15",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "30",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "102",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ac4696590bf023d44f"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Kirby"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ac4696590bf023d450",
+    "Name": "Fsmash (Late)",
+    "OwnerId": 20,
+    "Owner": "Kirby",
+    "HitboxActive": "16-19",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "11",
+    "Angle": "60",
+    "BaseKnockBackSetKnockback": "90",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "69",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ac4696590bf023d450"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Kirby"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ac4696590bf023d451",
+    "Name": "Fsmash (Angled Down)",
+    "OwnerId": 20,
+    "Owner": "Kirby",
+    "HitboxActive": "13-15",
+    "FirstActionableFrame": "48",
+    "BaseDamage": "14",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "30",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "102",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ac4696590bf023d451"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Kirby"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ac4696590bf023d452",
+    "Name": "Fsmash (Angled Down, Late)",
+    "OwnerId": 20,
+    "Owner": "Kirby",
+    "HitboxActive": "16-19",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "10",
+    "Angle": "60",
+    "BaseKnockBackSetKnockback": "90",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "69",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ac4696590bf023d452"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Kirby"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ac4696590bf023d453",
+    "Name": "Usmash (Early)",
+    "OwnerId": 20,
+    "Owner": "Kirby",
+    "HitboxActive": "14 (Leg Intangibility: 14-19)",
+    "FirstActionableFrame": "48",
+    "BaseDamage": "15/15/14",
+    "Angle": "75",
+    "BaseKnockBackSetKnockback": "32/32/30",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "104/104/99",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ac4696590bf023d453"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Kirby"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ac4696590bf023d454",
+    "Name": "Usmash",
+    "OwnerId": 20,
+    "Owner": "Kirby",
+    "HitboxActive": "15-16",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "14/14/12",
+    "Angle": "88",
+    "BaseKnockBackSetKnockback": "20",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "98",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ac4696590bf023d454"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Kirby"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ac4696590bf023d455",
+    "Name": "Usmash (Late)",
+    "OwnerId": 20,
+    "Owner": "Kirby",
+    "HitboxActive": "17-19",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "12/12/11",
+    "Angle": "50",
+    "BaseKnockBackSetKnockback": "10",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "52",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ac4696590bf023d455"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Kirby"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ac4696590bf023d456",
+    "Name": "Dsmash",
+    "OwnerId": 20,
+    "Owner": "Kirby",
+    "HitboxActive": "10-14 (Leg Intangibility: 5-14)",
+    "FirstActionableFrame": "54",
+    "BaseDamage": "14",
+    "Angle": "69",
+    "BaseKnockBackSetKnockback": "25",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "110",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ac4696590bf023d456"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Kirby"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ac4696590bf023d457",
+    "Name": "Dsmash (Late)",
+    "OwnerId": 20,
+    "Owner": "Kirby",
+    "HitboxActive": "15-22",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "10",
+    "Angle": "69",
+    "BaseKnockBackSetKnockback": "25",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "108",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ac4696590bf023d457"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Kirby"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ac4696590bf023d458",
+    "Name": "Standing Grab",
+    "OwnerId": 20,
+    "Owner": "Kirby",
+    "HitboxActive": "6-7",
+    "FirstActionableFrame": "28",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ac4696590bf023d458"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Kirby"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ac4696590bf023d459",
+    "Name": "Dash Grab",
+    "OwnerId": 20,
+    "Owner": "Kirby",
+    "HitboxActive": "8-9",
+    "FirstActionableFrame": "39",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ac4696590bf023d459"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Kirby"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ac4696590bf023d45a",
+    "Name": "Pivot Grab",
+    "OwnerId": 20,
+    "Owner": "Kirby",
+    "HitboxActive": "10-12",
+    "FirstActionableFrame": "33",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ac4696590bf023d45a"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Kirby"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ac4696590bf023d45b",
+    "Name": "Spotdodge",
+    "OwnerId": 20,
+    "Owner": "Kirby",
+    "HitboxActive": "3-17",
+    "FirstActionableFrame": "27",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ac4696590bf023d45b"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Kirby"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ac4696590bf023d45c",
+    "Name": "Forward Roll",
+    "OwnerId": 20,
+    "Owner": "Kirby",
+    "HitboxActive": "4-17",
+    "FirstActionableFrame": "31",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ac4696590bf023d45c"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Kirby"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ac4696590bf023d45d",
+    "Name": "Back Roll",
+    "OwnerId": 20,
+    "Owner": "Kirby",
+    "HitboxActive": "4-17",
+    "FirstActionableFrame": "31",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ac4696590bf023d45d"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Kirby"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ac4696590bf023d45e",
+    "Name": "Airdodge",
+    "OwnerId": 20,
+    "Owner": "Kirby",
+    "HitboxActive": "3-27",
+    "FirstActionableFrame": "33",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ac4696590bf023d45e"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Kirby"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ac4696590bf023d45f",
+    "Name": "Nair (Earliest)",
+    "OwnerId": 20,
+    "Owner": "Kirby",
+    "HitboxActive": "10-11",
+    "FirstActionableFrame": "73",
+    "BaseDamage": "10",
+    "Angle": "46",
+    "BaseKnockBackSetKnockback": "30",
+    "LandingLag": "10",
+    "AutoCancel": "1-4, 56&gt;",
+    "KnockbackGrowth": "90",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ac4696590bf023d45f"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Kirby"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ac4696590bf023d460",
+    "Name": "Nair (Early)",
+    "OwnerId": 20,
+    "Owner": "Kirby",
+    "HitboxActive": "12-15",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "8",
+    "Angle": "46",
+    "BaseKnockBackSetKnockback": "30",
+    "LandingLag": "-",
+    "AutoCancel": "-",
+    "KnockbackGrowth": "90",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ac4696590bf023d460"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Kirby"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ac4696590bf023d461",
+    "Name": "Nair",
+    "OwnerId": 20,
+    "Owner": "Kirby",
+    "HitboxActive": "16-20",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "6",
+    "Angle": "46",
+    "BaseKnockBackSetKnockback": "30",
+    "LandingLag": "-",
+    "AutoCancel": "-",
+    "KnockbackGrowth": "90",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ac4696590bf023d461"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Kirby"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ac4696590bf023d462",
+    "Name": "Nair (Late)",
+    "OwnerId": 20,
+    "Owner": "Kirby",
+    "HitboxActive": "21-34",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "4",
+    "Angle": "46",
+    "BaseKnockBackSetKnockback": "30",
+    "LandingLag": "-",
+    "AutoCancel": "-",
+    "KnockbackGrowth": "90",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ac4696590bf023d462"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Kirby"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ac4696590bf023d463",
+    "Name": "Fair (Hit 1)",
+    "OwnerId": 20,
+    "Owner": "Kirby",
+    "HitboxActive": "10-11",
+    "FirstActionableFrame": "48",
+    "BaseDamage": "4",
+    "Angle": "45/80",
+    "BaseKnockBackSetKnockback": "35",
+    "LandingLag": "13",
+    "AutoCancel": "1-9, 41&gt;",
+    "KnockbackGrowth": "50",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ac4696590bf023d463"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Kirby"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ac4696590bf023d464",
+    "Name": "Fair (Hit 2)",
+    "OwnerId": 20,
+    "Owner": "Kirby",
+    "HitboxActive": "17-18",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "3",
+    "Angle": "366",
+    "BaseKnockBackSetKnockback": "28",
+    "LandingLag": "-",
+    "AutoCancel": "-",
+    "KnockbackGrowth": "30",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ac4696590bf023d464"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Kirby"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ac4696590bf023d465",
+    "Name": "Fair (Hit 3)",
+    "OwnerId": 20,
+    "Owner": "Kirby",
+    "HitboxActive": "25-26",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "5",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "30",
+    "LandingLag": "-",
+    "AutoCancel": "-",
+    "KnockbackGrowth": "148",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ac4696590bf023d465"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Kirby"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ac4696590bf023d466",
+    "Name": "Bair",
+    "OwnerId": 20,
+    "Owner": "Kirby",
+    "HitboxActive": "6-7",
+    "FirstActionableFrame": "41",
+    "BaseDamage": "13",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "20",
+    "LandingLag": "17",
+    "AutoCancel": "1-2, 32&gt;",
+    "KnockbackGrowth": "104",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ac4696590bf023d466"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Kirby"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ac4696590bf023d467",
+    "Name": "Bair (Late)",
+    "OwnerId": 20,
+    "Owner": "Kirby",
+    "HitboxActive": "8-14",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "8",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "0",
+    "LandingLag": "-",
+    "AutoCancel": "-",
+    "KnockbackGrowth": "112",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ac4696590bf023d467"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Kirby"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ac4696590bf023d468",
+    "Name": "Uair",
+    "OwnerId": 20,
+    "Owner": "Kirby",
+    "HitboxActive": "10-15",
+    "FirstActionableFrame": "40",
+    "BaseDamage": "9",
+    "Angle": "70",
+    "BaseKnockBackSetKnockback": "20",
+    "LandingLag": "12",
+    "AutoCancel": "1-9, 22&gt;",
+    "KnockbackGrowth": "100",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ac4696590bf023d468"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Kirby"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ac4696590bf023d469",
+    "Name": "Dair (Hits 1-5)",
+    "OwnerId": 20,
+    "Owner": "Kirby",
+    "HitboxActive": "18-19, 21-22, 24-25, 27-28, 30-31",
+    "FirstActionableFrame": "55",
+    "BaseDamage": "1",
+    "Angle": "366",
+    "BaseKnockBackSetKnockback": "20",
+    "LandingLag": "17",
+    "AutoCancel": "1-17, 48&gt;",
+    "KnockbackGrowth": "107",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ac4696590bf023d469"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Kirby"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ac4696590bf023d46a",
+    "Name": "Dair (Hit 6)",
+    "OwnerId": 20,
+    "Owner": "Kirby",
+    "HitboxActive": "34",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "2",
+    "Angle": "270",
+    "BaseKnockBackSetKnockback": "20",
+    "LandingLag": "-",
+    "AutoCancel": "-",
+    "KnockbackGrowth": "110",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ac4696590bf023d46a"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Kirby"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ac4696590bf023d46b",
+    "Name": "Dair (Landing)",
+    "OwnerId": 20,
+    "Owner": "Kirby",
+    "HitboxActive": "1-3",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "2",
+    "Angle": "60",
+    "BaseKnockBackSetKnockback": "W: 40",
+    "LandingLag": "-",
+    "AutoCancel": "-",
+    "KnockbackGrowth": "100",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ac4696590bf023d46b"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Kirby"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ac4696590bf023d46c",
+    "Name": "Inhale",
+    "OwnerId": 20,
+    "Owner": "Kirby",
+    "HitboxActive": "14-",
+    "FirstActionableFrame": "73",
+    "BaseDamage": "-",
+    "Angle": "-",
+    "BaseKnockBackSetKnockback": "-",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "-",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ac4696590bf023d46c"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Kirby"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ac4696590bf023d46d",
+    "Name": "Hammer Flip (Ground, No Charge)",
+    "OwnerId": 20,
+    "Owner": "Kirby",
+    "HitboxActive": "26-27",
+    "FirstActionableFrame": "70",
+    "BaseDamage": "19",
+    "Angle": "53",
+    "BaseKnockBackSetKnockback": "60",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "78",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ac4696590bf023d46d"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Kirby"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ac4696590bf023d46e",
+    "Name": "Hammer Flip (Ground, Full Charge)",
+    "OwnerId": 20,
+    "Owner": "Kirby",
+    "HitboxActive": "11 (Intangible: 2-10, Super Armor: 11-13)",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "35",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "60",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "78",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ac4696590bf023d46e"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Kirby"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ac4696590bf023d46f",
+    "Name": "Hammer Flip (Air, No Charge)",
+    "OwnerId": 20,
+    "Owner": "Kirby",
+    "HitboxActive": "28-29, 42-43",
+    "FirstActionableFrame": "72",
+    "BaseDamage": "15",
+    "Angle": "55",
+    "BaseKnockBackSetKnockback": "60",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "78",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ac4696590bf023d46f"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Kirby"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ac4696590bf023d470",
+    "Name": "Hammer Flip (Air, Full Charge)",
+    "OwnerId": 20,
+    "Owner": "Kirby",
+    "HitboxActive": "11",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "27",
+    "Angle": "45",
+    "BaseKnockBackSetKnockback": "60",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "78",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ac4696590bf023d470"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Kirby"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ac4696590bf023d471",
+    "Name": "Final Cutter (Hit 1)",
+    "OwnerId": 20,
+    "Owner": "Kirby",
+    "HitboxActive": "23-24",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "5",
+    "Angle": "85/93/90/93",
+    "BaseKnockBackSetKnockback": "117/117/102/102",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ac4696590bf023d471"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Kirby"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ac4696590bf023d472",
+    "Name": "Final Cutter (Hit 2, Early)",
+    "OwnerId": 20,
+    "Owner": "Kirby",
+    "HitboxActive": "41-49",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "2",
+    "Angle": "275",
+    "BaseKnockBackSetKnockback": "W: 100",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ac4696590bf023d472"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Kirby"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ac4696590bf023d473",
+    "Name": "Final Cutter (Hit 2, Late)",
+    "OwnerId": 20,
+    "Owner": "Kirby",
+    "HitboxActive": "50-",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "2",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "30",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "180",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ac4696590bf023d473"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Kirby"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ac4696590bf023d474",
+    "Name": "Final Cutter (Landing)",
+    "OwnerId": 20,
+    "Owner": "Kirby",
+    "HitboxActive": "1",
+    "FirstActionableFrame": "35",
+    "BaseDamage": "5",
+    "Angle": "70",
+    "BaseKnockBackSetKnockback": "120",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ac4696590bf023d474"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Kirby"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ac4696590bf023d475",
+    "Name": "Final Cutter (Projectile)",
+    "OwnerId": 20,
+    "Owner": "Kirby",
+    "HitboxActive": "1-16",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "6",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "60",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "20",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ac4696590bf023d475"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Kirby"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ac4696590bf023d476",
+    "Name": "Stone (Ground)",
+    "OwnerId": 20,
+    "Owner": "Kirby",
+    "HitboxActive": "11",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "14",
+    "Angle": "0",
+    "BaseKnockBackSetKnockback": "40",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "40",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ac4696590bf023d476"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Kirby"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ac4696590bf023d477",
+    "Name": "Stone (Aerial)",
+    "OwnerId": 20,
+    "Owner": "Kirby",
+    "HitboxActive": "29-",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "18",
+    "Angle": "70",
+    "BaseKnockBackSetKnockback": "65",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "70",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ac4696590bf023d477"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Kirby"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ac4696590bf023d478",
+    "Name": "Stone (Landing)",
+    "OwnerId": 20,
+    "Owner": "Kirby",
+    "HitboxActive": "1",
+    "FirstActionableFrame": "32",
+    "BaseDamage": "14",
+    "Angle": "0",
+    "BaseKnockBackSetKnockback": "40",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "40",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ac4696590bf023d478"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Kirby"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ac4696590bf023d479",
+    "Name": "Fthrow",
+    "OwnerId": 20,
+    "Owner": "Kirby",
+    "HitboxActive": null,
+    "FirstActionableFrame": null,
+    "BaseDamage": "5",
+    "Angle": "75",
+    "BaseKnockBackSetKnockback": "40",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "125",
+    "MoveType": "throw",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ac4696590bf023d479"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Kirby"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ac4696590bf023d47a",
+    "Name": "Bthrow",
+    "OwnerId": 20,
+    "Owner": "Kirby",
+    "HitboxActive": null,
+    "FirstActionableFrame": null,
+    "BaseDamage": "8",
+    "Angle": "130",
+    "BaseKnockBackSetKnockback": "30",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "120",
+    "MoveType": "throw",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ac4696590bf023d47a"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Kirby"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ac4696590bf023d47b",
+    "Name": "Uthrow",
+    "OwnerId": 20,
+    "Owner": "Kirby",
+    "HitboxActive": null,
+    "FirstActionableFrame": null,
+    "BaseDamage": "10",
+    "Angle": "78",
+    "BaseKnockBackSetKnockback": "75",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "74",
+    "MoveType": "throw",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ac4696590bf023d47b"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Kirby"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e70ac4696590bf023d47c",
+    "Name": "Dthrow",
+    "OwnerId": 20,
+    "Owner": "Kirby",
+    "HitboxActive": null,
+    "FirstActionableFrame": null,
+    "BaseDamage": "0.8&#37;&#215;9, 1, 2",
+    "Angle": "63",
+    "BaseKnockBackSetKnockback": "60",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "180",
+    "MoveType": "throw",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e70ac4696590bf023d47c"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Kirby"
+      }
+    ]
+  }
+]

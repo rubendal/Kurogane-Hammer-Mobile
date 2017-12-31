@@ -1,0 +1,1328 @@
+﻿[
+  {
+    "InstanceId": "598e709d4696590bf023d240",
+    "Name": "Jab 1",
+    "OwnerId": 14,
+    "Owner": "Fox",
+    "HitboxActive": "2",
+    "FirstActionableFrame": "18",
+    "BaseDamage": "2",
+    "Angle": "35/80/20",
+    "BaseKnockBackSetKnockback": "15",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "40",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e709d4696590bf023d240"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Fox"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e709d4696590bf023d241",
+    "Name": "Jab 2",
+    "OwnerId": 14,
+    "Owner": "Fox",
+    "HitboxActive": "2-3",
+    "FirstActionableFrame": "21",
+    "BaseDamage": "1",
+    "Angle": "40/76/68",
+    "BaseKnockBackSetKnockback": "25/32/32",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "70/80/80",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e709d4696590bf023d241"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Fox"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e709d4696590bf023d242",
+    "Name": "Rapid Jab",
+    "OwnerId": 14,
+    "Owner": "Fox",
+    "HitboxActive": "-",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "0.7",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "20",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "20",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e709d4696590bf023d242"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Fox"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e709d4696590bf023d243",
+    "Name": "Rapid Jab Finisher",
+    "OwnerId": 14,
+    "Owner": "Fox",
+    "HitboxActive": "3-4",
+    "FirstActionableFrame": "33",
+    "BaseDamage": "2",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "30",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "170",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e709d4696590bf023d243"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Fox"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e709d4696590bf023d244",
+    "Name": "Dash Attack",
+    "OwnerId": 14,
+    "Owner": "Fox",
+    "HitboxActive": "4-7",
+    "FirstActionableFrame": "36",
+    "BaseDamage": "6",
+    "Angle": "70",
+    "BaseKnockBackSetKnockback": "55",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "90",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e709d4696590bf023d244"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Fox"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e709d4696590bf023d245",
+    "Name": "Dash Attack (Late)",
+    "OwnerId": 14,
+    "Owner": "Fox",
+    "HitboxActive": "8-15",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "4",
+    "Angle": "70",
+    "BaseKnockBackSetKnockback": "40",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "90",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e709d4696590bf023d245"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Fox"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e709d4696590bf023d246",
+    "Name": "Ftilt (Up)",
+    "OwnerId": 14,
+    "Owner": "Fox",
+    "HitboxActive": "6-8",
+    "FirstActionableFrame": "24",
+    "BaseDamage": "8",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "10",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "110",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e709d4696590bf023d246"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Fox"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e709d4696590bf023d247",
+    "Name": "Ftilt",
+    "OwnerId": 14,
+    "Owner": "Fox",
+    "HitboxActive": "6-8",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "6",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "10",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "110",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e709d4696590bf023d247"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Fox"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e709d4696590bf023d248",
+    "Name": "Ftilt (Down)",
+    "OwnerId": 14,
+    "Owner": "Fox",
+    "HitboxActive": "6-8",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "7",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "10",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "110",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e709d4696590bf023d248"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Fox"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e709d4696590bf023d249",
+    "Name": "Utilt",
+    "OwnerId": 14,
+    "Owner": "Fox",
+    "HitboxActive": "3-5",
+    "FirstActionableFrame": "28",
+    "BaseDamage": "9/7/6/6",
+    "Angle": "110/84/80/80",
+    "BaseKnockBackSetKnockback": "22/18/18/18",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "110",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e709d4696590bf023d249"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Fox"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e709d4696590bf023d24a",
+    "Name": "Utilt (Late)",
+    "OwnerId": 14,
+    "Owner": "Fox",
+    "HitboxActive": "6-7",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "6/6/5/5",
+    "Angle": "110/84/80/80",
+    "BaseKnockBackSetKnockback": "22/18/18/18",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "110",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e709d4696590bf023d24a"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Fox"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e709d4696590bf023d24b",
+    "Name": "Dtilt",
+    "OwnerId": 14,
+    "Owner": "Fox",
+    "HitboxActive": "7-9",
+    "FirstActionableFrame": "28",
+    "BaseDamage": "8/8/7/6",
+    "Angle": "45/65/80/90",
+    "BaseKnockBackSetKnockback": "25",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e709d4696590bf023d24b"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Fox"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e709d4696590bf023d24c",
+    "Name": "Fsmash",
+    "OwnerId": 14,
+    "Owner": "Fox",
+    "HitboxActive": "13-15",
+    "FirstActionableFrame": "46",
+    "BaseDamage": "14",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "20",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "98",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e709d4696590bf023d24c"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Fox"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e709d4696590bf023d24d",
+    "Name": "Fsmash (Late)",
+    "OwnerId": 14,
+    "Owner": "Fox",
+    "HitboxActive": "16-18",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "11",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "20",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e709d4696590bf023d24d"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Fox"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e709d4696590bf023d24e",
+    "Name": "Usmash",
+    "OwnerId": 14,
+    "Owner": "Fox",
+    "HitboxActive": "8-9 (Head Intangibility: 1-9)",
+    "FirstActionableFrame": "56",
+    "BaseDamage": "16/16/14",
+    "Angle": "80",
+    "BaseKnockBackSetKnockback": "30",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "94",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e709d4696590bf023d24e"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Fox"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e709d4696590bf023d24f",
+    "Name": "Usmash (Late)",
+    "OwnerId": 14,
+    "Owner": "Fox",
+    "HitboxActive": "10-11",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "11",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "10",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e709d4696590bf023d24f"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Fox"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e709d4696590bf023d250",
+    "Name": "Dsmash",
+    "OwnerId": 14,
+    "Owner": "Fox",
+    "HitboxActive": "6-7 (Leg Intangibility: 6-7)",
+    "FirstActionableFrame": "53",
+    "BaseDamage": "14/14/12/12",
+    "Angle": "25/25/361/361",
+    "BaseKnockBackSetKnockback": "30",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "75",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e709d4696590bf023d250"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Fox"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e709d4696590bf023d251",
+    "Name": "Standing Grab",
+    "OwnerId": 14,
+    "Owner": "Fox",
+    "HitboxActive": "6-7",
+    "FirstActionableFrame": "29",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e709d4696590bf023d251"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Fox"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e709d4696590bf023d252",
+    "Name": "Dash Grab",
+    "OwnerId": 14,
+    "Owner": "Fox",
+    "HitboxActive": "10-11",
+    "FirstActionableFrame": "36",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e709d4696590bf023d252"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Fox"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e709d4696590bf023d253",
+    "Name": "Pivot Grab",
+    "OwnerId": 14,
+    "Owner": "Fox",
+    "HitboxActive": "11-12",
+    "FirstActionableFrame": "34",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e709d4696590bf023d253"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Fox"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e709d4696590bf023d254",
+    "Name": "Spotdodge",
+    "OwnerId": 14,
+    "Owner": "Fox",
+    "HitboxActive": "2-15",
+    "FirstActionableFrame": "25",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e709d4696590bf023d254"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Fox"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e709d4696590bf023d255",
+    "Name": "Forward Roll",
+    "OwnerId": 14,
+    "Owner": "Fox",
+    "HitboxActive": "4-14",
+    "FirstActionableFrame": "27",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e709d4696590bf023d255"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Fox"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e709d4696590bf023d256",
+    "Name": "Back Roll",
+    "OwnerId": 14,
+    "Owner": "Fox",
+    "HitboxActive": "4-14",
+    "FirstActionableFrame": "27",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e709d4696590bf023d256"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Fox"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e709d4696590bf023d257",
+    "Name": "Airdodge",
+    "OwnerId": 14,
+    "Owner": "Fox",
+    "HitboxActive": "2-25",
+    "FirstActionableFrame": "31",
+    "BaseDamage": "",
+    "Angle": "",
+    "BaseKnockBackSetKnockback": "",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "",
+    "MoveType": "ground",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e709d4696590bf023d257"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Fox"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e709d4696590bf023d258",
+    "Name": "Nair",
+    "OwnerId": 14,
+    "Owner": "Fox",
+    "HitboxActive": "4-6",
+    "FirstActionableFrame": "42",
+    "BaseDamage": "9",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "10",
+    "LandingLag": "11",
+    "AutoCancel": "1-3, 32&gt;",
+    "KnockbackGrowth": "100",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e709d4696590bf023d258"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Fox"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e709d4696590bf023d259",
+    "Name": "Nair (Late)",
+    "OwnerId": 14,
+    "Owner": "Fox",
+    "HitboxActive": "7-25",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "6",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "0",
+    "LandingLag": "-",
+    "AutoCancel": "-",
+    "KnockbackGrowth": "100",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e709d4696590bf023d259"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Fox"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e709d4696590bf023d25a",
+    "Name": "Fair (Hit 1)",
+    "OwnerId": 14,
+    "Owner": "Fox",
+    "HitboxActive": "7-8",
+    "FirstActionableFrame": "50",
+    "BaseDamage": "2",
+    "Angle": "366/366/75/75",
+    "BaseKnockBackSetKnockback": "W: 120/B: 60",
+    "LandingLag": "27",
+    "AutoCancel": "45&gt;",
+    "KnockbackGrowth": "100/130",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e709d4696590bf023d25a"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Fox"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e709d4696590bf023d25b",
+    "Name": "Fair (Hits 2-4)",
+    "OwnerId": 14,
+    "Owner": "Fox",
+    "HitboxActive": "13-14, 19-20, 26-27",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "1, 0.6, 0.8",
+    "Angle": "366/366/75/75",
+    "BaseKnockBackSetKnockback": "W: 120/B: 60",
+    "LandingLag": "-",
+    "AutoCancel": "-",
+    "KnockbackGrowth": "100/150",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e709d4696590bf023d25b"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Fox"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e709d4696590bf023d25c",
+    "Name": "Fair (Hit 5)",
+    "OwnerId": 14,
+    "Owner": "Fox",
+    "HitboxActive": "32-33",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "3",
+    "Angle": "70",
+    "BaseKnockBackSetKnockback": "60",
+    "LandingLag": "-",
+    "AutoCancel": "-",
+    "KnockbackGrowth": "130",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e709d4696590bf023d25c"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Fox"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e709d4696590bf023d25d",
+    "Name": "Bair",
+    "OwnerId": 14,
+    "Owner": "Fox",
+    "HitboxActive": "9-11",
+    "FirstActionableFrame": "49",
+    "BaseDamage": "13",
+    "Angle": "30",
+    "BaseKnockBackSetKnockback": "20",
+    "LandingLag": "15",
+    "AutoCancel": "1-8, 15&gt;",
+    "KnockbackGrowth": "88",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e709d4696590bf023d25d"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Fox"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e709d4696590bf023d25e",
+    "Name": "Uair (Hit 1)",
+    "OwnerId": 14,
+    "Owner": "Fox",
+    "HitboxActive": "9-10",
+    "FirstActionableFrame": "36",
+    "BaseDamage": "5",
+    "Angle": "92",
+    "BaseKnockBackSetKnockback": "W: 30",
+    "LandingLag": "22",
+    "AutoCancel": "1-8, 25&gt;",
+    "KnockbackGrowth": "130",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e709d4696590bf023d25e"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Fox"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e709d4696590bf023d25f",
+    "Name": "Uair (Hit 2)",
+    "OwnerId": 14,
+    "Owner": "Fox",
+    "HitboxActive": "12-13",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "11",
+    "Angle": "85",
+    "BaseKnockBackSetKnockback": "30",
+    "LandingLag": "-",
+    "AutoCancel": "-",
+    "KnockbackGrowth": "100",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e709d4696590bf023d25f"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Fox"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e709d4696590bf023d260",
+    "Name": "Dair (Hits 1-6)",
+    "OwnerId": 14,
+    "Owner": "Fox",
+    "HitboxActive": "5-6, 8-9, 11-12, 14-15, 17-18, 20-21",
+    "FirstActionableFrame": "50",
+    "BaseDamage": "1.4",
+    "Angle": "250/110",
+    "BaseKnockBackSetKnockback": "W: 5/B: 38",
+    "LandingLag": "25",
+    "AutoCancel": "1-4, 29&gt;",
+    "KnockbackGrowth": "100/30",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e709d4696590bf023d260"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Fox"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e709d4696590bf023d261",
+    "Name": "Dair (Hits 7)",
+    "OwnerId": 14,
+    "Owner": "Fox",
+    "HitboxActive": "23",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "3",
+    "Angle": "60",
+    "BaseKnockBackSetKnockback": "50",
+    "LandingLag": "-",
+    "AutoCancel": "-",
+    "KnockbackGrowth": "140",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e709d4696590bf023d261"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Fox"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e709d4696590bf023d262",
+    "Name": "Dair (Landing)",
+    "OwnerId": 14,
+    "Owner": "Fox",
+    "HitboxActive": "1-3",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "1",
+    "Angle": "45",
+    "BaseKnockBackSetKnockback": "20",
+    "LandingLag": "-",
+    "AutoCancel": "-",
+    "KnockbackGrowth": "150",
+    "MoveType": "aerial",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e709d4696590bf023d262"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Fox"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e709d4696590bf023d263",
+    "Name": "Blaster (Early, Ground)",
+    "OwnerId": 14,
+    "Owner": "Fox",
+    "HitboxActive": "11-12",
+    "FirstActionableFrame": "40",
+    "BaseDamage": "3",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "0",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "0",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e709d4696590bf023d263"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Fox"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e709d4696590bf023d264",
+    "Name": "Blaster (Ground)",
+    "OwnerId": 14,
+    "Owner": "Fox",
+    "HitboxActive": "13-19",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "2",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "0",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "0",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e709d4696590bf023d264"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Fox"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e709d4696590bf023d265",
+    "Name": "Blaster (Late, Ground)",
+    "OwnerId": 14,
+    "Owner": "Fox",
+    "HitboxActive": "20-30",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "1.4",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "0",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "0",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e709d4696590bf023d265"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Fox"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e709d4696590bf023d266",
+    "Name": "Blaster (Early, Aerial)",
+    "OwnerId": 14,
+    "Owner": "Fox",
+    "HitboxActive": "9-10",
+    "FirstActionableFrame": "38",
+    "BaseDamage": "3",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "0",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "0",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e709d4696590bf023d266"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Fox"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e709d4696590bf023d267",
+    "Name": "Blaster (Aerial)",
+    "OwnerId": 14,
+    "Owner": "Fox",
+    "HitboxActive": "11-17",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "2",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "0",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "0",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e709d4696590bf023d267"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Fox"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e709d4696590bf023d268",
+    "Name": "Blaster (Late, Aerial)",
+    "OwnerId": 14,
+    "Owner": "Fox",
+    "HitboxActive": "18-28",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "1.4",
+    "Angle": "361",
+    "BaseKnockBackSetKnockback": "0",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "0",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e709d4696590bf023d268"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Fox"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e709d4696590bf023d269",
+    "Name": "Fox Illusion (Grounded)",
+    "OwnerId": 14,
+    "Owner": "Fox",
+    "HitboxActive": "21-25",
+    "FirstActionableFrame": "70",
+    "BaseDamage": "3",
+    "Angle": "80",
+    "BaseKnockBackSetKnockback": "10",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "170",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e709d4696590bf023d269"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Fox"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e709d4696590bf023d26a",
+    "Name": "Fox Illusion (Aerial)",
+    "OwnerId": 14,
+    "Owner": "Fox",
+    "HitboxActive": "21-25",
+    "FirstActionableFrame": "70",
+    "BaseDamage": "3",
+    "Angle": "60",
+    "BaseKnockBackSetKnockback": "10",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "200",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e709d4696590bf023d26a"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Fox"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e709d4696590bf023d26b",
+    "Name": "Fire Fox (Hits 1-7)",
+    "OwnerId": 14,
+    "Owner": "Fox",
+    "HitboxActive": "20, 22, 24, 26, 28, 30, 32",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "2",
+    "Angle": "110",
+    "BaseKnockBackSetKnockback": "28",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "30",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e709d4696590bf023d26b"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Fox"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e709d4696590bf023d26c",
+    "Name": "Fire Fox (Hit 8)",
+    "OwnerId": 14,
+    "Owner": "Fox",
+    "HitboxActive": "43-46",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "14",
+    "Angle": "80",
+    "BaseKnockBackSetKnockback": "60",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "60",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e709d4696590bf023d26c"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Fox"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e709d4696590bf023d26d",
+    "Name": "Fire Fox (Hit 8, Late)",
+    "OwnerId": 14,
+    "Owner": "Fox",
+    "HitboxActive": "47-72",
+    "FirstActionableFrame": "-",
+    "BaseDamage": "8",
+    "Angle": "80",
+    "BaseKnockBackSetKnockback": "60",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "60",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e709d4696590bf023d26d"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Fox"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e709d4696590bf023d26e",
+    "Name": "Reflector",
+    "OwnerId": 14,
+    "Owner": "Fox",
+    "HitboxActive": "6-7 (Roll/Jump cancellable on reflection, Reflects: 4- (1.4&#215;, 50% Break Threshold))",
+    "FirstActionableFrame": "41",
+    "BaseDamage": "2",
+    "Angle": "10/40",
+    "BaseKnockBackSetKnockback": "66",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "32/45",
+    "MoveType": "special",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e709d4696590bf023d26e"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Fox"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e709d4696590bf023d26f",
+    "Name": "Fthrow",
+    "OwnerId": 14,
+    "Owner": "Fox",
+    "HitboxActive": null,
+    "FirstActionableFrame": null,
+    "BaseDamage": "4, 3",
+    "Angle": "40",
+    "BaseKnockBackSetKnockback": "35",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "130",
+    "MoveType": "throw",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e709d4696590bf023d26f"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Fox"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e709d4696590bf023d270",
+    "Name": "Bthrow",
+    "OwnerId": 14,
+    "Owner": "Fox",
+    "HitboxActive": null,
+    "FirstActionableFrame": null,
+    "BaseDamage": "Throw: 2, Lasers: 2&#37;&#215;3",
+    "Angle": "45",
+    "BaseKnockBackSetKnockback": "80",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "85",
+    "MoveType": "throw",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e709d4696590bf023d270"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Fox"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e709d4696590bf023d271",
+    "Name": "Uthrow",
+    "OwnerId": 14,
+    "Owner": "Fox",
+    "HitboxActive": null,
+    "FirstActionableFrame": null,
+    "BaseDamage": "Throw: 2, Lasers: 2&#37;&#215;3",
+    "Angle": "90",
+    "BaseKnockBackSetKnockback": "75",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "110",
+    "MoveType": "throw",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e709d4696590bf023d271"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Fox"
+      }
+    ]
+  },
+  {
+    "InstanceId": "598e709d4696590bf023d272",
+    "Name": "Dthrow",
+    "OwnerId": 14,
+    "Owner": "Fox",
+    "HitboxActive": null,
+    "FirstActionableFrame": null,
+    "BaseDamage": "Lasers: 1.5&#37;&#215;4, Throw: 1",
+    "Angle": "60",
+    "BaseKnockBackSetKnockback": "85",
+    "LandingLag": null,
+    "AutoCancel": null,
+    "KnockbackGrowth": "100",
+    "MoveType": "throw",
+    "IsWeightDependent": false,
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/moves/598e709d4696590bf023d272"
+      },
+      {
+        "Rel": "character",
+        "Href": "http://beta-api-kuroganehammer.azurewebsites.net/api/characters/name/Fox"
+      }
+    ]
+  }
+]
