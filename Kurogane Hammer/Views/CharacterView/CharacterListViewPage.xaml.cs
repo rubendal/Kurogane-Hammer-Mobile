@@ -227,6 +227,39 @@ namespace Kurogane_Hammer.Views.CharacterView
             return table;
         }
 
+        public GridTable GetSpecificAttributeTable()
+        {
+            SpecificAttribute sa = _Character.specificAttribute;
+
+            GridTable table = new GridTable(new TextFormat() { Background = Color.FromHex(_Character.ColorTheme) }, new TextFormat());
+            if (sa.isSimple)
+            {
+                table.AddHeader(new List<string>()
+                {
+                    sa.attribute,
+                    "-"
+                });
+                foreach(RowValue r in sa.NameValueTable)
+                {
+                    table.AddRow(new List<string>()
+                    {
+                        r.name,
+                        r.value
+                    });
+                }
+            }
+            else
+            {
+                table.AddHeader(sa.headers);
+                foreach (List<string> l in sa.data)
+                {
+                    table.AddRow(l);
+                }
+            }
+
+            return table;
+        }
+
         private async void Handle_ItemTapped(object sender, ItemTappedEventArgs e)
         {
             if (e.Item == null)
@@ -242,6 +275,9 @@ namespace Kurogane_Hammer.Views.CharacterView
                 case 0:
                     //All data
                     s.Children.Add(await GetMovementTable().Generate());
+                    if (_Character.hasSpecificAttributes)
+                        if (_Character.specificAttribute.isSimple)
+                            s.Children.Add(await GetSpecificAttributeTable().Generate());
                     s.Children.Add(new Label() { Text = "Ground moves", FontSize = 20, TextColor = Color.Black });
                     s.Children.Add(await GetMoveTable(MoveType.Ground).Generate());
                     s.Children.Add(await GetMoveTable(MoveType.Evasion).Generate());
@@ -254,6 +290,9 @@ namespace Kurogane_Hammer.Views.CharacterView
                     s.Children.Add(await GetMoveTable(MoveType.Aerial).Generate());
                     s.Children.Add(new Label() { Text = "Special moves", FontSize = 20, TextColor = Color.Black });
                     s.Children.Add(await GetMoveTable(MoveType.Special).Generate());
+                    if (_Character.hasSpecificAttributes)
+                        if (!_Character.specificAttribute.isSimple)
+                            s.Children.Add(await GetSpecificAttributeTable().Generate());
                     await Navigation.PushAsync(new CharacterMoves(_Character, s, null));
                     break;
                 case 1:
@@ -299,7 +338,8 @@ namespace Kurogane_Hammer.Views.CharacterView
                     await Navigation.PushAsync(new CharacterMoves(_Character, GetMoveTable(MoveType.Special), "Specials"));
                     break;
                 case 8:
-
+                    //Specific attribute for character
+                    await Navigation.PushAsync(new CharacterMoves(_Character, GetSpecificAttributeTable(), _Character.specificAttribute.attribute));
                     break;
             }
         }

@@ -50,7 +50,6 @@ namespace Kurogane_Hammer.Classes
                 try
                 {
                     specificAttribute = Newtonsoft.Json.JsonConvert.DeserializeObject<SpecificAttribute>(App.storage.Read($"{OwnerId}/specificAttributes.json"));
-                    specificAttribute.Check();
                 }
                 catch (Exception e)
                 {

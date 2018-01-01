@@ -9,40 +9,31 @@ namespace Kurogane_Hammer.Classes
     public class SpecificAttribute
     {
         public string attribute;
-        public bool isSimple = true;
-        public List<RowValue> valueList;
+        public bool isSimple
+        {
+            get
+            {
+                return NameValueTable != null;
+            }
+        }
+        public List<RowValue> NameValueTable;
         public List<string> headers;
-        public List<List<string>> rows;
+        public List<List<string>> data;
 
         public SpecificAttribute()
         {
 
-        }
-
-        public SpecificAttribute(string attribute, List<RowValue> valueList)
-        {
-            this.attribute = attribute;
-            this.isSimple = true;
-            this.valueList = valueList;
-        }
-
-        public SpecificAttribute(string attribute, List<string> headers, List<List<string>> rows)
-        {
-            this.attribute = attribute;
-            this.isSimple = false;
-            this.headers = headers;
-            this.rows = rows;
-        }
-
-        public void Check()
-        {
-            isSimple = valueList != null;
         }
     }
 
     public class RowValue
     {
         public string name, value;
+
+        public RowValue()
+        {
+
+        }
 
         public RowValue(string name, string value)
         {
