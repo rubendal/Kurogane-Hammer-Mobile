@@ -89,6 +89,7 @@
     <Compile Include="Views\CharacterView\CharacterPicView.xaml.cs">
       <DependentUpon>CharacterPicView.xaml</DependentUpon>
     </Compile>
+    <Compile Include="Views\Toolbar\SyncToolbar.cs" />
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="MainPage.xaml">

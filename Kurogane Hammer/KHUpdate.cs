@@ -56,7 +56,7 @@ namespace Kurogane_Hammer
             }
             catch (Exception e)
             {
-                
+                System.Diagnostics.Debug.WriteLine($"Error on sync {e.Message}");
             }
             return false;
         }

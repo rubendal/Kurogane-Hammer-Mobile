@@ -30,7 +30,7 @@ namespace Kurogane_Hammer.Classes
         {
             this.moveType = moveType;
             this.name = name;
-            this.hitboxActive = hitboxActive;
+            this.hitboxActive = hitboxActive.Replace("&#215;", "x");
             this.FAF = FAF;
             this.baseDamage = baseDamage.Replace("&#215;","x");
             this.angle = angle;

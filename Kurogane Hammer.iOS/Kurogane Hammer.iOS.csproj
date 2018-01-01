@@ -615,6 +615,12 @@
   <ItemGroup>
     <BundleResource Include="Resources\attribute_trip.png" />
   </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\sync_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\sync_icon_disabled.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
     <PropertyGroup>

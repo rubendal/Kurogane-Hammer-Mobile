@@ -3777,26 +3777,26 @@ namespace Kurogane_Hammer.Droid
 			// aapt resource value: 0x7f020062
 			public const int avd_hide_password = 2130837602;
 			
-			// aapt resource value: 0x7f02017b
-			public const int avd_hide_password_1 = 2130837883;
-			
-			// aapt resource value: 0x7f02017c
-			public const int avd_hide_password_2 = 2130837884;
-			
 			// aapt resource value: 0x7f02017d
-			public const int avd_hide_password_3 = 2130837885;
+			public const int avd_hide_password_1 = 2130837885;
+			
+			// aapt resource value: 0x7f02017e
+			public const int avd_hide_password_2 = 2130837886;
+			
+			// aapt resource value: 0x7f02017f
+			public const int avd_hide_password_3 = 2130837887;
 			
 			// aapt resource value: 0x7f020063
 			public const int avd_show_password = 2130837603;
 			
-			// aapt resource value: 0x7f02017e
-			public const int avd_show_password_1 = 2130837886;
-			
-			// aapt resource value: 0x7f02017f
-			public const int avd_show_password_2 = 2130837887;
-			
 			// aapt resource value: 0x7f020180
-			public const int avd_show_password_3 = 2130837888;
+			public const int avd_show_password_1 = 2130837888;
+			
+			// aapt resource value: 0x7f020181
+			public const int avd_show_password_2 = 2130837889;
+			
+			// aapt resource value: 0x7f020182
+			public const int avd_show_password_3 = 2130837890;
 			
 			// aapt resource value: 0x7f020064
 			public const int calendar_bg_selector = 2130837604;
@@ -4617,11 +4617,11 @@ namespace Kurogane_Hammer.Droid
 			// aapt resource value: 0x7f020174
 			public const int notification_icon_background = 2130837876;
 			
-			// aapt resource value: 0x7f020179
-			public const int notification_template_icon_bg = 2130837881;
+			// aapt resource value: 0x7f02017b
+			public const int notification_template_icon_bg = 2130837883;
 			
-			// aapt resource value: 0x7f02017a
-			public const int notification_template_icon_low_bg = 2130837882;
+			// aapt resource value: 0x7f02017c
+			public const int notification_template_icon_low_bg = 2130837884;
 			
 			// aapt resource value: 0x7f020175
 			public const int notification_tile_bg = 2130837877;
@@ -4630,10 +4630,16 @@ namespace Kurogane_Hammer.Droid
 			public const int notify_panel_notification_icon_bg = 2130837878;
 			
 			// aapt resource value: 0x7f020177
-			public const int tooltip_frame_dark = 2130837879;
+			public const int sync_icon = 2130837879;
 			
 			// aapt resource value: 0x7f020178
-			public const int tooltip_frame_light = 2130837880;
+			public const int sync_icon_disabled = 2130837880;
+			
+			// aapt resource value: 0x7f020179
+			public const int tooltip_frame_dark = 2130837881;
+			
+			// aapt resource value: 0x7f02017a
+			public const int tooltip_frame_light = 2130837882;
 			
 			static Drawable()
 			{

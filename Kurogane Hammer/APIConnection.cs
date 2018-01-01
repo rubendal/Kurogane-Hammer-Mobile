@@ -5,11 +5,13 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Net.Http;
 
+using ModernHttpClient;
+
 namespace Kurogane_Hammer
 {
     public static class APIConnection
     {
-        private static HttpClient _client = new HttpClient();
+        private static HttpClient _client = new HttpClient(new NativeMessageHandler());
         private static readonly string API_SERVER = "http://beta-api-kuroganehammer.azurewebsites.net";
 
         public static string MakeURL(string route)
