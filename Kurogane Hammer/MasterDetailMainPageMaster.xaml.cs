@@ -37,9 +37,9 @@ namespace Kurogane_Hammer
                     new MasterDetailMainPageMenuItem { Id = -1, Title = "Smash 4", TextColor = Color.FromHex("#808080") },
                     new MasterDetailMainPageMenuItem { Id = 0, Title = "Characters", TargetType = typeof(MainPage) },
                     new MasterDetailMainPageMenuItem { Id = 1, Title = "Attributes", TargetType = typeof(AttributePage) },
-                    new MasterDetailMainPageMenuItem { Id = 2, Title = "Formulas" },
+                    new MasterDetailMainPageMenuItem { Id = 2, Title = "Formulas", TargetType = typeof(FormulasPage) },
                     new MasterDetailMainPageMenuItem { Id = 3, Title = "Sm4sh Calculator" },
-                    new MasterDetailMainPageMenuItem { Id = 4, Title = "About", TargetType = typeof(MainPage) }
+                    new MasterDetailMainPageMenuItem { Id = 4, Title = "About", TargetType = typeof(AboutPage) }
                 });
             }
 

@@ -15,7 +15,7 @@ namespace Kurogane_Hammer.ViewAdapters
         private Row Header;
         private List<Row> Rows = new List<Row>();
         private double padding = 3;
-        private Color evenRowColor = Color.FromHex("#D9D9D9");
+        public Color evenRowColor = Color.FromHex("#D9D9D9");
 
         private int Columns = 0;
 

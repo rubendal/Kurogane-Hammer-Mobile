@@ -35,6 +35,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="AboutPage.xaml.cs">
+      <DependentUpon>AboutPage.xaml</DependentUpon>
+    </Compile>
     <Compile Include="APIConnection.cs" />
     <Compile Include="App.xaml.cs">
       <DependentUpon>App.xaml</DependentUpon>
@@ -45,10 +48,13 @@
     <Compile Include="Classes\Attribute.cs" />
     <Compile Include="Classes\Character.cs" />
     <Compile Include="Classes\DodgeData.cs" />
-    <Compile Include="Classes\Formula.cs" />
+    <Compile Include="Classes\Formulas.cs" />
     <Compile Include="Classes\Move.cs" />
     <Compile Include="Classes\Movement.cs" />
     <Compile Include="Classes\SpecificAttribute.cs" />
+    <Compile Include="FormulasPage.xaml.cs">
+      <DependentUpon>FormulasPage.xaml</DependentUpon>
+    </Compile>
     <Compile Include="Initialization.cs" />
     <Compile Include="KHUpdate.cs" />
     <Compile Include="MainPage.xaml.cs">
@@ -192,6 +198,18 @@
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="Views\AttributeView\AttributesRanking.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="FormulasPage.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="AboutPage.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
       <SubType>Designer</SubType>
     </EmbeddedResource>
