@@ -2,9 +2,13 @@
 <MasterDetailPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="Kurogane_Hammer.MasterDetailMainPage"
+             xmlns:toolbar="clr-namespace:Kurogane_Hammer.Views.Toolbar"
              xmlns:pages="clr-namespace:Kurogane_Hammer">
-  <MasterDetailPage.Master>
-    <pages:MasterDetailMainPageMaster x:Name="MasterPage" />
+    <MasterDetailPage.ToolbarItems>
+        <toolbar:SyncToolbar x:Name="SyncToolbar" />
+    </MasterDetailPage.ToolbarItems>
+    <MasterDetailPage.Master>
+        <pages:MasterDetailMainPageMaster x:Name="MasterPage" />
   </MasterDetailPage.Master>
   <MasterDetailPage.Detail>
     <NavigationPage>

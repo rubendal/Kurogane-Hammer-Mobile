@@ -9,7 +9,7 @@ Unreleased
 ### Status (Android)
 * View frame data offline: Done
 * Memes (Character/Attributes pics): Done
-* Sync with KH API: In progress
+* Sync with KH API: Missing progress dialog
 * Formulas: In progress
 * Sm4sh Calculator: Not started
 
