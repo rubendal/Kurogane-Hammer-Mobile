@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 using Xamarin.Forms;
+using Rg.Plugins.Popup.Services;
 
 namespace Kurogane_Hammer.Views.Toolbar
 {
@@ -21,9 +22,9 @@ namespace Kurogane_Hammer.Views.Toolbar
             {
                 _Enabled = value;
                 if(_Enabled)
-                    base.Icon = new FileImageSource() { File = "sync_icon.png" };
+                    Icon = new FileImageSource() { File = "sync_icon.png" };
                 else
-                    base.Icon = new FileImageSource() { File = "sync_icon_disabled.png" };
+                    Icon = new FileImageSource() { File = "sync_icon_disabled.png" };
             }
         }
 
@@ -35,9 +36,13 @@ namespace Kurogane_Hammer.Views.Toolbar
                 if (!_Enabled)
                     return;
 
+                await PopupNavigation.PushAsync(new ProgressDialog());
+
                 Enabled = false;
 
                 bool done = await KHUpdate.Start();
+
+                await PopupNavigation.PopAsync();
 
                 if (done)
                     App.Notifications.ShowNotification("Sync successful");

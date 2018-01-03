@@ -9,12 +9,12 @@
     </MasterDetailPage.ToolbarItems>
     <MasterDetailPage.Master>
         <pages:MasterDetailMainPageMaster x:Name="MasterPage" />
-  </MasterDetailPage.Master>
-  <MasterDetailPage.Detail>
-    <NavigationPage>
-      <x:Arguments>
-        <pages:MainPage />
-      </x:Arguments>
-    </NavigationPage>
-  </MasterDetailPage.Detail>
+    </MasterDetailPage.Master>
+    <MasterDetailPage.Detail>
+        <NavigationPage>
+            <x:Arguments>
+                <pages:MainPage />
+            </x:Arguments>
+        </NavigationPage>
+    </MasterDetailPage.Detail>
 </MasterDetailPage>

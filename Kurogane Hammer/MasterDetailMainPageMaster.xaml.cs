@@ -28,7 +28,6 @@ namespace Kurogane_Hammer
         class MasterDetailMainPageMasterViewModel : INotifyPropertyChanged
         {
             public ObservableCollection<MasterDetailMainPageMenuItem> MenuItems { get; set; }
-            public ObservableCollection<MasterDetailMainPageMenuItem> MenuItems2 { get; set; }
 
             public MasterDetailMainPageMasterViewModel()
             {

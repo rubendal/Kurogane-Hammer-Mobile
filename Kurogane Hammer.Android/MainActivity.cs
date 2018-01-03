@@ -7,6 +7,7 @@ using Android.Views;
 using Android.Widget;
 using Android.OS;
 using FFImageLoading.Forms.Droid;
+using Rg.Plugins.Popup;
 //using Plugin.CurrentActivity;
 
 namespace Kurogane_Hammer.Droid
