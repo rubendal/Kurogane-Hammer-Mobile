@@ -25,8 +25,10 @@ namespace Kurogane_Hammer.ViewAdapters
                     RowSpacing = App.ScreenUnitConverter.PixelsToDIU(10)
                 };
 
+                List<AttributeName> attributes = Runtime.GetAttributeNames();
+
                 int columns = (int)(App.ScreenUnitConverter.PixelsToDIU(App.ScreenWidth) / x);
-                int rows = (int)Math.Ceiling((double)Runtime.Attributes.Count / columns);
+                int rows = (int)Math.Ceiling((double)attributes.Count / columns);
 
                 for (int i = 0; i < rows; i++)
                 {
@@ -39,7 +41,7 @@ namespace Kurogane_Hammer.ViewAdapters
 
                 int row = 0;
                 int column = 0;
-                foreach (AttributeName a in Runtime.Attributes)
+                foreach (AttributeName a in attributes)
                 {
                     AttributePicView view = new AttributePicView(a);
 

@@ -10,12 +10,15 @@ namespace Kurogane_Hammer
     public static class Runtime
     {
         public static List<Character> Characters { get; set; }
-        public static List<AttributeName> Attributes { get; set; }
 
         public static void InitializeRuntime()
         {
             Characters = JsonConvert.DeserializeObject<List<Character>>(App.storage.Read("data/characters.json"));
-            Attributes = JsonConvert.DeserializeObject<List<AttributeNameData>>(App.storage.Read("data/attributeNames.json")).Select(d => AttributeName.Convert(d)).ToList();
+        }
+
+        public static List<AttributeName> GetAttributeNames()
+        {
+            return JsonConvert.DeserializeObject<List<AttributeNameData>>(App.storage.Read("data/attributeNames.json")).Select(d => AttributeName.Convert(d)).ToList();
         }
 
         public static List<Move> GetMoves(int characterId, MoveType moveType = MoveType.Any)
