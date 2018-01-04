@@ -43,7 +43,7 @@ namespace Kurogane_Hammer
                     App.storage.Write($"{c.OwnerId}/movements.json", movements);
                 }
 
-                foreach(AttributeName a in attributeList)
+                foreach (AttributeName a in attributeList)
                 {
                     string attributeData = await APIConnection.Request($"/api/characterattributes/name/{a.name}");
                     if (string.IsNullOrWhiteSpace(attributeData))
@@ -51,6 +51,12 @@ namespace Kurogane_Hammer
 
                     App.storage.Write($"{a.name.ToLower()}/attributes.json", attributeData);
                 }
+
+                Runtime.Characters = characterList;
+                Runtime.Attributes = attributeList;
+
+                Runtime.Characters.Sort();
+                Runtime.Attributes.Sort();
 
                 return true;
             }

@@ -11,7 +11,7 @@ Unreleased
 * Memes (Character/Attributes pics): Done
 * Sync with KH API: Done
 * Formulas: Done
-* Sm4sh Calculator: Not started
+* Sm4sh Calculator: Not started (not needed for release since it could have an update)
 
 ### Status (iOS)
 * Still need a Mac to test, but at least it shares most code with Android so it should be the same as Android once `PlatformDependent` classes are defined on iOS project

@@ -87,7 +87,24 @@ namespace Kurogane_Hammer.Classes
 
     public class AttributeName : IComparable<AttributeName>
     {
-        public string name, formattedName = "";
+        public string name;
+
+        public string formattedName
+        {
+            get
+            {
+                Regex regexp = new Regex("(?<=.)(?=\\p{Lu})");
+                string[] w = regexp.Split(name);
+                string n = "";
+                foreach (string s in w)
+                {
+                    if (s != null)
+                        n += $"{s} ";
+                }
+                return n.TrimEnd();
+            }
+        }
+
         public bool favorite = false;
 
         public AttributeName()
@@ -98,14 +115,7 @@ namespace Kurogane_Hammer.Classes
         public AttributeName(string name)
         {
             this.name = name;
-            Regex regexp = new Regex("(?<=.)(?=\\p{Lu})");
-            string[] w = regexp.Split(name);
-            foreach (string s in w)
-            {
-                if (s != null)
-                    formattedName += $"{s} ";
-            }
-            formattedName = formattedName.TrimEnd();
+            
         }
 
         public string Image
@@ -154,21 +164,21 @@ namespace Kurogane_Hammer.Classes
             return name.CompareTo(other.name);
         }
 
-        public static AttributeName Convert(AttributeNameData data)
-        {
-            return new AttributeName(data.Name);
-        }
+        //public static AttributeName Convert(AttributeNameData data)
+        //{
+        //    return new AttributeName(data.Name);
+        //}
     }
 
-    public class AttributeNameData
-    {
-        public string Name;
+    //public class AttributeNameData
+    //{
+    //    public string Name;
 
-        public AttributeNameData()
-        {
+    //    public AttributeNameData()
+    //    {
 
-        }
-    }
+    //    }
+    //}
 
     public static class AttributeRankMaker
     {

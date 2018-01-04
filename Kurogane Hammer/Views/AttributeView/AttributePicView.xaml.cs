@@ -19,6 +19,25 @@ namespace Kurogane_Hammer.Views.AttributeView
         private string _AttributeImage, _AttributeName;
         private double _Size = 200;
 
+        private bool _IsFavorite = false;
+        private bool IsFavorite
+        {
+            get
+            {
+                return IsFavorite;
+            }
+            set
+            {
+                _IsFavorite = value;
+
+                _Attribute.favorite = value;
+
+                Runtime.UpdateFavorite(_Attribute, value);
+
+                UpdateFavorites();
+            }
+        }
+
         public double Size
         {
             get
@@ -43,6 +62,7 @@ namespace Kurogane_Hammer.Views.AttributeView
                 _Attribute = value;
                 _AttributeImage = _Attribute.Image;
                 _AttributeName = _Attribute.formattedName;
+                _IsFavorite = _Attribute.favorite;
                 RefreshView();
             }
         }
@@ -101,6 +121,13 @@ namespace Kurogane_Hammer.Views.AttributeView
             lb_Name.TranslationY = Size - lb_Name.HeightRequest;
             lb_Name.WidthRequest = Size;
             lb_Name.FontSize = App.ScreenUnitConverter.PixelsToDIU(32);
+            UpdateFavorites();
+        }
+
+        private void UpdateFavorites()
+        {
+            fav_Image.IsVisible = _IsFavorite;
+            fav_Image.TranslationX = Size - fav_Image.WidthRequest;
         }
 
         public async void GestureRecognized(object sender, GestureResult e)
@@ -144,7 +171,7 @@ namespace Kurogane_Hammer.Views.AttributeView
                     }
                     break;
                 case GestureType.LongPress:
-                    App.Notifications.ShowNotification("Long press");
+                    IsFavorite = !_IsFavorite;
                     break;
             }
         }

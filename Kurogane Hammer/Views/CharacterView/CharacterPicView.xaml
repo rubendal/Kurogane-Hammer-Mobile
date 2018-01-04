@@ -35,7 +35,9 @@
                     </OnPlatform>
                 </Label.FontFamily>
             </Label>
-        </RelativeLayout>
+
+                <ffimageloading:CachedImage x:Name="fav_Image" Source="fav_icon.png" IsVisible="False" HeightRequest="25" WidthRequest="25" VerticalOptions="Start" />
+            </RelativeLayout>
         </lc:GesturesContentView>
     </ContentView.Content>
 </ContentView>

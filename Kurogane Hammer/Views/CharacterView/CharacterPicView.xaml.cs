@@ -19,6 +19,25 @@ namespace Kurogane_Hammer.Views.CharacterView
         private string _CharacterImage, _CharacterName;
         private double _Size = 200;
 
+        private bool _IsFavorite = false;
+        private bool IsFavorite
+        {
+            get
+            {
+                return IsFavorite;
+            }
+            set
+            {
+                _IsFavorite = value;
+
+                _Character.favorite = value;
+
+                Runtime.UpdateFavorite(_Character, value);
+
+                UpdateFavorites();
+            }
+        }
+
         public double Size
         {
             get
@@ -43,6 +62,7 @@ namespace Kurogane_Hammer.Views.CharacterView
                 _Character = value;
                 _CharacterImage = _Character.Image;
                 _CharacterName = _Character.GetCharacterImageName();
+                _IsFavorite = _Character.favorite;
                 RefreshView();
             }
         }
@@ -101,6 +121,13 @@ namespace Kurogane_Hammer.Views.CharacterView
             lb_Name.TranslationY = Size - lb_Name.HeightRequest;
             lb_Name.WidthRequest = Size;
             lb_Name.FontSize = App.ScreenUnitConverter.PixelsToDIU(32);
+            UpdateFavorites();
+        }
+
+        private void UpdateFavorites()
+        {
+            fav_Image.IsVisible = _IsFavorite;
+            fav_Image.TranslationX = Size - fav_Image.WidthRequest;
         }
 
         public void GestureRecognized(object sender, GestureResult e)
@@ -111,7 +138,7 @@ namespace Kurogane_Hammer.Views.CharacterView
                     Navigation.PushAsync(new CharacterListViewPage(_Character));
                     break;
                 case GestureType.LongPress:
-                    App.Notifications.ShowNotification("Long press");
+                    IsFavorite = !_IsFavorite;
                     break;
             }
         }
