@@ -2,7 +2,7 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="Kurogane_Hammer.MasterDetailMainPageMaster"
-             Title="Kurogane Hammer">
+             Title="Menu">
     <StackLayout BackgroundColor="#DDDDDD">
         <ListView x:Name="MenuItemsListView"
               SeparatorVisibility="None"

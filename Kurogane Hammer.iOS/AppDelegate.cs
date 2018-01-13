@@ -5,6 +5,8 @@ using System.Linq;
 using Foundation;
 using UIKit;
 
+using FFImageLoading.Forms.Touch;
+
 namespace Kurogane_Hammer.iOS
 {
     // The UIApplicationDelegate for the application. This class is responsible for launching the 
@@ -23,7 +25,17 @@ namespace Kurogane_Hammer.iOS
         public override bool FinishedLaunching(UIApplication app, NSDictionary options)
         {
             global::Xamarin.Forms.Forms.Init();
-            LoadApplication(new App());
+
+            CachedImageRenderer.Init();
+
+            App.ScreenWidth = UIScreen.MainScreen.NativeBounds.Width;
+            App.ScreenHeight = UIScreen.MainScreen.NativeBounds.Height;
+            App.ScreenDensity = UIScreen.MainScreen.Scale;
+            App.ScreenUnitConverter = new ScreenUnitConverter(UIScreen.MainScreen.Scale);
+
+            App.Notifications = new Notifications();
+
+            LoadApplication(new App(new Storage(), new iOSAssetManager()));
 
             return base.FinishedLaunching(app, options);
         }

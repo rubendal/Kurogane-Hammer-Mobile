@@ -1,23 +1,19 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
+
 <ContentView xmlns="http://xamarin.com/schemas/2014/forms" 
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="Kurogane_Hammer.Views.CharacterView.CharacterPicView"
              xmlns:ffimageloading="clr-namespace:FFImageLoading.Forms;assembly=FFImageLoading.Forms"
-             xmlns:lc="clr-namespace:XLabs.Forms.Controls;assembly=XLabs.Forms"
-             xmlns:lb="clr-namespace:XLabs.Forms.Behaviors;assembly=XLabs.Forms">
-  <ContentView.Content>
-        <lc:GesturesContentView ExcludeChildren="False" GestureRecognized="GestureRecognized">
-            <lb:Gestures.Interests>
-                <lb:GestureCollection>
-                    <lb:GestureInterest GestureType="SingleTap"/>
-                    <lb:GestureInterest GestureType="LongPress"/>
-                </lb:GestureCollection>
-            </lb:Gestures.Interests>
-            
-            <RelativeLayout x:Name="c_Layout">
-                <ffimageloading:CachedImage x:Name="img_Image" DownsampleToViewSize="true" />
-            
-            <Label x:Name="lb_Name" Text="Character"
+             xmlns:views="clr-namespace:Kurogane_Hammer.Views">
+    <ContentView.Content>
+
+        <views:GestureContentView SingleTap="GestureContentView_SingleTapEvent" LongPress="GestureContentView_LongPressEvent">
+
+            <views:GestureContentView.Content>
+                <RelativeLayout x:Name="c_Layout">
+                    <ffimageloading:CachedImage x:Name="img_Image" DownsampleToViewSize="true" />
+
+                    <Label x:Name="lb_Name" Text="Character"
                    WidthRequest="100"
                    HeightRequest="25"
                    TranslationY="80"
@@ -27,17 +23,20 @@
                    FontAttributes="Bold"
                    TextColor="White"
                    FontSize="12">
-                <Label.FontFamily>
-                    <OnPlatform x:TypeArguments="x:String">
-                        <OnPlatform.iOS>MarkerFelt-Thin</OnPlatform.iOS>
-                        <OnPlatform.Android>Droid Serif</OnPlatform.Android>
-                        <OnPlatform.WinPhone>Comic Sans MS</OnPlatform.WinPhone>
-                    </OnPlatform>
-                </Label.FontFamily>
-            </Label>
+                        <Label.FontFamily>
+                            <OnPlatform x:TypeArguments="x:String">
+                                <OnPlatform.iOS>MarkerFelt-Thin</OnPlatform.iOS>
+                                <OnPlatform.Android>Droid Serif</OnPlatform.Android>
+                                <OnPlatform.WinPhone>Comic Sans MS</OnPlatform.WinPhone>
+                            </OnPlatform>
+                        </Label.FontFamily>
+                    </Label>
 
-                <ffimageloading:CachedImage x:Name="fav_Image" Source="fav_icon.png" IsVisible="False" HeightRequest="25" WidthRequest="25" VerticalOptions="Start" />
-            </RelativeLayout>
-        </lc:GesturesContentView>
-    </ContentView.Content>
+                    <ffimageloading:CachedImage x:Name="fav_Image" Source="fav_icon.png" IsVisible="False" HeightRequest="25" WidthRequest="25" VerticalOptions="Start" />
+                </RelativeLayout>
+                
+            </views:GestureContentView.Content>
+        </views:GestureContentView>
+
+        </ContentView.Content>
 </ContentView>

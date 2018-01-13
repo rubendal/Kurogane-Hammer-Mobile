@@ -88,223 +88,231 @@
     <CodesignKey>iPhone Distribution</CodesignKey>
     <CodesignEntitlements>Entitlements.plist</CodesignEntitlements>
   </PropertyGroup>
+  <PropertyGroup Condition=" '$(RunConfiguration)' == 'Default' ">
+    <AppExtensionDebugBundleId />
+  </PropertyGroup>
   <ItemGroup>
+    <Compile Include="GestureContentViewRenderer.cs" />
+    <Compile Include="iOSAssetManager.cs" />
     <Compile Include="Main.cs" />
     <Compile Include="AppDelegate.cs" />
+    <Compile Include="ScreenUnitConverter.cs" />
+    <Compile Include="Storage.cs" />
     <None Include="app.config" />
+    <BundleResource Include="Content\characters.json" />
+    <BundleResource Include="Content\formulas.json" />
+    <BundleResource Include="Content\Data\attributeNames.json" />
+    <BundleResource Include="Content\Data\1\attributes.json" />
+    <BundleResource Include="Content\Data\1\movements.json" />
+    <BundleResource Include="Content\Data\1\moves.json" />
+    <BundleResource Include="Content\Data\10\attributes.json" />
+    <BundleResource Include="Content\Data\10\movements.json" />
+    <BundleResource Include="Content\Data\10\moves.json" />
+    <BundleResource Include="Content\Data\11\attributes.json" />
+    <BundleResource Include="Content\Data\11\movements.json" />
+    <BundleResource Include="Content\Data\11\moves.json" />
+    <BundleResource Include="Content\Data\12\attributes.json" />
+    <BundleResource Include="Content\Data\12\movements.json" />
+    <BundleResource Include="Content\Data\12\moves.json" />
+    <BundleResource Include="Content\Data\13\attributes.json" />
+    <BundleResource Include="Content\Data\13\movements.json" />
+    <BundleResource Include="Content\Data\13\moves.json" />
+    <BundleResource Include="Content\Data\14\attributes.json" />
+    <BundleResource Include="Content\Data\14\movements.json" />
+    <BundleResource Include="Content\Data\14\moves.json" />
+    <BundleResource Include="Content\Data\15\attributes.json" />
+    <BundleResource Include="Content\Data\15\movements.json" />
+    <BundleResource Include="Content\Data\15\moves.json" />
+    <BundleResource Include="Content\Data\16\attributes.json" />
+    <BundleResource Include="Content\Data\16\movements.json" />
+    <BundleResource Include="Content\Data\16\moves.json" />
+    <BundleResource Include="Content\Data\17\attributes.json" />
+    <BundleResource Include="Content\Data\17\movements.json" />
+    <BundleResource Include="Content\Data\17\moves.json" />
+    <BundleResource Include="Content\Data\18\attributes.json" />
+    <BundleResource Include="Content\Data\18\movements.json" />
+    <BundleResource Include="Content\Data\18\moves.json" />
+    <BundleResource Include="Content\Data\19\attributes.json" />
+    <BundleResource Include="Content\Data\19\movements.json" />
+    <BundleResource Include="Content\Data\19\moves.json" />
+    <BundleResource Include="Content\Data\2\attributes.json" />
+    <BundleResource Include="Content\Data\2\movements.json" />
+    <BundleResource Include="Content\Data\2\moves.json" />
+    <BundleResource Include="Content\Data\20\attributes.json" />
+    <BundleResource Include="Content\Data\20\movements.json" />
+    <BundleResource Include="Content\Data\20\moves.json" />
+    <BundleResource Include="Content\Data\21\attributes.json" />
+    <BundleResource Include="Content\Data\21\movements.json" />
+    <BundleResource Include="Content\Data\21\moves.json" />
+    <BundleResource Include="Content\Data\22\attributes.json" />
+    <BundleResource Include="Content\Data\22\movements.json" />
+    <BundleResource Include="Content\Data\22\moves.json" />
+    <BundleResource Include="Content\Data\22\specificAttributes.json" />
+    <BundleResource Include="Content\Data\23\attributes.json" />
+    <BundleResource Include="Content\Data\23\movements.json" />
+    <BundleResource Include="Content\Data\23\moves.json" />
+    <BundleResource Include="Content\Data\23\specificAttributes.json" />
+    <BundleResource Include="Content\Data\24\attributes.json" />
+    <BundleResource Include="Content\Data\24\movements.json" />
+    <BundleResource Include="Content\Data\24\moves.json" />
+    <BundleResource Include="Content\Data\25\attributes.json" />
+    <BundleResource Include="Content\Data\25\movements.json" />
+    <BundleResource Include="Content\Data\25\moves.json" />
+    <BundleResource Include="Content\Data\26\attributes.json" />
+    <BundleResource Include="Content\Data\26\movements.json" />
+    <BundleResource Include="Content\Data\26\moves.json" />
+    <BundleResource Include="Content\Data\27\attributes.json" />
+    <BundleResource Include="Content\Data\27\movements.json" />
+    <BundleResource Include="Content\Data\27\moves.json" />
+    <BundleResource Include="Content\Data\28\attributes.json" />
+    <BundleResource Include="Content\Data\28\movements.json" />
+    <BundleResource Include="Content\Data\28\moves.json" />
+    <BundleResource Include="Content\Data\29\attributes.json" />
+    <BundleResource Include="Content\Data\29\movements.json" />
+    <BundleResource Include="Content\Data\29\moves.json" />
+    <BundleResource Include="Content\Data\3\attributes.json" />
+    <BundleResource Include="Content\Data\3\movements.json" />
+    <BundleResource Include="Content\Data\3\moves.json" />
+    <BundleResource Include="Content\Data\30\attributes.json" />
+    <BundleResource Include="Content\Data\30\movements.json" />
+    <BundleResource Include="Content\Data\30\moves.json" />
+    <BundleResource Include="Content\Data\31\attributes.json" />
+    <BundleResource Include="Content\Data\31\movements.json" />
+    <BundleResource Include="Content\Data\31\moves.json" />
+    <BundleResource Include="Content\Data\32\attributes.json" />
+    <BundleResource Include="Content\Data\32\movements.json" />
+    <BundleResource Include="Content\Data\32\moves.json" />
+    <BundleResource Include="Content\Data\33\attributes.json" />
+    <BundleResource Include="Content\Data\33\movements.json" />
+    <BundleResource Include="Content\Data\33\moves.json" />
+    <BundleResource Include="Content\Data\34\attributes.json" />
+    <BundleResource Include="Content\Data\34\movements.json" />
+    <BundleResource Include="Content\Data\34\moves.json" />
+    <BundleResource Include="Content\Data\35\attributes.json" />
+    <BundleResource Include="Content\Data\35\movements.json" />
+    <BundleResource Include="Content\Data\35\moves.json" />
+    <BundleResource Include="Content\Data\36\attributes.json" />
+    <BundleResource Include="Content\Data\36\movements.json" />
+    <BundleResource Include="Content\Data\36\moves.json" />
+    <BundleResource Include="Content\Data\37\attributes.json" />
+    <BundleResource Include="Content\Data\37\movements.json" />
+    <BundleResource Include="Content\Data\37\moves.json" />
+    <BundleResource Include="Content\Data\37\specificAttributes.json" />
+    <BundleResource Include="Content\Data\38\attributes.json" />
+    <BundleResource Include="Content\Data\38\movements.json" />
+    <BundleResource Include="Content\Data\38\moves.json" />
+    <BundleResource Include="Content\Data\39\attributes.json" />
+    <BundleResource Include="Content\Data\39\movements.json" />
+    <BundleResource Include="Content\Data\39\moves.json" />
+    <BundleResource Include="Content\Data\4\attributes.json" />
+    <BundleResource Include="Content\Data\4\movements.json" />
+    <BundleResource Include="Content\Data\4\moves.json" />
+    <BundleResource Include="Content\Data\40\attributes.json" />
+    <BundleResource Include="Content\Data\40\movements.json" />
+    <BundleResource Include="Content\Data\40\moves.json" />
+    <BundleResource Include="Content\Data\40\specificAttributes.json" />
+    <BundleResource Include="Content\Data\41\attributes.json" />
+    <BundleResource Include="Content\Data\41\movements.json" />
+    <BundleResource Include="Content\Data\41\moves.json" />
+    <BundleResource Include="Content\Data\42\attributes.json" />
+    <BundleResource Include="Content\Data\42\movements.json" />
+    <BundleResource Include="Content\Data\42\moves.json" />
+    <BundleResource Include="Content\Data\43\attributes.json" />
+    <BundleResource Include="Content\Data\43\movements.json" />
+    <BundleResource Include="Content\Data\43\moves.json" />
+    <BundleResource Include="Content\Data\44\attributes.json" />
+    <BundleResource Include="Content\Data\44\movements.json" />
+    <BundleResource Include="Content\Data\44\moves.json" />
+    <BundleResource Include="Content\Data\44\specificAttributes.json" />
+    <BundleResource Include="Content\Data\45\attributes.json" />
+    <BundleResource Include="Content\Data\45\movements.json" />
+    <BundleResource Include="Content\Data\45\moves.json" />
+    <BundleResource Include="Content\Data\45\specificAttributes.json" />
+    <BundleResource Include="Content\Data\46\attributes.json" />
+    <BundleResource Include="Content\Data\46\movements.json" />
+    <BundleResource Include="Content\Data\46\moves.json" />
+    <BundleResource Include="Content\Data\47\attributes.json" />
+    <BundleResource Include="Content\Data\47\movements.json" />
+    <BundleResource Include="Content\Data\47\moves.json" />
+    <BundleResource Include="Content\Data\48\attributes.json" />
+    <BundleResource Include="Content\Data\48\movements.json" />
+    <BundleResource Include="Content\Data\48\moves.json" />
+    <BundleResource Include="Content\Data\49\attributes.json" />
+    <BundleResource Include="Content\Data\49\movements.json" />
+    <BundleResource Include="Content\Data\49\moves.json" />
+    <BundleResource Include="Content\Data\5\attributes.json" />
+    <BundleResource Include="Content\Data\5\movements.json" />
+    <BundleResource Include="Content\Data\5\moves.json" />
+    <BundleResource Include="Content\Data\50\attributes.json" />
+    <BundleResource Include="Content\Data\50\movements.json" />
+    <BundleResource Include="Content\Data\50\moves.json" />
+    <BundleResource Include="Content\Data\50\specificAttributes.json" />
+    <BundleResource Include="Content\Data\51\attributes.json" />
+    <BundleResource Include="Content\Data\51\movements.json" />
+    <BundleResource Include="Content\Data\51\moves.json" />
+    <BundleResource Include="Content\Data\52\attributes.json" />
+    <BundleResource Include="Content\Data\52\movements.json" />
+    <BundleResource Include="Content\Data\52\moves.json" />
+    <BundleResource Include="Content\Data\53\attributes.json" />
+    <BundleResource Include="Content\Data\53\movements.json" />
+    <BundleResource Include="Content\Data\53\moves.json" />
+    <BundleResource Include="Content\Data\54\attributes.json" />
+    <BundleResource Include="Content\Data\54\movements.json" />
+    <BundleResource Include="Content\Data\54\moves.json" />
+    <BundleResource Include="Content\Data\55\attributes.json" />
+    <BundleResource Include="Content\Data\55\movements.json" />
+    <BundleResource Include="Content\Data\55\moves.json" />
+    <BundleResource Include="Content\Data\55\specificAttributes.json" />
+    <BundleResource Include="Content\Data\56\attributes.json" />
+    <BundleResource Include="Content\Data\56\movements.json" />
+    <BundleResource Include="Content\Data\56\moves.json" />
+    <BundleResource Include="Content\Data\56\specificAttributes.json" />
+    <BundleResource Include="Content\Data\57\attributes.json" />
+    <BundleResource Include="Content\Data\57\movements.json" />
+    <BundleResource Include="Content\Data\57\moves.json" />
+    <BundleResource Include="Content\Data\58\attributes.json" />
+    <BundleResource Include="Content\Data\58\movements.json" />
+    <BundleResource Include="Content\Data\58\moves.json" />
+    <BundleResource Include="Content\Data\6\attributes.json" />
+    <BundleResource Include="Content\Data\6\movements.json" />
+    <BundleResource Include="Content\Data\6\moves.json" />
+    <BundleResource Include="Content\Data\6\specificAttributes.json" />
+    <BundleResource Include="Content\Data\7\attributes.json" />
+    <BundleResource Include="Content\Data\7\movements.json" />
+    <BundleResource Include="Content\Data\7\moves.json" />
+    <BundleResource Include="Content\Data\8\attributes.json" />
+    <BundleResource Include="Content\Data\8\movements.json" />
+    <BundleResource Include="Content\Data\8\moves.json" />
+    <BundleResource Include="Content\Data\9\attributes.json" />
+    <BundleResource Include="Content\Data\9\movements.json" />
+    <BundleResource Include="Content\Data\9\moves.json" />
+    <BundleResource Include="Content\Data\Attributes\aerialjump\attributes.json" />
+    <BundleResource Include="Content\Data\Attributes\airacceleration\attributes.json" />
+    <BundleResource Include="Content\Data\Attributes\airdodge\attributes.json" />
+    <BundleResource Include="Content\Data\Attributes\airfriction\attributes.json" />
+    <BundleResource Include="Content\Data\Attributes\airspeed\attributes.json" />
+    <BundleResource Include="Content\Data\Attributes\counters\attributes.json" />
+    <BundleResource Include="Content\Data\Attributes\dashlength\attributes.json" />
+    <BundleResource Include="Content\Data\Attributes\fallspeed\attributes.json" />
+    <BundleResource Include="Content\Data\Attributes\fullhop\attributes.json" />
+    <BundleResource Include="Content\Data\Attributes\gravity\attributes.json" />
+    <BundleResource Include="Content\Data\Attributes\jumpsquat\attributes.json" />
+    <BundleResource Include="Content\Data\Attributes\ledgehop\attributes.json" />
+    <BundleResource Include="Content\Data\Attributes\reflectors\attributes.json" />
+    <BundleResource Include="Content\Data\Attributes\rolls\attributes.json" />
+    <BundleResource Include="Content\Data\Attributes\runspeed\attributes.json" />
+    <BundleResource Include="Content\Data\Attributes\shieldsize\attributes.json" />
+    <BundleResource Include="Content\Data\Attributes\shorthop\attributes.json" />
+    <BundleResource Include="Content\Data\Attributes\spotdodge\attributes.json" />
+    <BundleResource Include="Content\Data\Attributes\traction\attributes.json" />
+    <BundleResource Include="Content\Data\Attributes\walkspeed\attributes.json" />
     <None Include="Entitlements.plist" />
     <None Include="Info.plist" />
+    <Compile Include="Notifications.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <ITunesArtwork Include="iTunesArtwork" />
     <ITunesArtwork Include="iTunesArtwork@2x" />
     <None Include="packages.config" />
-    <BundleResource Include="Resources\characters.json" />
-    <BundleResource Include="Resources\Data\attributeNames.json" />
-    <BundleResource Include="Resources\Data\1\attributes.json" />
-    <BundleResource Include="Resources\Data\1\movements.json" />
-    <BundleResource Include="Resources\Data\1\moves.json" />
-    <BundleResource Include="Resources\Data\10\attributes.json" />
-    <BundleResource Include="Resources\Data\10\movements.json" />
-    <BundleResource Include="Resources\Data\10\moves.json" />
-    <BundleResource Include="Resources\Data\11\attributes.json" />
-    <BundleResource Include="Resources\Data\11\movements.json" />
-    <BundleResource Include="Resources\Data\11\moves.json" />
-    <BundleResource Include="Resources\Data\12\attributes.json" />
-    <BundleResource Include="Resources\Data\12\movements.json" />
-    <BundleResource Include="Resources\Data\12\moves.json" />
-    <BundleResource Include="Resources\Data\13\attributes.json" />
-    <BundleResource Include="Resources\Data\13\movements.json" />
-    <BundleResource Include="Resources\Data\13\moves.json" />
-    <BundleResource Include="Resources\Data\14\attributes.json" />
-    <BundleResource Include="Resources\Data\14\movements.json" />
-    <BundleResource Include="Resources\Data\14\moves.json" />
-    <BundleResource Include="Resources\Data\15\attributes.json" />
-    <BundleResource Include="Resources\Data\15\movements.json" />
-    <BundleResource Include="Resources\Data\15\moves.json" />
-    <BundleResource Include="Resources\Data\16\attributes.json" />
-    <BundleResource Include="Resources\Data\16\movements.json" />
-    <BundleResource Include="Resources\Data\16\moves.json" />
-    <BundleResource Include="Resources\Data\17\attributes.json" />
-    <BundleResource Include="Resources\Data\17\movements.json" />
-    <BundleResource Include="Resources\Data\17\moves.json" />
-    <BundleResource Include="Resources\Data\18\attributes.json" />
-    <BundleResource Include="Resources\Data\18\movements.json" />
-    <BundleResource Include="Resources\Data\18\moves.json" />
-    <BundleResource Include="Resources\Data\19\attributes.json" />
-    <BundleResource Include="Resources\Data\19\movements.json" />
-    <BundleResource Include="Resources\Data\19\moves.json" />
-    <BundleResource Include="Resources\Data\2\attributes.json" />
-    <BundleResource Include="Resources\Data\2\movements.json" />
-    <BundleResource Include="Resources\Data\2\moves.json" />
-    <BundleResource Include="Resources\Data\20\attributes.json" />
-    <BundleResource Include="Resources\Data\20\movements.json" />
-    <BundleResource Include="Resources\Data\20\moves.json" />
-    <BundleResource Include="Resources\Data\21\attributes.json" />
-    <BundleResource Include="Resources\Data\21\movements.json" />
-    <BundleResource Include="Resources\Data\21\moves.json" />
-    <BundleResource Include="Resources\Data\22\attributes.json" />
-    <BundleResource Include="Resources\Data\22\movements.json" />
-    <BundleResource Include="Resources\Data\22\moves.json" />
-    <BundleResource Include="Resources\Data\22\specificAttributes.json" />
-    <BundleResource Include="Resources\Data\23\attributes.json" />
-    <BundleResource Include="Resources\Data\23\movements.json" />
-    <BundleResource Include="Resources\Data\23\moves.json" />
-    <BundleResource Include="Resources\Data\23\specificAttributes.json" />
-    <BundleResource Include="Resources\Data\24\attributes.json" />
-    <BundleResource Include="Resources\Data\24\movements.json" />
-    <BundleResource Include="Resources\Data\24\moves.json" />
-    <BundleResource Include="Resources\Data\25\attributes.json" />
-    <BundleResource Include="Resources\Data\25\movements.json" />
-    <BundleResource Include="Resources\Data\25\moves.json" />
-    <BundleResource Include="Resources\Data\26\attributes.json" />
-    <BundleResource Include="Resources\Data\26\movements.json" />
-    <BundleResource Include="Resources\Data\26\moves.json" />
-    <BundleResource Include="Resources\Data\27\attributes.json" />
-    <BundleResource Include="Resources\Data\27\movements.json" />
-    <BundleResource Include="Resources\Data\27\moves.json" />
-    <BundleResource Include="Resources\Data\28\attributes.json" />
-    <BundleResource Include="Resources\Data\28\movements.json" />
-    <BundleResource Include="Resources\Data\28\moves.json" />
-    <BundleResource Include="Resources\Data\29\attributes.json" />
-    <BundleResource Include="Resources\Data\29\movements.json" />
-    <BundleResource Include="Resources\Data\29\moves.json" />
-    <BundleResource Include="Resources\Data\3\attributes.json" />
-    <BundleResource Include="Resources\Data\3\movements.json" />
-    <BundleResource Include="Resources\Data\3\moves.json" />
-    <BundleResource Include="Resources\Data\30\attributes.json" />
-    <BundleResource Include="Resources\Data\30\movements.json" />
-    <BundleResource Include="Resources\Data\30\moves.json" />
-    <BundleResource Include="Resources\Data\31\attributes.json" />
-    <BundleResource Include="Resources\Data\31\movements.json" />
-    <BundleResource Include="Resources\Data\31\moves.json" />
-    <BundleResource Include="Resources\Data\32\attributes.json" />
-    <BundleResource Include="Resources\Data\32\movements.json" />
-    <BundleResource Include="Resources\Data\32\moves.json" />
-    <BundleResource Include="Resources\Data\33\attributes.json" />
-    <BundleResource Include="Resources\Data\33\movements.json" />
-    <BundleResource Include="Resources\Data\33\moves.json" />
-    <BundleResource Include="Resources\Data\34\attributes.json" />
-    <BundleResource Include="Resources\Data\34\movements.json" />
-    <BundleResource Include="Resources\Data\34\moves.json" />
-    <BundleResource Include="Resources\Data\35\attributes.json" />
-    <BundleResource Include="Resources\Data\35\movements.json" />
-    <BundleResource Include="Resources\Data\35\moves.json" />
-    <BundleResource Include="Resources\Data\36\attributes.json" />
-    <BundleResource Include="Resources\Data\36\movements.json" />
-    <BundleResource Include="Resources\Data\36\moves.json" />
-    <BundleResource Include="Resources\Data\37\attributes.json" />
-    <BundleResource Include="Resources\Data\37\movements.json" />
-    <BundleResource Include="Resources\Data\37\moves.json" />
-    <BundleResource Include="Resources\Data\37\specificAttributes.json" />
-    <BundleResource Include="Resources\Data\38\attributes.json" />
-    <BundleResource Include="Resources\Data\38\movements.json" />
-    <BundleResource Include="Resources\Data\38\moves.json" />
-    <BundleResource Include="Resources\Data\39\attributes.json" />
-    <BundleResource Include="Resources\Data\39\movements.json" />
-    <BundleResource Include="Resources\Data\39\moves.json" />
-    <BundleResource Include="Resources\Data\4\attributes.json" />
-    <BundleResource Include="Resources\Data\4\movements.json" />
-    <BundleResource Include="Resources\Data\4\moves.json" />
-    <BundleResource Include="Resources\Data\40\attributes.json" />
-    <BundleResource Include="Resources\Data\40\movements.json" />
-    <BundleResource Include="Resources\Data\40\moves.json" />
-    <BundleResource Include="Resources\Data\40\specificAttributes.json" />
-    <BundleResource Include="Resources\Data\41\attributes.json" />
-    <BundleResource Include="Resources\Data\41\movements.json" />
-    <BundleResource Include="Resources\Data\41\moves.json" />
-    <BundleResource Include="Resources\Data\42\attributes.json" />
-    <BundleResource Include="Resources\Data\42\movements.json" />
-    <BundleResource Include="Resources\Data\42\moves.json" />
-    <BundleResource Include="Resources\Data\43\attributes.json" />
-    <BundleResource Include="Resources\Data\43\movements.json" />
-    <BundleResource Include="Resources\Data\43\moves.json" />
-    <BundleResource Include="Resources\Data\44\attributes.json" />
-    <BundleResource Include="Resources\Data\44\movements.json" />
-    <BundleResource Include="Resources\Data\44\moves.json" />
-    <BundleResource Include="Resources\Data\44\specificAttributes.json" />
-    <BundleResource Include="Resources\Data\45\attributes.json" />
-    <BundleResource Include="Resources\Data\45\movements.json" />
-    <BundleResource Include="Resources\Data\45\moves.json" />
-    <BundleResource Include="Resources\Data\45\specificAttributes.json" />
-    <BundleResource Include="Resources\Data\46\attributes.json" />
-    <BundleResource Include="Resources\Data\46\movements.json" />
-    <BundleResource Include="Resources\Data\46\moves.json" />
-    <BundleResource Include="Resources\Data\47\attributes.json" />
-    <BundleResource Include="Resources\Data\47\movements.json" />
-    <BundleResource Include="Resources\Data\47\moves.json" />
-    <BundleResource Include="Resources\Data\48\attributes.json" />
-    <BundleResource Include="Resources\Data\48\movements.json" />
-    <BundleResource Include="Resources\Data\48\moves.json" />
-    <BundleResource Include="Resources\Data\49\attributes.json" />
-    <BundleResource Include="Resources\Data\49\movements.json" />
-    <BundleResource Include="Resources\Data\49\moves.json" />
-    <BundleResource Include="Resources\Data\5\attributes.json" />
-    <BundleResource Include="Resources\Data\5\movements.json" />
-    <BundleResource Include="Resources\Data\5\moves.json" />
-    <BundleResource Include="Resources\Data\50\attributes.json" />
-    <BundleResource Include="Resources\Data\50\movements.json" />
-    <BundleResource Include="Resources\Data\50\moves.json" />
-    <BundleResource Include="Resources\Data\50\specificAttributes.json" />
-    <BundleResource Include="Resources\Data\51\attributes.json" />
-    <BundleResource Include="Resources\Data\51\movements.json" />
-    <BundleResource Include="Resources\Data\51\moves.json" />
-    <BundleResource Include="Resources\Data\52\attributes.json" />
-    <BundleResource Include="Resources\Data\52\movements.json" />
-    <BundleResource Include="Resources\Data\52\moves.json" />
-    <BundleResource Include="Resources\Data\53\attributes.json" />
-    <BundleResource Include="Resources\Data\53\movements.json" />
-    <BundleResource Include="Resources\Data\53\moves.json" />
-    <BundleResource Include="Resources\Data\54\attributes.json" />
-    <BundleResource Include="Resources\Data\54\movements.json" />
-    <BundleResource Include="Resources\Data\54\moves.json" />
-    <BundleResource Include="Resources\Data\55\attributes.json" />
-    <BundleResource Include="Resources\Data\55\movements.json" />
-    <BundleResource Include="Resources\Data\55\moves.json" />
-    <BundleResource Include="Resources\Data\55\specificAttributes.json" />
-    <BundleResource Include="Resources\Data\56\attributes.json" />
-    <BundleResource Include="Resources\Data\56\movements.json" />
-    <BundleResource Include="Resources\Data\56\moves.json" />
-    <BundleResource Include="Resources\Data\56\specificAttributes.json" />
-    <BundleResource Include="Resources\Data\57\attributes.json" />
-    <BundleResource Include="Resources\Data\57\movements.json" />
-    <BundleResource Include="Resources\Data\57\moves.json" />
-    <BundleResource Include="Resources\Data\58\attributes.json" />
-    <BundleResource Include="Resources\Data\58\movements.json" />
-    <BundleResource Include="Resources\Data\58\moves.json" />
-    <BundleResource Include="Resources\Data\6\attributes.json" />
-    <BundleResource Include="Resources\Data\6\movements.json" />
-    <BundleResource Include="Resources\Data\6\moves.json" />
-    <BundleResource Include="Resources\Data\6\specificAttributes.json" />
-    <BundleResource Include="Resources\Data\7\attributes.json" />
-    <BundleResource Include="Resources\Data\7\movements.json" />
-    <BundleResource Include="Resources\Data\7\moves.json" />
-    <BundleResource Include="Resources\Data\8\attributes.json" />
-    <BundleResource Include="Resources\Data\8\movements.json" />
-    <BundleResource Include="Resources\Data\8\moves.json" />
-    <BundleResource Include="Resources\Data\9\attributes.json" />
-    <BundleResource Include="Resources\Data\9\movements.json" />
-    <BundleResource Include="Resources\Data\9\moves.json" />
-    <BundleResource Include="Resources\Data\Attributes\aerialjump\attributes.json" />
-    <BundleResource Include="Resources\Data\Attributes\airacceleration\attributes.json" />
-    <BundleResource Include="Resources\Data\Attributes\airdodge\attributes.json" />
-    <BundleResource Include="Resources\Data\Attributes\airfriction\attributes.json" />
-    <BundleResource Include="Resources\Data\Attributes\airspeed\attributes.json" />
-    <BundleResource Include="Resources\Data\Attributes\counters\attributes.json" />
-    <BundleResource Include="Resources\Data\Attributes\dashlength\attributes.json" />
-    <BundleResource Include="Resources\Data\Attributes\fallspeed\attributes.json" />
-    <BundleResource Include="Resources\Data\Attributes\fullhop\attributes.json" />
-    <BundleResource Include="Resources\Data\Attributes\gravity\attributes.json" />
-    <BundleResource Include="Resources\Data\Attributes\jumpsquat\attributes.json" />
-    <BundleResource Include="Resources\Data\Attributes\ledgehop\attributes.json" />
-    <BundleResource Include="Resources\Data\Attributes\reflectors\attributes.json" />
-    <BundleResource Include="Resources\Data\Attributes\rolls\attributes.json" />
-    <BundleResource Include="Resources\Data\Attributes\runspeed\attributes.json" />
-    <BundleResource Include="Resources\Data\Attributes\shieldsize\attributes.json" />
-    <BundleResource Include="Resources\Data\Attributes\shorthop\attributes.json" />
-    <BundleResource Include="Resources\Data\Attributes\spotdodge\attributes.json" />
-    <BundleResource Include="Resources\Data\Attributes\traction\attributes.json" />
-    <BundleResource Include="Resources\Data\Attributes\walkspeed\attributes.json" />
-    <BundleResource Include="Resources\formulas.json" />
   </ItemGroup>
   <ItemGroup>
     <BundleResource Include="Resources\Default-568h%402x.png" />
@@ -374,30 +382,6 @@
       <HintPath>..\packages\Xamarin.Forms.2.5.0.121934\lib\Xamarin.iOS10\Xamarin.Forms.Xaml.dll</HintPath>
     </Reference>
     <Reference Include="Xamarin.iOS" />
-    <Reference Include="XLabs.Core, Version=2.0.5782.12218, Culture=neutral, PublicKeyToken=d65109b36e5040e4, processorArchitecture=MSIL">
-      <HintPath>..\packages\XLabs.Core.2.0.5782\lib\Xamarin.iOS10\XLabs.Core.dll</HintPath>
-    </Reference>
-    <Reference Include="XLabs.Forms, Version=2.0.5782.12218, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\XLabs.Forms.2.0.5782\lib\Xamarin.iOS10\XLabs.Forms.dll</HintPath>
-    </Reference>
-    <Reference Include="XLabs.Forms.iOS, Version=2.0.5782.12247, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\XLabs.Forms.2.0.5782\lib\Xamarin.iOS10\XLabs.Forms.iOS.dll</HintPath>
-    </Reference>
-    <Reference Include="XLabs.Ioc, Version=2.0.5782.12218, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\XLabs.IoC.2.0.5782\lib\portable-net45+netcore45+wp8+MonoAndroid1+MonoTouch1\XLabs.Ioc.dll</HintPath>
-    </Reference>
-    <Reference Include="XLabs.Platform, Version=2.0.5782.12218, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\XLabs.Platform.2.0.5782\lib\Xamarin.iOS10\XLabs.Platform.dll</HintPath>
-    </Reference>
-    <Reference Include="XLabs.Platform.iOS, Version=2.0.5782.12247, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\XLabs.Platform.2.0.5782\lib\Xamarin.iOS10\XLabs.Platform.iOS.dll</HintPath>
-    </Reference>
-    <Reference Include="XLabs.Serialization, Version=2.0.5782.15703, Culture=neutral, PublicKeyToken=d65109b36e5040e4, processorArchitecture=MSIL">
-      <HintPath>..\packages\XLabs.Serialization.2.0.5782\lib\Xamarin.iOS10\XLabs.Serialization.dll</HintPath>
-    </Reference>
-  </ItemGroup>
-  <ItemGroup>
-    <BundleResource Include="Resources\about.html" />
   </ItemGroup>
   <ItemGroup>
     <BundleResource Include="Resources\character_1.png" />
@@ -409,9 +393,6 @@
     <BundleResource Include="Resources\character_11.png" />
   </ItemGroup>
   <ItemGroup>
-    <BundleResource Include="Resources\character_12.jpg" />
-  </ItemGroup>
-  <ItemGroup>
     <BundleResource Include="Resources\character_13.png" />
   </ItemGroup>
   <ItemGroup>
@@ -419,9 +400,6 @@
   </ItemGroup>
   <ItemGroup>
     <BundleResource Include="Resources\character_15.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <BundleResource Include="Resources\character_16.jpg" />
   </ItemGroup>
   <ItemGroup>
     <BundleResource Include="Resources\character_17.png" />
@@ -434,9 +412,6 @@
   </ItemGroup>
   <ItemGroup>
     <BundleResource Include="Resources\character_2.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <BundleResource Include="Resources\character_20.jpg" />
   </ItemGroup>
   <ItemGroup>
     <BundleResource Include="Resources\character_21.png" />
@@ -520,13 +495,7 @@
     <BundleResource Include="Resources\character_45.png" />
   </ItemGroup>
   <ItemGroup>
-    <BundleResource Include="Resources\character_46.jpg" />
-  </ItemGroup>
-  <ItemGroup>
     <BundleResource Include="Resources\character_47.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <BundleResource Include="Resources\character_48.jpg" />
   </ItemGroup>
   <ItemGroup>
     <BundleResource Include="Resources\character_49.png" />
@@ -553,9 +522,6 @@
     <BundleResource Include="Resources\character_55.png" />
   </ItemGroup>
   <ItemGroup>
-    <BundleResource Include="Resources\character_56.jpg" />
-  </ItemGroup>
-  <ItemGroup>
     <BundleResource Include="Resources\character_57.png" />
   </ItemGroup>
   <ItemGroup>
@@ -569,9 +535,6 @@
   </ItemGroup>
   <ItemGroup>
     <BundleResource Include="Resources\character_8.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <BundleResource Include="Resources\character_9.jpg" />
   </ItemGroup>
   <ItemGroup>
     <BundleResource Include="Resources\nav_header.png" />
@@ -632,6 +595,30 @@
   </ItemGroup>
   <ItemGroup>
     <BundleResource Include="Resources\fav_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Content\about.html" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\character_12.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\character_16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\character_20.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\character_46.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\character_48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\character_56.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\character_9.png" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">

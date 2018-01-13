@@ -66,6 +66,14 @@ namespace Kurogane_Hammer
             if (Layout.Children.Count > 0)
                 Layout.Children.RemoveAt(0);
             Layout.Children.Add(v);
+
+            try
+            {
+                
+            }catch(Exception e)
+            {
+                System.Diagnostics.Debug.WriteLine(e.InnerException);
+            }
         }
     }
 }

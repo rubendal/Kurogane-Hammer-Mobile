@@ -12,6 +12,8 @@
     </MasterDetailPage.Master>
     <MasterDetailPage.Detail>
         <NavigationPage>
+            <!--  BarBackgroundColor="#3F51B5"-->
+            <!---#303F9F Up bar color-->
             <x:Arguments>
                 <pages:MainPage />
             </x:Arguments>

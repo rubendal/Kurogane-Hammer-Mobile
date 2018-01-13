@@ -6,9 +6,8 @@ using System.Threading.Tasks;
 
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
-using XLabs.Forms.Behaviors;
-using XLabs.Forms.Controls;
 using Kurogane_Hammer.ViewAdapters;
+using System;
 
 namespace Kurogane_Hammer.Views.AttributeView
 {
@@ -130,50 +129,46 @@ namespace Kurogane_Hammer.Views.AttributeView
             fav_Image.TranslationX = Size - fav_Image.WidthRequest;
         }
 
-        public async void GestureRecognized(object sender, GestureResult e)
+        private async void GestureContentView_SingleTapEvent(object sender, EventArgs e)
         {
-            switch (e.GestureType)
+            GridTable table = new GridTable(new TextFormat() { Background = Color.FromHex("#D0EAFF") }, new TextFormat());
+
+            List<Classes.Attribute> list = Runtime.GetAttributeToRank(_Attribute.name);
+
+            List<AttributeRank> ranking = AttributeRankMaker.BuildRankList(list);
+
+            List<string> headers = new List<string>() { "Rank", "Character" };
+
+            if (ranking.Count > 0)
             {
-                case GestureType.SingleTap:
+                headers.AddRange(ranking[0].types);
 
-                    GridTable table = new GridTable(new TextFormat() { Background = Color.FromHex("#D0EAFF") }, new TextFormat());
+                table.AddHeader(headers);
 
-                    List<Attribute> list = Runtime.GetAttributeToRank(_Attribute.name);
+                foreach (AttributeRank ar in ranking)
+                {
+                    List<string> r = new List<string>();
 
-                    List<AttributeRank> ranking = AttributeRankMaker.BuildRankList(list);
+                    r.Add(ar.rank.ToString());
+                    r.Add(ar.GetCharacterName());
 
-                    List<string> headers = new List<string>() { "Rank", "Character" };
-
-                    if (ranking.Count > 0)
+                    foreach (string t in ar.types)
                     {
-                        headers.AddRange(ranking[0].types);
-
-                        table.AddHeader(headers);
-
-                        foreach (AttributeRank ar in ranking)
-                        {
-                            List<string> r = new List<string>();
-
-                            r.Add(ar.rank.ToString());
-                            r.Add(ar.GetCharacterName());
-
-                            foreach (string t in ar.types)
-                            {
-                                r.Add(ar.values[t]);
-                            }
-
-                            table.AddRow(r);
-                        }
-
-                        
-
-                        await Navigation.PushAsync(new AttributesRanking(_Attribute, table));
+                        r.Add(ar.values[t]);
                     }
-                    break;
-                case GestureType.LongPress:
-                    IsFavorite = !_IsFavorite;
-                    break;
+
+                    table.AddRow(r);
+                }
+
+
+
+                await Navigation.PushAsync(new AttributesRanking(_Attribute, table));
             }
+        }
+
+        private void GestureContentView_LongPressEvent(object sender, EventArgs e)
+        {
+            IsFavorite = !_IsFavorite;
         }
 
     }

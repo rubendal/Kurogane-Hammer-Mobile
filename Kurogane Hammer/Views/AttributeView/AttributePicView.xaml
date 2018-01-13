@@ -3,16 +3,11 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="Kurogane_Hammer.Views.AttributeView.AttributePicView"
              xmlns:ffimageloading="clr-namespace:FFImageLoading.Forms;assembly=FFImageLoading.Forms"
-             xmlns:lc="clr-namespace:XLabs.Forms.Controls;assembly=XLabs.Forms"
-             xmlns:lb="clr-namespace:XLabs.Forms.Behaviors;assembly=XLabs.Forms">
+             xmlns:views="clr-namespace:Kurogane_Hammer.Views">
     <ContentView.Content>
-        <lc:GesturesContentView ExcludeChildren="False" GestureRecognized="GestureRecognized">
-            <lb:Gestures.Interests>
-                <lb:GestureCollection>
-                    <lb:GestureInterest GestureType="SingleTap"/>
-                    <lb:GestureInterest GestureType="LongPress"/>
-                </lb:GestureCollection>
-            </lb:Gestures.Interests>
+        <views:GestureContentView SingleTap="GestureContentView_SingleTapEvent" LongPress="GestureContentView_LongPressEvent">
+
+            <views:GestureContentView.Content>
 
             <RelativeLayout x:Name="c_Layout">
                 <ffimageloading:CachedImage x:Name="img_Image" DownsampleToViewSize="true" />
@@ -38,6 +33,7 @@
                 
                 <ffimageloading:CachedImage x:Name="fav_Image" Source="fav_icon.png" IsVisible="False" HeightRequest="25" WidthRequest="25" VerticalOptions="Start" />
             </RelativeLayout>
-        </lc:GesturesContentView>
+            </views:GestureContentView.Content>
+        </views:GestureContentView>
     </ContentView.Content>
 </ContentView>

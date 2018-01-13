@@ -7,8 +7,6 @@ using System.Threading.Tasks;
 
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
-using XLabs.Forms.Behaviors;
-using XLabs.Forms.Controls;
 
 namespace Kurogane_Hammer.Views.CharacterView
 {
@@ -130,17 +128,14 @@ namespace Kurogane_Hammer.Views.CharacterView
             fav_Image.TranslationX = Size - fav_Image.WidthRequest;
         }
 
-        public void GestureRecognized(object sender, GestureResult e)
+        private void GestureContentView_SingleTapEvent(object sender, EventArgs e)
         {
-            switch (e.GestureType)
-            {
-                case GestureType.SingleTap:
-                    Navigation.PushAsync(new CharacterListViewPage(_Character));
-                    break;
-                case GestureType.LongPress:
-                    IsFavorite = !_IsFavorite;
-                    break;
-            }
+            Navigation.PushAsync(new CharacterListViewPage(_Character));
+        }
+
+        private void GestureContentView_LongPressEvent(object sender, EventArgs e)
+        {
+            IsFavorite = !_IsFavorite;
         }
 
     }

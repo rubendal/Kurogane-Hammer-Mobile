@@ -1,26 +1,13 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
 using System.Text;
 
-using Android.App;
-using Android.Content;
-using Android.OS;
-using Android.Runtime;
-using Android.Views;
-using Android.Widget;
 using System.IO;
 
-namespace Kurogane_Hammer.Droid
+namespace Kurogane_Hammer.iOS
 {
     public class Storage : PlatformDependent.Storage
     {
-        private Context _context;
-
-        public Storage(Context context)
-        {
-            _context = context;
-        }
 
         private string ResolvePath(string path)
         {
@@ -40,7 +27,7 @@ namespace Kurogane_Hammer.Droid
 
         public void Write(string path, string content)
         {
-            string t = ResolvePath(path).Replace(Path.GetFileName(path),"");
+            string t = ResolvePath(path).Replace(Path.GetFileName(path), "");
             if (!Directory.Exists(t))
             {
                 Directory.CreateDirectory(t);
