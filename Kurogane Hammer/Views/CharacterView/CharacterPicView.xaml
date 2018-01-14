@@ -23,13 +23,7 @@
                    FontAttributes="Bold"
                    TextColor="White"
                    FontSize="12">
-                        <Label.FontFamily>
-                            <OnPlatform x:TypeArguments="x:String">
-                                <OnPlatform.iOS>MarkerFelt-Thin</OnPlatform.iOS>
-                                <OnPlatform.Android>Droid Serif</OnPlatform.Android>
-                                <OnPlatform.WinPhone>Comic Sans MS</OnPlatform.WinPhone>
-                            </OnPlatform>
-                        </Label.FontFamily>
+
                     </Label>
 
                     <ffimageloading:CachedImage x:Name="fav_Image" Source="fav_icon.png" IsVisible="False" HeightRequest="25" WidthRequest="25" VerticalOptions="Start" />
