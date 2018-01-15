@@ -7,8 +7,7 @@ using Android.Views;
 using Android.Widget;
 using Android.OS;
 using FFImageLoading.Forms.Droid;
-using Rg.Plugins.Popup;
-//using Plugin.CurrentActivity;
+using Xamarin.Forms;
 
 namespace Kurogane_Hammer.Droid
 {
@@ -32,7 +31,9 @@ namespace Kurogane_Hammer.Droid
             App.ScreenUnitConverter = new ScreenUnitConverter(App.ScreenDensity);
             App.Notifications = new Notifications(this);
 
-            //CrossCurrentActivity.Current.Activity = this;
+            App.HeaderBackgroundColor = Color.FromHex("#3F51B5");
+
+            Window.SetStatusBarColor(Android.Graphics.Color.Argb(255, 0, 0, 0));
 
             LoadApplication(new App(new Storage(this), new AndroidAssetManager(this)));
         }

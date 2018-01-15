@@ -11,9 +11,7 @@
         <pages:MasterDetailMainPageMaster x:Name="MasterPage" />
     </MasterDetailPage.Master>
     <MasterDetailPage.Detail>
-        <NavigationPage>
-            <!--  BarBackgroundColor="#3F51B5"-->
-            <!---#303F9F Up bar color-->
+        <NavigationPage x:Name="Nav">
             <x:Arguments>
                 <pages:MainPage />
             </x:Arguments>

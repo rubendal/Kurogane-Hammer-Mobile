@@ -16,6 +16,8 @@ namespace Kurogane_Hammer
         {
             InitializeComponent();
             MasterPage.Items.ItemSelected += ListView_ItemSelected;
+
+            Nav.BarBackgroundColor = App.HeaderBackgroundColor;
         }
 
         private void ListView_ItemSelected(object sender, SelectedItemChangedEventArgs e)
@@ -29,7 +31,11 @@ namespace Kurogane_Hammer
                 var page = (Page)Activator.CreateInstance(item.TargetType);
                 //page.Title = item.Title;
 
-                Detail = new NavigationPage(page);
+                Detail = new NavigationPage(page)
+                {
+                    BarBackgroundColor = App.HeaderBackgroundColor
+
+            };
                 IsPresented = false;
             }
             MasterPage.Items.SelectedItem = null;

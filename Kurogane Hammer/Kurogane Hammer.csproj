@@ -67,6 +67,7 @@
       <DependentUpon>MasterDetailMainPageMaster.xaml</DependentUpon>
     </Compile>
     <Compile Include="MasterDetailMainPageMenuItem.cs" />
+    <Compile Include="OrientationPage.cs" />
     <Compile Include="PlatformDependent\AssetResourceManager.cs" />
     <Compile Include="PlatformDependent\INotification.cs" />
     <Compile Include="PlatformDependent\ScreenConverter.cs" />

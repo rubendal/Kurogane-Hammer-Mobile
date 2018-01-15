@@ -7,6 +7,8 @@ using UIKit;
 
 using FFImageLoading.Forms.Touch;
 
+using Xamarin.Forms;
+
 namespace Kurogane_Hammer.iOS
 {
     // The UIApplicationDelegate for the application. This class is responsible for launching the 
@@ -34,6 +36,8 @@ namespace Kurogane_Hammer.iOS
             App.ScreenUnitConverter = new ScreenUnitConverter(UIScreen.MainScreen.Scale);
 
             App.Notifications = new Notifications();
+
+            App.HeaderBackgroundColor = Color.FromHex("#FFFFFF");
 
             LoadApplication(new App(new Storage(), new iOSAssetManager()));
 

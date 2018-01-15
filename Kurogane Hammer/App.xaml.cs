@@ -1,5 +1,4 @@
 ﻿using Kurogane_Hammer.ViewAdapters;
-//using Plugin.DeviceOrientation.Abstractions;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -21,17 +20,8 @@ namespace Kurogane_Hammer
         public static PlatformDependent.ScreenUnitConverter ScreenUnitConverter { get; set; }
         public static PlatformDependent.INotification Notifications { get; set; }
 
-        //public static DeviceOrientations CurrentOrientation { get; set; } = DeviceOrientations.Undefined;
-
-        public static TextFormat HeaderTableFormat = new TextFormat()
-        {
-
-        };
-
-        public static TextFormat ContentTableFormat = new TextFormat()
-        {
-
-        };
+        public static Color HeaderBackgroundColor { get; set; }
+        
 
         public static int DpWidth
         {
@@ -52,6 +42,17 @@ namespace Kurogane_Hammer
         public App()
         {
             InitializeComponent();
+
+            try
+            {
+                Initialization.Initialize(storage, assetManager);
+
+                Runtime.InitializeRuntime();
+            }
+            catch
+            {
+                
+            }
 
             MainPage = new Kurogane_Hammer.MasterDetailMainPage();
         }

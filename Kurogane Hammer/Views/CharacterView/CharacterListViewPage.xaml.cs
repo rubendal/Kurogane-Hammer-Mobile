@@ -227,6 +227,32 @@ namespace Kurogane_Hammer.Views.CharacterView
             return table;
         }
 
+        public GridTable GetGrabsTable()
+        {
+            GridTable table = new GridTable(new TextFormat() { Background = Color.FromHex(_Character.ColorTheme) }, new TextFormat());
+            table.AddHeader(new List<string>()
+                    {
+                        "Move",
+                        "Hitbox Active",
+                        "FAF",
+                    });
+
+
+            List<Move> moves = Runtime.GetMoves(_Character.OwnerId, MoveType.Ground).Where(m => m.name == "Standing Grab" || m.name == "Dash Grab" || m.name == "Pivot Grab").ToList();
+
+            foreach (Move move in moves)
+            {
+                table.AddRow(new List<string>
+                        {
+                            move.name,
+                            move.hitboxActive,
+                            move.FAF
+                        });
+            }
+            
+            return table;
+        }
+
         public GridTable GetSpecificAttributeTable()
         {
             SpecificAttribute sa = _Character.specificAttribute;
@@ -327,7 +353,9 @@ namespace Kurogane_Hammer.Views.CharacterView
                     break;
                 case 5:
                     //Throws
-                    await Navigation.PushAsync(new CharacterMoves(_Character, GetMoveTable(MoveType.Throw), "Throws"));
+                    s.Children.Add(await GetMoveTable(MoveType.Throw).Generate());
+                    s.Children.Add(await GetGrabsTable().Generate());
+                    await Navigation.PushAsync(new CharacterMoves(_Character, s, "Throws"));
                     break;
                 case 6:
                     //Aerial moves

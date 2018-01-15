@@ -11,11 +11,33 @@ using Xamarin.Forms.Xaml;
 namespace Kurogane_Hammer
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
-    public partial class AttributePage : ContentPage
+    public partial class AttributePage : OrientationPage
     {
         public AttributePage()
         {
             InitializeComponent();
+
+            OnOrientationChanged += (o, e) =>
+            {
+                if (Layout.Children.Count > 0)
+                    Layout.Children.RemoveAt(0);
+
+                double w = App.ScreenWidth;
+                double h = App.ScreenHeight;
+
+                if (e.Orientation == PageOrientation.Landscape)
+                {
+                    App.ScreenWidth = Math.Max(w, h);
+                    App.ScreenHeight = Math.Min(w, h);
+                }
+                else
+                {
+                    App.ScreenWidth = Math.Min(w, h);
+                    App.ScreenHeight = Math.Max(w, h);
+                }
+
+                Start();
+            };
 
             Start();
         }

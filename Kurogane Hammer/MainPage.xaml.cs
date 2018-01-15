@@ -1,50 +1,43 @@
 ﻿using Kurogane_Hammer.ViewAdapters;
-//using Plugin.DeviceOrientation;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Xamarin.Forms;
-//using Plugin.DeviceOrientation.Abstractions;
 
 namespace Kurogane_Hammer
 {
-    public partial class MainPage : ContentPage
+    public partial class MainPage : OrientationPage
     {
         public MainPage()
         {
             InitializeComponent();
 
-            //CrossDeviceOrientation.Current.OrientationChanged += OrientationChanged;
+            OnOrientationChanged += (o, e) =>
+            {
+                if (Layout.Children.Count > 0)
+                    Layout.Children.RemoveAt(0);
+
+                double w = App.ScreenWidth;
+                double h = App.ScreenHeight;
+
+                if(e.Orientation == PageOrientation.Landscape)
+                {
+                    App.ScreenWidth = Math.Max(w, h);
+                    App.ScreenHeight = Math.Min(w, h);
+                }
+                else
+                {
+                    App.ScreenWidth = Math.Min(w, h);
+                    App.ScreenHeight = Math.Max(w, h);
+                }
+
+                Start();
+            };
 
             Start();
         }
-
-        //private void OrientationChanged(object sender, OrientationChangedEventArgs e)
-        //{
-        //    if(App.CurrentOrientation == DeviceOrientations.Undefined)
-        //    {
-        //        App.CurrentOrientation = e.Orientation;
-        //        return;
-        //    }
-        //    if (App.CurrentOrientation != e.Orientation)
-        //    {
-        //        double min = Math.Min(App.ScreenWidth, App.ScreenHeight), max = Math.Max(App.ScreenWidth, App.ScreenHeight);
-        //        if (e.Orientation == DeviceOrientations.Landscape || e.Orientation == DeviceOrientations.LandscapeFlipped)
-        //        {
-        //            App.ScreenWidth = max;
-        //            App.ScreenHeight = min;
-        //        }
-        //        else if (e.Orientation == DeviceOrientations.Portrait || e.Orientation == DeviceOrientations.PortraitFlipped)
-        //        {
-        //            App.ScreenWidth = min;
-        //            App.ScreenHeight = max;
-        //        }
-        //        App.CurrentOrientation = e.Orientation;
-        //        Start();
-        //    }
-        //}
 
         public async void Start()
         {
@@ -66,14 +59,6 @@ namespace Kurogane_Hammer
             if (Layout.Children.Count > 0)
                 Layout.Children.RemoveAt(0);
             Layout.Children.Add(v);
-
-            try
-            {
-                
-            }catch(Exception e)
-            {
-                System.Diagnostics.Debug.WriteLine(e.InnerException);
-            }
         }
     }
 }
