@@ -1,7 +1,11 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="6245" systemVersion="13F34" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" initialViewController="X5k-f2-b5h">
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="13771" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES" initialViewController="X5k-f2-b5h">
+    <device id="ipad10_5" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
     <dependencies>
-        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="6238"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="13772"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
     <scenes>
         <!--View Controller-->
@@ -13,19 +17,19 @@
                         <viewControllerLayoutGuide type="bottom" id="9ZL-r4-8FZ"/>
                     </layoutGuides>
                     <view key="view" contentMode="scaleToFill" id="yd7-JS-zBw">
-                        <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+                        <rect key="frame" x="0.0" y="0.0" width="834" height="1112"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" misplaced="YES" image="Icon-60.png" translatesAutoresizingMaskIntoConstraints="NO" id="23">
-                                <rect key="frame" x="270" y="270" width="60" height="60"/>
-                                <rect key="contentStretch" x="0.0" y="0.0" width="0.0" height="0.0"/>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="139" verticalHuggingPriority="251" id="270" translatesAutoresizingMaskIntoConstraints="NO" image="KH LOGO1.png" horizontalCompressionResistancePriority="475" verticalCompressionResistancePriority="301" misplaced="YES" ambiguous="YES" preservesSuperviewLayoutMargins="YES" layoutMarginsFollowReadableWidth="YES">
+                                <rect key="frame" x="12" y="261" width="292" height="49"/>
+                                <color key="tintColor" colorSpace="calibratedRGB" red="0.92549019607843142" green="0.92549019607843142" blue="0.92549019607843142" alpha="1"/>
+                                <constraints>
+                                    <constraint id="721" firstAttribute="width" secondItem="270" secondAttribute="height" multiplier="809:128"/>
+                                    <constraint id="722" firstAttribute="width" secondItem="270" secondAttribute="height" multiplier="809:128"/>
+                                </constraints>
                             </imageView>
                         </subviews>
-                        <color key="backgroundColor" red="0.20392156862745098" green="0.59607843137254901" blue="0.85882352941176465" alpha="1" colorSpace="calibratedRGB"/>
-                        <constraints>
-                            <constraint firstItem="23" firstAttribute="centerY" secondItem="yd7-JS-zBw" secondAttribute="centerY" priority="1" id="39"/>
-                            <constraint firstItem="23" firstAttribute="centerX" secondItem="yd7-JS-zBw" secondAttribute="centerX" priority="1" id="41"/>
-                        </constraints>
+                        <color key="backgroundColor" customColorSpace="sRGB" colorSpace="calibratedRGB" red="0.92549019607843142" green="0.92549019607843142" blue="0.92549019607843142" alpha="1"/>
                     </view>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="XAI-xm-WK6" userLabel="First Responder" sceneMemberID="firstResponder"/>
@@ -34,6 +38,91 @@
         </scene>
     </scenes>
     <resources>
-        <image name="Icon-60.png" width="180" height="180"/>
+        <image name="Icon-60.png" width="60" height="60"/>
+        <image name="attribute_aerialjump.png" width="575" height="650"/>
+        <image name="attribute_airacceleration.png" width="553" height="553"/>
+        <image name="attribute_airspeed.png" width="400" height="400"/>
+        <image name="attribute_dashlength.png" width="400" height="400"/>
+        <image name="attribute_fallspeed.png" width="400" height="400"/>
+        <image name="attribute_fullhop.png" width="400" height="400"/>
+        <image name="attribute_gravity.png" width="400" height="400"/>
+        <image name="attribute_jumpsquat.png" width="720" height="800"/>
+        <image name="attribute_ledgeroll.png" width="474" height="474"/>
+        <image name="attribute_reflectors.png" width="600" height="600"/>
+        <image name="attribute_rolls.png" width="400" height="400"/>
+        <image name="attribute_runspeed.png" width="400" height="400"/>
+        <image name="attribute_trip.png" width="400" height="400"/>
+        <image name="attribute_weight.png" width="518" height="518"/>
+        <image name="character_1.png" width="400" height="400"/>
+        <image name="character_10.png" width="400" height="400"/>
+        <image name="character_11.png" width="553" height="553"/>
+        <image name="character_12.png" width="200" height="200"/>
+        <image name="character_13.png" width="400" height="400"/>
+        <image name="character_14.png" width="400" height="400"/>
+        <image name="character_15.png" width="400" height="400"/>
+        <image name="character_16.png" width="800" height="800"/>
+        <image name="character_17.png" width="393" height="393"/>
+        <image name="character_18.png" width="400" height="400"/>
+        <image name="character_19.png" width="400" height="400"/>
+        <image name="character_2.png" width="400" height="400"/>
+        <image name="character_20.png" width="300" height="300"/>
+        <image name="character_21.png" width="653" height="653"/>
+        <image name="character_22.png" width="400" height="400"/>
+        <image name="character_23.png" width="400" height="400"/>
+        <image name="character_24.png" width="400" height="400"/>
+        <image name="character_25.png" width="400" height="400"/>
+        <image name="character_26.png" width="400" height="400"/>
+        <image name="character_27.png" width="400" height="400"/>
+        <image name="character_28.png" width="400" height="400"/>
+        <image name="character_29.png" width="400" height="400"/>
+        <image name="character_3.png" width="400" height="400"/>
+        <image name="character_30.png" width="400" height="400"/>
+        <image name="character_31.png" width="400" height="400"/>
+        <image name="character_32.png" width="400" height="400"/>
+        <image name="character_33.png" width="400" height="400"/>
+        <image name="character_34.png" width="400" height="400"/>
+        <image name="character_35.png" width="400" height="407"/>
+        <image name="character_36.png" width="400" height="400"/>
+        <image name="character_37.png" width="400" height="400"/>
+        <image name="character_38.png" width="400" height="400"/>
+        <image name="character_39.png" width="300" height="300"/>
+        <image name="character_4.png" width="400" height="400"/>
+        <image name="character_40.png" width="400" height="400"/>
+        <image name="character_41.png" width="349" height="349"/>
+        <image name="character_42.png" width="400" height="400"/>
+        <image name="character_43.png" width="400" height="400"/>
+        <image name="character_44.png" width="400" height="400"/>
+        <image name="character_45.png" width="400" height="400"/>
+        <image name="character_46.png" width="256" height="256"/>
+        <image name="character_47.png" width="400" height="400"/>
+        <image name="character_48.png" width="400" height="400"/>
+        <image name="character_49.png" width="400" height="400"/>
+        <image name="character_5.png" width="400" height="400"/>
+        <image name="character_50.png" width="400" height="400"/>
+        <image name="character_51.png" width="400" height="400"/>
+        <image name="character_52.png" width="400" height="400"/>
+        <image name="character_53.png" width="400" height="400"/>
+        <image name="character_54.png" width="400" height="400"/>
+        <image name="character_55.png" width="400" height="400"/>
+        <image name="character_56.png" width="400" height="400"/>
+        <image name="character_57.png" width="400" height="400"/>
+        <image name="character_58.png" width="400" height="400"/>
+        <image name="character_6.png" width="400" height="400"/>
+        <image name="character_7.png" width="400" height="400"/>
+        <image name="character_8.png" width="400" height="400"/>
+        <image name="character_9.png" width="400" height="400"/>
+        <image name="Default-568h.png" width="320" height="568"/>
+        <image name="Default-Portrait.png" width="768" height="1004"/>
+        <image name="Default.png" width="320" height="480"/>
+        <image name="fav_icon.png" width="200" height="200"/>
+        <image name="Icon-76.png" width="72" height="72"/>
+        <image name="Icon-Small-40.png" width="40" height="40"/>
+        <image name="Icon-Small.png" width="29" height="29"/>
+        <image name="nav_header.png" width="328" height="185"/>
+        <image name="sync_icon.png" width="30" height="30"/>
+        <image name="sync_icon_disabled.png" width="30" height="30"/>
+        <image name="KH LOGO1.png" width="1000" height="326"/>
+        <image name="icon.png" width="72" height="72"/>
     </resources>
+    <color key="tintColor" colorSpace="calibratedRGB" red="0.92549019607843142" green="0.92549019607843142" blue="0.92549019607843142" alpha="1"/>
 </document>

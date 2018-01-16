@@ -620,6 +620,12 @@
   <ItemGroup>
     <BundleResource Include="Resources\character_9.png" />
   </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\KH LOGO1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\icon.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
     <PropertyGroup>

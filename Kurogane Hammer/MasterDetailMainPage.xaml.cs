@@ -28,17 +28,43 @@ namespace Kurogane_Hammer
 
             if (item.TargetType != null)
             {
+
                 var page = (Page)Activator.CreateInstance(item.TargetType);
-                //page.Title = item.Title;
 
-                Detail = new NavigationPage(page)
+                if (!item.PushNavigation)
                 {
-                    BarBackgroundColor = App.HeaderBackgroundColor
-
-            };
+                    if (Detail != null)
+                    {
+                        if (Detail.Navigation.NavigationStack.Last().GetType() != item.TargetType) //If current page is the same then ignore
+                            SetDetail(page);                            
+                    }
+                    else
+                        SetDetail(page);
+                }
+                else
+                {
+                    if(Detail != null)
+                    {
+                        if (Detail.Navigation.NavigationStack.Last().GetType() != item.TargetType)
+                            Detail.Navigation.PushAsync(page);
+                    }
+                    else
+                    {
+                        //Shouldn't reach this
+                        SetDetail(page);
+                    }
+                }
                 IsPresented = false;
             }
             MasterPage.Items.SelectedItem = null;
+        }
+
+        private void SetDetail(Page page)
+        {
+            Detail = new NavigationPage(page)
+            {
+                BarBackgroundColor = App.HeaderBackgroundColor
+            };
         }
     }
 }

@@ -23,6 +23,7 @@ namespace Kurogane_Hammer
         public double FontSize { get; set; } = 18;
         public Color TextColor { get; set; } = Color.Black;
 
+        public bool PushNavigation { get; set; } = false;
         
     }
 }
