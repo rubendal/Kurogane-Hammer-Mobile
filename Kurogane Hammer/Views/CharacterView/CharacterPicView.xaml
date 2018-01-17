@@ -11,7 +11,7 @@
 
             <views:GestureContentView.Content>
                 <RelativeLayout x:Name="c_Layout">
-                    <ffimageloading:CachedImage x:Name="img_Image" DownsampleToViewSize="true" BackgroundColor="#30008aff" />
+                    <ffimageloading:CachedImage x:Name="img_Image" DownsampleToViewSize="true" />
 
                     <Label x:Name="lb_Name" Text="Character"
                    WidthRequest="100"

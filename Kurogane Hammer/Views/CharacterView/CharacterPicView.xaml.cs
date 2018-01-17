@@ -95,6 +95,11 @@ namespace Kurogane_Hammer.Views.CharacterView
             InitializeComponent();
 
             c_Layout.Padding = new Thickness(App.ScreenUnitConverter.PixelsToDIU(10));
+
+            img_Image.Error += (o, e) =>
+            {
+                img_Image.BackgroundColor = Color.FromHex("#30008aff");
+            };
         }
 
         public CharacterPicView(string ImgSource, string Name) : this()
@@ -111,6 +116,7 @@ namespace Kurogane_Hammer.Views.CharacterView
 
         public void RefreshView()
         {
+            img_Image.BackgroundColor = Color.White;
             img_Image.Source = CharacterImage;
             img_Image.WidthRequest = Size;
             img_Image.HeightRequest = Size;
