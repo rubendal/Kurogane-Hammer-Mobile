@@ -4,12 +4,16 @@
              xmlns:pages="clr-namespace:Rg.Plugins.Popup.Pages;assembly=Rg.Plugins.Popup"
              x:Class="Kurogane_Hammer.Views.Toolbar.ProgressDialog"
              CloseWhenBackgroundIsClicked="False">
-    <ActivityIndicator
-    Color="White"
-    IsRunning="True"
-    IsEnabled="True"
-    VerticalOptions="Center"
-    HorizontalOptions="Center"
-    HeightRequest="70"
-    WidthRequest="70"/>
+    <StackLayout VerticalOptions="Center"
+        HorizontalOptions="Center">
+        <ActivityIndicator
+        Color="White"
+        IsRunning="True"
+        IsEnabled="True"
+        VerticalOptions="Center"
+        HorizontalOptions="Center"
+        HeightRequest="70"
+        WidthRequest="70"/>
+        <Label x:Name="Message" FontSize="Medium" TextColor="White" IsVisible="False" VerticalOptions="Center" HorizontalOptions="Center"/>
+    </StackLayout>
 </pages:PopupPage>

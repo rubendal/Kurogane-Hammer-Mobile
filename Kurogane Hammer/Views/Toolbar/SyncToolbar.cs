@@ -36,7 +36,7 @@ namespace Kurogane_Hammer.Views.Toolbar
                 if (!_Enabled)
                     return;
 
-                await PopupNavigation.PushAsync(new ProgressDialog());
+                await PopupNavigation.PushAsync(new ProgressDialog("Syncing with KH API"));
 
                 Enabled = false;
 

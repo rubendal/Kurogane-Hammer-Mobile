@@ -38,7 +38,10 @@ namespace Kurogane_Hammer
                 foreach(Character c in characterList)
                 {
                     json = assetManager.ReadAsset($"Data/{c.OwnerId}/moves.json");
-                    storage.Write($"{c.OwnerId}/moves.json", json);
+                    storage.Write($"{c.OwnerId}/moves.json", JsonConvert.SerializeObject(Runtime.ConvertMoveJson(json), new JsonSerializerSettings {
+                        TypeNameHandling = TypeNameHandling.Objects,
+                        TypeNameAssemblyFormatHandling = TypeNameAssemblyFormatHandling.Simple
+                    }));
                     json = assetManager.ReadAsset($"Data/{c.OwnerId}/attributes.json");
                     storage.Write($"{c.OwnerId}/attributes.json", json);
                     json = assetManager.ReadAsset($"Data/{c.OwnerId}/movements.json");

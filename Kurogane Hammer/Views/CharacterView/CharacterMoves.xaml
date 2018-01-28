@@ -2,6 +2,10 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="Kurogane_Hammer.Views.CharacterView.CharacterMoves">
+    <ContentPage.ToolbarItems>
+        <ToolbarItem x:Name="Sort_Order" Order="Primary" Priority="1" Icon="sort_icon.png" Clicked="Sort_Order_Clicked"/>
+    </ContentPage.ToolbarItems>
+    
     <ContentPage.Content>
         <StackLayout Padding="10,10,10,10">
             <ScrollView x:Name="Layout" Orientation="Both">

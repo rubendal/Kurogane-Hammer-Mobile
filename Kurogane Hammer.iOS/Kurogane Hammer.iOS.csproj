@@ -629,6 +629,9 @@
   <ItemGroup>
     <BundleResource Include="Resources\attribute_counters.png" />
   </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\sort_icon.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
     <PropertyGroup>

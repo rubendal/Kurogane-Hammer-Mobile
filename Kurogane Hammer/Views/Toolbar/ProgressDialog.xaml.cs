@@ -9,7 +9,6 @@ using Xamarin.Forms.Xaml;
 
 using Rg.Plugins.Popup.Pages;
 using Rg.Plugins.Popup.Services;
-using Xamarin.Forms;
 
 namespace Kurogane_Hammer.Views.Toolbar
 {
@@ -21,9 +20,17 @@ namespace Kurogane_Hammer.Views.Toolbar
 			InitializeComponent ();
 		}
 
+        public ProgressDialog(string message) : base()
+        {
+            InitializeComponent();
+
+            Message.Text = message;
+            Message.IsVisible = true;
+        }
+
         protected override Task OnAppearingAnimationEnd()
         {
-            return Content.FadeTo(0.5);
+            return Content.FadeTo(0.8);
         }
 
         protected override Task OnDisappearingAnimationBegin()

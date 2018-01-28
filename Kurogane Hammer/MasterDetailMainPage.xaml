@@ -5,7 +5,7 @@
              xmlns:toolbar="clr-namespace:Kurogane_Hammer.Views.Toolbar"
              xmlns:pages="clr-namespace:Kurogane_Hammer">
     <MasterDetailPage.ToolbarItems>
-        <toolbar:SyncToolbar x:Name="SyncToolbar" />
+        <toolbar:SyncToolbar x:Name="SyncToolbar" Priority="2" />
     </MasterDetailPage.ToolbarItems>
     <MasterDetailPage.Master>
         <pages:MasterDetailMainPageMaster x:Name="MasterPage" />

@@ -38,6 +38,7 @@ namespace Kurogane_Hammer
             foreach (Character c in Characters)
             {
                 c.favorite = FavoriteCharacters.Contains(c.Name);
+                c.moves = GetMoves(c.OwnerId);
             }
 
             foreach(AttributeName a in Attributes)
@@ -49,18 +50,32 @@ namespace Kurogane_Hammer
             Attributes.Sort();
         }
 
-        public static List<Move> GetMoves(int characterId, MoveType moveType = MoveType.Any)
+        public static Dictionary<MoveType, List<Move>> ConvertMoveJson(string json)
         {
-            List<Move> list = new List<Move>();
+            Dictionary<MoveType, List<Move>> dict = new Dictionary<MoveType, List<Move>>();
 
-            List<Move> moves = JsonConvert.DeserializeObject<List<MoveData>>(App.storage.Read($"{characterId}/moves.json")).Select(d => Move.Convert(d)).ToList();
+            dict.Add(MoveType.Ground, new List<Move>());
+            dict.Add(MoveType.Throw, new List<Move>());
+            dict.Add(MoveType.Evasion, new List<Move>());
+            dict.Add(MoveType.Aerial, new List<Move>());
+            dict.Add(MoveType.Special, new List<Move>());
 
-            if (moveType == MoveType.Any)
-                list = moves;
-            else
-                list = moves.Where(m => m.moveType == moveType).ToList();
+            List<Move> moves = JsonConvert.DeserializeObject<List<MoveData>>(json).Select(d => Move.Convert(d)).ToList();
 
-            return list;
+            foreach(Move move in moves)
+            {
+                dict[move.moveType].Add(move);
+            }
+
+            return dict;
+        }
+
+        public static Dictionary<MoveType, List<Move>> GetMoves(int characterId)
+        {
+            return JsonConvert.DeserializeObject<Dictionary<MoveType, List<Move>>>(App.storage.Read($"{characterId}/moves.json"), new JsonSerializerSettings {
+                TypeNameHandling = TypeNameHandling.Objects,
+                TypeNameAssemblyFormatHandling = TypeNameAssemblyFormatHandling.Simple
+            });
         }
 
         public static List<Movement> GetMovements(int characterId)

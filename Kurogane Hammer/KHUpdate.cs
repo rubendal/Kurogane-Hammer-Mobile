@@ -38,7 +38,10 @@ namespace Kurogane_Hammer
                     if (string.IsNullOrWhiteSpace(moves) && string.IsNullOrWhiteSpace(attributes) && string.IsNullOrWhiteSpace(movements))
                         return false;
 
-                    App.storage.Write($"{c.OwnerId}/moves.json", moves);
+                    App.storage.Write($"{c.OwnerId}/moves.json", JsonConvert.SerializeObject(Runtime.ConvertMoveJson(moves), new JsonSerializerSettings {
+                        TypeNameHandling = TypeNameHandling.Objects,
+                        TypeNameAssemblyFormatHandling = TypeNameAssemblyFormatHandling.Simple
+                    }));
                     App.storage.Write($"{c.OwnerId}/attributes.json", attributes);
                     App.storage.Write($"{c.OwnerId}/movements.json", movements);
                 }
@@ -52,11 +55,7 @@ namespace Kurogane_Hammer
                     App.storage.Write($"{a.name.ToLower()}/attributes.json", attributeData);
                 }
 
-                Runtime.Characters = characterList;
-                Runtime.Attributes = attributeList;
-
-                Runtime.Characters.Sort();
-                Runtime.Attributes.Sort();
+                Runtime.InitializeRuntime();
 
                 return true;
             }

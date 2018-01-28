@@ -22,6 +22,8 @@ namespace Kurogane_Hammer.Classes
         public bool hasSpecificAttributes, favorite = false;
         public SpecificAttribute specificAttribute;
 
+        public Dictionary<MoveType, List<Move>> moves = new Dictionary<MoveType, List<Move>>();
+
         public Character()
         {
 
@@ -66,32 +68,6 @@ namespace Kurogane_Hammer.Classes
                 return $"character_{OwnerId}.png";
             }
         }
-
-        //public ImageSource getImage(PlatformDependent.AssetResourceManager assetManager)
-        //{
-        //    try
-        //    {
-        //        return ImageSource.FromStream(()=>
-        //        {
-        //            return new MemoryStream(assetManager.ReadAssetData($"Images/{id}/image.png"));
-        //        });
-
-        //    }catch(Exception e)
-        //    {
-        //        try
-        //        {
-        //            return ImageSource.FromStream(() =>
-        //            {
-        //                return new MemoryStream(assetManager.ReadAssetData($"Images/{id}/image.jpg"));
-        //            });
-        //        }
-        //        catch(Exception e2)
-        //        {
-
-        //        }
-        //    }
-        //    return null;
-        //}
 
         public override string ToString()
         {
