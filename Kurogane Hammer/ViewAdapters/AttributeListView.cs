@@ -15,9 +15,9 @@ namespace Kurogane_Hammer.ViewAdapters
 {
     public static class AttributeListView
     {
-        public static async Task<View> Create(double x)
+        public static async Task<Grid> Create(double x)
         {
-            return await Task.Run<View>(() =>
+            return await Task.Run(() =>
             {
                 Grid grid = new Grid
                 {
@@ -25,8 +25,10 @@ namespace Kurogane_Hammer.ViewAdapters
                     RowSpacing = App.ScreenUnitConverter.PixelsToDIU(10)
                 };
 
+                List<AttributeName> Attributes = Runtime.GetAttributes();
+
                 int columns = (int)(App.ScreenUnitConverter.PixelsToDIU(App.ScreenWidth) / x);
-                int rows = (int)Math.Ceiling((double)Runtime.Attributes.Count / columns);
+                int rows = (int)Math.Ceiling((double)Attributes.Count / columns);
 
                 for (int i = 0; i < rows; i++)
                 {
@@ -39,18 +41,17 @@ namespace Kurogane_Hammer.ViewAdapters
 
                 int row = 0;
                 int column = 0;
-                foreach (AttributeName a in Runtime.Attributes)
+                foreach (AttributeName a in Attributes)
                 {
-                    AttributePicView view = new AttributePicView(a);
+                    double size = x;
 
                     if (x > App.ScreenUnitConverter.PixelsToDIU(300))
                     {
-                        view.Size = x - App.ScreenUnitConverter.PixelsToDIU(20);
+                        size = x - App.ScreenUnitConverter.PixelsToDIU(20);
                     }
-                    else
-                    {
-                        view.Size = x;
-                    }
+
+                    AttributePicView view = new AttributePicView(a, size);
+
                     int co = (column % columns);
                     grid.Children.Add(view, co, row);
                     column++;

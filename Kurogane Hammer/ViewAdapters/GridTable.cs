@@ -14,7 +14,7 @@ namespace Kurogane_Hammer.ViewAdapters
         private TextFormat ContentFormat;
         private Row Header;
         private List<Row> Rows = new List<Row>();
-        private double padding = 3;
+        private double padding = 8;
         public Color evenRowColor = Color.FromHex("#D9D9D9");
 
         private int Columns = 0;
@@ -52,24 +52,22 @@ namespace Kurogane_Hammer.ViewAdapters
                 grid = new Grid();
 
                 grid.ColumnSpacing = 0;
+                grid.RowSpacing = 0;
 
                 for (int i = 0; i < Rows.Count; i++)
                 {
-                    grid.RowDefinitions.Add(new RowDefinition() { Height = new GridLength(1, GridUnitType.Auto) });
+                    grid.RowDefinitions.Add(new RowDefinition() { Height = new GridLength(1, GridUnitType.Star) });
                 }
                 for (int i = 0; i < Columns; i++)
                 {
                     grid.ColumnDefinitions.Add(new ColumnDefinition() { Width = new GridLength(1, GridUnitType.Auto) });
                 }
 
-                List<Label> labels = new List<Label>();
-
                 int row = 0;
                 int column = 0;
 
                 //Header
-                labels = Header.GetLabels(HeaderFormat, Columns);
-                foreach (Label label in labels)
+                foreach (Label label in Header.GetLabels(HeaderFormat, Columns))
                 {
                     StackLayout s = new StackLayout();
                     s.BackgroundColor = HeaderFormat.Background;
@@ -84,9 +82,8 @@ namespace Kurogane_Hammer.ViewAdapters
                 //Content
                 foreach (Row r in Rows)
                 {
-                    labels = r.GetLabels(ContentFormat, Columns);
                     column = 0;
-                    foreach (Label label in labels)
+                    foreach (Label label in r.GetLabels(ContentFormat, Columns))
                     {
                         StackLayout s = new StackLayout();
                         if (row % 2 == 0)

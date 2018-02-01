@@ -18,6 +18,8 @@ namespace Kurogane_Hammer.Views.CharacterView
     public partial class CharacterMoves : ContentPage
     {
 
+        private Dictionary<MoveType, List<Move>> CharacterMoveData;
+
         private enum SortOrder
         {
             NONE,
@@ -44,6 +46,8 @@ namespace Kurogane_Hammer.Views.CharacterView
 
             _Character = c;
             _index = index;
+
+            CharacterMoveData = Runtime.GetMoves(_Character.OwnerId);
 
             string title = null;
 
@@ -92,14 +96,17 @@ namespace Kurogane_Hammer.Views.CharacterView
         private async void CreateView(int index, bool sort = false)
         {
 
-            if (sort)
-                await PopupNavigation.PushAsync(new ProgressDialog("Sorting data"));
-            else
-                await PopupNavigation.PushAsync(new ProgressDialog("Creating page"));
+            //if (sort)
+            //    await PopupNavigation.PushAsync(new ProgressDialog("Sorting data"));
+            //else
+            //    await PopupNavigation.PushAsync(new ProgressDialog("Creating page"));
 
             StackLayout s = new StackLayout();
 
-            
+            s.Padding = new Thickness(10);
+
+            s.HorizontalOptions = LayoutOptions.FillAndExpand;
+            s.VerticalOptions = LayoutOptions.FillAndExpand;
 
             switch (index)
             {
@@ -172,9 +179,11 @@ namespace Kurogane_Hammer.Views.CharacterView
                     break;
             }
 
+            //await PopupNavigation.PopAsync();
+
             Layout.Content = s;
 
-            await PopupNavigation.PopAsync();
+            
         }
 
         private GridTable GetMovementTable()
@@ -277,7 +286,7 @@ namespace Kurogane_Hammer.Views.CharacterView
             }
 
 
-            List<Move> moves = _Character.moves[moveType];
+            List<Move> moves = CharacterMoveData[moveType];
 
             switch (sortOrder)
             {
@@ -420,7 +429,7 @@ namespace Kurogane_Hammer.Views.CharacterView
                     });
 
 
-            List<Move> moves = _Character.moves[MoveType.Ground].Where(m => m.name == "Standing Grab" || m.name == "Dash Grab" || m.name == "Pivot Grab").ToList();
+            List<Move> moves = CharacterMoveData[MoveType.Ground].Where(m => m.name == "Standing Grab" || m.name == "Dash Grab" || m.name == "Pivot Grab").ToList();
 
             foreach (Move move in moves)
             {

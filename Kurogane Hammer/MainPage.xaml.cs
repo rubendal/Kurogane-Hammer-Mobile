@@ -1,13 +1,16 @@
 ﻿using Kurogane_Hammer.ViewAdapters;
 using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Xamarin.Forms;
+using Xamarin.Forms.Xaml;
 
 namespace Kurogane_Hammer
 {
+    [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class MainPage : OrientationPage
     {
         public MainPage()
@@ -36,7 +39,7 @@ namespace Kurogane_Hammer
                 Start();
             };
 
-            Start();
+            //Start();
         }
 
         public async void Start()

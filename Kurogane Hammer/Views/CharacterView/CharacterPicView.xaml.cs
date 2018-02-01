@@ -61,7 +61,6 @@ namespace Kurogane_Hammer.Views.CharacterView
                 _CharacterImage = _Character.Image;
                 _CharacterName = _Character.GetCharacterImageName();
                 _IsFavorite = _Character.favorite;
-                RefreshView();
             }
         }
 
@@ -74,7 +73,6 @@ namespace Kurogane_Hammer.Views.CharacterView
             set
             {
                 _CharacterImage = value;
-                RefreshView();
             }
         }
         public string CharacterName
@@ -86,7 +84,6 @@ namespace Kurogane_Hammer.Views.CharacterView
             set
             {
                 _CharacterName = value;
-                RefreshView();
             }
         }
 
@@ -95,6 +92,10 @@ namespace Kurogane_Hammer.Views.CharacterView
             InitializeComponent();
 
             c_Layout.Padding = new Thickness(App.ScreenUnitConverter.PixelsToDIU(10));
+
+            img_Image.CacheType = FFImageLoading.Cache.CacheType.Disk;
+
+            img_Image.DownsampleWidth = 200;
 
             img_Image.Error += (o, e) =>
             {
@@ -109,9 +110,10 @@ namespace Kurogane_Hammer.Views.CharacterView
             RefreshView();
         }
 
-        public CharacterPicView(Character character) : this()
+        public CharacterPicView(Character character, double size) : this()
         {
             Character = character;
+            Size = size;
         }
 
         public void RefreshView()

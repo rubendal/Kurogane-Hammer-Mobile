@@ -39,11 +39,12 @@ namespace Kurogane_Hammer
                 Start();
             };
 
-            Start();
+            //Start();
         }
 
         public async void Start()
         {
+
             double x = App.ScreenUnitConverter.PixelsToDIU(300);
             if (App.ScreenWidth <= 800)
             {

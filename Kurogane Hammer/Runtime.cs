@@ -9,15 +9,11 @@ namespace Kurogane_Hammer
 {
     public static class Runtime
     {
-        public static List<Character> Characters { get; set; }
-        public static List<AttributeName> Attributes { get; set; }
         public static List<string> FavoriteCharacters { get; set; }
         public static List<string> FavoriteAttributes { get; set; }
 
         public static void InitializeRuntime()
         {
-            Characters = JsonConvert.DeserializeObject<List<Character>>(App.storage.Read("data/characters.json"));
-            Attributes = JsonConvert.DeserializeObject<List<AttributeName>>(App.storage.Read("data/attributeNames.json"));
 
             if (!App.storage.FileExists("fav_characters.bin"))
             {
@@ -34,20 +30,34 @@ namespace Kurogane_Hammer
             }
             else
                 FavoriteAttributes = JsonConvert.DeserializeObject<List<string>>(App.storage.Read("fav_attributes.bin"));
+        }
 
-            foreach (Character c in Characters)
+        public static List<Character> GetCharacters()
+        {
+            List<Character> list = JsonConvert.DeserializeObject<List<Character>>(App.storage.Read("data/characters.json"));
+
+            foreach (Character c in list)
             {
+                c.CheckSpecificAttributes();
                 c.favorite = FavoriteCharacters.Contains(c.Name);
-                c.moves = GetMoves(c.OwnerId);
             }
 
-            foreach(AttributeName a in Attributes)
+            list.Sort();
+            return list;
+        }
+
+        public static List<AttributeName> GetAttributes()
+        {
+            List<AttributeName> list = JsonConvert.DeserializeObject<List<AttributeName>>(App.storage.Read("data/attributeNames.json"));
+
+            foreach (AttributeName a in list)
             {
                 a.favorite = FavoriteAttributes.Contains(a.name);
             }
 
-            Characters.Sort();
-            Attributes.Sort();
+            list.Sort();
+
+            return list;
         }
 
         public static Dictionary<MoveType, List<Move>> ConvertMoveJson(string json)
@@ -102,8 +112,6 @@ namespace Kurogane_Hammer
                 FavoriteCharacters.Remove(character.DisplayName);
 
             App.storage.Write("fav_characters.bin", JsonConvert.SerializeObject(FavoriteCharacters));
-
-            Characters.Sort();
         }
 
         public static void UpdateFavorite(AttributeName attribute, bool fav)
@@ -115,8 +123,6 @@ namespace Kurogane_Hammer
                 FavoriteAttributes.Remove(attribute.name);
 
             App.storage.Write("fav_attributes.bin", JsonConvert.SerializeObject(FavoriteAttributes));
-
-            Attributes.Sort();
         }
     }
 }

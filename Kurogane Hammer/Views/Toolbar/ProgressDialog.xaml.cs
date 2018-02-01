@@ -12,7 +12,7 @@ using Rg.Plugins.Popup.Services;
 
 namespace Kurogane_Hammer.Views.Toolbar
 {
-	//[XamlCompilation(XamlCompilationOptions.Compile)]
+	[XamlCompilation(XamlCompilationOptions.Compile)]
 	public partial class ProgressDialog : PopupPage
 	{
 		public ProgressDialog () : base()

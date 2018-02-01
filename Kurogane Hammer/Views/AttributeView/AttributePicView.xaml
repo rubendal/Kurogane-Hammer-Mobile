@@ -10,7 +10,7 @@
             <views:GestureContentView.Content>
 
                 <RelativeLayout x:Name="c_Layout">
-                    <ffimageloading:CachedImage x:Name="img_Image" DownsampleToViewSize="true" />
+                    <ffimageloading:CachedImage x:Name="img_Image" />
 
                     <Label x:Name="lb_Name" Text="Attribute"
                    WidthRequest="100"

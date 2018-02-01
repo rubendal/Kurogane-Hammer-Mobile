@@ -62,7 +62,6 @@ namespace Kurogane_Hammer.Views.AttributeView
                 _AttributeImage = _Attribute.Image;
                 _AttributeName = _Attribute.formattedName;
                 _IsFavorite = _Attribute.favorite;
-                RefreshView();
             }
         }
 
@@ -75,7 +74,6 @@ namespace Kurogane_Hammer.Views.AttributeView
             set
             {
                 _AttributeImage = value;
-                RefreshView();
             }
         }
         public string AttributeName
@@ -87,7 +85,6 @@ namespace Kurogane_Hammer.Views.AttributeView
             set
             {
                 _AttributeName = value;
-                RefreshView();
             }
         }
 
@@ -96,6 +93,10 @@ namespace Kurogane_Hammer.Views.AttributeView
             InitializeComponent();
 
             c_Layout.Padding = new Thickness(App.ScreenUnitConverter.PixelsToDIU(10));
+
+            img_Image.CacheType = FFImageLoading.Cache.CacheType.Disk;
+
+            img_Image.DownsampleWidth = 200;
 
             img_Image.Error += (o, e) =>
             {
@@ -110,9 +111,10 @@ namespace Kurogane_Hammer.Views.AttributeView
             RefreshView();
         }
 
-        public AttributePicView(AttributeName attribute) : this()
+        public AttributePicView(AttributeName attribute, double size) : this()
         {
             Attribute = attribute;
+            Size = size;
         }
 
         public void RefreshView()

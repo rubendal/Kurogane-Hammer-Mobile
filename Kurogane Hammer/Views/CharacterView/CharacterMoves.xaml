@@ -7,11 +7,9 @@
     </ContentPage.ToolbarItems>
     
     <ContentPage.Content>
-        <StackLayout Padding="10,10,10,10">
-            <ScrollView x:Name="Layout" Orientation="Both">
+        <ScrollView x:Name="Layout" Orientation="Both">
 
-            </ScrollView>
-        </StackLayout>
-        
+        </ScrollView>
+
     </ContentPage.Content>
 </ContentPage>

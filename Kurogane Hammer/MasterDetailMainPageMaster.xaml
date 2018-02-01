@@ -22,8 +22,8 @@
             <ListView.ItemTemplate>
                 <DataTemplate>
                     <ViewCell>
-                        <StackLayout Padding="15,10" HorizontalOptions="FillAndExpand" BackgroundColor="#DDDDDD">
-                            <Label VerticalOptions="FillAndExpand" 
+                        <StackLayout Padding="15,10" BackgroundColor="#DDDDDD">
+                            <Label 
                     VerticalTextAlignment="Center" 
                     Text="{Binding Title}"
                     TextColor="{Binding TextColor}"

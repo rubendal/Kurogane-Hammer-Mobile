@@ -22,8 +22,6 @@ namespace Kurogane_Hammer.Classes
         public bool hasSpecificAttributes, favorite = false;
         public SpecificAttribute specificAttribute;
 
-        public Dictionary<MoveType, List<Move>> moves = new Dictionary<MoveType, List<Move>>();
-
         public Character()
         {
 

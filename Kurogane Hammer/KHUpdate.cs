@@ -55,8 +55,6 @@ namespace Kurogane_Hammer
                     App.storage.Write($"{a.name.ToLower()}/attributes.json", attributeData);
                 }
 
-                Runtime.InitializeRuntime();
-
                 return true;
             }
             catch (Exception e)

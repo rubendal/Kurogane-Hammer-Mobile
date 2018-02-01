@@ -21,7 +21,9 @@ namespace Kurogane_Hammer.Droid
 
             base.OnCreate(bundle);
 
+            Forms.SetFlags("FastRenderers_Experimental");
             global::Xamarin.Forms.Forms.Init(this, bundle);
+            
             CachedImageRenderer.Init(true);
 
             var metrics = Resources.DisplayMetrics;
